@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-08-24T21:59:59Z'
+slug: life-via-twitter-2008-08-24
+title: Life via Twitter (2008-08-24)
+url: "/2008/08/24/life-via-twitter-2008-08-24/"
+wordpress_id: 3028
+
+---
+* si stava dimenticando della supercoppa [#](http://twitter.com/leibniz/statuses/897501888)
+
+

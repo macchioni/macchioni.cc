@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brooklyn on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/brooklyn/</link>
+    <description>Recent content in Brooklyn on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Sep 2012 11:33:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/brooklyn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Voglio vivere al Barclays Center</title>
+      <link>http://macchioni.in/2012/09/26/voglio-vivere-al-barclays-center/</link>
+      <pubDate>Wed, 26 Sep 2012 11:33:49 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2012/09/26/voglio-vivere-al-barclays-center/</guid>
+      <description>Il Barclays Center, il nuovo palazzetto dei Brooklyn Nets è impressionante. E prende bene anche il wifi.
+{ BC - The Verge | photo: BrooklynNets}</description>
+    </item>
+    
+  </channel>
+</rss>

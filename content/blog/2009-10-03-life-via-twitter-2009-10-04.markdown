@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-10-03T22:59:00Z'
+slug: life-via-twitter-2009-10-04
+tags:
+- tweets
+title: Life via Twitter (2009-10-04)
+url: "/2009/10/03/life-via-twitter-2009-10-04/"
+wordpress_id: 4248
+
+---
+* RT @[mcla007](http://twitter.com/mcla007) RT @Leibniz: Optimist says this is the best possible world. Pessimist agrees. // Thanks [http://bit.ly/pY1tj](http://bit.ly/pY1tj) [#](http://twitter.com/leibniz/statuses/4580420503)
+
+

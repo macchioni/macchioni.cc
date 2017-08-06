@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-05-03T22:59:00Z'
+slug: life-via-twitter-2009-05-04
+tags:
+- tweets
+title: Life via Twitter (2009-05-04)
+url: "/2009/05/03/life-via-twitter-2009-05-04/"
+wordpress_id: 4027
+
+---
+* ca##o, è già ora di portarsi avanti col lavoro in vista dell'estate [#](http://twitter.com/leibniz/statuses/1687390581)
+
+

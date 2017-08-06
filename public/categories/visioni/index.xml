@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visioni on Indie Hugo Site</title>
+    <link>http://macchioni.in/categories/visioni/</link>
+    <description>Recent content in Visioni on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jan 2012 09:32:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/categories/visioni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Avanti veloce</title>
+      <link>http://macchioni.in/2012/01/10/avanti-veloce/</link>
+      <pubDate>Tue, 10 Jan 2012 09:32:56 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2012/01/10/avanti-veloce/</guid>
+      <description>Era un po&amp;rsquo; ovvio, ma Kiefer Sutherland conferma che il film di 24 non avrà la classica scansione in tempo reale. {NY Post}</description>
+    </item>
+    
+    <item>
+      <title>Il naufragio del &#39;98</title>
+      <link>http://macchioni.in/2008/02/19/il-naufragio-del-98/</link>
+      <pubDate>Tue, 19 Feb 2008 14:41:53 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2008/02/19/il-naufragio-del-98/</guid>
+      <description> Parlando di Oscar, il 1998 fu l&amp;rsquo;anno di &amp;ldquo;Titanic&amp;rdquo;. Ora, Time si Ã¨ chiesto: ma dei film e degli attori in nomination allora, considerati i 10 anni passati, quali meritavano davvero di vincere? Risultato: il tempo che passa Ã¨ un giudice impietoso, anche per un film che ha fatto vagonate di dollari&amp;hellip;
+Time </description>
+    </item>
+    
+  </channel>
+</rss>

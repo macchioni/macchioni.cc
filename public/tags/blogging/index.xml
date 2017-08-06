@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/blogging/</link>
+    <description>Recent content in Blogging on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jun 2008 14:41:17 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I blogger sono pulci d&#39;acqua</title>
+      <link>http://macchioni.in/2008/06/15/quote-by-google-is-giving-us-pond-skater-minds/</link>
+      <pubDate>Sun, 15 Jun 2008 14:41:17 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2008/06/15/quote-by-google-is-giving-us-pond-skater-minds/</guid>
+      <description>We just have to find a new equilibrium [&amp;hellip;]. We need to be both pond-skaters and scuba divers. We need to master the ability to access facts while reserving time and space to do something mean-ingful with them.
+Some have suggested a web sabbath a day or two in the week when we force ourselves not to read e-mails or post blogs or text messages; a break in order to think in the old way again: to look at human faces in the flesh rather than on a Facebook profile, to read a book rather than a blog, to pray rather than browse.</description>
+    </item>
+    
+    <item>
+      <title>E-mocracy</title>
+      <link>http://macchioni.in/2008/04/18/e-mocracy/</link>
+      <pubDate>Fri, 18 Apr 2008 06:13:29 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2008/04/18/e-mocracy/</guid>
+      <description>Rispetto al 2006, stavolta seguire le elezioni su internet è stato più divertente. Non abbiamo avuto (quasi) nulla al livello degli americani, perché qui da noi il web è ancora sottoutilizzato e poco diffuso (le elezioni le ha vinte a valanga uno convinto che per internet non è ancora ora). Però non è stato male. Segue elenco di cose apprezzate:
+ Chi si lamenta che Zoro non è efficace quando va in tv deve capire che lui il meglio lo dà nella Rete: i &amp;ldquo;consigli a Walter&amp;rdquo;, il travestimento e il mashup Yes we can-Waterloo forse non saranno immortali, ma sono formidabili.</description>
+    </item>
+    
+  </channel>
+</rss>

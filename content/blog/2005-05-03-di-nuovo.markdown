@@ -1,0 +1,13 @@
+---
+author: leibniz
+categories:
+- old-blog
+comments: true
+date: '2005-05-03T22:23:35Z'
+slug: di-nuovo
+title: Di nuovo
+url: "/2005/05/03/di-nuovo/"
+wordpress_id: 320
+
+---
+Qui sotto ancora un test

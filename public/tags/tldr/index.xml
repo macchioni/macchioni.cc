@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tldr on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/tldr/</link>
+    <description>Recent content in Tldr on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/tldr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Un anno di &#39;Lo leggo dopo&#39;</title>
+      <link>http://macchioni.in/blog/2016-12-31-articoli-da-leggere-2016/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://macchioni.in/blog/2016-12-31-articoli-da-leggere-2016/</guid>
+      <description>Purtroppo anche quest&amp;rsquo;anno non sono riuscito a usare un solo sistema per salvare articoli e post in maniera organica. Ma come nel 2015 ho continuato a usare una ricetta di IF che permette di formattare in modo abbastanza decente tutto quello che salvo su Instapaper. Non è tutto-tutto quello che salvo allo scopo di una lettura successiva (vero Feedly? vero Pinboard?), ma lo sparpagliamento inorganico è parte della mia identità digitale, credo.</description>
+    </item>
+    
+    <item>
+      <title>Questo lo leggo dopo, 2014</title>
+      <link>http://macchioni.in/2014/12/30/questo-lo-leggo-dopo-2014/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2014/12/30/questo-lo-leggo-dopo-2014/</guid>
+      <description>Fino all’anno scorso il “secondo schermo” era quello che affiancavamo alla tv: un laptop, più spesso uno smartphone, qualche volta un tablet, raramente un ebook reader. Quest’anno, 2014, ancora per poco, la tv è diventata ufficialmente il secondo schermo: gli smartphone sono grandi quasi come tablet e sono il “primo schermo” quasi per tutti. Il 2015, sembra proprio, sarà l’anno dei wearable. Con l’Apple Watch a guidare la nuova suggestione globale.</description>
+    </item>
+    
+  </channel>
+</rss>

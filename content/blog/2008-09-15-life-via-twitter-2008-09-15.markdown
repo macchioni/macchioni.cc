@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-09-15T21:59:59Z'
+slug: life-via-twitter-2008-09-15
+title: Life via Twitter (2008-09-15)
+url: "/2008/09/15/life-via-twitter-2008-09-15/"
+wordpress_id: 3039
+
+---
+* è sempre in vacanza, lontanissimo [#](http://twitter.com/leibniz/statuses/921865697)
+
+

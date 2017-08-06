@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-03-12T22:59:59Z'
+slug: ultime-twitterate-2008-03-12
+title: Ultime twitterate (2008-03-12)
+url: "/2008/03/12/ultime-twitterate-2008-03-12/"
+wordpress_id: 2687
+
+---
+* Ich bin ein Crumpler [http://tinyurl.com/fw22x](http://tinyurl.com/fw22x) [#](http://twitter.com/leibniz/statuses/770347138)
+
+

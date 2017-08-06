@@ -1,0 +1,13 @@
+---
+author: leibniz
+categories:
+- web
+comments: true
+date: '2008-10-26T15:25:45Z'
+slug: '3111'
+title: Barack style
+url: "/2008/10/26/3111/"
+wordpress_id: 3111
+
+---
+Ulteriori [endorsing](http://www.designforobama.org/). [Design for Obama]

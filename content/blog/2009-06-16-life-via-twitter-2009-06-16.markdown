@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-06-16T22:59:00Z'
+slug: life-via-twitter-2009-06-16
+tags:
+- tweets
+title: Life via Twitter (2009-06-16)
+url: "/2009/06/16/life-via-twitter-2009-06-16/"
+wordpress_id: 4086
+
+---
+* tg1 by Minzolini, primi 10 minuti buoni (su 15) sulla maggioranza. [#](http://twitter.com/leibniz/statuses/2195576302)
+
+

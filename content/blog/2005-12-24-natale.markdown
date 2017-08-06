@@ -1,0 +1,14 @@
+---
+author: leibniz
+categories:
+- web
+comments: true
+date: '2005-12-24T09:56:02Z'
+slug: natale
+title: Natale
+url: "/2005/12/24/natale/"
+wordpress_id: 1946
+
+---
+Auguri a tutti.![](http://www.leibniz-blogs.it/wp-content/galleria/natale.png)  
+([fatto qui](http://wigflip.com/ds/))

@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-06-06T22:59:00Z'
+slug: life-via-twitter-2009-06-06
+tags:
+- tweets
+title: Life via Twitter (2009-06-06)
+url: "/2009/06/06/life-via-twitter-2009-06-06/"
+wordpress_id: 4071
+
+---
+* momento David Lynch: qui fuori ci sono 18 gradi e il cielo è parzialmente coperto [#](http://twitter.com/leibniz/statuses/2051774276)
+
+

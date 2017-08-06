@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-04-05T21:59:59Z'
+slug: life-via-twitter-2008-04-05
+title: Life via Twitter (2008-04-05)
+url: "/2008/04/05/life-via-twitter-2008-04-05/"
+wordpress_id: 2727
+
+---
+* legge giusto quel miliardo di feed rimasti indietro causa rete iperlenta al lavoro [#](http://twitter.com/leibniz/statuses/783400768)
+
+

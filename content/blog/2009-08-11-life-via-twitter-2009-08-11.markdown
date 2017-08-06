@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-08-11T22:59:00Z'
+slug: life-via-twitter-2009-08-11
+tags:
+- tweets
+title: Life via Twitter (2009-08-11)
+url: "/2009/08/11/life-via-twitter-2009-08-11/"
+wordpress_id: 4164
+
+---
+* equazione del giorno: fb+ff=fu [#](http://twitter.com/leibniz/statuses/3241906977)
+
+

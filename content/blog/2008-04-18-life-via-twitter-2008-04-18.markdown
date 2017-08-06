@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-04-18T21:59:59Z'
+slug: life-via-twitter-2008-04-18
+title: Life via Twitter (2008-04-18)
+url: "/2008/04/18/life-via-twitter-2008-04-18/"
+wordpress_id: 2751
+
+---
+* cerca (invano) di installare loudtwitter su blogger.com conto terzi [#](http://twitter.com/leibniz/statuses/792165167)
+
+

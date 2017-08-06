@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-11-11T21:59:00Z'
+slug: life-via-twitter-2009-11-11
+tags:
+- tweets
+title: Life via Twitter (2009-11-11)
+url: "/2009/11/11/life-via-twitter-2009-11-11/"
+wordpress_id: 4296
+
+---
+* guarda il simbolo di Alleanza per l'Italia e vede le lettere: DC [#](http://twitter.com/leibniz/statuses/5622053015)
+
+

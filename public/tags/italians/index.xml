@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italians on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/italians/</link>
+    <description>Recent content in Italians on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 May 2012 07:55:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/italians/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The importance of being idle</title>
+      <link>http://macchioni.in/2012/05/25/the-importance-of-being-idle/</link>
+      <pubDate>Fri, 25 May 2012 07:55:55 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2012/05/25/the-importance-of-being-idle/</guid>
+      <description>Clive Crook sull&amp;rsquo;ultimo numero di Bloomberg Businessweek (che, per inciso, ha realizzato una cover da prendere a testate):
+ Decades of clichés about European “solidarity” and “the European idea” are being held up to ridicule. The notion that Greeks, Spaniards, Britons, Germans, and Italians are instinctive partners whose commonalities transcend their cultural differences and historical enmities—that “Europe” is a real community, not just a heavily worked-over blueprint in Brussels—turns out to be, let’s say, disputable.</description>
+    </item>
+    
+  </channel>
+</rss>

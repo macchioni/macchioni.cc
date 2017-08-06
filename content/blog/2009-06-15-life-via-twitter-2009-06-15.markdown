@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-06-15T22:59:00Z'
+slug: life-via-twitter-2009-06-15
+tags:
+- tweets
+title: Life via Twitter (2009-06-15)
+url: "/2009/06/15/life-via-twitter-2009-06-15/"
+wordpress_id: 4081
+
+---
+* o tu, tizio di Repubblica.it che definisci "scudetto" il titolo Nba, che la tua squadra del cuore possa retrocedere al più presto [#](http://twitter.com/leibniz/statuses/2176533075)
+
+

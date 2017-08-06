@@ -1,0 +1,14 @@
+---
+author: leibniz
+categories:
+- web
+comments: true
+date: '2004-07-19T19:45:39Z'
+slug: shagless
+title: Shagless
+url: "/2004/07/19/shagless/"
+wordpress_id: 3242
+
+---
+Pare che prossimamente si potrà [curare «il desiderio»](http://www.nytimes.com/2004/07/18/magazine/18WWLN.html). Come togliere la passione a Casanova.
+NY Times Magazine

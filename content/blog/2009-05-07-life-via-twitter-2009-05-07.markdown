@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-05-07T22:59:00Z'
+slug: life-via-twitter-2009-05-07
+tags:
+- tweets
+title: Life via Twitter (2009-05-07)
+url: "/2009/05/07/life-via-twitter-2009-05-07/"
+wordpress_id: 4029
+
+---
+* si ripete che Lisbeth Salander  è davvero qualcosa [#](http://twitter.com/leibniz/statuses/1727166971)
+
+

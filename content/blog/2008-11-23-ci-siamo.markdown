@@ -1,0 +1,14 @@
+---
+author: leibniz
+categories:
+- tv
+- youtube
+comments: true
+date: '2008-11-23T08:08:45Z'
+slug: ci-siamo
+title: Ci siamo
+url: "/2008/11/23/ci-siamo/"
+wordpress_id: 3779
+
+---
+[24: Redemption Trailer](http://it.youtube.com/watch?v=6whQylqa5Ko). [YouTube]

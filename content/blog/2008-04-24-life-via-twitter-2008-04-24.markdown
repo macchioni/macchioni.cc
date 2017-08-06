@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-04-24T21:59:59Z'
+slug: life-via-twitter-2008-04-24
+title: Life via Twitter (2008-04-24)
+url: "/2008/04/24/life-via-twitter-2008-04-24/"
+wordpress_id: 2763
+
+---
+* respira aria di sfiducia [#](http://twitter.com/leibniz/statuses/795728085)
+
+

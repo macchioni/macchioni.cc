@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-05-20T22:59:00Z'
+slug: life-via-twitter-2009-05-20
+tags:
+- tweets
+title: Life via Twitter (2009-05-20)
+url: "/2009/05/20/life-via-twitter-2009-05-20/"
+wordpress_id: 4038
+
+---
+* guarda sondaggi che danno la Lega con numeroni alle Europee [http://bit.ly/18iQbd](http://bit.ly/18iQbd) [#](http://twitter.com/leibniz/statuses/1860430982)
+
+

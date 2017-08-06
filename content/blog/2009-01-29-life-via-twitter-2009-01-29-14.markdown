@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-01-29T21:59:59Z'
+slug: life-via-twitter-2009-01-29-14
+tags:
+- tweets
+title: Life via Twitter (2009-01-29)
+url: "/2009/01/29/life-via-twitter-2009-01-29-14/"
+wordpress_id: 3922
+
+---
+* happy blog template self-screw day (tranquilli, festeggio solo io) [#](http://twitter.com/leibniz/statuses/1154736335)
+
+

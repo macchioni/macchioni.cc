@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-07-12T21:59:59Z'
+slug: life-via-twitter-2008-07-12
+title: Life via Twitter (2008-07-12)
+url: "/2008/07/12/life-via-twitter-2008-07-12/"
+wordpress_id: 2844
+
+---
+* ha appena visto gente indebitarsi inconsapevolmente con vodafone per migliaia di euro l'anno [#](http://twitter.com/leibniz/statuses/856655785)
+
+

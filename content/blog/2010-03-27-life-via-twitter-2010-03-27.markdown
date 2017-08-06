@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2010-03-27T20:59:00Z'
+slug: life-via-twitter-2010-03-27
+tags:
+- tweets
+title: Life via Twitter (2010-03-27)
+url: "/2010/03/27/life-via-twitter-2010-03-27/"
+wordpress_id: 4392
+
+---
+* dimmi cos'è... [#](http://twitter.com/leibniz/statuses/11157195579)
+
+

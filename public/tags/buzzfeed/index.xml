@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buzzfeed on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/buzzfeed/</link>
+    <description>Recent content in Buzzfeed on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/buzzfeed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instant Articles, c’è un giornalista nella mia timeline</title>
+      <link>http://macchioni.in/blog/2015-05-17-facebook-articles/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://macchioni.in/blog/2015-05-17-facebook-articles/</guid>
+      <description>L&amp;rsquo;altro giorno Dave Winer, il programmatore guru con il pallino dell&amp;rsquo;informazione, ha scritto una cosa difficilmente contestabile:
+ Il mondo del giornalismo è in piena crisi depressiva perché ha appena capito qualcosa che sapeva già da anni: il suo sistema di distribuzione appartiene all&amp;rsquo;industria tecnologica.
+ Il motivo è l&amp;rsquo;annuncio finalmente ufficiale - abbastanza disruptive - di Facebook, che ha creato Instant Articles, una piattaforma per editori che vogliono pubblicare articoli con ricchi contenuti multimediali direttamente sul Social Network.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-08-29T22:59:00Z'
+slug: life-via-twitter-2009-08-30
+tags:
+- tweets
+title: Life via Twitter (2009-08-30)
+url: "/2009/08/29/life-via-twitter-2009-08-30/"
+wordpress_id: 4195
+
+---
+* #[H1N1](http://search.twitter.com/search?q=%23H1N1) update: sul metrò di Londra 4 tizi trovano un sacchetto di haribo abbandonato e se lo finiscono [#](http://twitter.com/leibniz/statuses/3614368058)
+
+

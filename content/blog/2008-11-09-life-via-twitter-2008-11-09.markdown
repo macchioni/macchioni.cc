@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-11-09T21:59:59Z'
+slug: life-via-twitter-2008-11-09
+title: Life via Twitter (2008-11-09)
+url: "/2008/11/09/life-via-twitter-2008-11-09/"
+wordpress_id: 3602
+
+---
+* aggiorna le playlist per correre (sul blog) [#](http://twitter.com/leibniz/statuses/997510713)
+
+

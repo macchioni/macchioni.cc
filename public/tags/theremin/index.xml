@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theremin on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/theremin/</link>
+    <description>Recent content in Theremin on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2012 07:00:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/theremin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Praticamente un albero di natale che suona</title>
+      <link>http://macchioni.in/2012/11/19/praticamente-un-albero-di-natale-che-suona/</link>
+      <pubDate>Mon, 19 Nov 2012 07:00:55 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2012/11/19/praticamente-un-albero-di-natale-che-suona/</guid>
+      <description>Sul mio personalissimo cartellino la Eigenharp (vedi Game of Thrones Theme oppure James Bond Theme o un vecchio Bloomeberg BW) è il nuovo theremin (vedi l&amp;rsquo;incursione cult in Big Bang Theory).
+{Wikipedia, Geert Bevin, Davek4981, BBW - Ph. Andrew Koenig}</description>
+    </item>
+    
+  </channel>
+</rss>

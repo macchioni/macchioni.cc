@@ -1,0 +1,19 @@
+baseURL = "http://macchioni.in/"
+languageCode = "en-us"
+title = "Indie Hugo Site"
+theme = "hugo-lithium-theme"
+
+[Params]
+  Author = "Piero Macchioni"
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+    page = "/:title/"
+    singles = "/:title/"
+
+
+[params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"

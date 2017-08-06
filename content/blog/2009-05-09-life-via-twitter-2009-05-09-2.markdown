@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-05-09T22:59:00Z'
+slug: life-via-twitter-2009-05-09-2
+tags:
+- tweets
+title: Life via Twitter (2009-05-09)
+url: "/2009/05/09/life-via-twitter-2009-05-09-2/"
+wordpress_id: 4031
+
+---
+* una cosa che non gli mancava di Roma: le manifestazioni che fanno saltare i percorsi dei bus [#](http://twitter.com/leibniz/statuses/1747817686)
+
+

@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- old-blog
+comments: true
+date: '2005-09-01T09:16:56Z'
+slug: '404'
+title: 404
+url: "/2005/09/01/404/"
+wordpress_id: 109
+
+---
+[Bush non c'e](http://www.madkane.com/bush_missing.html).  
+
+
+
+### Madkane

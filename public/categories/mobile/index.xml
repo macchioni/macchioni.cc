@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Indie Hugo Site</title>
+    <link>http://macchioni.in/categories/mobile/</link>
+    <description>Recent content in Mobile on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Aug 2007 15:48:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tradimenti estivi</title>
+      <link>http://macchioni.in/2007/08/31/tradimenti-estivi/</link>
+      <pubDate>Fri, 31 Aug 2007 15:48:21 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2007/08/31/tradimenti-estivi/</guid>
+      <description> Nelle ultime settimane ho trascurato l&amp;rsquo;aggregatore per quel mondo chiamato eBay (e ora sono entrato in una dimensione chiamata Htc Touch, quindi non credo cambierà molto).
+Htc </description>
+    </item>
+    
+    <item>
+      <title>Gone with the wind (ditelo a Turigliatto)</title>
+      <link>http://macchioni.in/2007/02/28/gone-with-the-wind-ditelo-a-turigliatto/</link>
+      <pubDate>Wed, 28 Feb 2007 15:36:59 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2007/02/28/gone-with-the-wind-ditelo-a-turigliatto/</guid>
+      <description> Bersani-watch. Sembra che l&amp;rsquo;effetto dell&amp;rsquo;abolizione dei costi di ricarica sulle schede telefoniche (sui piani attivati dalla prossima settimana) stia producendo un&amp;rsquo;ondata di rincari su tutti i piani tariffari. Almeno per quanto riguarda Wind.
+Mobileblog </description>
+    </item>
+    
+  </channel>
+</rss>

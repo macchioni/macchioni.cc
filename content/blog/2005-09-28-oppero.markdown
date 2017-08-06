@@ -1,0 +1,13 @@
+---
+author: leibniz
+categories:
+- web
+comments: true
+date: '2005-09-28T00:14:04Z'
+slug: oppero
+title: Opperò
+url: "/2005/09/28/oppero/"
+wordpress_id: 627
+
+---
+Sono appena risucito a importare qui quasi un anno di blog tenuto altrove

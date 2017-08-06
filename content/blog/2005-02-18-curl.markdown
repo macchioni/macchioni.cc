@@ -1,0 +1,27 @@
+---
+author: leibniz
+categories:
+- old-blog
+comments: true
+date: '2005-02-18T07:16:47Z'
+slug: curl
+title: cUrl
+url: "/2005/02/18/curl/"
+wordpress_id: 457
+
+---
+![](http://www.curling-basel.ch/Images/Rink_2.gif)Una [versione online del curling](http://www.gophergas.com/funstuff/virtualcurling.htm),
+quella specie di bocce che si gioca in una sorta di campo da bowling
+con delle teiere (stones) e un paio di compagni di squadra armati di
+scopette.
+
+
+
+
+### Gophergas - CurlingBasel
+
+
+
+
+
+

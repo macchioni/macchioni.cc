@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-11-18T21:59:00Z'
+slug: life-via-twitter-2009-11-18
+tags:
+- tweets
+title: Life via Twitter (2009-11-18)
+url: "/2009/11/18/life-via-twitter-2009-11-18/"
+wordpress_id: 4300
+
+---
+* sfoggia una dialettica interna che comunque ne accentua le capacità ideative [#](http://twitter.com/leibniz/statuses/5831195945)
+
+

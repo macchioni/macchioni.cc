@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-08-29T21:59:59Z'
+slug: life-via-twitter-2008-08-29
+title: Life via Twitter (2008-08-29)
+url: "/2008/08/29/life-via-twitter-2008-08-29/"
+wordpress_id: 3030
+
+---
+* saluta l'internet per un bel po' di giorni [#](http://twitter.com/leibniz/statuses/902630268)
+
+

@@ -1,0 +1,21 @@
+---
+author: leibniz
+categories:
+- 'null'
+comments: true
+date: '2006-05-22T09:29:27Z'
+slug: i-dollari
+title: I dollari
+url: "/2006/05/22/i-dollari/"
+wordpress_id: 2191
+
+---
+Richard Rogers sulla [differenza tra un architetto americano e uno europeo](http://www.nytimes.com/2006/05/21/magazine/21wwln_q4.html?_r=1&oref=slogin):
+
+
+> European architects tend to be more environmentally conscious. In Europe, for instance, I hardly ever use air-conditioning. [...] Americans use gas and oil like water
+
+
+
+
+### NY Times Magazine

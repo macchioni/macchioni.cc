@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/coffee/</link>
+    <description>Recent content in Coffee on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Butterball Hotline - May 1st</title>
+      <link>http://macchioni.in/2014/05/01/butterball-hotline-may-1st/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2014/05/01/butterball-hotline-may-1st/</guid>
+      <description>L&amp;rsquo;evento con la &amp;ldquo;E&amp;rdquo; maiuscola: ICMC, l&amp;rsquo;Italian cycle messenger championship (Milano, 2-3-4 maggio).   Gilfoyle, That&amp;rsquo;s what the fuck I do (Silicon Valley, S01E02) &amp;gt;While you were busy minoring in gender studies and singing a capella at Sarah Lawrence, I was gaining root access to NSA servers. I was one click away from starting a second Iranian Revolution. I prevent cross-site scripting, I monitor for DDoS attacks, emergency database rollbacks and faulty transaction handlers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-05-08T22:59:00Z'
+slug: life-via-twitter-2009-05-09
+tags:
+- tweets
+title: Life via Twitter (2009-05-09)
+url: "/2009/05/08/life-via-twitter-2009-05-09/"
+wordpress_id: 4030
+
+---
+* resta chiuso fuori da gmail come @[theyorker](http://twitter.com/theyorker) [#](http://twitter.com/leibniz/statuses/1736298943)
+
+

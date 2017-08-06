@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chefs Table on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/chefs-table/</link>
+    <description>Recent content in Chefs Table on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/chefs-table/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chef’s Table, il classificone della 2a serie</title>
+      <link>http://macchioni.in/blog/2016-06-21-the-best-of-chefs-table-2/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://macchioni.in/blog/2016-06-21-the-best-of-chefs-table-2/</guid>
+      <description>Chef’s table è la pazzesca serie di documentari di David Gelb che racconta i migliori cuochi del mondo. È su Netflix. Se la prima serie era già abbastanza speciale (c’era anche Massimo Bottura, che in questi giorni è diventato una specie di numero uno al mondo), la seconda ha accentuato ancora di più i punti forti dello show: estetica foodporn e grandi storie personali degli chef protagonisti. Ogni stagione 6 episodi, questa è, senza tante parole, la mia discutibile classifica dal migliore al peggiore.</description>
+    </item>
+    
+  </channel>
+</rss>

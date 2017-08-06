@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-03-16T22:59:59Z'
+slug: ultime-twitterate-2008-03-16
+title: Ultime twitterate (2008-03-16)
+url: "/2008/03/16/ultime-twitterate-2008-03-16/"
+wordpress_id: 2694
+
+---
+* ma... ve lo ricordate il cuneo fiscale? [#](http://twitter.com/leibniz/statuses/772337172)
+
+

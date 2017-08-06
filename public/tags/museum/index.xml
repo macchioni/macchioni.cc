@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Museum on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/museum/</link>
+    <description>Recent content in Museum on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Apr 2008 13:21:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/museum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Il futuro dei giornali? Pezzi da museo</title>
+      <link>http://macchioni.in/2008/04/05/il-futuro-dei-giornali-pezzi-da-museo/</link>
+      <pubDate>Sat, 05 Apr 2008 13:21:19 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2008/04/05/il-futuro-dei-giornali-pezzi-da-museo/</guid>
+      <description>Tra cinque giorni apre a Washington il Newseum, il museo interattivo delle notizie. Un mega palazzone di sette piani, pieno di storia del giornalismo, che parte dal Primo emendamento e arriva a esporre le pantofole indossate da Wonkette mentre postava ai tempi di Bush vs Kerry. Sul sito del museo, tra l&amp;rsquo;altro, sembra che ci sia una galleria delle prime pagine dei giornali del giorno (che, insomma, se non hai fatto in tempo a leggere il Gadsen Times o l&amp;rsquo;East Valley Tribune, fa comodo).</description>
+    </item>
+    
+  </channel>
+</rss>

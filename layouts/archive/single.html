@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+
+<!-- /layouts.archive/single.html -->
+
+{{ range where .Site.Pages "Type" "blog" }}  
+
+<div class="archive">
+    <article class="archive-item"> 
+		<a href="{{.RelPermalink}}" class="archive-item-link">{{ .Title }}</a>
+    <span class="archive-item-date">
+
+{{ .Date.Format "January 2, 2006" }}
+</span>
+    </article>
+
+{{ end }}
+
+ </div>
+
+
+</main>
+ 
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-06-10T21:59:59Z'
+slug: life-via-twitter-2008-06-10
+title: Life via Twitter (2008-06-10)
+url: "/2008/06/10/life-via-twitter-2008-06-10/"
+wordpress_id: 2819
+
+---
+* espresso corretto al nescafé (è parecchio giù, oggi) [#](http://twitter.com/leibniz/statuses/831132774)
+
+

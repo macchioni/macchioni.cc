@@ -1,0 +1,14 @@
+---
+author: leibniz
+categories:
+- old-blog
+- web
+comments: true
+date: '2006-02-25T00:19:12Z'
+slug: caspita
+title: Caspita
+url: "/2006/02/25/caspita/"
+wordpress_id: 2057
+
+---
+L'8 febbraio questo blog ha compiuto tre anni.

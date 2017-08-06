@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2008-05-23T21:59:59Z'
+slug: life-via-twitter-2008-05-23
+title: Life via Twitter (2008-05-23)
+url: "/2008/05/23/life-via-twitter-2008-05-23/"
+wordpress_id: 2801
+
+---
+* sta ancora aspettando la grigliata di carne ordinata ieri sera al Brick Oven [#](http://twitter.com/leibniz/statuses/818160868)
+
+

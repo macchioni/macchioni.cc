@@ -1,0 +1,15 @@
+---
+author: leibniz
+categories:
+- quirkies
+comments: true
+date: '2007-11-30T07:47:27Z'
+slug: csi-seoul
+title: 'Csi: Seoul'
+url: "/2007/11/30/csi-seoul/"
+wordpress_id: 2605
+
+---
+Il minatore coreano che [forse era stato ucciso dal cellulare](http://today.reuters.it/news/newsArticle.aspx?type=entertainmentNews&storyID=2007-11-29T104406Z_01_ROS935752_RTRIDST_0_OITLR-CELLULARE-ESPLOSO.XML&archived=False) che teneva nella tasca, [non è stato ucciso da quello](http://news.wired.com/dynamic/stories/S/SKOREA_MOBILE_PHONE_EXPLOSION?SITE=WIRE&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2007-11-29-10-20-09).
+
+### Reuters - Wired 

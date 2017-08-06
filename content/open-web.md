@@ -1,0 +1,37 @@
++++
+type = "static"
+page = "static/open-web.html"
+title = "open web"
+description = "open web - Piero Macchioni, journo"
+menu = "main"
+weight = "3"
+date = "2016-05-05T21:48:51-07:00"
++++
+
+
+In the last few years we've been seduced by the wonderful world of social media and social networks. They work beautifully. Unfortunately that means we've progressively lost control over our content and locked many of the web content in the social media walled gardens, accepting that our data may be used, bought and sold. It's a matter of privacy and a matter of freedom.
+
+I believe, like the founding fathers of the World Wide Web, in a different kind of Internet. I believe in a **Open Web**, respectful of people. Here is the place where I collect links and posts about this.
+
+_Feel free to write me and suggest other stuff._
+
+## ★ House Manifesto (sort of)
+
+[The struggle for the open web](https://leibniz.gitlab.io/2016/04/14/the-struggle-for-the-open-web/) by Piero Macchioni
+
+*What if, one day, you discover that your fulfilling social media life was completely wrong? What if your castle of self gratification and instant connections, friends and followers, mobile power and desktop automation would fall apart?*
+
+## ☆ Essentials
+
+[Facebook is eating the world](https://www.cjr.org/analysis/facebook_and_media.php) by Emily Bell
+
+[Get your loved ones off Facebook](http://www.salimvirani.com/facebook/) by Salim Virani
+
+[Fix the internet by writing good stuff and being nice to people](http://blog.vickiboykis.com/2016/11/20/fix-the-internet/) by Vicki Boykis
+
+[Hard Questions](https://newsroom.fb.com/news/2017/06/hard-questions/) by Elliot Schrage
+
+[Facebook is broken](https://techcrunch.com/2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/) by Jon Evans
+
+_(more to come)_
+

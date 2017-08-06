@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2010-02-11T21:59:00Z'
+slug: life-via-twitter-2010-02-11
+tags:
+- tweets
+title: Life via Twitter (2010-02-11)
+url: "/2010/02/11/life-via-twitter-2010-02-11/"
+wordpress_id: 4333
+
+---
+* burtleina is bad for you [#](http://twitter.com/leibniz/statuses/8977979815)
+
+

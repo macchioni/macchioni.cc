@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Year In Mp3s on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/a-year-in-mp3s/</link>
+    <description>Recent content in A Year In Mp3s on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Sep 2010 10:13:10 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/a-year-in-mp3s/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uno suonato</title>
+      <link>http://macchioni.in/2010/09/10/uno-suonato/</link>
+      <pubDate>Fri, 10 Sep 2010 10:13:10 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2010/09/10/uno-suonato/</guid>
+      <description>Roger Luke DuBois è il tizio che, nell&amp;rsquo;ultimo anno, ha composto e messo in rete un brano al giorno. [lukedubois - via Nyt]</description>
+    </item>
+    
+  </channel>
+</rss>

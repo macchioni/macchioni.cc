@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Money on Indie Hugo Site</title>
+    <link>http://macchioni.in/tags/money/</link>
+    <description>Recent content in Money on Indie Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Dec 2011 12:22:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://macchioni.in/tags/money/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Buone feste si dice ancora?</title>
+      <link>http://macchioni.in/2011/12/21/buone-feste-si-dice-ancora/</link>
+      <pubDate>Wed, 21 Dec 2011 12:22:34 +0000</pubDate>
+      
+      <guid>http://macchioni.in/2011/12/21/buone-feste-si-dice-ancora/</guid>
+      <description>Il Guardian ha chiesto ad artisti e scrittori di disegnare le banconote di questo nostro mondo che cambia.
+[Guardian]</description>
+    </item>
+    
+  </channel>
+</rss>

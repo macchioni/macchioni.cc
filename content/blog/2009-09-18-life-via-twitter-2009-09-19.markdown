@@ -1,0 +1,17 @@
+---
+author: leibniz
+categories:
+- tweets
+comments: true
+date: '2009-09-18T22:59:00Z'
+slug: life-via-twitter-2009-09-19
+tags:
+- tweets
+title: Life via Twitter (2009-09-19)
+url: "/2009/09/18/life-via-twitter-2009-09-19/"
+wordpress_id: 4229
+
+---
+* dieci inviti per chi volesse provare [http://www.twones.com](http://www.twones.com), un incrocio tra last.fm e blip. Serve l'email (via DM?) [#](http://twitter.com/leibniz/statuses/4072826325)
+
+
