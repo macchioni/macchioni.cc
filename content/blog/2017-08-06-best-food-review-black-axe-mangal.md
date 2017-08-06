@@ -1,6 +1,6 @@
 ---
 author: Piero Macchioni
-date: '2017-08-7T00:00:00Z'
+date: '2017-08-07T00:00:00Z'
 title: The best food review of the year
 description: NobleRot Magazine wrote the best food review of the year about Lee Tiernan’s Black Axe Mangal, London.
 published: true
