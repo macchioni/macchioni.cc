@@ -14,7 +14,7 @@ tags:
 
 
 
-![noblerot](/images/vault/.noblerot.jpg)
+![noblerot](/images/vault/noblerot.jpg)
 
 I believe this is the best food review I’ve read this year. 
 
