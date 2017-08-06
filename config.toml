@@ -1,6 +1,6 @@
 baseURL = "https://macchioni.in/"
 languageCode = "en-us"
-title = "Indie Hugo Site"
+title = "macchioni.in"
 theme = "hugo-lithium-theme"
 
 [Params]
