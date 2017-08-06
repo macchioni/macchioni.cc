@@ -7,13 +7,13 @@
     {{ range (.Paginator 5).Pages }}  
 <article class="archive-item">
         <h2 class="archive-title"><a href="{{.RelPermalink}}">{{ .Title }}</a></h2>
-        <span class="archive-item-date">{{ .Date.Format "January 2, 2006" }}</span>
-                         
+        <span class="dt-published" class="article-date">{{ .Date.Format "January 2, 2006" }}</span><br />
+       
         <div class="article-summary">
             {{ .Summary }} <!-- automatically takes the first paragraph in the .md article -->
         </div>
  
-        <p><small><a href="{{.RelPermalink}}" class="read-more-link">Read more ››</a></small></p>
+        <p><small><a class="fa fa-chevron-right" href="{{.RelPermalink}}" class="read-more-link"> Read more</a></small></p>
     </article>
  
     {{ end }}

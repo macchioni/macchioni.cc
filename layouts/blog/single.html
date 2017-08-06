@@ -3,14 +3,13 @@
 <main class="content" role="main">
 
   <article class="h-entry" class="article">
-    {{ if eq .Section "post" }}
+    {{ if eq .Section "blog" }}
     <span class="article-duration">{{ .ReadingTime }} min read</span>
     {{ end }}
 
     <h1 class="p-name" class="article-title">{{ .Title }}</h1>
-
-    {{ if eq .Section "post" }}
-    <span class="dt-published" class="article-date">{{ .Date.Format "January 2, 2006" }}</span>
+    {{ if eq .Section "blog" }}
+    <span class="dt-published" class="article-date">{{ .Date.Format "January 2, 2006" }} <a class="fa fa-link" href="{{.RelPermalink}}" class="u-url"></a></span>
     {{ end }}
 
     <div class="e-content" class="article-content">
