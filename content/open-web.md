@@ -9,7 +9,9 @@ date = "2016-05-05T21:48:51-07:00"
 +++
 
 
-In the last few years we've been seduced by the wonderful world of social media and social networks. They work beautifully. Unfortunately that means we've progressively lost control over our content and locked many of the web content in the social media walled gardens, accepting that our data may be used, bought and sold. It's a matter of privacy and a matter of freedom.
+In the last few years we've been seduced by the wonderful world of social media and social networks. They work beautifully. Unfortunately that means we've progressively lost control over our content and locked many of the web content into the social media walled gardens, accepting that our data may be used, bought and sold. 
+
+It's a matter of privacy and a matter of freedom.
 
 I believe, like the founding fathers of the World Wide Web, in a different kind of Internet. I believe in a **Open Web**, respectful of people. Here is the place where I collect links and posts about this.
 
@@ -23,15 +25,19 @@ _Feel free to write me and suggest other stuff._
 
 ## ☆ Essentials
 
+[An Introduction to the IndieWeb](http://altplatform.org/2017/07/28/an-introduction-to-the-indieweb/) by [Chris Aldrich](http://boffosocko.com/blog/)
+
 [Facebook is eating the world](https://www.cjr.org/analysis/facebook_and_media.php) by Emily Bell
 
 [Get your loved ones off Facebook](http://www.salimvirani.com/facebook/) by Salim Virani
 
 [Fix the internet by writing good stuff and being nice to people](http://blog.vickiboykis.com/2016/11/20/fix-the-internet/) by Vicki Boykis
 
-[Hard Questions](https://newsroom.fb.com/news/2017/06/hard-questions/) by Elliot Schrage
+[Hard Questions](https://newsroom.fb.com/news/2017/06/hard-questions/) by Elliot Schrage @Facebook
 
 [Facebook is broken](https://techcrunch.com/2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/) by Jon Evans
+
+
 
 _(more to come)_
 

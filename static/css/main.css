@@ -281,7 +281,9 @@ a {
 
 
 
-@media (min-width: 600px) {
+@media (min-width: 600px) 
+  
+  {
   .header {
     padding: 25px 0;
   }
@@ -339,3 +341,7 @@ a {
     font-size: inherit;
   }
 }
+  img {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+  }
