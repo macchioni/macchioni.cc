@@ -5,10 +5,10 @@
     <span class="article-duration">{{ .ReadingTime }} min read</span>
     {{ end }}
 
-    <h1 class="article-title" class="p-name">{{ .Title }}</h1>
+    <h1 class="article-title" class="e-content p-name">{{ .Title }}</h1>
 
     {{ if eq .Section "post" }}
-    <span class="dt-published" class="article-date">{{ .Date.Format "January 2, 2006" }}</span>
+    <time class="article-date" class="dt-published" datetime="MM-DD-YYYY">>{{ .Date.Format "January 2, 2006" }}</time>
     {{ end }}
 
     <div class="e-content" class="article-content">
