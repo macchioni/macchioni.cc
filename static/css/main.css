@@ -361,7 +361,7 @@ a {
   margin: 0 15px;
 }
 
-.posse {
+.u-syndication {
   margin-top: 12px;
   float: left;
   font-size: 12px;
@@ -375,7 +375,7 @@ a {
   color: #fff
 }
 
-.posse a {
+.u-syndication a {
   color: #888;
   text-decoration: none;
   transition: color 150ms ease;
@@ -384,8 +384,8 @@ a {
 }
   
 
-.posse a:hover,
-.posse a:focus {
+.u-syndication a:hover,
+.u-syndication a:focus {
   background: transparent;
   color: #ff6600;
   border-bottom: 0px solid #ff6600;

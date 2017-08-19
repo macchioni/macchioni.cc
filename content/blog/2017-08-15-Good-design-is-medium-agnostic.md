@@ -13,4 +13,4 @@ tags:
 [Good design is medium-agnostic](https://www.offscreenmag.com/issues/17) ➡ @jasonsantamaria @offscreenmag
 
 
-<span class="posse">possed → <i class="fa fa-twitter"></i> [@leibniz](https://twitter.com/leibniz/status/897575081358086144)</span>
+<span rel="syndication" class="u-syndication">possed → <i class="fa fa-twitter"></i> [@leibniz](https://twitter.com/leibniz/status/897575081358086144)</span>
