@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trieste on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/trieste/</link>
-    <description>Recent content in Trieste on Indie Hugo Site</description>
+    <title>Trieste on macchioni.in</title>
+    <link>https://macchioni.in/tags/trieste/</link>
+    <description>Recent content in Trieste on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jun 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/trieste/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/trieste/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Just a little easier</title>
-      <link>http://macchioni.in/blog/2014-06-14-sotn14-just-a-little-easier/</link>
+      <link>https://macchioni.in/blog/2014-06-14-sotn14-just-a-little-easier/</link>
       <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/blog/2014-06-14-sotn14-just-a-little-easier/</guid>
+      <guid>https://macchioni.in/blog/2014-06-14-sotn14-just-a-little-easier/</guid>
       <description>Di solito, dopo una giornata a State of the Net (la foto qui su è di Emanuela Ciccone), la conference di Trieste dedicata ai cambiamenti del web e dal web, si torna a casa con tante idee e la voglia di metterle in fila. Stavolta rimando a un altro giorno.
 Il motivo è che una conferenza come questa non è solo i suoi contenuti. Né i suoi relatori, o i suoi ospiti.</description>
     </item>
     
     <item>
       <title>State of the Net, &#39;smart life&#39; a Trieste</title>
-      <link>http://macchioni.in/2014/03/22/sotn14-a-trieste/</link>
+      <link>https://macchioni.in/2014/03/22/sotn14-a-trieste/</link>
       <pubDate>Sat, 22 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/2014/03/22/sotn14-a-trieste/</guid>
+      <guid>https://macchioni.in/2014/03/22/sotn14-a-trieste/</guid>
       <description>Come ogni primavera, è ora di prenotare un posto a Trieste per State of the Net, la conferenza organizzata da Sergio, Beniamino e Paolo che raccoglie ogni anno pionieri, sognatori e analisti del web. Un posto dove ci si incontra per condividere, raccontare, ascoltare, guardare lontano (o molto vicino) assieme. Di solito nessuno arriva per venderti qualcosa.
 Quest&amp;rsquo;anno, dal 12 al 14 giugno, il tema sarà Smart Life:
  Our main theme this year will be Smart Life.</description>

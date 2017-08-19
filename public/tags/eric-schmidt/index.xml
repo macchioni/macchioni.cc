@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eric Schmidt on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/eric-schmidt/</link>
-    <description>Recent content in Eric Schmidt on Indie Hugo Site</description>
+    <title>Eric Schmidt on macchioni.in</title>
+    <link>https://macchioni.in/tags/eric-schmidt/</link>
+    <description>Recent content in Eric Schmidt on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Oct 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/eric-schmidt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/eric-schmidt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Come funziona il libro di Google</title>
-      <link>http://macchioni.in/blog/2014-10-22-come-funziona-il-libro-di-google/</link>
+      <link>https://macchioni.in/blog/2014-10-22-come-funziona-il-libro-di-google/</link>
       <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/blog/2014-10-22-come-funziona-il-libro-di-google/</guid>
+      <guid>https://macchioni.in/blog/2014-10-22-come-funziona-il-libro-di-google/</guid>
       <description>Ho letto il libro di Google scritto da Eric Schmidt e Jonathan Rosenberg. Ancora non ho capito se è incasinato di suo o se è stata la traduzione italiana a dare il colpo di grazia. Comunque, qualche dritta buona qua e là c&amp;rsquo;è. Vado in ordine sparso:
  la definizione di smart creative, pur ridondante, è accattivante. Come l&amp;rsquo;idea che le aziende dovrebbero dare più libertà e velocità, invece che ordinare di minimizzare i rischi.</description>
     </item>

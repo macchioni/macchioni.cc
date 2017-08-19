@@ -6,8 +6,8 @@
 <meta name="generator" content="Hugo 0.24.1" />
 
 
-<title>Non era poi così lunga - Indie Hugo Site</title>
-<meta property="og:title" content="Non era poi così lunga - Indie Hugo Site">
+<title>Non era poi così lunga - macchioni.in</title>
+<meta property="og:title" content="Non era poi così lunga - macchioni.in">
 
 
 
@@ -18,18 +18,43 @@
 
 
 
-<link rel="stylesheet" href="http://macchioni.in/css/main.css" media="all">
+<link rel="stylesheet" href="https://macchioni.in/css/main.css" media="all">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400|Lato:400,400italic,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Serif+Pro">
+
+
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://macchioni.in/token">
+
 <script src="https://use.fontawesome.com/23c3029a11.js"></script>
 
 
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+ <script>
+   $(document).ready(function () {
+       $(window).scroll(function () {
+           if ($(this).scrollTop() > 100) {
+               $('.scrollup').fadeIn();
+           } else {
+               $('.scrollup').fadeOut();
+           }
+       });
+       $('.scrollup').click(function () {
+           $("html, body").animate({
+               scrollTop: 0
+           }, 600);
+           return false;
+       });
+   });
+ </script>
   </head>
   <body>
     <div class="wrapper">
       <header class="header">
         <nav class="nav">
-  <a href="http://macchioni.in/" class="nav-logo">
-    <img src="http://macchioni.in/images/logo.png" 
+  <a href="https://macchioni.in/" class="nav-logo">
+    <img src="https://macchioni.in/images/logo.png" 
          width="" 
          height="" 
          alt="">
@@ -55,31 +80,29 @@
  
 <main class="content" role="main">
 
-  <article class="article">
+  <article class="h-entry" class="article">
     
-
-    <h1 class="article-title">Non era poi così lunga</h1>
-
     
-
-    <div class="article-content">
-      
+    <h1 class="article-title" class="p-name">Non era poi così lunga</h1>
+    
+    <span class="article-date" class="dt-published">July 15, 2008 <a class="fa fa-link" href="/2008/07/15/non-era-poi-cosi-lunga/" class="u-url"></a></span>
+    
+    <div class="e-content" class="article-content">
 
 <p>Pare che la teoria della<a href="http://it.wikipedia.org/wiki/Coda_lunga"> Coda lunga</a> di Chris Anderson <a href="http://www.slate.com/id/2195151/">non abbia retto</a> al trascorrere del tempo.</p>
 
 <h3 id="wikipedia-slate-via-fimoculous-http-www-fimoculous-com-archive-post-4649-cfm">Wikipedia - Slate (via <a href="http://www.fimoculous.com/archive/post-4649.cfm">Fimoculous</a>)</h3>
-
-    </div>
+</div>
   </article>
 
   
-
+  <a href="#" class="scrollup">Scroll</a>
 </main>
  
       <footer class="footer">
         <ul class="footer-links">
           <li>
-            <a class="h-card" rel="me" href="https://macchioni.in/" class="p-name">Piero Macchioni</a>| Some rights reserved |<a class="fa fa-feed" href="http://macchioni.in/index.xml" type="application/rss+xml" target="_blank" rel="me"></a> | <a class="fa fa-twitter" href="https://twitter.com/leibniz" rel="me"></a> | <a class="fa fa-instagram" href="https://instagram.com/piero_mac" rel="me"></a> | <a class="fa fa-facebook" href="https://www.facebook.com/pierom" rel="me"></a> | <a  class="u-email" class="fa fa-envelope" href="mailto:blog@macchioni.in" rel="me"></a>
+            <a class="h-card" rel="me" href="https://macchioni.in/" class="p-name">Piero Macchioni</a>| Some rights reserved |<a class="fa fa-feed" href="https://macchioni.in/index.xml" type="application/rss+xml" target="_blank" rel="me"></a> | <a class="fa fa-twitter" href="https://twitter.com/leibniz" rel="me"></a> | <a class="fa fa-instagram" href="https://instagram.com/piero_mac" rel="me"></a> | <a class="fa fa-facebook" href="https://www.facebook.com/pierom" rel="me"></a> | <a  class="u-email" class="fa fa-envelope" href="mailto:blog@macchioni.in" rel="me"></a>
           </li>
         </ul>
       </footer>
@@ -89,4 +112,3 @@
     
   </body>
 </html>
-

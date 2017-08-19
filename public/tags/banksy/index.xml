@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Banksy on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/banksy/</link>
-    <description>Recent content in Banksy on Indie Hugo Site</description>
+    <title>Banksy on macchioni.in</title>
+    <link>https://macchioni.in/tags/banksy/</link>
+    <description>Recent content in Banksy on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Jul 2008 18:05:10 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/banksy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/banksy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unmasked and anonymous</title>
-      <link>http://macchioni.in/2008/07/13/unmasked-and-anonymous/</link>
+      <link>https://macchioni.in/2008/07/13/unmasked-and-anonymous/</link>
       <pubDate>Sun, 13 Jul 2008 18:05:10 +0000</pubDate>
       
-      <guid>http://macchioni.in/2008/07/13/unmasked-and-anonymous/</guid>
+      <guid>https://macchioni.in/2008/07/13/unmasked-and-anonymous/</guid>
       <description>  E questo sarebbe Banksy.
 Daily Mail - Banksy </description>
     </item>

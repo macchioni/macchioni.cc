@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ia on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/ia/</link>
-    <description>Recent content in Ia on Indie Hugo Site</description>
+    <title>Ia on macchioni.in</title>
+    <link>https://macchioni.in/tags/ia/</link>
+    <description>Recent content in Ia on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/ia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/ia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Un anno di &#39;Lo leggo dopo&#39;</title>
-      <link>http://macchioni.in/blog/2016-12-31-articoli-da-leggere-2016/</link>
+      <link>https://macchioni.in/blog/2016-12-31-articoli-da-leggere-2016/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/blog/2016-12-31-articoli-da-leggere-2016/</guid>
+      <guid>https://macchioni.in/blog/2016-12-31-articoli-da-leggere-2016/</guid>
       <description>Purtroppo anche quest&amp;rsquo;anno non sono riuscito a usare un solo sistema per salvare articoli e post in maniera organica. Ma come nel 2015 ho continuato a usare una ricetta di IF che permette di formattare in modo abbastanza decente tutto quello che salvo su Instapaper. Non è tutto-tutto quello che salvo allo scopo di una lettura successiva (vero Feedly? vero Pinboard?), ma lo sparpagliamento inorganico è parte della mia identità digitale, credo.</description>
     </item>
     

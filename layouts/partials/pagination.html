@@ -1,0 +1,54 @@
+{{ if gt .Paginator.TotalPages 1 }}
+
+{{ $singleAdj := 2 }}
+{{ $paginatePath := "page/" }}
+{{ $wordPrevious := "Previous" }}
+{{ $wordNext := "Next" }}
+
+{{ $doubleAdj := (mul $singleAdj 2) }}
+
+<div class="pagination">
+  {{ if lt (sub $.Paginator.PageNumber $doubleAdj) 1 }}
+    {{ $.Scratch.Set "start" 1 }}
+    {{ if gt (add 1 $doubleAdj) $.Paginator.TotalPages }}
+      {{ $.Scratch.Set "end" $.Paginator.TotalPages }}
+    {{ else }}
+      {{ $.Scratch.Set "end" (add $doubleAdj 1) }}
+    {{ end }}
+  {{ else if gt $.Paginator.PageNumber (sub $.Paginator.TotalPages $doubleAdj) }}
+    {{ $.Scratch.Set "start" (sub $.Paginator.TotalPages $doubleAdj) }}
+    {{ $.Scratch.Set "end" $.Paginator.TotalPages }}
+  {{ else }}
+    {{ $.Scratch.Set "start" (sub $.Paginator.PageNumber $singleAdj) }}
+    {{ $.Scratch.Set "end" (add $.Paginator.PageNumber $singleAdj) }}
+  {{ end }}
+
+  {{ if and (.Paginator.HasPrev) (eq .Paginator.PageNumber 2) }}
+  <a href="{{ $.Permalink }}">{{ $wordPrevious }}</a>
+  {{ else if .Paginator.HasPrev}}
+  <a href="{{ $.Permalink }}{{ $paginatePath }}{{ sub .Paginator.PageNumber 1 }}/">{{ $wordPrevious }}</a>
+  {{ else }}
+  <span>{{ $wordPrevious }}</span>
+  {{ end }}
+  {{ if gt ($.Scratch.Get "start") 1 }}
+  <a href="{{ $.Permalink }}">1</a><span>...</span>
+  {{ end }}
+  {{ range $element := (seq ($.Scratch.Get "start") ($.Scratch.Get "end")) }}
+    {{ if eq $element $.Paginator.PageNumber }}
+    <span>{{ $element }}</span>
+    {{ else if eq $element 1 }}
+    <a href="{{ $.Permalink }}">{{ $element }}</a>
+    {{ else }}
+    <a href="{{ $.Permalink }}{{ $paginatePath }}{{ $element}}/">{{ $element }}</a>
+    {{ end }}
+  {{ end }}
+  {{ if lt ($.Scratch.Get "end") $.Paginator.TotalPages }}
+  <span>...</span><a href="{{ $.Permalink }}{{ $paginatePath }}{{ $.Paginator.TotalPages }}/">{{ $.Paginator.TotalPages }}</a>
+  {{ end }}
+  {{ if .Paginator.HasNext }}
+  <a href="{{ $.Permalink }}{{ $paginatePath }}{{ add .Paginator.PageNumber 1 }}/">{{ $wordNext }}</a>
+  {{ else }}
+  <span>{{ $wordNext }}</span>
+  {{ end }}
+</div>
+{{ end}}

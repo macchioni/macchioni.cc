@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Milan on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/milan/</link>
-    <description>Recent content in Milan on Indie Hugo Site</description>
+    <title>Milan on macchioni.in</title>
+    <link>https://macchioni.in/tags/milan/</link>
+    <description>Recent content in Milan on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Apr 2008 12:54:30 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/milan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/milan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rexpo Piano</title>
-      <link>http://macchioni.in/2008/04/06/rexpo-piano/</link>
+      <link>https://macchioni.in/2008/04/06/rexpo-piano/</link>
       <pubDate>Sun, 06 Apr 2008 12:54:30 +0000</pubDate>
       
-      <guid>http://macchioni.in/2008/04/06/rexpo-piano/</guid>
+      <guid>https://macchioni.in/2008/04/06/rexpo-piano/</guid>
       <description>L&amp;rsquo;intervista in cui il giornalista del Corriere cerca di far dire a Renzo Piano che l&amp;rsquo;Expo di Milano sarà una baracconata per palazzinari, ma non ci riesce (cioè, ci riesce solo perché il titolo, alla fine, lo fanno a via Solferino).
  Il tema è una bella intuizione: nutrire il pianeta. Una sfida che tocca la fragilità della terra, l&amp;rsquo;ambiente, la guerra alle povertà . È la questione giusta. Milano può farne una bandiera.</description>
     </item>

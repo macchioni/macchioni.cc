@@ -1,472 +1,490 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Indie Hugo Site</title>
-    <link>http://macchioni.in/categories/</link>
-    <description>Recent content in Categories on Indie Hugo Site</description>
+    <title>Categories on macchioni.in</title>
+    <link>https://macchioni.in/categories/</link>
+    <description>Recent content in Categories on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Sep 2012 11:33:49 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Architettura</title>
-      <link>http://macchioni.in/categories/architettura/</link>
+      <link>https://macchioni.in/categories/architettura/</link>
       <pubDate>Wed, 26 Sep 2012 11:33:49 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/architettura/</guid>
+      <guid>https://macchioni.in/categories/architettura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arte</title>
-      <link>http://macchioni.in/categories/arte/</link>
+      <link>https://macchioni.in/categories/arte/</link>
       <pubDate>Wed, 21 Dec 2011 12:22:34 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/arte/</guid>
+      <guid>https://macchioni.in/categories/arte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://macchioni.in/categories/blog/</link>
+      <link>https://macchioni.in/categories/blog/</link>
       <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/blog/</guid>
+      <guid>https://macchioni.in/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging</title>
-      <link>http://macchioni.in/categories/blogging/</link>
+      <link>https://macchioni.in/categories/blogging/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/blogging/</guid>
+      <guid>https://macchioni.in/categories/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>http://macchioni.in/categories/books/</link>
+      <link>https://macchioni.in/categories/books/</link>
       <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/books/</guid>
+      <guid>https://macchioni.in/categories/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buddha</title>
-      <link>http://macchioni.in/categories/buddha/</link>
+      <link>https://macchioni.in/categories/buddha/</link>
       <pubDate>Thu, 12 Jan 2006 10:41:17 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/buddha/</guid>
+      <guid>https://macchioni.in/categories/buddha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference</title>
-      <link>http://macchioni.in/categories/conference/</link>
+      <link>https://macchioni.in/categories/conference/</link>
       <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/conference/</guid>
+      <guid>https://macchioni.in/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://macchioni.in/categories/food/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://macchioni.in/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fotografia</title>
-      <link>http://macchioni.in/categories/fotografia/</link>
+      <link>https://macchioni.in/categories/fotografia/</link>
       <pubDate>Fri, 24 Aug 2012 09:01:45 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/fotografia/</guid>
+      <guid>https://macchioni.in/categories/fotografia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fun</title>
-      <link>http://macchioni.in/categories/fun/</link>
+      <link>https://macchioni.in/categories/fun/</link>
       <pubDate>Mon, 04 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/fun/</guid>
+      <guid>https://macchioni.in/categories/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generatori</title>
-      <link>http://macchioni.in/categories/generatori/</link>
+      <link>https://macchioni.in/categories/generatori/</link>
       <pubDate>Sun, 18 Jan 2009 22:24:04 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/generatori/</guid>
+      <guid>https://macchioni.in/categories/generatori/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giornalismo</title>
-      <link>http://macchioni.in/categories/giornalismo/</link>
+      <link>https://macchioni.in/categories/giornalismo/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/giornalismo/</guid>
+      <guid>https://macchioni.in/categories/giornalismo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Howto</title>
-      <link>http://macchioni.in/categories/howto/</link>
+      <link>https://macchioni.in/categories/howto/</link>
       <pubDate>Wed, 22 Feb 2012 16:02:52 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/howto/</guid>
+      <guid>https://macchioni.in/categories/howto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>http://macchioni.in/categories/internet/</link>
+      <link>https://macchioni.in/categories/internet/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/internet/</guid>
+      <guid>https://macchioni.in/categories/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iphone</title>
-      <link>http://macchioni.in/categories/iphone/</link>
+      <link>https://macchioni.in/categories/iphone/</link>
       <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/iphone/</guid>
+      <guid>https://macchioni.in/categories/iphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Islam</title>
-      <link>http://macchioni.in/categories/islam/</link>
+      <link>https://macchioni.in/categories/islam/</link>
       <pubDate>Sun, 21 Jan 2007 13:47:47 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/islam/</guid>
+      <guid>https://macchioni.in/categories/islam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journalism</title>
-      <link>http://macchioni.in/categories/journalism/</link>
+      <link>https://macchioni.in/categories/journalism/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/journalism/</guid>
+      <guid>https://macchioni.in/categories/journalism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La Parola Del Giorno</title>
-      <link>http://macchioni.in/categories/la-parola-del-giorno/</link>
+      <link>https://macchioni.in/categories/la-parola-del-giorno/</link>
       <pubDate>Mon, 08 Nov 2010 09:55:38 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/la-parola-del-giorno/</guid>
+      <guid>https://macchioni.in/categories/la-parola-del-giorno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lavoro</title>
-      <link>http://macchioni.in/categories/lavoro/</link>
+      <link>https://macchioni.in/categories/lavoro/</link>
       <pubDate>Tue, 28 Oct 2008 14:16:33 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/lavoro/</guid>
+      <guid>https://macchioni.in/categories/lavoro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Libri</title>
-      <link>http://macchioni.in/categories/libri/</link>
+      <link>https://macchioni.in/categories/libri/</link>
       <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/libri/</guid>
+      <guid>https://macchioni.in/categories/libri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Links</title>
-      <link>http://macchioni.in/categories/links/</link>
+      <link>https://macchioni.in/categories/links/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/links/</guid>
+      <guid>https://macchioni.in/categories/links/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liste</title>
-      <link>http://macchioni.in/categories/liste/</link>
+      <link>https://macchioni.in/categories/liste/</link>
       <pubDate>Tue, 24 Jan 2012 09:21:05 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/liste/</guid>
+      <guid>https://macchioni.in/categories/liste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metro</title>
-      <link>http://macchioni.in/categories/metro/</link>
+      <link>https://macchioni.in/categories/metro/</link>
       <pubDate>Mon, 16 Oct 2006 09:02:28 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/metro/</guid>
+      <guid>https://macchioni.in/categories/metro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>http://macchioni.in/categories/mobile/</link>
+      <link>https://macchioni.in/categories/mobile/</link>
       <pubDate>Fri, 31 Aug 2007 15:48:21 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/mobile/</guid>
+      <guid>https://macchioni.in/categories/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mondi</title>
-      <link>http://macchioni.in/categories/mondi/</link>
+      <link>https://macchioni.in/categories/mondi/</link>
       <pubDate>Tue, 12 Mar 2013 13:49:12 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/mondi/</guid>
+      <guid>https://macchioni.in/categories/mondi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://macchioni.in/categories/music/</link>
+      <link>https://macchioni.in/categories/music/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/music/</guid>
+      <guid>https://macchioni.in/categories/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Musica</title>
-      <link>http://macchioni.in/categories/musica/</link>
+      <link>https://macchioni.in/categories/musica/</link>
       <pubDate>Mon, 19 Nov 2012 07:00:55 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/musica/</guid>
+      <guid>https://macchioni.in/categories/musica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>http://macchioni.in/categories/news/</link>
+      <link>https://macchioni.in/categories/news/</link>
       <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/news/</guid>
+      <guid>https://macchioni.in/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Null</title>
-      <link>http://macchioni.in/categories/null/</link>
+      <link>https://macchioni.in/categories/null/</link>
       <pubDate>Mon, 14 Oct 2013 08:26:59 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/null/</guid>
+      <guid>https://macchioni.in/categories/null/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Blog</title>
-      <link>http://macchioni.in/categories/old-blog/</link>
+      <link>https://macchioni.in/categories/old-blog/</link>
       <pubDate>Sat, 25 Feb 2006 00:19:12 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/old-blog/</guid>
+      <guid>https://macchioni.in/categories/old-blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Openweb</title>
-      <link>http://macchioni.in/categories/openweb/</link>
+      <link>https://macchioni.in/categories/openweb/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/openweb/</guid>
+      <guid>https://macchioni.in/categories/openweb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>http://macchioni.in/categories/photography/</link>
+      <link>https://macchioni.in/categories/photography/</link>
       <pubDate>Sun, 31 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/photography/</guid>
+      <guid>https://macchioni.in/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Playlist</title>
-      <link>http://macchioni.in/categories/playlist/</link>
+      <link>https://macchioni.in/categories/playlist/</link>
       <pubDate>Tue, 29 May 2007 06:03:01 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/playlist/</guid>
+      <guid>https://macchioni.in/categories/playlist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast</title>
-      <link>http://macchioni.in/categories/podcast/</link>
+      <link>https://macchioni.in/categories/podcast/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/podcast/</guid>
+      <guid>https://macchioni.in/categories/podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Politica</title>
-      <link>http://macchioni.in/categories/politica/</link>
+      <link>https://macchioni.in/categories/politica/</link>
       <pubDate>Fri, 25 May 2012 07:55:55 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/politica/</guid>
+      <guid>https://macchioni.in/categories/politica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Politiche 08</title>
-      <link>http://macchioni.in/categories/politiche-08/</link>
+      <link>https://macchioni.in/categories/politiche-08/</link>
       <pubDate>Wed, 07 May 2008 18:49:50 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/politiche-08/</guid>
+      <guid>https://macchioni.in/categories/politiche-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quirkies</title>
-      <link>http://macchioni.in/categories/quirkies/</link>
+      <link>https://macchioni.in/categories/quirkies/</link>
       <pubDate>Mon, 28 May 2012 16:00:56 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/quirkies/</guid>
+      <guid>https://macchioni.in/categories/quirkies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quotes</title>
-      <link>http://macchioni.in/categories/quotes/</link>
+      <link>https://macchioni.in/categories/quotes/</link>
       <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/quotes/</guid>
+      <guid>https://macchioni.in/categories/quotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Running</title>
-      <link>http://macchioni.in/categories/running/</link>
+      <link>https://macchioni.in/categories/running/</link>
       <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/running/</guid>
+      <guid>https://macchioni.in/categories/running/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schwarzenegger</title>
-      <link>http://macchioni.in/categories/schwarzenegger/</link>
+      <link>https://macchioni.in/categories/schwarzenegger/</link>
       <pubDate>Fri, 09 Jan 2009 07:12:38 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/schwarzenegger/</guid>
+      <guid>https://macchioni.in/categories/schwarzenegger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scienza</title>
-      <link>http://macchioni.in/categories/scienza/</link>
+      <link>https://macchioni.in/categories/scienza/</link>
       <pubDate>Mon, 15 Dec 2008 06:35:52 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/scienza/</guid>
+      <guid>https://macchioni.in/categories/scienza/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sense8</title>
-      <link>http://macchioni.in/categories/sense8/</link>
+      <link>https://macchioni.in/categories/sense8/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/sense8/</guid>
+      <guid>https://macchioni.in/categories/sense8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stati Canaglia</title>
-      <link>http://macchioni.in/categories/stati-canaglia/</link>
+      <link>https://macchioni.in/categories/stati-canaglia/</link>
       <pubDate>Tue, 18 Jul 2006 10:49:06 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/stati-canaglia/</guid>
+      <guid>https://macchioni.in/categories/stati-canaglia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terrorism</title>
-      <link>http://macchioni.in/categories/terrorism/</link>
+      <link>https://macchioni.in/categories/terrorism/</link>
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/terrorism/</guid>
+      <guid>https://macchioni.in/categories/terrorism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tv</title>
-      <link>http://macchioni.in/categories/tv/</link>
+      <link>https://macchioni.in/categories/tv/</link>
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/tv/</guid>
+      <guid>https://macchioni.in/categories/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tv Series</title>
-      <link>http://macchioni.in/categories/tv-series/</link>
+      <link>https://macchioni.in/categories/tv-series/</link>
       <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/tv-series/</guid>
+      <guid>https://macchioni.in/categories/tv-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweet</title>
+      <link>https://macchioni.in/categories/tweet/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://macchioni.in/categories/tweet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweets</title>
-      <link>http://macchioni.in/categories/tweets/</link>
+      <link>https://macchioni.in/categories/tweets/</link>
       <pubDate>Mon, 30 Aug 2010 20:59:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/tweets/</guid>
+      <guid>https://macchioni.in/categories/tweets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video</title>
-      <link>http://macchioni.in/categories/video/</link>
+      <link>https://macchioni.in/categories/video/</link>
       <pubDate>Mon, 19 Nov 2012 07:00:55 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/video/</guid>
+      <guid>https://macchioni.in/categories/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visioni</title>
-      <link>http://macchioni.in/categories/visioni/</link>
+      <link>https://macchioni.in/categories/visioni/</link>
       <pubDate>Tue, 10 Jan 2012 09:32:56 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/visioni/</guid>
+      <guid>https://macchioni.in/categories/visioni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>http://macchioni.in/categories/web/</link>
+      <link>https://macchioni.in/categories/web/</link>
       <pubDate>Tue, 05 Jun 2012 10:40:56 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/web/</guid>
+      <guid>https://macchioni.in/categories/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writeup</title>
-      <link>http://macchioni.in/categories/writeup/</link>
+      <link>https://macchioni.in/categories/writeup/</link>
       <pubDate>Mon, 11 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/writeup/</guid>
+      <guid>https://macchioni.in/categories/writeup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youtube</title>
-      <link>http://macchioni.in/categories/youtube/</link>
+      <link>https://macchioni.in/categories/youtube/</link>
       <pubDate>Fri, 26 Jun 2009 16:55:32 +0000</pubDate>
       
-      <guid>http://macchioni.in/categories/youtube/</guid>
+      <guid>https://macchioni.in/categories/youtube/</guid>
       <description></description>
     </item>
     

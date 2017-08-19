@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Indie Hugo Site</title>
-    <link>http://macchioni.in/categories/blog/</link>
-    <description>Recent content in Blog on Indie Hugo Site</description>
+    <title>Blog on macchioni.in</title>
+    <link>https://macchioni.in/categories/blog/</link>
+    <description>Recent content in Blog on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Perché passare a Jekyll (versione lunga)</title>
-      <link>http://macchioni.in/2014/03/18/passare-a-jekyll/</link>
+      <link>https://macchioni.in/2014/03/18/passare-a-jekyll/</link>
       <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/2014/03/18/passare-a-jekyll/</guid>
+      <guid>https://macchioni.in/2014/03/18/passare-a-jekyll/</guid>
       <description>Avevo promesso di spiegare in maniera più esaustiva il passaggio da Wordpress a Jekyll. Cioè dal cms più completo in circolazione a quello più essenziale. Naturalmente è una scelta che forse andrà bene per me e potrebbe essere sbagliatissima per voi, ma è la risposta lato software/design a una certa sofferenza della classica struttura dei blog. Una forma diversa che segue l&amp;rsquo;evoluzione dell&amp;rsquo;internet, la diffusione del mobile e la necessità di layout più liquidi.</description>
     </item>
     
     <item>
       <title>Ciao ciao, Wordpress</title>
-      <link>http://macchioni.in/2014/03/13/ciao-ciao-wordpress/</link>
+      <link>https://macchioni.in/2014/03/13/ciao-ciao-wordpress/</link>
       <pubDate>Thu, 13 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/2014/03/13/ciao-ciao-wordpress/</guid>
+      <guid>https://macchioni.in/2014/03/13/ciao-ciao-wordpress/</guid>
       <description>Buongiorno, la versione breve è che dopo secoli ho abbandonato Wordpress, nonostante negli anni questa piattaforma sia migliorata tantissimo. Avevo bisogno di qualcosa di più agile e la soluzione Jekyll+Github, senza database, plugin e sovrastrutture varie mi è sembrata la più adatta. Ne parleremo meglio poi. Ora qui manca un sacco di roba, ma pian piano torna.</description>
     </item>
     

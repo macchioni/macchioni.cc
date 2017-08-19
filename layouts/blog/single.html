@@ -4,21 +4,16 @@
 
   <article class="h-entry" class="article">
     {{ if eq .Section "blog" }}
-    <span class="article-duration">{{ .ReadingTime }} min read</span>
     {{ end }}
-
-    <h1 class="p-name" class="article-title">{{ .Title }}</h1>
+    <h1 class="article-title" class="p-name">{{ .Title }}</h1>
     {{ if eq .Section "blog" }}
-    <span class="dt-published" class="article-date">{{ .Date.Format "January 2, 2006" }} <a class="fa fa-link" href="{{.RelPermalink}}" class="u-url"></a></span>
+    <span class="article-date" class="dt-published">{{ .Date.Format "January 2, 2006" }} <a class="fa fa-link" href="{{.RelPermalink}}" class="u-url"></a></span>
     {{ end }}
-
-    <div class="e-content" class="article-content">
-      {{ .Content }}
-    </div>
+    <div class="e-content" class="article-content">{{ .Content }}</div>
   </article>
 
   {{ template "_internal/disqus.html" . }}
-
+  <a href="#" class="scrollup">Scroll</a>
 </main>
  
 {{ partial "footer.html" . }}

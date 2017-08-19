@@ -2,6 +2,24 @@
 <html lang="{{ .Site.LanguageCode }}">
   <head>
     {{ partial "head.html" . }}
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+ <script>
+   $(document).ready(function () {
+       $(window).scroll(function () {
+           if ($(this).scrollTop() > 100) {
+               $('.scrollup').fadeIn();
+           } else {
+               $('.scrollup').fadeOut();
+           }
+       });
+       $('.scrollup').click(function () {
+           $("html, body").animate({
+               scrollTop: 0
+           }, 600);
+           return false;
+       });
+   });
+ </script>
   </head>
   <body>
     <div class="wrapper">

@@ -6,19 +6,18 @@
     <!-- Ranges through content/blog/*.md -->
     {{ range (.Paginator 5).Pages }}  
 <article class="archive-item">
-        <h2 class="archive-title"><a href="{{.RelPermalink}}">{{ .Title }}</a></h2>
-        <span class="dt-published" class="article-date">{{ .Date.Format "January 2, 2006" }}</span><br />
+        <h2 class="article-title" class="archive-title"><a href="{{.RelPermalink}}">{{ .Title }}</a></h2>
+        <span class="article-date" class="dt-published" class="p-name">{{ .Date.Format "January 2, 2006" }}</span><br />
        
-        <div class="article-summary">
-            {{ .Summary }} <!-- automatically takes the first paragraph in the .md article -->
-        </div>
+        <div class="article">{{ .Summary }} <!-- automatically takes the first paragraph in the .md article --></div>
  
-        <p><small><a class="fa fa-chevron-right" href="{{.RelPermalink}}" class="read-more-link"> Read more</a></small></p>
+        <p><a class="fa fa-chevron-right" href="{{.RelPermalink}}" class="read-more-link"> read more</a></p>
     </article>
  
     {{ end }}
 
   </div>
+{{ partial "pagination.html" . }}
 
 
 </main>

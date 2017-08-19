@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vox.Com on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/vox.com/</link>
-    <description>Recent content in Vox.Com on Indie Hugo Site</description>
+    <title>Vox.Com on macchioni.in</title>
+    <link>https://macchioni.in/tags/vox.com/</link>
+    <description>Recent content in Vox.Com on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/vox.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/vox.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vox e gli spinaci del giornalismo online</title>
-      <link>http://macchioni.in/2014/04/10/vox-e-gli-spinaci-del-giornalismo/</link>
+      <link>https://macchioni.in/2014/04/10/vox-e-gli-spinaci-del-giornalismo/</link>
       <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/2014/04/10/vox-e-gli-spinaci-del-giornalismo/</guid>
+      <guid>https://macchioni.in/2014/04/10/vox-e-gli-spinaci-del-giornalismo/</guid>
       <description>Da qualche giorno è online Vox, un sito di news di cui si è molto parlato per vari motivi. Ne metto giù tre:
  è diretto da Ezra Klein, 29enne-ripeto-29enne, ex wonder boy di American Prospect e del Washington Post. è edito da Vox Media, cioè chi pubblica uno dei siti tecnologici più amati qui, The Verge, e quella gran cosa di SBNation. nasce con lo scopo di spiegare in tempo reale le notizie complesse con dei “bignamini” detti &amp;ldquo;Vox Cards&amp;rdquo; (ma c&amp;rsquo;è anche altro).</description>
     </item>

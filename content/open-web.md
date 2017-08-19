@@ -8,8 +8,10 @@ weight = "3"
 date = "2016-05-05T21:48:51-07:00"
 +++
 
+![own](/images/vault/own.jpg)
 
-In the last few years we've been seduced by the wonderful world of social media and social networks. They work beautifully. Unfortunately that means we've progressively lost control over our content and locked many of the web content into the social media walled gardens, accepting that our data may be used, bought and sold. 
+
+__In the last few years we've been seduced by the wonderful world of social media and social networks.__ They work beautifully. Unfortunately that means we've progressively lost control over our content and locked many of the web content into the social media walled gardens, accepting that our data may be used, bought and sold. 
 
 It's a matter of privacy and a matter of freedom.
 
@@ -19,7 +21,7 @@ _Feel free to write me and suggest other stuff._
 
 ## ★ House Manifesto (sort of)
 
-[The struggle for the open web](https://leibniz.gitlab.io/2016/04/14/the-struggle-for-the-open-web/) by Piero Macchioni
+[The struggle for the open web](/blog/2016-04-14-the-struggle-for-the-open-web/) by Piero Macchioni
 
 *What if, one day, you discover that your fulfilling social media life was completely wrong? What if your castle of self gratification and instant connections, friends and followers, mobile power and desktop automation would fall apart?*
 

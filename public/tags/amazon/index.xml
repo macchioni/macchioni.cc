@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amazon on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/amazon/</link>
-    <description>Recent content in Amazon on Indie Hugo Site</description>
+    <title>Amazon on macchioni.in</title>
+    <link>https://macchioni.in/tags/amazon/</link>
+    <description>Recent content in Amazon on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Aug 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Per pubblicare il tuo libro ti serve un hacker</title>
-      <link>http://macchioni.in/blog/2014-08-17-publish-your-book-like-a-hacker/</link>
+      <link>https://macchioni.in/blog/2014-08-17-publish-your-book-like-a-hacker/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/blog/2014-08-17-publish-your-book-like-a-hacker/</guid>
+      <guid>https://macchioni.in/blog/2014-08-17-publish-your-book-like-a-hacker/</guid>
       <description>Scrivere un libro e pubblicare un libro non sono la stessa cosa. Non lo sono mai stati e non lo sono ancora. Ma la tecnologia, grazie ai formati digitali e ad alcuni software, ha reso questi due passaggi talmente vicini da renderli quasi sovrapponibili. Ci sono già numerose forme di self-publishing, da quelle di Amazon a quelle di Simplicissimus, tuttavia questo post prende spunto da alcune recenti scelte editoriali che mi han fatto pensare perché in loro racchiudono il seme di un futuro possibile per chi vuole pubblicare il suo libro, sì, ma soprattutto autoprodurlo in maniera soddisfacente.</description>
     </item>
     

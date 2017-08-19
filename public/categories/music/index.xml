@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Music on Indie Hugo Site</title>
-    <link>http://macchioni.in/categories/music/</link>
-    <description>Recent content in Music on Indie Hugo Site</description>
+    <title>Music on macchioni.in</title>
+    <link>https://macchioni.in/categories/music/</link>
+    <description>Recent content in Music on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/categories/music/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/categories/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Robert Allen Zimmerman</title>
-      <link>http://macchioni.in/blog/2016-10-13-robert-allen-zimmerman/</link>
+      <link>https://macchioni.in/blog/2016-10-13-robert-allen-zimmerman/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/blog/2016-10-13-robert-allen-zimmerman/</guid>
+      <guid>https://macchioni.in/blog/2016-10-13-robert-allen-zimmerman/</guid>
       <description>For having created new poetic expressions within the great American song tradition.</description>
     </item>
     

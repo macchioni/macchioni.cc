@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Internet on Indie Hugo Site</title>
-    <link>http://macchioni.in/categories/internet/</link>
-    <description>Recent content in Internet on Indie Hugo Site</description>
+    <title>Internet on macchioni.in</title>
+    <link>https://macchioni.in/categories/internet/</link>
+    <description>Recent content in Internet on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/categories/internet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/categories/internet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Connessi senza permesso</title>
-      <link>http://macchioni.in/blog/2015-01-11-il-ritorno-del-cluetrain-manifesto/</link>
+      <link>https://macchioni.in/blog/2015-01-11-il-ritorno-del-cluetrain-manifesto/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/blog/2015-01-11-il-ritorno-del-cluetrain-manifesto/</guid>
+      <guid>https://macchioni.in/blog/2015-01-11-il-ritorno-del-cluetrain-manifesto/</guid>
       <description>Del nuovo Cluetrain Manifesto di David Weinberger e Doc Searls, cioè New Clues, dovremo riparlare (e anche del mitico Alex Webb, autore della foto sopra).
 Qui, intanto, le nuove tesi anche in formato “listicle”. Con tanto di armadillo al guinzaglio.
 Update: Mi è venuta voglia di tentare una traduzione in italiano. Comincio a mettere quello che ho su github</description>

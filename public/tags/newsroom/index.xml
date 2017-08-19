@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Newsroom on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/newsroom/</link>
-    <description>Recent content in Newsroom on Indie Hugo Site</description>
+    <title>Newsroom on macchioni.in</title>
+    <link>https://macchioni.in/tags/newsroom/</link>
+    <description>Recent content in Newsroom on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 May 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/newsroom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/newsroom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Che cosa possiamo imparare dal manuale segreto del New York Times</title>
-      <link>http://macchioni.in/2014/05/21/il-manuale-segreto-del-nytimes/</link>
+      <link>https://macchioni.in/2014/05/21/il-manuale-segreto-del-nytimes/</link>
       <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/2014/05/21/il-manuale-segreto-del-nytimes/</guid>
+      <guid>https://macchioni.in/2014/05/21/il-manuale-segreto-del-nytimes/</guid>
       <description>Il New York Times Innovation Report, l’inchiesta interna (e, in teoria, riservata) del più grande giornale del mondo realizzata per capire come si fa ad avere più lettori al tempo dell’Internet, è forse il documento più interessante che leggeremo quest’anno per avere un quadro chiaro sull’industria del giornalismo oggi.
 Noi italiani, considerata l’arretratezza del panorama, potremmo evitare di guardarlo per un altro paio di anni, ma chi pensa davvero di voler lavorare nei media, chi ci lavora e si annoia, chi non sa da dove iniziare per costruirisi una qualche carriera nei giornali di domani deve solo scaricare il pdf e preparare la lista dei corsi di aggiornamento da seguire.</description>
     </item>

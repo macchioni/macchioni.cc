@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rss on Indie Hugo Site</title>
-    <link>http://macchioni.in/tags/rss/</link>
-    <description>Recent content in Rss on Indie Hugo Site</description>
+    <title>Rss on macchioni.in</title>
+    <link>https://macchioni.in/tags/rss/</link>
+    <description>Recent content in Rss on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://macchioni.in/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.in/tags/rss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The new electric spring of the News River</title>
-      <link>http://macchioni.in/blog/2017-04-15-what-is-electric-river/</link>
+      <link>https://macchioni.in/blog/2017-04-15-what-is-electric-river/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/blog/2017-04-15-what-is-electric-river/</guid>
+      <guid>https://macchioni.in/blog/2017-04-15-what-is-electric-river/</guid>
       <description>One week ago in Perugia, during the annual Journalism Festival, Dave Winer talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that Plan B.
 First step, he said, forget your readers for a moment and start your own News River. It is something he’s been working on for years, basically a feed aggregator with no fancy stuff.</description>
     </item>
     
     <item>
       <title>Il momento del podcast</title>
-      <link>http://macchioni.in/blog/2014-09-28-il-momento-del-podcast/</link>
+      <link>https://macchioni.in/blog/2014-09-28-il-momento-del-podcast/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://macchioni.in/blog/2014-09-28-il-momento-del-podcast/</guid>
+      <guid>https://macchioni.in/blog/2014-09-28-il-momento-del-podcast/</guid>
       <description>Dato che dicono sia tornato il momento dei podcast (sort of), metto qui sotto i feed di quelli che, quando posso, ascolto volentieri.
  The Art of Manliness &amp;gt;The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men.
  99% Invisible &amp;gt; Design is everywhere in our lives, perhaps most importantly in the places where we&amp;rsquo;ve just stopped noticing.</description>
