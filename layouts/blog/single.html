@@ -7,12 +7,11 @@
     {{ end }}
     <h1 class="article-title" class="p-name">{{ .Title }}</h1>
     {{ if eq .Section "blog" }}
-    <span class="article-date" class="dt-published">{{ .Date.Format "January 2, 2006" }} <a class="fa fa-link" href="{{.RelPermalink}}" class="u-url"></a></span>
+    <span class="article-date" class="dt-published">{{ .Date.Format "January 2, 2006" }} <a class="fa fa-link" href="{{.RelPermalink}}" class="u-url"></a> by <a rel="author" class="p-author h-card">Piero Macchioni</a></span>
     {{ end }}
     <div class="e-content" class="article-content">{{ .Content }}</div>
   </article>
 
-  {{ template "_internal/disqus.html" . }}
   <a href="#" class="scrollup">Scroll</a>
 </main>
  
