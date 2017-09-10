@@ -9,12 +9,5 @@ date = "2016-05-05T21:48:51-07:00"
 +++
 
 <div class="h-card">
-  <a class="p-name u-url"
-     href="http://leibniz.me/" 
-    >leibniz*</a> 
+You can contact me via <a rel="me" class="u-email" target="_blank" href="http://www.shortwhale.com/leibniz">email</a> or via <a rel="me" target="_blank" class="u-url" href="https://twitter.com/leibniz">Twitter</a>. I'm also on <a rel="me" class="u-url" href="https://github.com/macchioni" target="_blank" >Github</a> and <a href="https://instagram.com/piero_mac" rel="me" target="_blank" >Instagram</a>. At the moment I do not fancy Facebook that much (a few reasons <a href"/open-web/">here</a>).
 </div>
-
-<ul>
-	<li> <a rel="me" class="u-url" href="https://twitter.com/leibniz">Twitter</a> </li>
-	<li> <a rel="me" class="u-url" href="https://github.com/macchioni">Github</a> </li>
-</ul>
