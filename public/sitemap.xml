@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://macchioni.in/blog/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,6 +23,11 @@
   <url>
     <loc>https://macchioni.in/contatti/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macchioni.in/blog/2017-10-14-standing-on-the-shoulders-of-tech-giants/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -9282,7 +9287,7 @@
   
   <url>
     <loc>https://macchioni.in/tags/facebook/</loc>
-    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -9360,7 +9365,7 @@
   
   <url>
     <loc>https://macchioni.in/tags/freedom/</loc>
-    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -10211,7 +10216,7 @@
   
   <url>
     <loc>https://macchioni.in/tags/news/</loc>
-    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -10776,6 +10781,12 @@
   <url>
     <loc>https://macchioni.in/tags/technology/</loc>
     <lastmod>2010-10-07T08:44:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://macchioni.in/categories/technology/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
