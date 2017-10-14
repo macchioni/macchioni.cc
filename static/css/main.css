@@ -415,3 +415,8 @@ a {
    background: url('/images/icon_top.png') no-repeat;
  }
 
+ blockquote {
+  color: #888;
+  font-style: italic;
+  margin: 1em 3em; }
+
