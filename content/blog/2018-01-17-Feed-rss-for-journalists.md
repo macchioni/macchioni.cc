@@ -1,8 +1,8 @@
 ---
-author: leibniz
+author: Piero Macchioni
 date: 2018-01-17
-layout: post
 title: Feeds for journalists
+description: A project to keep together relevant News RSS sources for journalists.
 published: true
 categories:
 - journalism
