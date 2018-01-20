@@ -6,10 +6,21 @@
     <description>Recent content in Open Web on macchioni.in</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://macchioni.in/tags/open-web/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feeds for journalists</title>
+      <link>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists/</guid>
+      <description>This year started with a small project I really like: Feeds for Journalists, by Dave Winer. The idea is that RSS is still a valid technology to get an effective and unbiased flow of news.
+As he puts it, after reading a tweet by Mathew Ingram:
+ If you&amp;rsquo;re a journalist and you love RSS, please join me in an easy project to improve both. Let&amp;rsquo;s put together a list of starter feeds for journalists.</description>
+    </item>
     
     <item>
       <title>The struggle for the open web</title>

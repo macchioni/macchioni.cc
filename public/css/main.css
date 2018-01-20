@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  font-family: 'Merriweather', serif;
+  font-family: "Playfair Display", serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -414,4 +414,9 @@ a {
    text-indent: -9999px;
    background: url('/images/icon_top.png') no-repeat;
  }
+
+ blockquote {
+  color: #888;
+  font-style: italic;
+  margin: 1em 3em; }
 
