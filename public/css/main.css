@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  font-family: "Playfair Display", serif;
+  font-family: Lato, sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -15,13 +15,18 @@ body {
 
 h1,
 h2,
-h3,
+h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  color: #222;
+}
+
+
 h4,
 h5,
 h6 {
   font-family: 'Fira Sans Extra Condensed', sans-serif;
   text-transform: uppercase;
-  color: #222;
+  color: #778899;
 }
 
 a {
@@ -123,30 +128,23 @@ a {
 }
 
 .article-title {
-  font-family: 'Fira Sans Extra Condensed', sans-serif;
-  text-transform: uppercase;
+  font-family: 'Playfair Display', serif;
   font-size: 38px;
   color: #222;
   margin: 0;
   line-height: 1.2;
 }
 
-.article-date {
-  display: block;
-  color: #ccc;
-  font-size: 16px;
+.p-author a {
+  text-decoration: none;
+  color: inherit;
+  background: transparent;
 }
 
-.article-duration {
-  margin-top: 12px;
-  float: right;
-  font-size: 10px;
-  font-family: 'Lato', sans-serif;
-  padding: 1px 5px;
-  font-weight: bold;
-  border-radius: 3px;
-  background: #bbb;
-  color: #fff
+.article-date {
+  display: block;
+  color: #778899;
+  font-size: 16px;
 }
 
 .article-content p {
@@ -214,7 +212,7 @@ a {
 }
 
 .archive-item-date {
-  color: #ccc;
+  color: #778899;
   font-size: 14px;
   padding: 5px 0;
   margin-top: 0px;
@@ -224,10 +222,10 @@ a {
 .archive-item-link {
   display: inline-block;
   text-decoration: none;
-  font-size: 21px;
-  font-family: 'Fira Sans Extra Condensed', sans-serif;
-  text-transform: uppercase;
-  color: #222;
+  font-size: 23px;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: bold;
+  color: black;
   padding: 5px 0;
   border-bottom: 1px solid #0099ff;
 }
@@ -246,7 +244,7 @@ a {
   list-style: none;
   margin: 0;
   padding: 0;
-  color: #ccc;
+  color: #778899;
   font-size: 14px;
 }
 
@@ -416,7 +414,9 @@ a {
  }
 
  blockquote {
-  color: #888;
-  font-style: italic;
+  font-family: "Playfair Display", Georgia, serif;
+  color: #778899;
+  font-size: 1.1em;
+  font-style: bold;
   margin: 1em 3em; }
 

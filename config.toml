@@ -1,7 +1,8 @@
 baseURL = "https://macchioni.in/"
 languageCode = "en-us"
-title = "macchioni.in"
+title = "Piero Macchioni"
 theme = "hugo-lithium-theme"
+rssLimit = 15
 
 [Params]
   Author = "Piero Macchioni"

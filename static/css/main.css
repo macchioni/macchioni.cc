@@ -128,29 +128,23 @@ a {
 }
 
 .article-title {
-  font-family: 'Playfair Display', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-size: 38px;
   color: #222;
   margin: 0;
   line-height: 1.2;
 }
 
+.p-author a {
+  text-decoration: none;
+  color: inherit;
+  background: transparent;
+}
+
 .article-date {
   display: block;
   color: #778899;
   font-size: 16px;
-}
-
-.article-duration {
-  margin-top: 12px;
-  float: right;
-  font-size: 10px;
-  font-family: 'Lato', sans-serif;
-  padding: 1px 5px;
-  font-weight: bold;
-  border-radius: 3px;
-  background: #bbb;
-  color: #fff
 }
 
 .article-content p {
@@ -420,7 +414,9 @@ a {
  }
 
  blockquote {
-  color: #888;
-  font-style: italic;
+  font-family: "Playfair Display", Georgia, serif;
+  color: #778899;
+  font-size: 1.1em;
+  font-style: bold;
   margin: 1em 3em; }
 
