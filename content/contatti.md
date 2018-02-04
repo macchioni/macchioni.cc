@@ -1,8 +1,8 @@
 +++
 type = "static"
 page = "static/contatti.html"
-title = "contatti"
-description = "contatti - Piero Macchioni, journo"
+title = "contact me"
+description = "contact me - Piero Macchioni, journo"
 menu = "main"
 weight = "5"
 date = "2016-05-05T21:48:51-07:00"
