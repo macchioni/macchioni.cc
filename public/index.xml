@@ -41,7 +41,7 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
     </item>
     
     <item>
-      <title>contatti</title>
+      <title>contact me</title>
       <link>https://macchioni.in/contatti/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
@@ -50,11 +50,21 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
     </item>
     
     <item>
+      <title>What Steven Pinker&#39;s Enlightenment Now can teach to journalism</title>
+      <link>https://macchioni.in/blog/2018-02-02-steven-pinker-enlightment-for-journalism/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://macchioni.in/blog/2018-02-02-steven-pinker-enlightment-for-journalism/</guid>
+      <description>Steven Pinker&amp;rsquo;s latest fatigue, Enlightment Now, has already been tagged like the book everyone has to read - well - now. His big sponsor is a guy named Bill Gates and actually Pinker has a few bullets in his belt.
+The book&amp;rsquo;s central idea is that we tend to forget the forces of progress the world has experienced, because our natural pessimism is reinforced every day by politics, media and viral false-beliefs.</description>
+    </item>
+    
+    <item>
       <title>Feeds for journalists</title>
-      <link>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists/</link>
+      <link>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists-copia/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists/</guid>
+      <guid>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists-copia/</guid>
       <description>This year started with a small project I really like: Feeds for Journalists, by Dave Winer. The idea is that RSS is still a valid technology to get an effective and unbiased flow of news.
 As he puts it, after reading a tweet by Mathew Ingram:
  If you&amp;rsquo;re a journalist and you love RSS, please join me in an easy project to improve both. Let&amp;rsquo;s put together a list of starter feeds for journalists.</description>
@@ -147,15 +157,6 @@ First step, he said, forget your readers for a moment and start your own News Ri
       <description>Westworld è la serie tv HBO che fa parte di quella categoria dei serial che si guardano fino alla fine solo per capire che cosa tu stia effettivamente guardando. O anche di quelli che, leggendo la trama per la prima volta, dici: «Niente da fare, che è &amp;lsquo;sta boiata?». E poi chiedi scusa al dio delle serie tv.
 Le prime 10 puntate le ho seguite così:
  Visione episodio. Lettura delle più assurde teorie sulla trama su Reddit, dove il popolo del web la sa veramente lunga.</description>
-    </item>
-    
-    <item>
-      <title>Robert Allen Zimmerman</title>
-      <link>https://macchioni.in/blog/2016-10-13-robert-allen-zimmerman/</link>
-      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://macchioni.in/blog/2016-10-13-robert-allen-zimmerman/</guid>
-      <description>For having created new poetic expressions within the great American song tradition.</description>
     </item>
     
   </channel>
