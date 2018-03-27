@@ -7,7 +7,7 @@
     {{ end }}
     <div class="p-name"><h1 class="article-title">{{ .Title }}</h1></div>
     {{ if eq .Section "blog" }}
-    <time class="article-date" class="dt-published" datetime="MM-DD-YY">{{ .Date.Format "January 2, 2006" }} <a class="fa fa-link" class="u-url" href="{{.RelPermalink}}"></a> posted <a rel="author" class="p-author h-card" href="/">Piero Macchioni</a></time>
+    <time class="article-date" class="dt-published" datetime="MM-DD-YY">{{ .Date.Format "January 2, 2006" }} <a class="fa fa-link" class="u-url" href="{{.RelPermalink}}"></a> posted by <a rel="author" class="p-author h-card" href="/">Piero Macchioni</a></time>
     {{ end }}
     <div class="e-content" class="article-content">{{ .Content }}</div>
   </article>
