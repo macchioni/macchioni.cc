@@ -27,7 +27,7 @@ Pinker says that the first thing any media org has to do is place news in their 
 
 - Op-eds should not use something blew up yesterday as the indication that the world is getting worse.
 
-- All claims have to be backed up by statistical data and comparisons with past periods. As Professor P. says: «Things may suck now, but in many cases they were worse in the past (Vietnam War was worse than Syrian conflict).
+- All claims have to be backed up by statistical data and comparisons with past periods. As Professor P. says: «Things may suck now, but in many cases they were worse in the past» (Vietnam War was worse than Syrian conflict).
 
 
 ### Humans need help to be reasonable
