@@ -1,7 +1,7 @@
 ---
 author: Piero Macchioni
 date: 2018-03-27
-title: Facebook's psychological gravity
+title: The psychological gravity of Facebook
 description: After the Cambridge Analytica scandal and Facebook: the greater force against the open web is psychological gravity, not technical inertia, says Dan Cohen.
 published: true
 categories:
