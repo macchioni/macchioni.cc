@@ -1,13 +1,14 @@
 ---
 author: Piero Macchioni
 date: 2018-03-27
+title: The psychological gravity of Facebook
 description: After the Cambridge Analytica scandal and Facebook: the greater force against the open web is psychological gravity, not technical inertia, says Dan Cohen.
 published: true
 categories:
-- quotes
+- journalism
 tags:
-- Facebook
-- open web
+- elezioni
+- giornali
 ---
 
 This Cambridge Analytica scandal is generating a lot of interesting writing. I should bind that in somewhere. For now, let's pin this.
