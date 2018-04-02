@@ -18,10 +18,7 @@
 
 
 
-
-  <link href="https://macchioni.in/blog/index.xml" rel="alternate" type="application/rss+xml" title="Piero Macchioni" />
-  <link href="https://macchioni.in/blog/index.xml" rel="feed" type="application/rss+xml" title="Piero Macchioni" />
-
+<link rel="alternate" href="https://macchioni.in/index.xml" type="application/rss+xml" title="Piero Macchioni"/>
 
 <link rel="icon" 
       type="image/png" 
@@ -94,6 +91,146 @@
 
 <div class="archive">
     
+      
+<article class="archive-item">
+        <h2 class="article-title" class="archive-title"><a href="/blog/2014-10-09-river-of-news-in-prima-pagina/">C’è un fiume in prima pagina</a></h2>
+        <span class="article-date" class="dt-published" class="p-name">October 9, 2014</span><br />
+       
+        <div class="article"><p>Qualche giorno fa ero a Ferrara, dove la rivista <a href="http://www.internazionale.it/"><em>Internazionale</em></a> ha presentato in anteprima il nuovo sito che sarà online a breve. Non è l’ennesima home page e non è nemmeno il milionesimo progetto che si annuncia rivoluzionario. Però è una scelta coraggiosa di cui bisogna parlare perché la direzione intrapresa non sarà quella della prima pagina tradizionale che vediamo nei quotidiani online: <em>Internazionale</em> scommette quello che Dave Winer chiama <a href="http://scripting.com/2014/06/02/whatIsARiverOfNewsAggregator.html">“river-of-news”</a>. <strong>Un flusso in continuo aggiornamento fatto di atomi di notizie</strong>, che poi la redazione aggregherà come meglio crede. Una home che nasce per cambiare in continuazione. O, come ha detto il direttore Giovanni De Mauro, per pubblicare «un quotidiano al minuto».</p>
+
+<p><img src="http://leibniz.me/images/vault/newInternazionale.png" alt="" /></p>
+
+<p>###Take me down to the river
+Di river-of-news leggiamo da anni. Ha <a href="http://radio3.io/rivers/">quest’aspetto qui</a> ed è forse per questo che finisce per essere considerato una scelta un po’ nerd, adatta per programmatori come Dave Winer o per nostalgici di Google Reader. Le cose cambiano, però, se a scommetterci è <a href="http://www.markporter.com/">Mark Porter</a>, il grafico guru del mondo del giornalismo che di solito riesce a coniugare eleganza, funzionalità e senso nei suoi progetti (tutti citano il suo <a href="http://www.dandad.org/en/guardian-redesign/">Guardian</a>, ma guardate che cosa ha fatto al canale di news <a href="http://smorgasbordstudio.com/portfolio/broadcast/">RTL Nieuws</a>).</p>
+
+<p>Non so se Porter abbia letto questi pezzi, ma riassumono bene lo stato dell’arte:</p>
+
+<ul>
+<li>Doc Searls, <a href="http://blogs.law.harvard.edu/doc/2007/10/19/future-to-newspapers-jump-in-the-river/">Future to Newspapers: Jump in the river</a>, 2007</li>
+<li>Dave Winer, <a href="http://scripting.com/stories/2012/03/29/everyNewsOrgShouldHaveARiv.html">Every news org should have a river</a>, 2012</li>
+<li>Victoria Turk, <a href="http://motherboard.vice.com/read/the-future-of-the-web-is-as-much-about-psychology-as-technology">The Future of the Web Is as Much About Psychology as Technology</a>, 2014</li>
+</ul>
+
+<p>###Il flusso canalizzatore
+Come vedete, i primi articoli sul tema sono di una vita fa. Ma c’è un motivo se l’idea del river sta tornando: ci stiamo abituando a ricevere le informazioni in questo formato.</p>
+
+<ol>
+<li>Fino a poco tempo fa, un flusso di notizie tutte con lo stesso peso, o al massimo segnalate da qualche segno di priorità (ticker rosso, oppure un  “+++” prima e dopo il titolo), era familiare solo per i giornalisti abituati a ricevere in quel formato <strong>i feed delle agenzie di stampa</strong>.</li>
+<li>Poi un mondo sempre più vasto - anche se non abbastanza - ha imparato a conoscere i <a href="https://it.wikipedia.org/wiki/RSS"><strong>feed rss</strong></a>, a leggere siti e blog solo quando venivano aggiornati, a risparmiare tempo e a organizzare meglio le informazioni.</li>
+<li>Poi ancora è arrivato <strong>Facebook</strong> e si è mangiato tutto, ma almeno ha abituato le persone all’idea di un flusso di informazioni provenienti da una Rete (nel caso specifico, gli amici).</li>
+<li>E, certo, c’era anche <strong>Twitter</strong>: stesso discorso. Con il plus che già oggi Twitter è come le agenzie di stampa 10-20-30 anni fa, ma gratis.<br /></li>
+<li>Va bene, nel calderone mettetci pure WhatsApp, l’instant messaging, il mobile e la possibilità di diffondere a costo zero le “ultim’ora” via notifiche push.</li>
+</ol>
+
+<p><img src="http://leibniz.me/images/vault/flusso.png" alt="" /></p>
+
+<p>###Funziona o non funziona?
+Essere abituati a un certo dipo di formato d’informazione, non garantisce che poi sarà quello che la gente andrà a cercare. I river-of-news hanno dei “signori problemi”:</p>
+
+<ul>
+<li><strong>Sfuggono a una gerarchia, o meglio, rispettano solo quella del “qui e subito”</strong>. In questo momento, via news river, il <em>New York Times</em> mi dice che nello Stato della Georgia il voto democratico potrebbe essere sottostimato; ma ovunque il tema “da prima pagina” è un altro ed è <mark>ebola</mark> (anche se noi italiani ci accontentismo dei cinquestelle che lanciano monetine in Senato).</li>
+<li><strong>Costringono l’utente</strong> a dipendere dalla navigazione su web, oppure a dipendere da un’app, o ad avere una timeline di Facebook affollatissima.</li>
+<li>In generale <strong>sono poco sexy</strong>, dato che l’attualità non è decisa da un art director (ma tipografia, foto e altro, magari sì).</li>
+<li><strong>Hanno bisogno di una sorta di ri-gerarchizzazione</strong> per aiutare il lettore a capire che cosa si è perso mentre - tipo - era impegnato a vivere.  Come le <a href="http://www.vox.com/cardstacks">card-stacks</a> di <em>Vox.com</em>, vedi sotto, o il <a href="http://www.thedailybeast.com/cheats/2014/10/08/imf-china-passes-u-s-as-biggest-economy.html">cheat sheet</a> del <em>Daily Beast</em>. Quest’ultima, guardando la demo, mi sembra la strada intrapresa da <em>Internazionale</em>.</li>
+</ul>
+
+<p><img src="http://leibniz.me/images/vault/cardstack.png" alt="" /></p>
+
+<p>###Tutti ar fiume<br />
+C’è un’ultima cosa che va detta sul concetto di river-of-news. Funziona, e funziona ancora di più, se scegliessimo tutti di ricevere le notizie, dalle nostre fonti, in questo formato. Immaginate <strong>un Feedly all’ennesima potenza</strong>, meglio ancora un qualcosa non dipendente totalmente dagli algoritmi di Facebook o di Google News. <a href="http://scripting.com/stories/2012/03/29/everyNewsOrgShouldHaveARiv.html#8HavingTheRiverWillAlsoFocusIyouriMindYoullSeeTrendsYouWouldntOtherwiseSeeYoullGetIdeasForStoriesYouWouldntOtherwiseGetSeeingThingsFromOtherPeoplesPerspectiveAlwaysDoesThatYouSeeThingsYouDidntSeeBeforeSeemsAlmostSelfevidentButUntilYouDoItYouDontIexperienceiItAndExperienceIsVeryImportantHere">Diceva</a> sempre Winer:</p>
+
+<blockquote>
+<p>Having the river will also focus your mind. <mark>You&rsquo;ll see trends you wouldn&rsquo;t otherwise see.</mark> You&rsquo;ll get ideas for stories you wouldn&rsquo;t otherwise get. Seeing things from other people&rsquo;s perspective always does that. You see things you didn&rsquo;t see before. Seems almost self-evident, but until you do it, you don&rsquo;t experience it, and experience is very important here. permalink</p>
+</blockquote>
+
+<p>Lui, in questo caso si stava rivolgendo ai giornalisti. Ma il consiglio sembra di quelli buoni per tutti.</p>
+ </div>
+ 
+        <p><a class="fa fa-chevron-right" href="/blog/2014-10-09-river-of-news-in-prima-pagina/" class="read-more-link"> read more</a></p>
+    </article>
+ 
+      
+<article class="archive-item">
+        <h2 class="article-title" class="archive-title"><a href="/blog/2014-09-29-iphone-6-plus-non-e-enorme/">L&#39;iPhone 6 Plus è enorme. Anzi no</a></h2>
+        <span class="article-date" class="dt-published" class="p-name">September 29, 2014</span><br />
+       
+        <div class="article"><p>Chi ha preso il nuovo <a href="https://www.apple.com/it/iphone-6/">iPhone 6 Plus</a> in Italia, e ci sta giocando da qualche ora, magari è perplesso. Rispetto al 5S è gigantesco. Rispetto a tutti gli iPhone precedenti è gigantesco. Rispetto all&rsquo;iPhone 6 è solo bello grosso.</p>
+
+<p>Non vi sta bene come prima nel palmo di mano. In tasca, se siete uomini e avete i pantaloni taglio chino, rischiate di perderlo ogni volta che vi sedete. Cominciate a dubitare dell&rsquo;efficacia del vostro pollice opponibile. Siete terrorizzati di sedervi sul telefono e piegarlo come è accaduto a qualche furbone (tipo a 6 persone su 10 milioni). Tranquilli, se un iPhone 6 si piega, un 5S, sedendovici sopra, lo riducevate in briciole.</p>
+
+<p>Insomma, non datelo via. Non pentitevi, perché vi abituerete presto. Se volete, qui sotto vi spiego perché.</p>
+
+<p><img src="http://leibniz.me/images/vault/oneplus.png" alt="drawing" /></p>
+
+<p>Ho già usato un telefono 5.5&rdquo; prima. No, non un Samsung Galaxy Note che, diciamolo, a forza di sfondare in Oriente, ha convinto Cupertino ad andare sulle taglie forti. No, ho trovato il Note sempre un po&rsquo; macchinoso. Invece, quello che mi ha davvero sedotto è stato il <a href="http://onePlus.net/it">OnePlus One</a>, un apparecchio che ho fatto arrivare dalla Cina con <a href="http://www.smartylife.net">Smarty</a> e che è costato mendo di un terzo di iPhone 6 Plus (sarò breve: nel confronto hardware ovviamente ci perde, ma è probabilmente l&rsquo;Android più performante che ho mai provato. Htc One compreso).</p>
+
+<p>Torniamo all&rsquo;affare &ldquo;Plus&rdquo;. Il confronto lo vedete in alto: come dimensioni siamo lì.</p>
+
+<p>Ecco, appena prendi un terminale da 5,5&rdquo; pensi: «No, io non ce la faccio. Troppo grosso». La gente lo nota subito. Non considera altro, se non la dimensione. Poi cominciano a invidiarti lo schermo. A vedere come scrivi meglio con la tastiera più ariosa, come rendono di più le pagine web o le app per leggere come Instapaper &amp; co.</p>
+
+<p><img src="http://leibniz.me/images/vault/cook.jpg" alt="drawing" /></p>
+
+<p>Ovviamente, per adattarsi, molto dipende da voi, ma moltissimo dal software. Se iOS8 è stato pensato per il &ldquo;telefonone&rdquo;, rendendovi facile la vita, siete a posto. State tranquilli.</p>
+
+<p>Se siete presbiti, Plus tutta la vita.</p>
+
+<p>Certo, se la situazione è ragazza con mani piccole, Plus è un bel padellone. Forse non ci scommetterei sopra quel migliaio di euro che costa, andrei più sicuro sui 4,7&rdquo; di iPhone 6.</p>
+
+<p>Se siete incontentabili, certo, il design degli iPhone da 4 a 5 era più &ldquo;industriale&rdquo;, meno glossy, più bello, in un certo senso. Ma se siete incontantabili, oggi state desiderando il miglior smartphone mai prodotto. State pensando al processore A8 e al M8, quindi all&rsquo;iPhone 6. E se volete sempre il massimo, se al giro prima fremevate per il color champagne, stavolta fremete per il Plus.</p>
+
+<p>Come la mette <a href="http://www.theverge.com/2014/9/16/6155009/apple-iphone-6-plus-review">Nilay Patel</a> su The Verge:</p>
+
+<blockquote>
+<p>We’re going to need bigger hands.</p>
+</blockquote>
+
+<p>E, alla peggio, come dimostra Austin Mann, <a href="http://austinmann.com/trek/iphone-6-plus-camera-review-iceland">fa delle foto da paura</a>.</p>
+
+<p><img src="http://cdn3.vox-cdn.com/uploads/chorus_asset/file/969574/iphone-6-travel-camera-review-macro.0.jpg" alt="drawing" /></p>
+ </div>
+ 
+        <p><a class="fa fa-chevron-right" href="/blog/2014-09-29-iphone-6-plus-non-e-enorme/" class="read-more-link"> read more</a></p>
+    </article>
+ 
+      
+<article class="archive-item">
+        <h2 class="article-title" class="archive-title"><a href="/blog/2014-09-28-il-momento-del-podcast/">Il momento del podcast</a></h2>
+        <span class="article-date" class="dt-published" class="p-name">September 28, 2014</span><br />
+       
+        <div class="article"><p>Dato che dicono sia <a href="http://www.fastcompany.com/3035954/most-creative-people/the-surprisingly-profitable-rise-of-podcast-networks?curator=MediaREDEF">tornato il momento dei podcast</a> (sort of), metto qui sotto i feed di quelli che, quando posso, ascolto volentieri.</p>
+
+<p><img src="http://leibniz.me/images/vault/podcasts.jpg" alt="drawing" /></p>
+
+<ul>
+<li><p><a href="http://feeds.feedburner.com/artofmanlinesspodcast">The Art of Manliness</a>
+&gt;The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men.</p></li>
+
+<li><p><a href="http://feeds.99percentinvisible.org/99percentinvisible?">99% Invisible</a>
+&gt; Design is everywhere in our lives, perhaps most importantly in the places where we&rsquo;ve just stopped noticing. 99% Invisible (99 Percent Invisible) is a weekly exploration of the process and power of design and architecture.</p></li>
+
+<li><p><a href="http://thecandidframe.libsyn.com/rss">The Candid Frame: A Photography Podcast</a>
+&gt;A podcast about photography, photographers and photographs. By Ibarionex Perello.</p></li>
+
+<li><p><a href="http://feedpress.me/weeklybriefly">The Weekly Briefly</a>
+&gt;The Weekly Briefly is a very short, weekly podcast discussing creativity, technology, and the like. It serves as the once-a-week public episode of the daily, members-only podcast, Shawn Today. By Shawn Blanc.</p></li>
+
+<li><p><a href="http://youarenotsosmart.libsyn.com/rss">You Are Not So Smart</a>
+&gt; You Are Not So Smart is a celebration of self delusion that explores topics related to cognitive biases, heuristics, and logical fallacies. David McRaney interviews scientists about their research into how the mind works, and then he eats a cookie.</p></li>
+
+<li><p><a href="http://www.radio.rai.it/radio2/podcast/rssradio2.jsp?id=11466">Mu</a>
+&gt;Il programma di @MatteoBordone su @RaiRadio2 che coniuga bovini e musica. Sabato e domenica dalle 17 alle 18.</p></li>
+
+<li><p><a href="http://www4.rsi.ch/podcast/rss/Characters.cfm">Characters</a>
+&gt; Racconti di sport a cura dell&rsquo;avvocato, Federico Buffa. Il suo personale Santiago Bernabeu.</p></li>
+
+<li><p><a href="http://feeds.feedburner.com/freakonomicsradio">Freakonomics Radio</a>
+&gt;In their books &ldquo;Freakonomics,&rdquo; &ldquo;SuperFreakonomics,&rdquo; and &ldquo;Think Like a Freak,&rdquo; Steven D. Levitt and Stephen J. Dubner explore &ldquo;the hidden side of everything&rdquo;, telling stories about cheating schoolteachers and eating champions. The Freakonomics Radio podcast, hosted by Dubner, carries on that tradition.</p></li>
+</ul>
+ </div>
+ 
+        <p><a class="fa fa-chevron-right" href="/blog/2014-09-28-il-momento-del-podcast/" class="read-more-link"> read more</a></p>
+    </article>
+ 
       
 <article class="archive-item">
         <h2 class="article-title" class="archive-title"><a href="/blog/2014-08-31-interview-with-craig-semetko-leica-chat/">Street photography, in chat con Craig Semetko</a></h2>
@@ -273,159 +410,6 @@ Per realizzare il suo prodotto Blanc si è scritto il libro e ha lavorato sul ma
  </div>
  
         <p><a class="fa fa-chevron-right" href="/blog/2014-08-17-publish-your-book-like-a-hacker/" class="read-more-link"> read more</a></p>
-    </article>
- 
-      
-<article class="archive-item">
-        <h2 class="article-title" class="archive-title"><a href="/blog/2014-06-14-sotn14-just-a-little-easier/">Just a little easier</a></h2>
-        <span class="article-date" class="dt-published" class="p-name">June 14, 2014</span><br />
-       
-        <div class="article"><p><img src="http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10467806_1423072234644328_592922709_n.jpg" alt="drawing" /></p>
-
-<p>Di solito, dopo una giornata a <a href="http://sotn.it">State of the Net</a> (la foto qui su è di <a href="http://instagram.com/emaposh">Emanuela Ciccone</a>), la conference di Trieste dedicata ai cambiamenti del web e dal web, si torna a casa con tante idee e la voglia di metterle in fila. Stavolta rimando a un altro giorno.</p>
-
-<p>Il motivo è che una conferenza come questa non è solo i suoi contenuti. Né i suoi relatori, o i suoi ospiti. Non solo, almeno. Come tutti gli eventi culturali, è una produzione difficile e complessa, quest&rsquo;anno forse più che in passato. E un grazie frettoloso alla tenacia di <a href="http://www.sergiomaistrello.it/">Sergio</a>, <a href="http://sotn.it/founders/pagliaro/">Beniamino</a> e <a href="http://val.demar.in/">Paolo</a> stavolta non basta.</p>
-
-<p>Dal <a href="http://www.festivaldelgiornalismo.com/">Festival del Giornalismo di Perugia</a> al <a href="http://www.mufoco.org/">Museo di Fotografia Contemporanea di Cinisello Balsamo</a>, le produzioni/organizzazioni culturali continuano ad aver bisogno di trovare chi creda in loro. Soldi, insomma. Almeno un po&rsquo; per andare in pari e lasciare il valore aggiunto delle idee in tasca ai loro fruitori e al territorio.</p>
-
-<p>«Money is not enough to bring change», <a href="http://www.coseinfila.it/2014/06/13/state-of-the-net-speech-do-a-thing/">ha detto</a> Beniamino aprendo Sotn14. E ha detto anche questo:</p>
-
-<blockquote>
-<p>we wanted to do something. State of the Net. We do it because we like it. And basically, we do it because we all want a (good and beautiful) thing to be done. Maybe you can remember something if I say “Just do it”. Let’s say “Do-a-thing”. It’s kind of a start.</p>
-</blockquote>
-
-<p>Ha ragione. Comunque bisogna darsi da fare. Trovare soluzioni. Conquistare chi ha voglia di investire nelle idee. Solo che in Italia è difficile.</p>
-
-<p><img src="http://leibniz.me/images/vault/easier.png" alt="drawing" /></p>
-
-<p>Viene in mente la serie tv <em>West Wing</em> e le due bellissime puntate intitolate <a href="http://goo.gl/cLUAMe">&ldquo;20 hours in America&rdquo;</a>. Sarebbe lunga, ma sintetizzo: lo staff del Presidente degli Stati Uniti si trova, per sbaglio, a viaggiare attraverso il &ldquo;Paese reale&rdquo; nel giorno in cui crolla la Borsa. Succedono tante cose, ma, insomma, a fine giornata - scazzatissimi - al bar dell&rsquo;hotel incontrano Matt, un padre che ha portato la figlia a visitare il college che frequenterà. Mentre la tv parla del tonfo di Wall Street (il video è <a href="http://youtu.be/fJRcDHKrSqw">qui</a>) c&rsquo;è questo dialogo.</p>
-
-<blockquote>
-<p><strong>MATT</strong> Beautiful campus. I&rsquo;ve never seen anything like it. She-she&rsquo;s not going to get to sleep tonight. You see what happened in the market today?</p>
-
-<p><strong>TOBY</strong> Yeah, I-I saw. You invested?</p>
-
-<p><strong>MATT</strong> Ehh&hellip; <strong>Mutual fund that&rsquo;s supposed to send her to college</strong>. I never imagined at $55,000 a year, I&rsquo;d have trouble making ends meet. And my wife brings in another 25. [&hellip;] I spend half the day thinking about what happens if I slip and fall down on my own front porch, you know? <strong>It should be hard. I like that it&rsquo;s hard. Putting your daughter through college, that&rsquo;s-that&rsquo;s a man&rsquo;s job. A man&rsquo;s accomplishment. But it should be a little easier. Just a little easier. &lsquo;Cause in that difference is&hellip; everything</strong>.</p>
-</blockquote>
-
-<p>È giusto che le cose a cui tieni siano difficili da ottenere. O, comunque, sono qualcosa per la quale sei disposto a lottare. Quindi, ok. Ma dovrebbero essere un po&rsquo; più semplici. <em>Just a little easier</em>. In quella differenza c&rsquo;è tutto. E, nel frattempo, la differenza dobbiamo farla noi.</p>
-
-<p>Magari - Beniamino, Paolo e Sergio - quell&rsquo;impalpabile <em>just a little easier</em> potrebbe essere il tema del prossimo anno. Intanto, grazie davvero.</p>
-
-<p><img src="http://leibniz.me/images/vault/sotn14.png" alt="drawing" /></p>
- </div>
- 
-        <p><a class="fa fa-chevron-right" href="/blog/2014-06-14-sotn14-just-a-little-easier/" class="read-more-link"> read more</a></p>
-    </article>
- 
-      
-<article class="archive-item">
-        <h2 class="article-title" class="archive-title"><a href="/2014/06/12/undici-cose-sulla-rivista-11/">Undici cose sulla rivista 11</a></h2>
-        <span class="article-date" class="dt-published" class="p-name">June 12, 2014</span><br />
-       
-        <div class="article"><p><img src="http://leibniz.me/images/vault/undici.png" alt="drawing" /></p>
-
-<p>È uscita <a href="http://rivistaundici.com">11</a>, la rivista di storie di calcio e di sport diretta da <a href="https://twitter.com/giudebellis">Giuseppe De Bellis</a> e firmata da tanta gente brava e da qualche nome giusto. Costa 7 euro in edicola, ma ci si può abbonare a 4 numeri per 24 euro.</p>
-
-<p><img src="http://leibniz.me/images/vault/11ddr.png" alt="drawing" /></p>
-
-<ol>
-<li><strong>Bella</strong>. Così ci togliamo subito il pensiero.</li>
-<li><strong>Non bella come <a href="http://www.howlermagazine.com/"><em>Howler</em></a></strong>, se è quell&rsquo;estetica lì che avete in mente.</li>
-<li><strong>Il corpo dei testi è piccolo</strong>, o almeno piccolo per una rivista di lettura che si presume essere di piacere.</li>
-<li>C&rsquo;è <strong>Federico Buffa</strong>, che è il mio personale <a href="http://goo.gl/9kaJX8">Black Jesus</a> da 20 anni. Se l&rsquo;avete scoperto ora (su, e ditelo che leggete Aldo Grasso), recuperate i podcast di <em>Characters</em>, il programma che cura su RSI (il feed è <a href="http://www4.rsi.ch/podcast/rss/Characters.cfm">qui</a>).</li>
-<li><strong>Cose molto belle:</strong>
-
-<ul>
-<li>la testata</li>
-<li>Daniele De Rossi in cover</li>
-<li>l&rsquo;impaginazione del pezzo sull&rsquo;organizzazione delle produzioni tv  (meno belle le foto)</li>
-<li>l&rsquo;idea di recuperare le foto di <a href="http://www.thomashoeffgen.com/">Thomas Hoeffgen</a> (2010) sui campetti di calcio africani</li>
-<li>la pubblicità di Jeep e Fred Perry</li>
-</ul></li>
-<li><strong>Cose meno belle:</strong>
-
-<ul>
-<li>l&rsquo;impaginazione delle prime singole, con il capolettera in mezzo alla pagina</li>
-<li>troppi ritrattoni da una pagina di Zanetti nel pezzo su Zanetti</li>
-<li>i servizi realizzati con le foto &ldquo;pubblicitarie&rdquo; (AdidasDeRossi, gli inguardabili 11 Samsunghiani, i guanti da Puma-portiere, ecc&hellip;). Si capisce il motivo, ma è un peccato.</li>
-</ul></li>
-<li>Agli scriventi, sembra, è stata lasciata libertà di aprire al massimo le valvole della <strong>passione</strong>. L&rsquo;effetto è piacevole (penso al pezzo di Pierluigi Pardo sull&rsquo;Inghilterra).</li>
-<li><strong>&ldquo;La mappa molto affollata dell&rsquo;Italia ai Mondiali&rdquo;</strong> è una specie di format di gol disegnati del <em>Guerin Sportivo</em>, ma on steroids. L&rsquo;obiettivo di queste cose, di solito, è stratificare o condensare dei dati o tante storie in un solo disegno. Il risultato è quella roba che ormai è il trademark dei giornali &ldquo;sì-siamo-smart&rdquo; di oggi: il paginone grafico de <em>La Lettura</em> del <em>Corriere</em>, più o meno mezzo <em>IL</em> del <em>Sole</em>, ecc&hellip; Quando li vedo penso sempre al casino che ci vuole per realizzarli e all&rsquo;effetto finale che mi fanno: una via di mezzo tra il &ldquo;roba complessa, questi della rivista X devono essere davvero molto bravi&rdquo; e un &ldquo;i <em>Promessi Sposi</em> già mi sembravano una fatica inutile al liceo, ma sotto forma di infografica sono ancora più inavvicinabili&rdquo;.</li>
-<li>La citazione dovuta alla rivista <strong><a href="http://www.11freunde.de/"><em>11 Freunde</em></a></strong> e il bel collage delle sue copertine.</li>
-<li>Promossi <strong>il regista</strong> De Bellis e la sua squadra.</li>
-<li>Non ho letto ancora tutto tutto tutto. C&rsquo;è Sorrentino (e vabbè, pure qui) però, a prima vista, mi sembra, in <em>11</em> non c&rsquo;è traccia di <strong>Renzi</strong> e di <strong>Berlusconi</strong>. Ma che davéro??! Nel caso, grandi <a href="http://goo.gl/KgN7IY">kudos</a>.</li>
-</ol>
-
-<p><img src="http://leibniz.me/images/vault/11calcio.png" alt="drawing" /></p>
-
-<p>{% include twitter_plug.html %}</p>
- </div>
- 
-        <p><a class="fa fa-chevron-right" href="/2014/06/12/undici-cose-sulla-rivista-11/" class="read-more-link"> read more</a></p>
-    </article>
- 
-      
-<article class="archive-item">
-        <h2 class="article-title" class="archive-title"><a href="/2014/06/02/butterball-hotline-june-02nd/">Butterball Hotline - June 2nd</a></h2>
-        <span class="article-date" class="dt-published" class="p-name">June 2, 2014</span><br />
-       
-        <div class="article"><p>###<em>Links, tl;dr e idee altrui dei giorni scorsi</em></p>
-
-<hr />
-
-<hr />
-
-<p><img src="http://sidedish.wpengine.com/wp-content/uploads/2012/12/fea-lucky-chang-momofuku-hed-2012.jpg" alt="drawing" /></p>
-
-<p>##NOODLES vs PASTRAMI
-A quanto pare siamo nell’<a href="http://www.nytimes.com/2014/05/28/dining/everything-new-is-old-again.html?_r=1&amp;ref=dining&amp;smid=tw-nytimes">Età d’oro del jewish-american deli food</a>, ma io non posso fare a meno di essere tentato da questo libro che trovo <a href="http://firstwefeast.com/eat/george-solt-on-the-messy-history-of-ramen/">citato ovunque</a>: <a href="http://www.amazon.com/The-Untold-History-Ramen-California/dp/0520282353">The Untold History of Ramen</a>. _PS: quello qui su è <a href="https://en.wikipedia.org/wiki/David_Chang">David Chang</a> di Momofuku._</p>
-
-<hr />
-
-<p><img src="http://happynicetimepeople.com/wp-content/uploads/2014/04/pied-piper-silicon-valley.jpg" alt="drawing" /></p>
-
-<p>##THE WHISTLE &amp; THE BLOWER
-<a href="http://www.nbcnews.com/feature/edward-snowden-interview/watch-primetime-special-inside-mind-edward-snowden-n117126">Edward Snowden</a> intervistato dalla Nbc.</p>
-
-<blockquote>
-<p>What is right is not always the same as what is legal.</p>
-</blockquote>
-
-<p><a href="http://www.ilpost.it/2014/05/26/intervista-glenn-greenwald/">Glenn Greenwald</a> che si beve una Coca con <a href="http://www.wittgenstein.it">Luca Sofri</a>.</p>
-
-<blockquote>
-<p>Ringrazio il cielo che non ci fosse il web quando avevo vent’anni.</p>
-</blockquote>
-
-<p>_PS: quello della foto è il tipo della serie tv <a href="http://goo.gl/eY0oCw">Silicon Valley</a>, con il <a href="http://www.underconsideration.com/brandnew/archives/pied_pipers_lowercase_logo.php">contestato logo</a> della sua startup, Pied Piper. E c’entra poco o nulla con Snowden e Greenwald._</p>
-
-<hr />
-
-<p><img src="http://tinablogsalot.files.wordpress.com/2013/03/2.png" alt="drawing" /></p>
-
-<p>##A BELLA! N’DO’VAI?
-Se siete di quelli che fischiano quando passa una bella ragazza, o se siete la bella ragazza, potrebbe interessarvi la <a href="http://www.theguardian.com/commentisfree/2014/may/30/an-open-letter-to-all-my-male-friends?CMP=EMCNEWEML6619I2">Lettera aperta ai miei amici maschi</a> di Estelle Tang, pubblicata dal <em>Guardian</em>:</p>
-
-<blockquote>
-<p>A few months ago, I avoided telling my boyfriend about these incidents, thinking it would sound like contextless boasting: “Look how many men think I’m hot!” But I’ve started telling him about more and more of these incidents. In fact, <strong>I want to start telling him about every single one.</strong> Not because I’m delighted to hear about how attractive I am to these men, or because I want people to feel sorry for me. I just want him – and you – to know. That harassment and violence against women is a very real thing, and that it affects its victims daily.</p>
-</blockquote>
-
-<hr />
-
-<p>##E INFINE…</p>
-
-<p><img src="http://graphics8.nytimes.com/images/2014/05/30/magazine/Pellegrin3/Pellegrin3-blog480.jpg" alt="drawing" /></p>
-
-<p>Il grande fotografo <a href="http://6thfloor.blogs.nytimes.com/2014/05/30/under-cover-paolo-pellegrin-on-photographing-srebrenica-20-years-after-the-genocide/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1&amp;">Paolo Pellegrin (di Magnum) parla di Srebrenica, 20 anni dopo il genocidio</a>, e trovate i suoi scatti in bianco e nero fatti per il <em>New York Times</em>.</p>
-
-<hr />
-
-<p><img src="https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/tumblr_m79mra0J2c1rwgohco1_500.jpg" alt="drawing" />
-La BBC dedica un <a href="https://www.youtube.com/watch?v=ne5pkYqqHns">breve servizio</a> ai 100 anni di Leica, nel quale interviene il fotogiornalista Tom Stoddart. E nel montaggio spunta anche la foto che vedete qui su, scattata nel 1993 da Jeff Mermelstein a New York.</p>
- </div>
- 
-        <p><a class="fa fa-chevron-right" href="/2014/06/02/butterball-hotline-june-02nd/" class="read-more-link"> read more</a></p>
     </article>
  
     

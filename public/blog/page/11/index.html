@@ -18,10 +18,7 @@
 
 
 
-
-  <link href="https://macchioni.in/blog/index.xml" rel="alternate" type="application/rss+xml" title="Piero Macchioni" />
-  <link href="https://macchioni.in/blog/index.xml" rel="feed" type="application/rss+xml" title="Piero Macchioni" />
-
+<link rel="alternate" href="https://macchioni.in/index.xml" type="application/rss+xml" title="Piero Macchioni"/>
 
 <link rel="icon" 
       type="image/png" 
@@ -96,6 +93,116 @@
     
       
 <article class="archive-item">
+        <h2 class="article-title" class="archive-title"><a href="/2014/03/18/passare-a-jekyll/">Perché passare a Jekyll (versione lunga)</a></h2>
+        <span class="article-date" class="dt-published" class="p-name">March 18, 2014</span><br />
+       
+        <div class="article"><p>Avevo promesso di spiegare in maniera più esaustiva il passaggio da <a href="https://wordpress.org">Wordpress</a> a <a href="http://jekyllrb.com/">Jekyll</a>. Cioè dal cms più completo in circolazione a quello più essenziale. Naturalmente è una scelta che forse andrà bene per me e potrebbe essere sbagliatissima per voi, ma è la risposta lato software/design a una certa sofferenza della classica struttura dei blog. Una forma diversa che segue l&rsquo;evoluzione dell&rsquo;internet, la diffusione del mobile e la necessità di layout più liquidi. In termini meno noiosi (spero), lo racconto qui sotto.</p>
+
+<p>###Il designer miope ci vede benissimo<br />
+Circa un anno e mezzo fa, non ricordo più come ma potrebbe essere colpa di <a href="https://friendfeed.com/eio/0d27e21f/web-design-manifesto-2012-jeffrey-zeldman">Eio</a>, mi imbatto in
+<a href="http://www.zeldman.com/2012/05/18/web-design-manifesto-2012/">questo post di Jeffrey Zeldman</a> scritto in un corpo enorme.</p>
+
+<blockquote>
+<p>I love seeing my words this big. It encourages me to write better and more often.</p>
+</blockquote>
+
+<p>Scrivere in un carattere grande mi invoglia a farlo meglio e più spesso, dice. Ma vale anche per la lettura: <a href="https://www.readability.com/">Readability</a>, <a href="https://www.instapaper.com/">Instapaper</a> e persino il &ldquo;reader mode&rdquo; di Safari su iOS7 hanno dimostrato che i testi sul web sono scritti troppo piccoli. Vanno reimpaginati per facilitarne la lettura. Su schermi di quattro pollici come sui tablet o sui desktop. La <a href="http://www.nytimes.com/redesign/">riforma grafica</a> del New York Times nel 2014 va esattamente in questa direzione. I blog e i siti più attenti stanno già seguendo. I nuovi temi di Wordpress ormai seguono i dettami del <a href="https://it.wikipedia.org/wiki/Responsive_Web_Design">design responsivo</a>. Ma per cambiare davvero, qui ho deciso di stare fermo. O meglio di essere statico.</p>
+
+<p>###Blog like a hacker<br />
+Una volta deciso di riportare al centro il testo e limitare i bling-bling, prima o poi guardi Wordpress e finisci per chiederti: ma a me serve davvero questo <a href="http://en.support.wordpress.com/dashboard/">enorme pannello di controllo</a>? Se vuoi linkare qualcosa prima degli altri, taggarlo bene, seguire le statistiche, collegare tutto ai social, scrivere in mobilità, fare backup, seguire le regole SEO, Worpress fa tutto più che bene. Vuoi una soluzione più agile? C&rsquo;è Tumblr. Però non ho scelto nemmeno quello. Il cambio di paradigma vero è un salto nel passato: un blog statico. Ovvero:</p>
+
+<ul>
+<li>un post = un file</li>
+<li>velocità di caricamento</li>
+<li>praticamente solo codice</li>
+</ul>
+
+<p>È una scelta per post più lunghi, pensati. Non per il modello &ldquo;rassegna stampa&rdquo; che una volta poteva andare bene, ma che ora è superato in velocità dai social. Fate conto che sia l&rsquo;equivalente di quella che è in fotografia la differenza tra un&rsquo;ottica fissa e un teleobiettivo: un equipaggiamento che ti costringe a trovare il tuo punto di vista, invece di permetterti potenzialmente tutto e - così facendo - complicare le cose. Insomma, il <a href="http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html">blogging like a hacker</a> pensiero.</p>
+
+<p>La scelta è caduta su <a href="http://jekyllrb.com/">Jekyll</a>, un sistema che ho provato sporadicamente per alcuni mesi abbinandolo all&rsquo;hosting di <a href="https://github.com">Github</a> e che aveva un&rsquo;unica grande pecca: i temi. Almeno finché <a href="https://twitter.com/mdo">Mark Otto</a> non ha messo a disposizione <a href="https://github.com/poole/poole">Poole</a>.</p>
+
+<blockquote>
+<p><em>The Strange Case of Dr. Jeykll and Mr. Hyde</em> tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel&rsquo;s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll&rsquo;s loyal butler. <a href="https://github.com/poole/poole">Poole</a> is the butler for <a href="http://jekyllrb.com/">Jekyll</a>, the static site generator.</p>
+</blockquote>
+
+<p>Quello che vedete qui è la variante <a href="http://hyde.getpoole.com/">Hyde</a>, che poi  è la traduzione in jekyllesco di vari temi di <a href="https://medium.com/">Medium</a> e di <a href="https://svbtle.com/magazine">Svbtle</a>. Niente di male perché piacciono moltissimo entrambi.</p>
+
+<p>###Scrivere è programmare<br />
+Per usare <a href="http://jekyllrb.com/">Jekyll</a> basta avere qualcosa da scrivere. Ma, al contrario dei vari editor <a href="https://it.wikipedia.org/wiki/WYSIWYG">WYSIWYG
+</a>, ogni post è una pagina di &ldquo;codice&rdquo;, scritta in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, ovvero il linguaggio di quel partigiano Apple oltre ogni limite che si chiama <a href="http://daringfireball.net/">John Gruber</a>.</p>
+
+<blockquote>
+<p>Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).</p>
+</blockquote>
+
+<p>Tradotto: Markdown, all&rsquo;inizio non sembra, ma alla lunga è puro genio. Metà dei problemi delle redazioni del mondo sparirebbero in un istante se i giornalisti abbandonassero i vari word processor millefunzioni e scrivessero in Markdown, magari appoggiandosi a editor essenziali come <a href="http://bywordapp.com/">Byword</a>, <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> o software ancora più basic come <a href="http://www.ommwriter.com/">Ommwriter</a>. Markdown è così semplice che permette di formattare usando pochi simboli davanti alle parole: asterischi, underscore, trattini, cancelletti, segno maggiore/minore e parentesi. Ed è talmente veloce che, quando Bloom ha creato l&rsquo;app diario più popolare su iOS, cioè <a href="http://dayoneapp.com/">DayOne</a>, l&rsquo;ha resa compatibile con Markdown. Mica per caso.</p>
+
+<p>Ecco, questo è grosso modo il motivo per cui questo blog è così. Ci sono cose da migliorare e funzioni da attivare (per lo più seguendo <a href="http://joshualande.com/2014/02/03/jekyll-github-pages-poole/">questo tutorial</a> di Joshua Lande). Più i soliti refusi. E ora:</p>
+
+<p><code>git commit -a</code></p>
+
+<p>{% include twitter_plug.html %}</p>
+ </div>
+ 
+        <p><a class="fa fa-chevron-right" href="/2014/03/18/passare-a-jekyll/" class="read-more-link"> read more</a></p>
+    </article>
+ 
+      
+<article class="archive-item">
+        <h2 class="article-title" class="archive-title"><a href="/2014/03/13/ciao-ciao-wordpress/">Ciao ciao, Wordpress</a></h2>
+        <span class="article-date" class="dt-published" class="p-name">March 13, 2014</span><br />
+       
+        <div class="article"><p>Buongiorno, la versione breve è che dopo secoli ho abbandonato <a href="https://wordpress.org">Wordpress</a>, nonostante negli anni questa piattaforma sia migliorata tantissimo. Avevo bisogno di qualcosa di più agile e la soluzione <a href="http://jekyllrb.com/">Jekyll</a>+<a href="https://github.com">Github</a>, senza database, plugin e sovrastrutture varie mi è sembrata la più adatta. Ne parleremo meglio poi. Ora qui manca un sacco di roba, ma pian piano torna.</p>
+
+<p><img src="http://jekyllrb.com/img/octojekyll.png" alt="drawing" /></p>
+ </div>
+ 
+        <p><a class="fa fa-chevron-right" href="/2014/03/13/ciao-ciao-wordpress/" class="read-more-link"> read more</a></p>
+    </article>
+ 
+      
+<article class="archive-item">
+        <h2 class="article-title" class="archive-title"><a href="/2014/02/28/badmonkey/">Quando ti prende la scimmia...</a></h2>
+        <span class="article-date" class="dt-published" class="p-name">February 28, 2014</span><br />
+       
+        <div class="article"><blockquote>
+<p>“What de hell’s wrong wit your boy dere? He dont look right.”</p>
+</blockquote>
+
+<p>“Dot’s not my boy,” Neville said. “Dot’s a monkey I look ahfta.”</p>
+
+<p>Per colpa di <a href="http://www.nytimes.com/2014/02/02/books/review/gary-shteyngart-by-the-book.html?_r=0">Gary Shteyngart</a> ho comprato e letto <a href="http://www.amazon.com/Bad-Monkey-Carl-Hiaasen/dp/0307272591">Bad Monkey</a> di Carl Hiaasen.  A me piace Gary, lo chiamo per nome solo perché compro i suoi libri, ma so che dovrei fidarmi meno dei suoi endorsement, anche perché è uno dei pochi scrittori ad avere un intero paragrafo di Wikipedia dedicato ai suoi <a href="https://en.wikipedia.org/wiki/Gary_Shteyngart#Blurbs">blurb</a>. E poi c&rsquo;è anche un&rsquo;altra ragione per la quale non avrei dovuto credergli: il nuovo libro di Shteyngart’s, <em>Little Failure</em>, viene presentato proprio da una frase di… Hiaasen:</p>
+
+<blockquote>
+<p>I’m always wary when a young writer offers up a memoir, but Gary Shteyngart delivers big-time with <em>Little Failure</em>.</p>
+</blockquote>
+
+<p>Be&rsquo;, comunque, se non avessi letto Hiaasen, mi sarei sbagliato di grosso. <em>Bad Monkey</em> è un libro divertente, acuto e _________, mettete voi l&rsquo;aggettivo che preferite, tanto andrà bene comunque. L&rsquo;amore vero è arrivato a pagina 94, o comunque davanti a passaggi come questo:</p>
+
+<blockquote>
+<p>“Last week I did a post on a man who had a clarinet up his colon,” she reported. “That’s not what killed him, by the way. It was a single gunshot to the head from a jealous lover. She played the oboe.”</p>
+</blockquote>
+
+<p>“Shakespeare was born too soon.”</p>
+
+<p>Inoltre il libro è pieno di altri elementi unici: arti umani, una scimmia con l&rsquo;alopecia, ispezioni nelle cucine dei ristoranti, un medico legale cubano in Louboutin, le Florida Keys, magia vodoo ad alto tasso alcolico e vili truffatori. Oltre al TTKWM, ovvero &ldquo;The Typical Key West Murder&rdquo;:</p>
+
+<blockquote>
+<p>The typical Key West murder is a drunken altercation over debts, dope or dance partners. Premeditated robbery-homicides are rare because they require a level of planning and sober enterprise seldom encountered among the island’s indolent felons.</p>
+</blockquote>
+
+<p><img src="http://amycitrondesign.com/wp-content/uploads/2013/05/hiaasen.jpg" alt="drawing" /></p>
+
+<p>Piccola digressione, se <em>Bad Monkey</em> vi ricorda qualcosa, vi risparmio la rapida ricerca su Google: era un pedale overdrive per chitarra elettrica, Tipo questo qui sotto.</p>
+
+<p><img src="https://webshop.cashconverters.com.au/thumbnail/850x520/1783514-digitech-bad-monkey-tube-overdrive-guitar-pedal-0.jpg" alt="drawing" /></p>
+ </div>
+ 
+        <p><a class="fa fa-chevron-right" href="/2014/02/28/badmonkey/" class="read-more-link"> read more</a></p>
+    </article>
+ 
+      
+<article class="archive-item">
         <h2 class="article-title" class="archive-title"><a href="/2014/02/19/duegradiemezzo/">Social networking anche per introversi</a></h2>
         <span class="article-date" class="dt-published" class="p-name">February 19, 2014</span><br />
        
@@ -160,82 +267,6 @@
  </div>
  
         <p><a class="fa fa-chevron-right" href="/2013/10/14/ciao-marco/" class="read-more-link"> read more</a></p>
-    </article>
- 
-      
-<article class="archive-item">
-        <h2 class="article-title" class="archive-title"><a href="/2013/03/12/tutti-a-scola/">Tutti a Scola</a></h2>
-        <span class="article-date" class="dt-published" class="p-name">March 12, 2013</span><br />
-       
-        <div class="article"><p><img src="http://tg24.sky.it/static/contentimages/original/sezioni/tg24/mondo/2013/03/12/conclave2005.jpg" alt="" />
-Inizia il Conclave.</p>
- </div>
- 
-        <p><a class="fa fa-chevron-right" href="/2013/03/12/tutti-a-scola/" class="read-more-link"> read more</a></p>
-    </article>
- 
-      
-<article class="archive-item">
-        <h2 class="article-title" class="archive-title"><a href="/2013/03/04/why-john-galliano-should-design-next-popes-vest/">7 reasons why John Galliano should totally design next Pope&#39;s vest</a></h2>
-        <span class="article-date" class="dt-published" class="p-name">March 4, 2013</span><br />
-       
-        <div class="article"><p>Ok, this stupid post may be a little too much, but I wrote it down just for fun and somehow I found it worked (well, for me). As you may understand, I don&rsquo;t want to offend anyone, just laugh about some strange connections. Said that, here are the <strong>7 reasons why <a href="http://en.wikipedia.org/wiki/John_Galliano">John Galliano</a> should totally design next Pope&rsquo;s vest (or what it is called)</strong>.</p>
-
-<p><strong>1. He has a lot of spare time.</strong> Mr. Galliano, former Dior&rsquo;s head designer, is talented, free agent and has just <a href="http://www.latimes.com/features/image/alltherage/la-ar-john-galliano-wins-round-in-court-against-dior-20130205,0,2422576.story">few court hearings</a> to attend, once in a while.</p>
-
-<p><strong>2. His muse&rsquo;s name is Eva.</strong> Christianity has the Book of Genesis, the Garden of Eden, Adam &amp; Eve. John has his own Eve, pardon Eva, <a href="http://en.wikipedia.org/wiki/Eva_Green">Eva Green</a>.</p>
-
-<p><img src="http://www.itrendyavenue.com/wp-content/uploads/Eva-Green-and-John-Galliano-Ellen-von-Unwerth-shoot-_01_.jpg" alt="drawing" /></p>
-
-<p><strong>3. He likes fancy hats.</strong> Really fancy ones:</p>
-
-<p><img src="http://www.shoutingatco.ws/wp-content/uploads/2011/09/John-Galliano-in-Paris-007.jpg" alt="drawing" /></p>
-
-<p><img src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/2/15/1360946073358/John-Galliano-004.jpg" alt="drawing" /></p>
-
-<p><img src="http://i.telegraph.co.uk/multimedia/archive/01997/galliano_1997457i.jpg" alt="drawing" /></p>
-
-<p>Aren&rsquo;t they cute?</p>
-
-<p><img src="http://i61.photobucket.com/albums/h66/zwoj/b16/b16_2006_09_06_005.jpg" alt="drawing" /></p>
-
-<p><img src="http://freethinker.co.uk/images/uploads/2012/03/550x384xhat.jpg.pagespeed.ic.zbXAdOIpPm.jpg" alt="drawing" /></p>
-
-<p><img src="http://www.traditio.com/comment/com0601s.jpg" alt="drawing" /></p>
-
-<p><strong>4. He has also religious issues.</strong> Technically speaking, Jesus Christ was crucifixes in jewish territory, and for ages christians had a &ldquo;difficult relationship&rdquo; with with their older brothers. Galliano&rsquo;s anti-semitic tirades, instead, were officially <a href="http://en.wikipedia.org/wiki/John_Galliano#Suspension_and_dismissal">the beginning of his end</a>. But he&rsquo;s still missing the point, apparently.</p>
-
-<p><img src="http://pixel.nymag.com/imgs/fashion/daily/2013/02/13/13-galliano-post-cover.o.jpg/a_2x-vertical.jpg" alt="drawing" /></p>
-
-<p><strong>5. Vatican likes crazy designers.</strong> I mean, have you ever considered Swiss Guard uniforms?
-<img src="http://international-photographer.com/images/somewhere/roma-2010/roma-vaticani-swiss-guard.jpg" alt="drawing" />
-By the way, the original designer it&rsquo;s not  Michelangelo, but commandant Jules Repond.</p>
-
-<p><strong>6. He knows something about big jewellery.</strong> Every Pope needs a large gold ring, the Anulus piscatoris (aka Ring of the fisherman). What would John do? Answer: just look a this 2008 campaign.</p>
-
-<p><img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&amp;size=l&amp;tid=58979985" alt="drawing" /></p>
-
-<p><strong>7. He knows how to cut a white dress.</strong> <a href="http://fashion.telegraph.co.uk/article/TMG8695186/Kate-Moss-on-her-Galliano-wedding-gown.html">Kate Moss&rsquo; wedding gown</a> says it all. Enjoy these chaps:</p>
-
-<p><img src="http://1.bp.blogspot.com/-Vr-khIDeuL4/TlXq3PhhPdI/AAAAAAAAIjU/GqOThLLYtpo/s400/kate-moss-john-galliano.jpg" alt="drawing" /></p>
- </div>
- 
-        <p><a class="fa fa-chevron-right" href="/2013/03/04/why-john-galliano-should-design-next-popes-vest/" class="read-more-link"> read more</a></p>
-    </article>
- 
-      
-<article class="archive-item">
-        <h2 class="article-title" class="archive-title"><a href="/2012/11/29/you-are-being-watched/">You are being watched</a></h2>
-        <span class="article-date" class="dt-published" class="p-name">November 29, 2012</span><br />
-       
-        <div class="article"><p><img src="http://leibniz.me/images/uploads/2012/11/Artists-241x300.jpeg" alt="drawing" /><img src="http://leibniz.me/images/uploads/2012/11/finchok1-282x300.png" alt="drawing" /></p>
-
-<p>Io guarderò anche troppe serie tv, ma quando ho posato gli occhi su <a href="http://www.greengrassi.com/Artists?aid=11&amp;eid=21&amp;eiid=11">Out of one’s head</a> (olio su tela di Ellen Gronemeyer, 2009), non ho potuto fare a meno di pensare a <a href="http://personofinterest.wikia.com/wiki/Harold_Finch">Harold Finch/Michael Emerson </a>(di <a href="http://it.wikipedia.org/wiki/Person_of_Interest_(serie_televisiva)">Person of interest</a>, 2011).</p>
-
-<p>{Greengrassi - Person of Interest Wiki - Wikipedia}</p>
- </div>
- 
-        <p><a class="fa fa-chevron-right" href="/2012/11/29/you-are-being-watched/" class="read-more-link"> read more</a></p>
     </article>
  
     
