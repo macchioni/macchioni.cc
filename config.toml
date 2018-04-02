@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Piero Macchioni"
 theme = "hugo-lithium-theme"
 rssLimit = 15
-enableRobotsTXT: true
 
 [Params]
   Author = "Piero Macchioni"
