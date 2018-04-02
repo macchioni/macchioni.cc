@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Piero Macchioni"
 theme = "hugo-lithium-theme"
 rssLimit = 15
+enableRobotsTXT: true
 
 [Params]
   Author = "Piero Macchioni"
@@ -11,6 +12,10 @@ rssLimit = 15
     post = "/:year/:month/:day/:title/"
     page = "/:title/"
     singles = "/:title/"
+
+ [sitemap]
+    changefreq = "weekly"
+    priority = 0.5
 
 
 [params.logo]
