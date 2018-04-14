@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Piero Macchioni</title>
-    <link>https://macchioni.in/categories/books/</link>
+    <link>https://macchioni.cc/categories/books/</link>
     <description>Recent content in Books on Piero Macchioni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Oct 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.in/categories/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/categories/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Come funziona il libro di Google</title>
-      <link>https://macchioni.in/blog/2014-10-22-come-funziona-il-libro-di-google/</link>
+      <link>https://macchioni.cc/blog/2014-10-22-come-funziona-il-libro-di-google/</link>
       <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2014-10-22-come-funziona-il-libro-di-google/</guid>
+      <guid>https://macchioni.cc/blog/2014-10-22-come-funziona-il-libro-di-google/</guid>
       <description>Ho letto il libro di Google scritto da Eric Schmidt e Jonathan Rosenberg. Ancora non ho capito se è incasinato di suo o se è stata la traduzione italiana a dare il colpo di grazia. Comunque, qualche dritta buona qua e là c&amp;rsquo;è. Vado in ordine sparso:
  la definizione di smart creative, pur ridondante, è accattivante. Come l&amp;rsquo;idea che le aziende dovrebbero dare più libertà e velocità, invece che ordinare di minimizzare i rischi.</description>
     </item>
     
     <item>
       <title>Per pubblicare il tuo libro ti serve un hacker</title>
-      <link>https://macchioni.in/blog/2014-08-17-publish-your-book-like-a-hacker/</link>
+      <link>https://macchioni.cc/blog/2014-08-17-publish-your-book-like-a-hacker/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2014-08-17-publish-your-book-like-a-hacker/</guid>
+      <guid>https://macchioni.cc/blog/2014-08-17-publish-your-book-like-a-hacker/</guid>
       <description>Scrivere un libro e pubblicare un libro non sono la stessa cosa. Non lo sono mai stati e non lo sono ancora. Ma la tecnologia, grazie ai formati digitali e ad alcuni software, ha reso questi due passaggi talmente vicini da renderli quasi sovrapponibili. Ci sono già numerose forme di self-publishing, da quelle di Amazon a quelle di Simplicissimus, tuttavia questo post prende spunto da alcune recenti scelte editoriali che mi han fatto pensare perché in loro racchiudono il seme di un futuro possibile per chi vuole pubblicare il suo libro, sì, ma soprattutto autoprodurlo in maniera soddisfacente.</description>
     </item>
     

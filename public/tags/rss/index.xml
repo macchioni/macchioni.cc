@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rss on Piero Macchioni</title>
-    <link>https://macchioni.in/tags/rss/</link>
+    <link>https://macchioni.cc/tags/rss/</link>
     <description>Recent content in Rss on Piero Macchioni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.in/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/rss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Feeds for journalists</title>
-      <link>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists-copia/</link>
+      <link>https://macchioni.cc/blog/2018-01-17-feed-rss-for-journalists-copia/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists-copia/</guid>
+      <guid>https://macchioni.cc/blog/2018-01-17-feed-rss-for-journalists-copia/</guid>
       <description>This year started with a small project I really like: Feeds for Journalists, by Dave Winer. The idea is that RSS is still a valid technology to get an effective and unbiased flow of news.
 As he puts it, after reading a tweet by Mathew Ingram:
  If you&amp;rsquo;re a journalist and you love RSS, please join me in an easy project to improve both. Let&amp;rsquo;s put together a list of starter feeds for journalists.</description>
@@ -24,20 +24,20 @@ As he puts it, after reading a tweet by Mathew Ingram:
     
     <item>
       <title>The new electric spring of the News River</title>
-      <link>https://macchioni.in/blog/2017-04-15-what-is-electric-river/</link>
+      <link>https://macchioni.cc/blog/2017-04-15-what-is-electric-river/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2017-04-15-what-is-electric-river/</guid>
+      <guid>https://macchioni.cc/blog/2017-04-15-what-is-electric-river/</guid>
       <description>One week ago in Perugia, during the annual Journalism Festival, Dave Winer talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that Plan B.
 First step, he said, forget your readers for a moment and start your own News River. It is something he’s been working on for years, basically a feed aggregator with no fancy stuff.</description>
     </item>
     
     <item>
       <title>Il momento del podcast</title>
-      <link>https://macchioni.in/blog/2014-09-28-il-momento-del-podcast/</link>
+      <link>https://macchioni.cc/blog/2014-09-28-il-momento-del-podcast/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2014-09-28-il-momento-del-podcast/</guid>
+      <guid>https://macchioni.cc/blog/2014-09-28-il-momento-del-podcast/</guid>
       <description>Dato che dicono sia tornato il momento dei podcast (sort of), metto qui sotto i feed di quelli che, quando posso, ascolto volentieri.
  The Art of Manliness &amp;gt;The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men.
  99% Invisible &amp;gt; Design is everywhere in our lives, perhaps most importantly in the places where we&amp;rsquo;ve just stopped noticing.</description>

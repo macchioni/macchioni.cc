@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writeup on Piero Macchioni</title>
-    <link>https://macchioni.in/categories/writeup/</link>
+    <link>https://macchioni.cc/categories/writeup/</link>
     <description>Recent content in Writeup on Piero Macchioni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Oct 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.in/categories/writeup/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/categories/writeup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Letture</title>
-      <link>https://macchioni.in/2010/10/11/lets-writeup/</link>
+      <link>https://macchioni.cc/2010/10/11/lets-writeup/</link>
       <pubDate>Mon, 11 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/2010/10/11/lets-writeup/</guid>
+      <guid>https://macchioni.cc/2010/10/11/lets-writeup/</guid>
       <description>Quello che vuole la tecnologia di Kevin Kelly. Perché dovrebbe essere obbligatorio alle superiori.</description>
     </item>
     

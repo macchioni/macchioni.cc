@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ijf17 on Piero Macchioni</title>
-    <link>https://macchioni.in/tags/ijf17/</link>
+    <link>https://macchioni.cc/tags/ijf17/</link>
     <description>Recent content in Ijf17 on Piero Macchioni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.in/tags/ijf17/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/ijf17/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The new electric spring of the News River</title>
-      <link>https://macchioni.in/blog/2017-04-15-what-is-electric-river/</link>
+      <link>https://macchioni.cc/blog/2017-04-15-what-is-electric-river/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2017-04-15-what-is-electric-river/</guid>
+      <guid>https://macchioni.cc/blog/2017-04-15-what-is-electric-river/</guid>
       <description>One week ago in Perugia, during the annual Journalism Festival, Dave Winer talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that Plan B.
 First step, he said, forget your readers for a moment and start your own News River. It is something he’s been working on for years, basically a feed aggregator with no fancy stuff.</description>
     </item>

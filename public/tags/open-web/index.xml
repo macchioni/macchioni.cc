@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Web on Piero Macchioni</title>
-    <link>https://macchioni.in/tags/open-web/</link>
+    <link>https://macchioni.cc/tags/open-web/</link>
     <description>Recent content in Open Web on Piero Macchioni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.in/tags/open-web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/open-web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The psychological gravity of Facebook</title>
-      <link>https://macchioni.in/blog/2018-03-27-facebook-psychological-gravity/</link>
+      <link>https://macchioni.cc/blog/2018-03-27-facebook-psychological-gravity/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2018-03-27-facebook-psychological-gravity/</guid>
+      <guid>https://macchioni.cc/blog/2018-03-27-facebook-psychological-gravity/</guid>
       <description>This Cambridge Analytica scandal is generating a lot of interesting writing. I should bind that in somewhere. For now, let&amp;rsquo;s pin this.
  It is psychological gravity, not technical inertia, however, that is the greater force against the open web. Human beings are social animals and centralized social media like Twitter and Facebook provide a powerful sense of ambient humanity—the feeling that “others are here”—that is often missing when one writes on one’s own site.</description>
     </item>
     
     <item>
       <title>Feeds for journalists</title>
-      <link>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists-copia/</link>
+      <link>https://macchioni.cc/blog/2018-01-17-feed-rss-for-journalists-copia/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2018-01-17-feed-rss-for-journalists-copia/</guid>
+      <guid>https://macchioni.cc/blog/2018-01-17-feed-rss-for-journalists-copia/</guid>
       <description>This year started with a small project I really like: Feeds for Journalists, by Dave Winer. The idea is that RSS is still a valid technology to get an effective and unbiased flow of news.
 As he puts it, after reading a tweet by Mathew Ingram:
  If you&amp;rsquo;re a journalist and you love RSS, please join me in an easy project to improve both. Let&amp;rsquo;s put together a list of starter feeds for journalists.</description>
@@ -34,10 +34,10 @@ As he puts it, after reading a tweet by Mathew Ingram:
     
     <item>
       <title>The struggle for the open web</title>
-      <link>https://macchioni.in/blog/2016-04-14-the-struggle-for-the-open-web/</link>
+      <link>https://macchioni.cc/blog/2016-04-14-the-struggle-for-the-open-web/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://macchioni.in/blog/2016-04-14-the-struggle-for-the-open-web/</guid>
+      <guid>https://macchioni.cc/blog/2016-04-14-the-struggle-for-the-open-web/</guid>
       <description>What if, one day, you discover that your fulfilling social media life was completely wrong? What if your castle of self gratification and instant connections, friends and followers, mobile power and desktop automation would fall apart? We do not need an incoming Apocalypse to ask the right questions, we just need to stop one moment and think.
 I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere I go I find myself scribbling something down: open web first.</description>
     </item>
