@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://macchioni.cc/blog/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,6 +31,13 @@
   <url>
     <loc>https://macchioni.cc/contatti/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://macchioni.cc/blog/2018-04-25-la-mia-storia-internet/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -12336,7 +12343,7 @@
   
   <url>
     <loc>https://macchioni.cc/tags/blog/</loc>
-    <lastmod>2012-11-29T11:10:59+00:00</lastmod>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -12994,7 +13001,7 @@
   
   <url>
     <loc>https://macchioni.cc/tags/freedom/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -13400,7 +13407,7 @@
   
   <url>
     <loc>https://macchioni.cc/categories/internet/</loc>
-    <lastmod>2015-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14149,7 +14156,7 @@
   
   <url>
     <loc>https://macchioni.cc/tags/open-web/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
