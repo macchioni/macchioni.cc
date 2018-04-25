@@ -37,5 +37,5 @@ Grazie a internet, a quell’internet lì, ho scoperto un mondo vasto che mi sem
 ### Connessi senza permesso
 Oggi credo che sia arrivato il momento di fare qualcosa per internet, perché la mia storia con internet non è solo il passato. C’è uno spirito della Rete che va preservato ed è quello della sua libertà, che è anche la nostra. È quello della condivisione, senza svendere la  privacy. È quello di chi mette in comune quello che sa o che cerca un servizio, senza voler essere ridotto a un briciolo di polvere nei big data. 
 
-Il vero superpotere del web, come hanno scritto David Weinberger e Doc Searls, si chiama [connessione senza permesso](http://cluetrain.com/newclues/). Ed è quello che ci ha legati gli uni agli altri, lontanissimi e vicini, diversissimi eppure simili, quando è iniziata la nostra storia con internet.
+Il vero superpotere del web, come hanno scritto David Weinberger e Doc Searls, si chiama [connessione senza permesso](http://cluetrain.com/newclues/). Ed è quello che ci ha legati gli uni agli altri, lontanissimi e vicini, saputi e ingenui, diversissimi eppure simili, quando è iniziata la nostra storia con internet.
 
