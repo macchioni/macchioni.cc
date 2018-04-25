@@ -24,8 +24,8 @@ rssLimit = 15
     alt = "Logo"
 
 [twitter]
-  card = "summary"
+  card = "Summary"
   site = "@leibniz"
-  title = "title"
-  description = "description"
+  title = "Title"
+  description = "Description"
   image = "https://d33wubrfki0l68.cloudfront.net/9896fca54bdb842292671cbacb3353a18085ebf0/2ed03/images/piero-macchioni-bws.jpg"
