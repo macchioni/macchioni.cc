@@ -3,12 +3,12 @@
   <channel>
     <title>Music on Piero Macchioni</title>
     <link>https://macchioni.cc/categories/music/</link>
-    <description>Recent content in Music on Piero Macchioni</description>
+    <description></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/categories/music/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/categories/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
