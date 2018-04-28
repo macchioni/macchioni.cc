@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Oct 2010 12:20:51 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/tags/maverick-meerkat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/maverick-meerkat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,10 +17,8 @@
       <pubDate>Sun, 10 Oct 2010 12:20:51 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/10/10/desktop-ubuntu/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.ubuntu.com/sites/default/files/active/maverick/pictogram_quote_feature.png&#34; alt=&#34;&#34; /&gt;Oggi è uscito Maverick Meerkat, ovvero &lt;a href=&#34;http://www.ubuntu.com/desktop&#34;&gt;Ubuntu 10.10&lt;/a&gt;. Con queste ultime distribuzioni Linux sta diventando sempre meno una cosa da smanettoni ed è sempre più simile agli altri sistemi operativi. Anzi, in certi casi è pure meglio.&lt;/p&gt;
-
-&lt;p&gt;[Ubuntu]&lt;/p&gt;
-</description>
+      <description>Oggi è uscito Maverick Meerkat, ovvero Ubuntu 10.10. Con queste ultime distribuzioni Linux sta diventando sempre meno una cosa da smanettoni ed è sempre più simile agli altri sistemi operativi. Anzi, in certi casi è pure meglio.
+[Ubuntu]</description>
     </item>
     
   </channel>

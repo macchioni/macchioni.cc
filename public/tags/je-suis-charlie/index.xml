@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/tags/je-suis-charlie/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/je-suis-charlie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,7 @@
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2015-01-07-je-suis-charlie/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/charlie.jpg&#34; alt=&#34;je-suis-charlie&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

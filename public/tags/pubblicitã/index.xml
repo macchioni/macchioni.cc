@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 15 May 2008 09:28:35 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/tags/pubblicit%C3%A3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/pubblicit%C3%A3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,14 +17,8 @@
       <pubDate>Thu, 15 May 2008 09:28:35 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/05/15/i-nostri-eroi-van-dritti-al-cuor-della-marziana/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://www.ilvolo.it/images/stories/pubblicit_ap_1.jpg&#34; alt=&#34;&#34; /&gt; &lt;img src=&#34;http://www.ilvolo.it/images/stories/pubblicit_ap_2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.ilvolo.it/index.php/20080514530/Notizie-compagnie-aeree/Nuova-campagna-pubblicitaria-di-Air-One.html&#34;&gt;La campagna&lt;/a&gt; di AirOne &amp;ldquo;noi sì che siamo una compagnia di bandiera, non quegli altri&amp;rdquo; fa un po&amp;rsquo; Anni 20, ma è efficace.&lt;/p&gt;
-
-&lt;h3 id=&#34;il-volo&#34;&gt;Il Volo&lt;/h3&gt;
-</description>
+      <description> La campagna di AirOne &amp;ldquo;noi sì che siamo una compagnia di bandiera, non quegli altri&amp;rdquo; fa un po&amp;rsquo; Anni 20, ma è efficace.
+Il Volo </description>
     </item>
     
   </channel>

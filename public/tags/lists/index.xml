@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Apr 2008 05:12:24 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/tags/lists/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/lists/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,14 +17,8 @@
       <pubDate>Mon, 07 Apr 2008 05:12:24 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/04/07/they-blaaagh/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://img.timeinc.net/time/2008/2008_best_blogs/bestblogs_landing.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ecco il &lt;a href=&#34;http://www.time.com/time/specials/2007/0,28757,1725323,00.html&#34;&gt;First Annual Blog Index&lt;/a&gt;. Grillo c&amp;rsquo;è.&lt;/p&gt;
-
-&lt;h3 id=&#34;time&#34;&gt;Time&lt;/h3&gt;
-</description>
+      <description> Ecco il First Annual Blog Index. Grillo c&amp;rsquo;è.
+Time </description>
     </item>
     
   </channel>

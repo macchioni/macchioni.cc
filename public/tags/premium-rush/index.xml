@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2012 07:40:39 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/tags/premium-rush/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/premium-rush/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,7 @@
       <pubDate>Mon, 04 Jun 2012 07:40:39 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/06/04/premium-rush/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Premium_Rush&#34;&gt;Sarà&lt;/a&gt; una cavolata, ma il trailer è bello. {Yahoo - Wikipedia}&lt;/p&gt;
-</description>
+      <description>Sarà una cavolata, ma il trailer è bello. {Yahoo - Wikipedia}</description>
     </item>
     
   </channel>

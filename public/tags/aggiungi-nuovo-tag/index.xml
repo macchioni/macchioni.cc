@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Oct 2008 20:51:21 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/tags/aggiungi-nuovo-tag/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/aggiungi-nuovo-tag/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 23 Oct 2008 20:51:21 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/10/23/bono-questo/</guid>
-      <description>&lt;p&gt;Bono degli U2 diventerà &lt;a href=&#34;http://radaronline.com/exclusives/2008/10/bono-new-york-times-columnist-andrew-rosenthal.php&#34;&gt;editorialista del New York Times&lt;/a&gt; (grosso modo). [Radar]&lt;/p&gt;
-</description>
+      <description>Bono degli U2 diventerà editorialista del New York Times (grosso modo). [Radar]</description>
     </item>
     
   </channel>

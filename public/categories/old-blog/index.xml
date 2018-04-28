@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Feb 2006 00:19:12 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/categories/old-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/categories/old-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 25 Feb 2006 00:19:12 +0000</pubDate>
       
       <guid>https://macchioni.cc/2006/02/25/caspita/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;8 febbraio questo blog ha compiuto tre anni.&lt;/p&gt;
-</description>
+      <description>L&amp;rsquo;8 febbraio questo blog ha compiuto tre anni.</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@
       <pubDate>Wed, 02 Nov 2005 20:32:27 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/11/02/leibniz-non-ce/</guid>
-      <description>&lt;p&gt;Ancora problemi. Scusate e &lt;a href=&#34;http://www.tophost.it/aiuto/cat2/18/76/&#34;&gt;chiedete ai padroni di casa&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Ancora problemi. Scusate e chiedete ai padroni di casa.</description>
     </item>
     
     <item>
@@ -37,8 +35,7 @@
       <pubDate>Mon, 31 Oct 2005 17:48:03 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/10/31/chiamasi-problema-mysql/</guid>
-      <description>&lt;p&gt;Approfitto di questo spiraglio per scrivere che se di recente avete avuto dei problemi a leggere il blog e in buona parte &lt;a href=&#34;http://www.tophost.it/kb2/&#34;&gt;colpa dell&amp;rsquo;hosting&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Approfitto di questo spiraglio per scrivere che se di recente avete avuto dei problemi a leggere il blog e in buona parte colpa dell&amp;rsquo;hosting.</description>
     </item>
     
     <item>
@@ -47,22 +44,8 @@
       <pubDate>Sun, 09 Oct 2005 22:35:45 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/10/09/chi-puo-toccare-il-fondo/</guid>
-      <description>
-
-&lt;p&gt;Diciamo che i blogger non esistono, ma e ormai assodato che attraverso i weblog si forma ormai una piccola fetta dell&amp;rsquo;opinione pubblica. &lt;a href=&#34;http://www.cq.com/public/stoddard.html&#34;&gt;Un articolo di A.B. Stoddard&lt;/a&gt; analizza proprio il rapporto tra lettore di blog e lettore di &amp;ldquo;articolo di fondo&amp;rdquo;: il web e spesso piu in sintonia con l&amp;rsquo;utente di quanto non lo sia il corsivista.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;It can be said that the traditional newspaper column has seen its best day. Some readers, particularly younger ones, may even think it is a dinosaur, drowned out by Jon Stewart, Bill O&amp;rsquo;Reilly, Rush Limbaugh, and the multiple blogs and Web sites avid consumers visit each day. Certainly the talk show host or blogger seems closer to the reader than insiders like Walter Lippman and Reston ever were. And their less formal formats are easier to digest.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Piu o meno dello stesso argomento tratta &lt;a href=&#34;http://oxblog.blogspot.com/2005_10_02_oxblog_archive.html#112880995997410605&#34;&gt;David Adesnik su OxBlog&lt;/a&gt;: i blog politici sono generalmente luoghi d&amp;rsquo;opinione, i post sono molto simili a editoriali (ma piu brevi), le idee sono espresse in maniera piu netta senza quella patina formale tipica dei giornali. Fare blog e agire su un medium, fare giornalismo e svolgere un&amp;rsquo;attivita.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;What bloggers almost never do is simulate the authoritative, detached voice of most professional correspondents. We have no intrest in writing just-the-facts-ma&amp;rsquo;am reports that attempt to provide information without offending the reader. Why not? Well, one reason is that we instinctively distrust full-time journalists&amp;rsquo; pretensions of non-partisanship and objectivity. Another is that we usually have pretty strong opinions and no incentive to hide them.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;cq-oxblog-tag-journalism-http-www-technorati-com-tags-journalism-blogging-http-www-technorati-com-tags-blogging&#34;&gt;Cq - OxBlog | tag: &lt;a href=&#34;http://www.technorati.com/tags/journalism&#34;&gt;journalism&lt;/a&gt;, &lt;a href=&#34;http://www.technorati.com/tags/blogging&#34;&gt;blogging&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description>Diciamo che i blogger non esistono, ma e ormai assodato che attraverso i weblog si forma ormai una piccola fetta dell&amp;rsquo;opinione pubblica. Un articolo di A.B. Stoddard analizza proprio il rapporto tra lettore di blog e lettore di &amp;ldquo;articolo di fondo&amp;rdquo;: il web e spesso piu in sintonia con l&amp;rsquo;utente di quanto non lo sia il corsivista.
+ It can be said that the traditional newspaper column has seen its best day.</description>
     </item>
     
     <item>
@@ -71,20 +54,8 @@
       <pubDate>Thu, 06 Oct 2005 09:29:32 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/10/06/lindirizzo-ce-lho/</guid>
-      <description>&lt;p&gt;Nuovo trasloco. Stavolta Leibniz si e sistemato in un server per conto suo e ha cambiato ancora piattaforma: lasciare Radio Userland per Wordpress non e stato facile e i motivi sono quelli elencati gia da altri (&lt;a href=&#34;http://blogs.it/0100214/2005/02/27.html#a1943&#34;&gt;Cesare &lt;/a&gt; e &lt;a href=&#34;http://www.statusq.org/archives/2004/12/18/542/&#34;&gt;StatusQ&lt;/a&gt; su tutti l&amp;rsquo;hanno spiegato bene).&lt;/p&gt;
-
-&lt;p&gt;Buona parte del vecchio blog e gia archiviata, mentre il template e un riadattamento smanettone del &lt;a href=&#34;http://wpthemes.info/posts/2005/03/21/fasttrack-the-most-wanted/&#34;&gt;Fast-Track &lt;/a&gt;in attesa che il titolare qui abbia voglia di crearsene uno in proprio. Per l&amp;rsquo;assistenza in fase di installazione del software un ringraziamento dovuto va ad &lt;a href=&#34;http://www.andreabeggi.net/&#34;&gt;Andrea Beggi&lt;/a&gt; e ai suoi tutorial.&lt;/p&gt;
-
-&lt;p&gt;Come avrete notato l&amp;rsquo;**indirizzo **cambia ma di pochissimo: &lt;a href=&#34;http://www.leibniz-blogs.it/&#34;&gt;www.leibniz-blogs.it&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[](&lt;a href=&#34;http://www.leibniz-blogs.it/&#34;&gt;http://www.leibniz-blogs.it/&lt;/a&gt;)&lt;br /&gt;
-Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leibniz-blogs.it/feed/&#34;&gt;www.leibniz-blogs.it/feed/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Poi c&amp;rsquo;e quello per i &lt;strong&gt;commenti&lt;/strong&gt; &lt;a href=&#34;http://www.leibniz-blogs.it/comments/feed/&#34;&gt;www.leibniz-blogs.it/comments/feed/&lt;/a&gt;&lt;br /&gt;
-(ricordate che ogni singolo post ha anche il suo feed per i commenti)&lt;/p&gt;
-
-&lt;p&gt;Ogni suggerimento e ben accetto.&lt;/p&gt;
-</description>
+      <description>Nuovo trasloco. Stavolta Leibniz si e sistemato in un server per conto suo e ha cambiato ancora piattaforma: lasciare Radio Userland per Wordpress non e stato facile e i motivi sono quelli elencati gia da altri (Cesare  e StatusQ su tutti l&amp;rsquo;hanno spiegato bene).
+Buona parte del vecchio blog e gia archiviata, mentre il template e un riadattamento smanettone del Fast-Track in attesa che il titolare qui abbia voglia di crearsene uno in proprio.</description>
     </item>
     
     <item>
@@ -93,12 +64,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Wed, 05 Oct 2005 23:06:02 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/10/05/chi-ha-incastrato-peter-pan/</guid>
-      <description>
-
-&lt;p&gt;«&lt;a href=&#34;http://www.readme.it/mese/se.htm&#34;&gt;Ma quel che piu conta tu sarai un Uomo, figlio mio!&lt;/a&gt;», scriveva il poeta. E cosi anche il bambino della Kinder a forza di «se» &lt;a href=&#34;http://news.bbc.co.uk/2/hi/europe/4308932.stm&#34;&gt;e diventato adulto&lt;/a&gt; (vedere per credere).&lt;/p&gt;
-
-&lt;h3 id=&#34;readme-bbc&#34;&gt;ReadMe - BBC&lt;/h3&gt;
-</description>
+      <description> «Ma quel che piu conta tu sarai un Uomo, figlio mio!», scriveva il poeta. E cosi anche il bambino della Kinder a forza di «se» e diventato adulto (vedere per credere).
+ReadMe - BBC </description>
     </item>
     
     <item>
@@ -107,12 +74,7 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Tue, 04 Oct 2005 23:30:39 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/10/04/le-sorti-magnifiche-e-progressive/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://www.yeodoug.com/resources/dc_french/continents/europe_01.jpg&#34; alt=&#34;&#34; /&gt;Non c&amp;rsquo;e solo Beppe Grillo (archiviato tra i «ribelli») tra i &lt;a href=&#34;http://www.time.com/time/europe/hero2005/&#34;&gt;cinquanta Eroi dell&amp;rsquo;Europa del 2005&lt;/a&gt; elencati da Time. La lista rappresenta la piu visibile rassegna delle icone delle idee progressiste nel continente: dal &lt;a href=&#34;http://www.time.com/time/europe/hero2005/dowling.html&#34;&gt;vescovo capellone che predica l&amp;rsquo;uso del preservativo&lt;/a&gt; al &lt;a href=&#34;http://www.time.com/time/europe/hero2005/rama.html&#34;&gt;sindaco-pittore di Tirana&lt;/a&gt; che fa riverniciare le facciate delle case. Poi metteteci i soliti Bono, Bob Geldof, Pedro Almodovar e Placido Domingo, piu la rapita-eccellente &lt;a href=&#34;http://www.time.com/time/europe/hero2005/aubenas.html&#34;&gt;Florence Aubenas&lt;/a&gt;. Leibniz pero vota &lt;a href=&#34;http://www.time.com/time/europe/hero2005/porter.html&#34;&gt;Jeff Porter&lt;/a&gt;, il tranviere ce si trovo tra le bombe del 7 luglio a Londra.&lt;/p&gt;
-
-&lt;h3 id=&#34;time-yeodoug-http-www-yeodoug-com-resources-dc-french-continents-dcfrench-continents-html-tag-lists-http-www-technorati-com-tags-lists&#34;&gt;Time - &lt;a href=&#34;http://www.yeodoug.com/resources/dc_french/continents/dcfrench_continents.html&#34;&gt;Yeodoug &lt;/a&gt;| tag: &lt;a href=&#34;http://www.technorati.com/tags/lists&#34;&gt;lists&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description>Non c&amp;rsquo;e solo Beppe Grillo (archiviato tra i «ribelli») tra i cinquanta Eroi dell&amp;rsquo;Europa del 2005 elencati da Time. La lista rappresenta la piu visibile rassegna delle icone delle idee progressiste nel continente: dal vescovo capellone che predica l&amp;rsquo;uso del preservativo al sindaco-pittore di Tirana che fa riverniciare le facciate delle case. Poi metteteci i soliti Bono, Bob Geldof, Pedro Almodovar e Placido Domingo, piu la rapita-eccellente Florence Aubenas. Leibniz pero vota Jeff Porter, il tranviere ce si trovo tra le bombe del 7 luglio a Londra.</description>
     </item>
     
     <item>
@@ -121,12 +83,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Tue, 04 Oct 2005 22:53:46 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/10/04/fai-rivivere-massaia-in-te/</guid>
-      <description>
-
-&lt;p&gt;Poco piu di dua anni fa chiudeva &lt;a href=&#34;http://www.massaia.splinder.com/&#34;&gt;Massaia&lt;/a&gt;, il vero blog-cult di allora. L&amp;rsquo;autore, perché in fondo un lui era, raccontava di aver ricevuto per mesi e-mail di gente che chiedeva informazioni su come pulire questo o far andare via le macchie di quest&amp;rsquo;altro. Be, se dovesse servire ci sono i &lt;a href=&#34;http://www.lifehack.org/articles/lifehack/150-tips-and-tricks-on-cleaning.html&#34;&gt;150 tips su come pulire quasi qualsiasi cosa&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;massaia-lifehack-tag-cleaning-http-www-technorati-com-tags-cleaning-howto-http-www-technorati-com-tags-howto&#34;&gt;Massaia - Lifehack | tag: &lt;a href=&#34;http://www.technorati.com/tags/cleaning&#34;&gt;cleaning&lt;/a&gt;, &lt;a href=&#34;http://www.technorati.com/tags/howto&#34;&gt;howto&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description> Poco piu di dua anni fa chiudeva Massaia, il vero blog-cult di allora. L&amp;rsquo;autore, perché in fondo un lui era, raccontava di aver ricevuto per mesi e-mail di gente che chiedeva informazioni su come pulire questo o far andare via le macchie di quest&amp;rsquo;altro. Be, se dovesse servire ci sono i 150 tips su come pulire quasi qualsiasi cosa.
+Massaia - Lifehack | tag: cleaning, howto </description>
     </item>
     
     <item>
@@ -135,12 +93,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Fri, 30 Sep 2005 09:44:47 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/09/30/you-could-have-it-so-much-better/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://image.guardian.co.uk/sys-images/Guardian/Pix/pictures/2005/09/29/franz_final.jpg&#34; alt=&#34;&#34; /&gt;L&amp;rsquo;ultimo dei Franz Ferdinand piace,&lt;a href=&#34;http://www.guardian.co.uk/&#34;&gt; ma non sfonda&lt;/a&gt; (detto in altri termini quattro stellette su cinque).&lt;/p&gt;
-
-&lt;h3 id=&#34;guardian-tag-music-http-www-technorati-com-tags-music&#34;&gt;Guardian |  tag: &lt;a href=&#34;http://www.technorati.com/tags/music&#34;&gt;music&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description> L&amp;rsquo;ultimo dei Franz Ferdinand piace,ma non sfonda (detto in altri termini quattro stellette su cinque).
+Guardian | tag: music </description>
     </item>
     
     <item>
@@ -149,12 +103,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Fri, 30 Sep 2005 09:38:54 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/09/30/socrate-al-caffe/</guid>
-      <description>
-
-&lt;p&gt;Ma i filosofi sapevano cucinare? Qualcuno e andato a indagare e ha prodotto «&lt;a href=&#34;http://www.amazon.com/exec/obidos/tg/detail/-/1400060990/qid=1128071769/sr=1-2/ref=sr_1_2/104-9852770-5461500?v=glance&amp;amp;s=books&#34;&gt;The philosopher&amp;rsquo;s kitchen&lt;/a&gt;». Se siete curiosi ecco &lt;a href=&#34;http://www.csmonitor.com/2005/0927/p16s01-bogn.html&#34;&gt;un&amp;rsquo;insalata di tonno&lt;/a&gt; alla maniera di Archestrato di Gela.&lt;/p&gt;
-
-&lt;h3 id=&#34;amazon-csm-tag-cooking-http-www-technorati-com-tags-cooking-philosophy-http-www-technorati-com-tags-philosophy-books-http-www-technorati-com-tags-books&#34;&gt;Amazon - CSM | tag: &lt;a href=&#34;http://www.technorati.com/tags/cooking&#34;&gt;cooking&lt;/a&gt;, &lt;a href=&#34;http://www.technorati.com/tags/philosophy&#34;&gt;philosophy&lt;/a&gt;, &lt;a href=&#34;http://www.technorati.com/tags/books&#34;&gt;books&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description> Ma i filosofi sapevano cucinare? Qualcuno e andato a indagare e ha prodotto «The philosopher&amp;rsquo;s kitchen». Se siete curiosi ecco un&amp;rsquo;insalata di tonno alla maniera di Archestrato di Gela.
+Amazon - CSM | tag: cooking, philosophy, books </description>
     </item>
     
     <item>
@@ -163,12 +113,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Fri, 30 Sep 2005 09:36:56 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/09/30/o-ye-son-of-a-philistine/</guid>
-      <description>
-
-&lt;p&gt;Oggi piu che mai non vi aspettate cose intelligenti. Per cominciare, il &lt;a href=&#34;http://www.shipoffools.com/curses/index.html&#34;&gt;generatore di maledizioni bibliche&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;ship-of-fools-tag-generators-http-www-technorati-com-tags-generators&#34;&gt;Ship of fools | tag: &lt;a href=&#34;http://www.technorati.com/tags/generators&#34;&gt;generators&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description> Oggi piu che mai non vi aspettate cose intelligenti. Per cominciare, il generatore di maledizioni bibliche.
+Ship of fools | tag: generators </description>
     </item>
     
     <item>
@@ -177,12 +123,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Thu, 29 Sep 2005 22:41:23 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/09/29/lunga-vita-a-tinto-brass-3/</guid>
-      <description>
-
-&lt;p&gt;Empire ha stilato la classifica delle &lt;a href=&#34;http://www.dailytelegraph.news.com.au/story/0,20281,16758113-5001026,00.html&#34;&gt;peggiori scene di sesso del cinema&lt;/a&gt;. Al primo posto una scena in piscina tratto da &lt;a href=&#34;http://www.imdb.com/title/tt0114436/&#34;&gt;Showgirls&lt;/a&gt;, poi &lt;a href=&#34;http://www.imdb.com/title/tt0104237/&#34;&gt;Il Danno&lt;/a&gt;, quindi &lt;a href=&#34;http://www.imdb.com/title/tt0250468/&#34;&gt;Killing me softly&lt;/a&gt;. In graduatoria anche Madonna e Jlo.&lt;/p&gt;
-
-&lt;h3 id=&#34;telegraph-imdb-tag-movies-http-www-technorati-com-tags-movies-lists-http-www-technorati-com-tags-lists&#34;&gt;Telegraph - Imdb | tag: &lt;a href=&#34;http://www.technorati.com/tags/movies&#34;&gt;movies&lt;/a&gt;, &lt;a href=&#34;http://www.technorati.com/tags/lists&#34;&gt;lists&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description> Empire ha stilato la classifica delle peggiori scene di sesso del cinema. Al primo posto una scena in piscina tratto da Showgirls, poi Il Danno, quindi Killing me softly. In graduatoria anche Madonna e Jlo.
+Telegraph - Imdb | tag: movies, lists </description>
     </item>
     
     <item>
@@ -191,12 +133,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Thu, 29 Sep 2005 22:28:46 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/09/29/doom-pa-dee-dee/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://chocolatefactorymovie.warnerbros.com/img/about/castPhotos/oompa.jpg&#34; alt=&#34;Oompa Loompa&#34; /&gt;Su Willy Wonka, &lt;a href=&#34;http://wwws.warnerbros.it/movies/chocolatefactory/&#34;&gt;la fabbrica di cioccolato&lt;/a&gt; e gli eccellentissimi Oompa Loompa &lt;a href=&#34;http://www.livejournal.com/users/miic/106545.html&#34;&gt;ha gia scritto bene Miic&lt;/a&gt; nella sua rilettura &amp;lsquo;monoteistica&amp;rsquo;. Per il resto e un pazzo film impreziosito da centinaia di versioni di questo viso qui a fianco.&lt;/p&gt;
-
-&lt;h3 id=&#34;wonka-miic-tag-movies-http-www-technorati-com-tags-movies&#34;&gt;Wonka - Miic | tag &lt;a href=&#34;http://www.technorati.com/tags/movies&#34;&gt;movies&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description> Su Willy Wonka, la fabbrica di cioccolato e gli eccellentissimi Oompa Loompa ha gia scritto bene Miic nella sua rilettura &amp;lsquo;monoteistica&amp;rsquo;. Per il resto e un pazzo film impreziosito da centinaia di versioni di questo viso qui a fianco.
+Wonka - Miic | tag movies </description>
     </item>
     
     <item>
@@ -205,12 +143,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Thu, 29 Sep 2005 22:26:47 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/09/29/lessico-familiare/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://news.bbc.co.uk/1/hi/magazine/4288038.stm&#34;&gt;Una ricerca di mercato&lt;/a&gt; sostiene che 7 britannici su 10 non sappiano cos&amp;rsquo;e un blog. Mentre 4 su 10 sanno benissimo, per esempio, cosa sia il dogging.&lt;/p&gt;
-
-&lt;h3 id=&#34;bbc-tag-language-http-www-technorati-com-tags-language-surveys-http-www-technorati-com-tags-surveys&#34;&gt;BBC | tag &lt;a href=&#34;http://www.technorati.com/tags/language&#34;&gt;language&lt;/a&gt;, &lt;a href=&#34;http://www.technorati.com/tags/surveys&#34;&gt;surveys&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description> Una ricerca di mercato sostiene che 7 britannici su 10 non sappiano cos&amp;rsquo;e un blog. Mentre 4 su 10 sanno benissimo, per esempio, cosa sia il dogging.
+BBC | tag language, surveys </description>
     </item>
     
     <item>
@@ -219,12 +153,8 @@ Il &lt;strong&gt;feed rss&lt;/strong&gt; diventa &lt;a href=&#34;http://www.leib
       <pubDate>Wed, 28 Sep 2005 10:48:59 +0000</pubDate>
       
       <guid>https://macchioni.cc/2005/09/28/le-domande-che-non-ti-ho-fatto-2/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://www.themoscowtimes.com/photos/index/2005_09/2005_09_28/front_3.jpg&#34; alt=&#34;&#34; /&gt;Putin e andato in tv a farsi intervistare. Ecco &lt;a href=&#34;http://www.themoscowtimes.com/stories/2005/09/28/005.html&#34;&gt;le domande che non gli sono state fatte&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;moscow-times-tag-politics-http-www-technorati-com-tags-politics-russia-http-www-technorati-com-tags-russia&#34;&gt;Moscow Times |&amp;ldquo;tag&amp;rdquo;&lt;a href=&#34;http://www.technorati.com/tags/politics&#34;&gt;politics&lt;/a&gt;, &lt;a href=&#34;http://www.technorati.com/tags/russia&#34;&gt;russia&lt;/a&gt;&lt;/h3&gt;
-</description>
+      <description> Putin e andato in tv a farsi intervistare. Ecco le domande che non gli sono state fatte.
+Moscow Times |&amp;ldquo;tag&amp;rdquo;politics, russia </description>
     </item>
     
   </channel>

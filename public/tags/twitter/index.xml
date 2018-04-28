@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Apr 2008 05:21:00 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,16 +17,9 @@
       <pubDate>Mon, 07 Apr 2008 05:21:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/04/07/si-sono-fumati-il-cervello/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://qwitter.tobaccofreeflorida.com/&#34;&gt;Qwitter&lt;/a&gt;, usare Twitter (&lt;a href=&#34;http://twitter.com/iquit&#34;&gt;@iquit&lt;/a&gt;) per smettere di fumare.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Every so often, post an update with the number (&amp;ldquo;X&amp;rdquo;) of cigarettes you&amp;rsquo;ve recently smoked to their Qwitter applet like so:@iquit X. You can also send diary-style entries to chronicle your progress, and see a graph of your cigarette intake at the Qwitter site.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;qwitter&#34;&gt;Qwitter&lt;/h3&gt;
-</description>
+      <description> Qwitter, usare Twitter (@iquit) per smettere di fumare.
+ Every so often, post an update with the number (&amp;ldquo;X&amp;rdquo;) of cigarettes you&amp;rsquo;ve recently smoked to their Qwitter applet like so:@iquit X. You can also send diary-style entries to chronicle your progress, and see a graph of your cigarette intake at the Qwitter site.
+ Qwitter </description>
     </item>
     
   </channel>

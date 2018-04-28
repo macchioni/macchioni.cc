@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://macchioni.cc/tags/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://macchioni.cc/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,46 +17,7 @@
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-10-14-standing-on-the-shoulders-of-tech-giants/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/southzuck.jpg&#34; alt=&#34;southzuck&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been reading a lot of good writing about Facebook, lately. Critics are fair and give us a lot to think about our relationship with the always on social network and the idea of &lt;a href=&#34;https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634/&#34;&gt;&amp;ldquo;Building a global community&amp;rdquo;&lt;/a&gt;. As always, even before the Internet, it&amp;rsquo;s not enough we repeat &amp;ldquo;technology is neutral&amp;rdquo;. It is neutral, but we must commit so we get &lt;a href=&#34;https://www.theguardian.com/technology/2010/oct/24/my-bright-idea-kevin-kelly&#34;&gt;more good than bad&lt;/a&gt;, as Kevin Kelly said 7 years ago. But how can you work with something you do not own or comprehend? Because Facebook, as Max Read puts it in the first article you&amp;rsquo;ll read here, is «like a four-dimensional object: we catch slices of it when it passes through the three-dimensional world we recognize». So we need a four-dimensional approach, and a lot of patience.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://nymag.com/selectall/2017/10/does-even-mark-zuckerberg-know-what-facebook-is.html&#34;&gt;Does Even Mark Zuckerberg Know What Facebook Is?&lt;/a&gt; by Max Read.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Facebook’s actual value system seems less positive than recursive. Facebook is good because it creates community; community is good because it enables Facebook. The values of Facebook are Facebook.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502/&#34;&gt;What Facebook Did to American Democracy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The truth is that while many reporters knew some things that were going on on Facebook, no one knew everything what was going on on Facebook, not even Facebook.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/2017/10/12/technology/tech-giants-threats.html&#34;&gt;Tech Giants, Once Seen as Saviors, Are Now Viewed as Threats&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Their amount of concentrated authority resembles the divine right of kings, and is sparking a backlash that is still gathering force.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2017/10/13/opinion/sunday/Silicon-Valley-Is-Not-Your-Friend.html&#34;&gt;Silicon Valley Is Not Your Friend&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We need to break up these online monopolies because if a few people make the decisions about how we communicate, shop, learn the news, again, do we control our own society?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bonus: &lt;a href=&#34;https://www.nytimes.com/2017/10/13/reader-center/social-media-guidelines.html&#34;&gt;The Times Issues Social Media Guidelines for the Newsroom&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>I&amp;rsquo;ve been reading a lot of good writing about Facebook, lately. Critics are fair and give us a lot to think about our relationship with the always on social network and the idea of &amp;ldquo;Building a global community&amp;rdquo;. As always, even before the Internet, it&amp;rsquo;s not enough we repeat &amp;ldquo;technology is neutral&amp;rdquo;. It is neutral, but we must commit so we get more good than bad, as Kevin Kelly said 7 years ago.</description>
     </item>
     
     <item>
@@ -65,55 +26,8 @@
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-04-15-what-is-electric-river/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/electric-river.jpg&#34; alt=&#34;electric-river&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One week ago in Perugia, during the annual Journalism Festival, &lt;a href=&#34;http://scripting.com&#34;&gt;Dave Winer&lt;/a&gt; talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that &lt;a href=&#34;http://www.festivaldelgiornalismo.com/programme/2017/plan-b-making-a-home-for-news-on-the-open-web&#34;&gt;Plan B&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;First step, he said, forget your readers for a moment and start your own News River. It is something he’s been working on for years, basically a feed aggregator with no fancy stuff. It is radical because, when you use it, you just see what your sources publish when they do it: no algorithms, no distracting images, no ads. It’s like newsrooms in the old times, with the AP feed on your monitor.&lt;/p&gt;
-
-&lt;p&gt;Now I’m simplifying but the old News River needed a server, a bit of programming and a few bucks to let everything run. Why bother if you have amazing free products like &lt;a href=&#34;https://feedly.com/&#34;&gt;Feedly&lt;/a&gt;? So now Dave shipped &lt;a href=&#34;http://rss2.io/electric/&#34;&gt;Electric River&lt;/a&gt;, a Mac app easily customizable - well, you can enjoy more if you know some coding - you can run on your desktop with no cost at all.&lt;/p&gt;
-
-&lt;p&gt;I did it.&lt;/p&gt;
-
-&lt;p&gt;But I’d be naive if I thought Electric River was that easy. I still think it has a steep learning curve for the average journalist (at least here in Italy).&lt;/p&gt;
-
-&lt;p&gt;Basically you have to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Run a Mac.&lt;/li&gt;
-&lt;li&gt;Know what rss feeds are.&lt;/li&gt;
-&lt;li&gt;Be able to get them from your favorite sources.&lt;/li&gt;
-&lt;li&gt;Have some favorite sources.&lt;/li&gt;
-&lt;li&gt;Mix your sources so you don’t have too much information, aka too much noise.&lt;/li&gt;
-&lt;li&gt;Be happy with the super basic OPML editor Dave provided, or tweak your rivers building a few tabs (which I did)&lt;/li&gt;
-&lt;li&gt;Be happy with no images, no embedded videos, no automagical hierarchy, no likes, comments, retweets.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All considered I’m good with all the stuff above. But I’d really like some improvements to make Electric River not just a techie smart app but an app a journalist could use more at work.&lt;/p&gt;
-
-&lt;h5 id=&#34;actual-improvements&#34;&gt;ACTUAL IMPROVEMENTS&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;some kind of pagination: because if you’ve been away for a while, you lose too much news.&lt;/li&gt;
-&lt;li&gt;search: I’d start with some &lt;code&gt;cmd + F&lt;/code&gt; for searching the page, but a search box would be amazing.&lt;/li&gt;
-&lt;li&gt;stars/readitlater: some kind of selecting items so you can work them later or just remember.&lt;/li&gt;
-&lt;li&gt;synch: Electric River is totally desktop, but our lives are mobile and multi-device. Some kind of feed memory would help.&lt;/li&gt;
-&lt;li&gt;sharing: Dave offers his awesome &lt;a href=&#34;http://radio3.io/&#34;&gt;Radio3&lt;/a&gt; for tweeting and posting on Facebook. I’d love some more customization for sharing directly in Instapaper, Pinboard, Slack etc…&lt;/li&gt;
-&lt;li&gt;All of the above functions are already available from Feedly, Feedbin, etc…
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;ui-stuff&#34;&gt;UI STUFF&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I’d really could use a “Return to Top” arrow.&lt;/li&gt;
-&lt;li&gt;I’d love to change the default font, text size, and background (like you can on Kindle or Instapaper).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That is my feedback after one week. Electric River is only 0.40e, so it has still to grow.&lt;/p&gt;
-</description>
+      <description>One week ago in Perugia, during the annual Journalism Festival, Dave Winer talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that Plan B.
+First step, he said, forget your readers for a moment and start your own News River. It is something he’s been working on for years, basically a feed aggregator with no fancy stuff.</description>
     </item>
     
   </channel>
