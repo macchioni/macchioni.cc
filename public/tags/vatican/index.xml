@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2013 13:49:12 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/vatican/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/vatican/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +17,9 @@
       <pubDate>Tue, 12 Mar 2013 13:49:12 +0000</pubDate>
       
       <guid>https://macchioni.cc/2013/03/12/tutti-a-scola/</guid>
-      <description>Inizia il Conclave.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://tg24.sky.it/static/contentimages/original/sezioni/tg24/mondo/2013/03/12/conclave2005.jpg&#34; alt=&#34;&#34; /&gt;
+Inizia il Conclave.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

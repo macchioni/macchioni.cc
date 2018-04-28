@@ -12237,15 +12237,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/arte/</loc>
-    <lastmod>2008-07-13T18:05:10+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/arte/</loc>
+    <lastmod>2011-12-21T12:22:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/arte/</loc>
-    <lastmod>2011-12-21T12:22:34+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/arte/</loc>
+    <lastmod>2008-07-13T18:05:10+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -12342,15 +12342,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/blog/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/blog/</loc>
+    <lastmod>2014-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/blog/</loc>
-    <lastmod>2014-03-18T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/blog/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -12370,15 +12370,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/blogging/</loc>
-    <lastmod>2008-06-15T14:41:17+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/blogging/</loc>
+    <lastmod>2016-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/blogging/</loc>
-    <lastmod>2016-04-14T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/blogging/</loc>
+    <lastmod>2008-06-15T14:41:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -12405,15 +12405,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/books/</loc>
-    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/books/</loc>
+    <lastmod>2014-10-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/books/</loc>
-    <lastmod>2014-10-22T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/books/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -12965,13 +12965,6 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/food/</loc>
-    <lastmod>2016-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://macchioni.cc/categories/food/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12979,14 +12972,21 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/fotografia/</loc>
-    <lastmod>2012-08-24T09:01:45+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/food/</loc>
+    <lastmod>2016-06-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://macchioni.cc/categories/fotografia/</loc>
+    <lastmod>2012-08-24T09:01:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://macchioni.cc/tags/fotografia/</loc>
     <lastmod>2012-08-24T09:01:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -13112,15 +13112,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/giornalismo/</loc>
-    <lastmod>2012-07-04T08:25:36+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/giornalismo/</loc>
+    <lastmod>2014-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/giornalismo/</loc>
-    <lastmod>2014-06-12T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/giornalismo/</loc>
+    <lastmod>2012-07-04T08:25:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -13399,15 +13399,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/internet/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/internet/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/internet/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/internet/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -13546,15 +13546,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/journalism/</loc>
-    <lastmod>2016-03-08T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/journalism/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/journalism/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/journalism/</loc>
+    <lastmod>2016-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -13658,13 +13658,6 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/libri/</loc>
-    <lastmod>2014-02-28T19:45:36+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://macchioni.cc/categories/libri/</loc>
     <lastmod>2016-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13672,8 +13665,8 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/links/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/libri/</loc>
+    <lastmod>2014-02-28T19:45:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -13681,6 +13674,13 @@
   <url>
     <loc>https://macchioni.cc/categories/links/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://macchioni.cc/tags/links/</loc>
+    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -13952,15 +13952,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/music/</loc>
-    <lastmod>2012-06-05T10:40:56+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/music/</loc>
+    <lastmod>2016-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/music/</loc>
-    <lastmod>2016-10-13T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/music/</loc>
+    <lastmod>2012-06-05T10:40:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14036,15 +14036,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/news/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/news/</loc>
+    <lastmod>2016-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/news/</loc>
-    <lastmod>2016-02-12T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/news/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14218,15 +14218,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/photography/</loc>
-    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/photography/</loc>
+    <lastmod>2014-08-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/photography/</loc>
-    <lastmod>2014-08-31T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/photography/</loc>
+    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14246,15 +14246,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/politica/</loc>
-    <lastmod>2008-06-30T07:54:53+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/politica/</loc>
+    <lastmod>2012-05-25T07:55:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/politica/</loc>
-    <lastmod>2012-05-25T07:55:55+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/politica/</loc>
+    <lastmod>2008-06-30T07:54:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14379,15 +14379,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/quotes/</loc>
-    <lastmod>2016-04-26T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/quotes/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/quotes/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/quotes/</loc>
+    <lastmod>2016-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14540,15 +14540,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/scienza/</loc>
-    <lastmod>2008-02-21T07:41:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/scienza/</loc>
+    <lastmod>2008-12-15T06:35:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/scienza/</loc>
-    <lastmod>2008-12-15T06:35:52+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/scienza/</loc>
+    <lastmod>2008-02-21T07:41:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14722,15 +14722,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/technology/</loc>
-    <lastmod>2010-10-07T08:44:54+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/technology/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/technology/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/technology/</loc>
+    <lastmod>2010-10-07T08:44:54+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14743,15 +14743,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/terrorism/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/terrorism/</loc>
+    <lastmod>2016-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/terrorism/</loc>
-    <lastmod>2016-07-15T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/terrorism/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -14890,13 +14890,6 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/tv/</loc>
-    <lastmod>2012-07-04T08:25:36+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://macchioni.cc/categories/tv/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14904,14 +14897,14 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/tv-calendar-xbmc/</loc>
-    <lastmod>2010-09-20T11:16:42+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/tv/</loc>
+    <lastmod>2012-07-04T08:25:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/tv-series/</loc>
+    <loc>https://macchioni.cc/tags/tv-calendar-xbmc/</loc>
     <lastmod>2010-09-20T11:16:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -14925,6 +14918,13 @@
   </url>
   
   <url>
+    <loc>https://macchioni.cc/tags/tv-series/</loc>
+    <lastmod>2010-09-20T11:16:42+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://macchioni.cc/categories/tweet/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14932,14 +14932,14 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/tweets/</loc>
+    <loc>https://macchioni.cc/categories/tweets/</loc>
     <lastmod>2010-08-30T20:59:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/tweets/</loc>
+    <loc>https://macchioni.cc/tags/tweets/</loc>
     <lastmod>2010-08-30T20:59:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -15044,15 +15044,15 @@
   </url>
   
   <url>
-    <loc>https://macchioni.cc/tags/web/</loc>
-    <lastmod>2014-06-14T00:00:00+00:00</lastmod>
+    <loc>https://macchioni.cc/categories/web/</loc>
+    <lastmod>2012-06-05T10:40:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://macchioni.cc/categories/web/</loc>
-    <lastmod>2012-06-05T10:40:56+00:00</lastmod>
+    <loc>https://macchioni.cc/tags/web/</loc>
+    <lastmod>2014-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

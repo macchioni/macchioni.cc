@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Apr 2010 06:08:33 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/luca-sofri/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/luca-sofri/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +17,8 @@
       <pubDate>Tue, 20 Apr 2010 06:08:33 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/04/20/il-primo-post-della-giornata/</guid>
-      <description>Il Post di Luca si presenta davvero bene. Sarà che preferisco la selezione umana agli aggregatori e la mediazione onesta ai titoloni. Accorri numeroso. [Il Post]</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ilpost.it&#34;&gt;Il Post&lt;/a&gt; di Luca si presenta davvero bene. Sarà che preferisco la selezione umana agli aggregatori e la mediazione onesta ai titoloni. Accorri numeroso. [Il Post]&lt;/p&gt;
+</description>
     </item>
     
   </channel>

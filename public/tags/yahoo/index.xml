@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Oct 2007 12:57:55 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/yahoo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/yahoo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,12 @@
       <pubDate>Mon, 22 Oct 2007 12:57:55 +0000</pubDate>
       
       <guid>https://macchioni.cc/2007/10/22/rottovolante/</guid>
-      <description> Egregio Giuseppe Turani, lei che di economia ci capisce, investa meglio e cambi ghost writer perché oggi, su Affari e Finanza, ha collezionato un altro strafalcione («Il più famoso dei siti che ospitano questo genere di affari, Jaiku, è stato comprato da Yahoo! per 475 milioni di dollari»). Indizio: è davvero sicuro che sia stata Yahoo! a comprare Jaiku? (aiutino: o forse è di Google che si tratta?).
-Affari e Finanza - Yahoo News </description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://blog.g2peru.com/wp-content/uploads/2007/10/jaikulovesgoogle1bmp.jpg&#34; alt=&#34;&#34; /&gt;Egregio Giuseppe Turani,  lei che di economia ci capisce, investa meglio e cambi ghost writer perché oggi, su Affari e Finanza, ha collezionato un altro strafalcione («Il più famoso dei siti che ospitano questo genere di affari, Jaiku, è stato comprato da Yahoo! per 475 milioni di dollari»). Indizio: è davvero sicuro che sia stata Yahoo! a comprare &lt;a href=&#34;http://www.jaiku.com/&#34;&gt;Jaiku&lt;/a&gt;? (aiutino: o forse &lt;a href=&#34;http://news.yahoo.com/s/nf/20071010/tc_nf/55901&#34;&gt;è di Google che si tratta&lt;/a&gt;?).&lt;/p&gt;
+
+&lt;h3 id=&#34;affari-e-finanza-yahoo-news&#34;&gt;Affari e Finanza - Yahoo News&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

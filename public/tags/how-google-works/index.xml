@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Oct 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/how-google-works/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/how-google-works/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,52 @@
       <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2014-10-22-come-funziona-il-libro-di-google/</guid>
-      <description>Ho letto il libro di Google scritto da Eric Schmidt e Jonathan Rosenberg. Ancora non ho capito se è incasinato di suo o se è stata la traduzione italiana a dare il colpo di grazia. Comunque, qualche dritta buona qua e là c&amp;rsquo;è. Vado in ordine sparso:
- la definizione di smart creative, pur ridondante, è accattivante. Come l&amp;rsquo;idea che le aziende dovrebbero dare più libertà e velocità, invece che ordinare di minimizzare i rischi.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/internship.jpg&#34; alt=&#34;internship-movie&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ho letto &lt;a href=&#34;http://www.howgoogleworks.net/&#34;&gt;il libro di Google&lt;/a&gt; scritto da Eric Schmidt e Jonathan Rosenberg. Ancora non ho capito se è incasinato di suo o se è stata la traduzione italiana a dare il colpo di grazia. Comunque, qualche dritta buona qua e là c&amp;rsquo;è. Vado in ordine sparso:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;la definizione di &lt;strong&gt;smart creative&lt;/strong&gt;, pur ridondante, è accattivante. Come l&amp;rsquo;idea che le aziende dovrebbero dare più libertà e velocità, invece che ordinare di minimizzare i rischi.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Anzi, se c&amp;rsquo;è una cosa da salvare del libro è il continuo riferimento a che cosa sia una &lt;strong&gt;cultura d&amp;rsquo;azienda&lt;/strong&gt;. Come certe squadre giocano in un certo modo, così le aziende scelgono i propri valori e crescono in scala seguendoli. Mica facile.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;la definitiva stroncatura del termine &amp;ldquo;passione&amp;rdquo; inserito generalmente nei curriculum.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;la teoria secondo la quale &lt;strong&gt;i creativi lavorano meglio in spazi stretti&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;e che comunque si lavora meglio in ufficio che a casa.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;il &amp;ldquo;trucco&amp;rdquo; di annotare continuamente chi fa cosa e quando.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;la tendenza a scegliere le persone non per quello che hanno fatto ma &lt;strong&gt;per quello che vogliono fare&lt;/strong&gt; e per la loro capacità d&amp;rsquo;imparare.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;il fatto che l&amp;rsquo;opinione della persona più alta in grado nella stanza (loro la chiamano &lt;strong&gt;&amp;ldquo;HiPPOs&amp;rdquo;&lt;/strong&gt;, Highest-Paid-Person’s-Opinion) non dovrebbe essere sempre quella destinata a prevalere.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;in generale la capacità dell&amp;rsquo;azienda di aver costruito una specie di burocrazia per sviluppare la creatività.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;il ricorso dei manager al manager-coach &lt;a href=&#34;https://en.wikipedia.org/wiki/William_Campbell_%28business_executive%29&#34;&gt;Bill Campbell&lt;/a&gt;, cioè uno che teneva testa a Steve Jobs e uno di cui leggerei molto volentieri qualcosa.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;la continua citazione, tipo Sacra Scrittura, alla &lt;a href=&#34;https://investor.google.com/corporate/2004/ipo-founders-letter.html&#34;&gt;lettera dei fondatori allegata all&amp;rsquo;IPO del 2004&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;il fatto che i &lt;strong&gt;dati&lt;/strong&gt;, al pari della tecnologia, costeranno sempre meno. Hint, studiate i numeri, il futuro è lì.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;una cosa sull&amp;rsquo;&lt;strong&gt;esaurimento nervoso&lt;/strong&gt; citata da Marissa Mayer: il &amp;ldquo;burnout&amp;rdquo; non è dovuto al troppo lavoro, ma al risentimento che nasce dal dover lasciar perdere le cose che vi importano veramente.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;l&amp;rsquo;&lt;strong&gt;opinione su Twitter&lt;/strong&gt;: è un&amp;rsquo;azienda editoriale, non un&amp;rsquo;azienda tecnologica.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;il diagramma di Venn che sintetizza la missione di &lt;a href=&#34;https://en.wikipedia.org/wiki/Google_X&#34;&gt;Google X&lt;/a&gt;: un&amp;rsquo;idea che affronti una grande sfida che influenzerà un gran numero di persone, un&amp;rsquo;idea che presenti una soluzione radicalmente diversa da quelle presenti sul mercato, un&amp;rsquo;idea raggiungibile in un futuro non troppo lontano. Insomma, Beningni e Troisi in *Non ci resta che piangere erano una specie di Google X.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/benigni.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Il progresso tecnologico segue un percorso verso l&amp;rsquo;alto inesorabile. Seguitelo fino a un punto logico nel futuro e ponetevi la domanda: che cosa significa questo per noi?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Bonus&lt;/strong&gt;: ma l&amp;rsquo;avete visto &lt;em&gt;The Internship&lt;/em&gt;? Vabbè, almeno guardatevi &lt;a href=&#34;https://www.youtube.com/watch?v=ewek-6TudOM&#34;&gt;la scena cult&lt;/a&gt;. What?!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/hgw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

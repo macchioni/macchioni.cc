@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/rss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,24 @@
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2018-01-17-feed-rss-for-journalists-copia/</guid>
-      <description>This year started with a small project I really like: Feeds for Journalists, by Dave Winer. The idea is that RSS is still a valid technology to get an effective and unbiased flow of news.
-As he puts it, after reading a tweet by Mathew Ingram:
- If you&amp;rsquo;re a journalist and you love RSS, please join me in an easy project to improve both. Let&amp;rsquo;s put together a list of starter feeds for journalists.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/office-for-creative-research-3.jpg&#34; alt=&#34;office-for-creative-research-3&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year started with a small project I really like: &lt;a href=&#34;https://github.com/scripting/feedsForJournalists&#34;&gt;Feeds for Journalists&lt;/a&gt;, by &lt;a href=&#34;http://scripting.com/&#34;&gt;Dave Winer&lt;/a&gt;. The idea is that RSS is still a valid technology to get an effective and unbiased flow of news.&lt;/p&gt;
+
+&lt;p&gt;As he puts it, after reading &lt;a href=&#34;https://twitter.com/mathewi/status/952214692918734848&#34;&gt;a tweet by Mathew Ingram&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you&amp;rsquo;re a journalist and you love RSS, please join me in an easy project to improve both. Let&amp;rsquo;s put together a list of starter feeds for journalists.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Basically, we’re sharing our RSS bookmarks considering  only the accountable sources. Since &lt;a href=&#34;https://www.theverge.com/2018/1/11/16881102/facebook-news-feed-changes-meaningful-interactions&#34;&gt;Facebook is pivoting from its initial position regarding news and its News Feed&lt;/a&gt;, I think even the timing of &lt;a href=&#34;https://github.com/scripting/feedsForJournalists&#34;&gt;Feeds for Journalists&lt;/a&gt; is right.&lt;/p&gt;
+
+&lt;p&gt;When good ol’ &lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Reader&#34;&gt;Google Reader&lt;/a&gt; was killed by Google, I continued using RSS via Feedly, Inoreader and &lt;a href=&#34;http://rss2.io/electric/&#34;&gt;Electric River&lt;/a&gt; (the latter also by Dave). RSS is still the best option for massive news browsers, an indispensabile technology in any newsroom. Give it a try.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update:&lt;/em&gt; Dave made a &lt;a href=&#34;http://scripting.com/journalists/&#34;&gt;useful river here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bonus: since we spoke about Zuck, Frederic Filloux says &lt;a href=&#34;https://mondaynote.com/facebook-is-done-with-quality-journalism-deal-with-it-afc2475f1f84&#34;&gt;Facebook has all the reasons in the world to get rid of journalism&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +43,55 @@ As he puts it, after reading a tweet by Mathew Ingram:
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-04-15-what-is-electric-river/</guid>
-      <description>One week ago in Perugia, during the annual Journalism Festival, Dave Winer talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that Plan B.
-First step, he said, forget your readers for a moment and start your own News River. It is something he’s been working on for years, basically a feed aggregator with no fancy stuff.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/electric-river.jpg&#34; alt=&#34;electric-river&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One week ago in Perugia, during the annual Journalism Festival, &lt;a href=&#34;http://scripting.com&#34;&gt;Dave Winer&lt;/a&gt; talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that &lt;a href=&#34;http://www.festivaldelgiornalismo.com/programme/2017/plan-b-making-a-home-for-news-on-the-open-web&#34;&gt;Plan B&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;First step, he said, forget your readers for a moment and start your own News River. It is something he’s been working on for years, basically a feed aggregator with no fancy stuff. It is radical because, when you use it, you just see what your sources publish when they do it: no algorithms, no distracting images, no ads. It’s like newsrooms in the old times, with the AP feed on your monitor.&lt;/p&gt;
+
+&lt;p&gt;Now I’m simplifying but the old News River needed a server, a bit of programming and a few bucks to let everything run. Why bother if you have amazing free products like &lt;a href=&#34;https://feedly.com/&#34;&gt;Feedly&lt;/a&gt;? So now Dave shipped &lt;a href=&#34;http://rss2.io/electric/&#34;&gt;Electric River&lt;/a&gt;, a Mac app easily customizable - well, you can enjoy more if you know some coding - you can run on your desktop with no cost at all.&lt;/p&gt;
+
+&lt;p&gt;I did it.&lt;/p&gt;
+
+&lt;p&gt;But I’d be naive if I thought Electric River was that easy. I still think it has a steep learning curve for the average journalist (at least here in Italy).&lt;/p&gt;
+
+&lt;p&gt;Basically you have to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Run a Mac.&lt;/li&gt;
+&lt;li&gt;Know what rss feeds are.&lt;/li&gt;
+&lt;li&gt;Be able to get them from your favorite sources.&lt;/li&gt;
+&lt;li&gt;Have some favorite sources.&lt;/li&gt;
+&lt;li&gt;Mix your sources so you don’t have too much information, aka too much noise.&lt;/li&gt;
+&lt;li&gt;Be happy with the super basic OPML editor Dave provided, or tweak your rivers building a few tabs (which I did)&lt;/li&gt;
+&lt;li&gt;Be happy with no images, no embedded videos, no automagical hierarchy, no likes, comments, retweets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All considered I’m good with all the stuff above. But I’d really like some improvements to make Electric River not just a techie smart app but an app a journalist could use more at work.&lt;/p&gt;
+
+&lt;h5 id=&#34;actual-improvements&#34;&gt;ACTUAL IMPROVEMENTS&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;some kind of pagination: because if you’ve been away for a while, you lose too much news.&lt;/li&gt;
+&lt;li&gt;search: I’d start with some &lt;code&gt;cmd + F&lt;/code&gt; for searching the page, but a search box would be amazing.&lt;/li&gt;
+&lt;li&gt;stars/readitlater: some kind of selecting items so you can work them later or just remember.&lt;/li&gt;
+&lt;li&gt;synch: Electric River is totally desktop, but our lives are mobile and multi-device. Some kind of feed memory would help.&lt;/li&gt;
+&lt;li&gt;sharing: Dave offers his awesome &lt;a href=&#34;http://radio3.io/&#34;&gt;Radio3&lt;/a&gt; for tweeting and posting on Facebook. I’d love some more customization for sharing directly in Instapaper, Pinboard, Slack etc…&lt;/li&gt;
+&lt;li&gt;All of the above functions are already available from Feedly, Feedbin, etc…
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;ui-stuff&#34;&gt;UI STUFF&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I’d really could use a “Return to Top” arrow.&lt;/li&gt;
+&lt;li&gt;I’d love to change the default font, text size, and background (like you can on Kindle or Instapaper).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That is my feedback after one week. Electric River is only 0.40e, so it has still to grow.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,9 +100,36 @@ First step, he said, forget your readers for a moment and start your own News Ri
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2014-09-28-il-momento-del-podcast/</guid>
-      <description>Dato che dicono sia tornato il momento dei podcast (sort of), metto qui sotto i feed di quelli che, quando posso, ascolto volentieri.
- The Art of Manliness &amp;gt;The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men.
- 99% Invisible &amp;gt; Design is everywhere in our lives, perhaps most importantly in the places where we&amp;rsquo;ve just stopped noticing.</description>
+      <description>&lt;p&gt;Dato che dicono sia &lt;a href=&#34;http://www.fastcompany.com/3035954/most-creative-people/the-surprisingly-profitable-rise-of-podcast-networks?curator=MediaREDEF&#34;&gt;tornato il momento dei podcast&lt;/a&gt; (sort of), metto qui sotto i feed di quelli che, quando posso, ascolto volentieri.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/podcasts.jpg&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://feeds.feedburner.com/artofmanlinesspodcast&#34;&gt;The Art of Manliness&lt;/a&gt;
+&amp;gt;The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://feeds.99percentinvisible.org/99percentinvisible?&#34;&gt;99% Invisible&lt;/a&gt;
+&amp;gt; Design is everywhere in our lives, perhaps most importantly in the places where we&amp;rsquo;ve just stopped noticing. 99% Invisible (99 Percent Invisible) is a weekly exploration of the process and power of design and architecture.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://thecandidframe.libsyn.com/rss&#34;&gt;The Candid Frame: A Photography Podcast&lt;/a&gt;
+&amp;gt;A podcast about photography, photographers and photographs. By Ibarionex Perello.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://feedpress.me/weeklybriefly&#34;&gt;The Weekly Briefly&lt;/a&gt;
+&amp;gt;The Weekly Briefly is a very short, weekly podcast discussing creativity, technology, and the like. It serves as the once-a-week public episode of the daily, members-only podcast, Shawn Today. By Shawn Blanc.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://youarenotsosmart.libsyn.com/rss&#34;&gt;You Are Not So Smart&lt;/a&gt;
+&amp;gt; You Are Not So Smart is a celebration of self delusion that explores topics related to cognitive biases, heuristics, and logical fallacies. David McRaney interviews scientists about their research into how the mind works, and then he eats a cookie.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.radio.rai.it/radio2/podcast/rssradio2.jsp?id=11466&#34;&gt;Mu&lt;/a&gt;
+&amp;gt;Il programma di @MatteoBordone su @RaiRadio2 che coniuga bovini e musica. Sabato e domenica dalle 17 alle 18.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www4.rsi.ch/podcast/rss/Characters.cfm&#34;&gt;Characters&lt;/a&gt;
+&amp;gt; Racconti di sport a cura dell&amp;rsquo;avvocato, Federico Buffa. Il suo personale Santiago Bernabeu.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://feeds.feedburner.com/freakonomicsradio&#34;&gt;Freakonomics Radio&lt;/a&gt;
+&amp;gt;In their books &amp;ldquo;Freakonomics,&amp;rdquo; &amp;ldquo;SuperFreakonomics,&amp;rdquo; and &amp;ldquo;Think Like a Freak,&amp;rdquo; Steven D. Levitt and Stephen J. Dubner explore &amp;ldquo;the hidden side of everything&amp;rdquo;, telling stories about cheating schoolteachers and eating champions. The Freakonomics Radio podcast, hosted by Dubner, carries on that tradition.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

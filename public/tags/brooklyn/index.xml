@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Sep 2012 11:33:49 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/brooklyn/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/brooklyn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,12 @@
       <pubDate>Wed, 26 Sep 2012 11:33:49 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/09/26/voglio-vivere-al-barclays-center/</guid>
-      <description>Il Barclays Center, il nuovo palazzetto dei Brooklyn Nets è impressionante. E prende bene anche il wifi.
-{ BC - The Verge | photo: BrooklynNets}</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://distilleryimage6.s3.amazonaws.com/4accb87a035611e280ba22000a1e9f90_6.jpg&#34; alt=&#34;&#34; /&gt;&lt;img src=&#34;http://distilleryimage2.s3.amazonaws.com/6751c346fc5811e195f322000a1d0ce4_6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Il Barclays Center, il &lt;a href=&#34;http://www.barclayscenter.com/&#34;&gt;nuovo palazzetto&lt;/a&gt; dei Brooklyn Nets è impressionante. E &lt;a href=&#34;http://www.theverge.com/2012/9/24/3382066/brooklyn-nets-barclays-center-the-most-high-tech-stadium-in-sports&#34;&gt;prende&lt;/a&gt; bene anche il wifi.&lt;/p&gt;
+
+&lt;p&gt;{ BC - The Verge | photo: &lt;a href=&#34;http://web.stagram.com/n/brooklynnets/&#34;&gt;BrooklynNets&lt;/a&gt;}&lt;/p&gt;
+</description>
     </item>
     
   </channel>

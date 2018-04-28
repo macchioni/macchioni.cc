@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Oct 2010 15:16:37 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/las-vegas/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/las-vegas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,10 @@
       <pubDate>Wed, 06 Oct 2010 15:16:37 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/10/06/lalbergo-ci-sta-attaccando/</guid>
-      <description>Il Vdara Hotel, a Las Vegas, è stato costruito in un modo tale che, se la luce del sole colpisce una delle sue facciate, la gente in piscina finisce ustionata (per ora si sono squagliati solo sacchetti e bicchieri di plastica). Il fenomeno è stato battezzato &amp;ldquo;Vdara Death Ray&amp;rdquo;. La spiegazione scientifica della cosa, che prenderei per buona, è qui.
-[Las Vegas Review Journal - Wired.com]</description>
+      <description>&lt;p&gt;Il &lt;a href=&#34;http://www.vdara.com/&#34;&gt;Vdara Hotel&lt;/a&gt;, a Las Vegas, è stato costruito in un modo tale che, se la luce del sole colpisce una delle sue facciate, la gente in piscina finisce ustionata (per ora si sono squagliati solo sacchetti e bicchieri di plastica). Il fenomeno è stato battezzato &amp;ldquo;&lt;a href=&#34;http://www.lvrj.com/news/vdara-visitor---death-ray--scorched-hair-103777559.html&#34;&gt;Vdara Death Ray&lt;/a&gt;&amp;rdquo;. La &lt;a href=&#34;http://www.wired.com/wiredscience/2010/10/can-a-building-be-a-sun-death-ray/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed:+wired/index+(Wired:+Index+3+(Top+Stories+2))&amp;amp;utm_content=Google+Reader&#34;&gt;spiegazione scientifica&lt;/a&gt; della cosa, che prenderei per buona, è qui.&lt;/p&gt;
+
+&lt;p&gt;[Las Vegas Review Journal - Wired.com]&lt;/p&gt;
+</description>
     </item>
     
   </channel>

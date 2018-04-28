@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,14 @@
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/lets-save-net-neutrality/</guid>
-      <description>Net neutrality is the principle that Internet providers should not control what we see and do online. The rules prohibit Internet providers from blocking, throttling, and paid prioritization—&#34;fast lanes&#34; - for sites that pay, and slow lanes for everyone else.
- Battle for the web
-Let&amp;rsquo;s Save Net Neutrality</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;Net neutrality&lt;/b&gt; is the principle that Internet providers should not control what we see and do online. The rules prohibit Internet providers from blocking, throttling, and paid prioritization—&#34;fast lanes&#34; - for sites that pay, and slow lanes for everyone else.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.battleforthenet.com/&#34;&gt;Battle for the web&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eff.org/deeplinks/2017/07/todays-day-lets-save-net-neutrality&#34;&gt;Let&amp;rsquo;s Save Net Neutrality&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

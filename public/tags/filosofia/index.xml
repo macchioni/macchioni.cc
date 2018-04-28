@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Nov 2012 11:10:59 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/filosofia/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/filosofia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +17,8 @@
       <pubDate>Thu, 29 Nov 2012 11:10:59 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/11/29/una-monade/</guid>
-      <description>Qualcuno si è finalmente preso il mio vecchio dominio leibniz-blogs.it: Mr.Leibniz&amp;rsquo;s blog. Articoli, recensioni e riflessioni sul mondo. Non sono io, ma in bocca al lupo, da riflettere c&amp;rsquo;è sempre molto.</description>
+      <description>&lt;p&gt;Qualcuno si è finalmente preso il mio vecchio dominio leibniz-blogs.it: &lt;a href=&#34;http://www.leibniz-blogs.it&#34;&gt;Mr.Leibniz&amp;rsquo;s blog. Articoli, recensioni e riflessioni sul mondo&lt;/a&gt;. Non sono io, ma in bocca al lupo, da riflettere c&amp;rsquo;è sempre molto.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/radio/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/radio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,36 @@
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2014-09-28-il-momento-del-podcast/</guid>
-      <description>Dato che dicono sia tornato il momento dei podcast (sort of), metto qui sotto i feed di quelli che, quando posso, ascolto volentieri.
- The Art of Manliness &amp;gt;The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men.
- 99% Invisible &amp;gt; Design is everywhere in our lives, perhaps most importantly in the places where we&amp;rsquo;ve just stopped noticing.</description>
+      <description>&lt;p&gt;Dato che dicono sia &lt;a href=&#34;http://www.fastcompany.com/3035954/most-creative-people/the-surprisingly-profitable-rise-of-podcast-networks?curator=MediaREDEF&#34;&gt;tornato il momento dei podcast&lt;/a&gt; (sort of), metto qui sotto i feed di quelli che, quando posso, ascolto volentieri.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/podcasts.jpg&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://feeds.feedburner.com/artofmanlinesspodcast&#34;&gt;The Art of Manliness&lt;/a&gt;
+&amp;gt;The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://feeds.99percentinvisible.org/99percentinvisible?&#34;&gt;99% Invisible&lt;/a&gt;
+&amp;gt; Design is everywhere in our lives, perhaps most importantly in the places where we&amp;rsquo;ve just stopped noticing. 99% Invisible (99 Percent Invisible) is a weekly exploration of the process and power of design and architecture.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://thecandidframe.libsyn.com/rss&#34;&gt;The Candid Frame: A Photography Podcast&lt;/a&gt;
+&amp;gt;A podcast about photography, photographers and photographs. By Ibarionex Perello.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://feedpress.me/weeklybriefly&#34;&gt;The Weekly Briefly&lt;/a&gt;
+&amp;gt;The Weekly Briefly is a very short, weekly podcast discussing creativity, technology, and the like. It serves as the once-a-week public episode of the daily, members-only podcast, Shawn Today. By Shawn Blanc.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://youarenotsosmart.libsyn.com/rss&#34;&gt;You Are Not So Smart&lt;/a&gt;
+&amp;gt; You Are Not So Smart is a celebration of self delusion that explores topics related to cognitive biases, heuristics, and logical fallacies. David McRaney interviews scientists about their research into how the mind works, and then he eats a cookie.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.radio.rai.it/radio2/podcast/rssradio2.jsp?id=11466&#34;&gt;Mu&lt;/a&gt;
+&amp;gt;Il programma di @MatteoBordone su @RaiRadio2 che coniuga bovini e musica. Sabato e domenica dalle 17 alle 18.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www4.rsi.ch/podcast/rss/Characters.cfm&#34;&gt;Characters&lt;/a&gt;
+&amp;gt; Racconti di sport a cura dell&amp;rsquo;avvocato, Federico Buffa. Il suo personale Santiago Bernabeu.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://feeds.feedburner.com/freakonomicsradio&#34;&gt;Freakonomics Radio&lt;/a&gt;
+&amp;gt;In their books &amp;ldquo;Freakonomics,&amp;rdquo; &amp;ldquo;SuperFreakonomics,&amp;rdquo; and &amp;ldquo;Think Like a Freak,&amp;rdquo; Steven D. Levitt and Stephen J. Dubner explore &amp;ldquo;the hidden side of everything&amp;rdquo;, telling stories about cheating schoolteachers and eating champions. The Freakonomics Radio podcast, hosted by Dubner, carries on that tradition.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

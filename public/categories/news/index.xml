@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/categories/news/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,27 @@
       <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2016-02-12-la-nuova-app-di-quartz/</guid>
-      <description>Stamattina, mentre magari qualcuno guardava il suo giornale con una vignetta di Giannelli, una delle app che uso per ricevere informazioni sull&amp;rsquo;iPhone mi ha mandato una gif animata di Bernie Sanders in versione Mad Max.
-L&amp;rsquo;app è quella di Quartz, cioè uno degli esperimenti più innovativi visti fin qui. Quando si parla di news ai tempi del mobile più o meno tutti dicono che non bisogna aspettare che i lettori vangano da noi a cercare le notizie, ma siamo noi che dobbiamo dargliele.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/sanders.gif&#34; alt=&#34;bernie-sanders-mad-max&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stamattina, mentre magari qualcuno guardava il suo giornale con una vignetta di Giannelli, una delle app che uso per ricevere informazioni sull&amp;rsquo;iPhone mi ha mandato una gif animata di Bernie Sanders in versione Mad Max.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;app è quella di &lt;a href=&#34;http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/&#34;&gt;Quartz&lt;/a&gt;, cioè uno degli esperimenti più innovativi visti fin qui. Quando si parla di news ai tempi del mobile più o meno tutti dicono che non bisogna aspettare che i lettori vangano da noi a cercare le notizie, ma siamo noi che dobbiamo dargliele. Ecco, quelli di Quartz hanno praticamente creato un mix tra un Siri che non parla, un &lt;a href=&#34;https://hubot.github.com/&#34;&gt;bot come quello di github&lt;/a&gt; e l&amp;rsquo;apertura di Altri Mondi della Gazzetta. In un ambiente che più che somigliare a un &amp;ldquo;giornale&amp;rdquo;, è un universo alternativo di WhatsApp.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/qz1.jpg&#34; alt=&#34;quartz-app-1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/qz2.jpg&#34; alt=&#34;quartz-app-2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Non che un sistema del genere (che tra l&amp;rsquo;altro è adattissimo al native advertising) non possa risultare nel breve periodo sbagliato o comunque inefficace: qualche giusta perplessità l&amp;rsquo;ha espressa &lt;a href=&#34;http://www.wired.it/attualita/media/2016/02/11/quartz-giornalismo-chat-news/&#34;&gt;Philip Di Salvo&lt;/a&gt;. Però, oh, guardate che l&amp;rsquo;innovazione passa anche per tentativi come questo. E la chattizzazione è una costante di questa fase delle nostre vite. Fallirà, magari, ma questi sono progetti che in qualche modo dentro hanno qualcosa di giusto: quel qualcosa che a livello di effetto wow fa sembrare dinosauri i ca**o di colonnini morbosi e le partnership con Buzzfeed.&lt;/p&gt;
+
+&lt;p&gt;Avremo veramente voglia di conoscere le news chattando con un giornalista che sembra un bot che è un giornalista travestito da &lt;a href=&#34;https://it.wikipedia.org/wiki/Librogame&#34;&gt;librogame&lt;/a&gt; a base di emoticons?&lt;/p&gt;
+
+&lt;p&gt;Mah, why not? In fondo, millennials o no, siamo tutti figli di &lt;a href=&#34;https://it.wikipedia.org/wiki/Alan_Turing&#34;&gt;Alan Turing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/turing.png&#34; alt=&#34;cumberbatch-turing&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;
+&lt;a rel=&#34;syndication&#34; class=&#34;u-syndication&#34; href=&#34;https://medium.com/@leibniz/lascialo-stare-sta-chattando-con-il-giornale-735fcbb6544a#.kt143vwqc&#34;&gt;POSSEed on Medium&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

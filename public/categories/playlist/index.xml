@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 29 May 2007 06:03:01 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/categories/playlist/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/categories/playlist/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,12 @@
       <pubDate>Tue, 29 May 2007 06:03:01 +0000</pubDate>
       
       <guid>https://macchioni.cc/2007/05/29/brugo-moves-in-his-own-way/</guid>
-      <description> Ho provato a convincere qualcuno competente a compilare una playlist adatta per andare a correre. Il risultato eccolo qui.
-Brugo </description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://www.leibniz-blogs.it/gallery/brugolist.gif&#34; alt=&#34;&#34; /&gt;Ho provato a convincere qualcuno competente a compilare una playlist adatta per andare a correre. &lt;a href=&#34;http://www.bloggers.it/Ugo/playlist-per-correre/leibniz/playlist.htm&#34;&gt;Il risultato eccolo qui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;brugo&#34;&gt;Brugo&lt;/h3&gt;
+</description>
     </item>
     
     <item>
@@ -27,11 +31,64 @@ Brugo </description>
       <pubDate>Fri, 18 May 2007 18:38:05 +0000</pubDate>
       
       <guid>https://macchioni.cc/2007/05/18/to-be-a-rock-and-not-to-roll/</guid>
-      <description>Dice che bisogna spiegare a un alieno quali sono i 25 singoli più significativi della storia del rock. Siccome una lista così potrebbe cambiare ogni giorno, mi sono dato 25 minuti per comporla. Un po&amp;rsquo; classica, ma il messaggio arriva:
- Bill Haley - Rock Around The Clock
- Elvis Presley - Jailhouse Rock
- Jimi Hendrix (Bob Dylan) - All Along the Watchtower
- Deep Purple - Smoke on the water</description>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://grazia.blog.it/2007/05/17/rock-borchie-e-catene/&#34;&gt;Dice&lt;/a&gt; che bisogna spiegare  a un alieno quali sono i 25 singoli più significativi della storia del rock. Siccome una lista così potrebbe cambiare ogni giorno, mi sono dato 25 minuti per comporla. Un po&amp;rsquo; classica, ma il messaggio arriva:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;img src=&#34;http://www.lambruscoepopcorn.it/images/lespaul.gif&#34; alt=&#34;&#34; /&gt;Bill Haley - Rock Around The Clock&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Elvis Presley - Jailhouse Rock&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jimi Hendrix (Bob Dylan) - All Along the Watchtower&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Deep Purple - Smoke on the water&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Led Zeppelin - Stairway to heaven&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cream - Sunshine of your love&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mott The Hoople - All the young Dudes&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rainbow - Since you&amp;rsquo;ve been gone&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lynyrd Skynyrd - Freebird&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rolling Stones- Sympathy for the Devil&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pink Floyd - Shine on you crazy diamond&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pfm - Celebration&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;AC/DC - Back in black&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bruce Springsteen - Thunder Road&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dire Straits - Sultans of Swing&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Elton John - The Bitch is Back&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Van Halen - Jump&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rem - Losing my religion&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Red Hot Chili Peppers - Under the bridge&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;U2 - Where the streets have no name&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Metallica - Fade to black&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Queen - Innuendo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vasco Rossi - C&amp;rsquo;è chi dice no&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dream Theater - A change of seasons&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kiss - God gave Rock&amp;rsquo;n&amp;rsquo;Roll to you II&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;grazia-blog&#34;&gt;Grazia Blog&lt;/h3&gt;
+</description>
     </item>
     
     <item>
@@ -40,15 +97,46 @@ Brugo </description>
       <pubDate>Wed, 09 May 2007 22:16:01 +0000</pubDate>
       
       <guid>https://macchioni.cc/2007/05/09/tu-sola-dentro-una-stanza/</guid>
-      <description>Non spaventatevi. Ma qualcuno ha messo in fila le 15 migliori canzoni della storia dedicate all&amp;rsquo;autoerotismo. Con tanto di testi incriminati e di video (delle canzoni).
- Pump It Up (Elvis Costello)
- I Touch Myself (DiVinyls)
- She Bop (Cyndi Lauper)
- Turning Japanese (The Vapors)
- Praying Hands (Devo)
- Blister in the Sun (The Violent Femmes)
- The Keys to Her Ferrari (Thomas Dolby)
- Dancing With Myself (Billy Idol)</description>
+      <description>
+
+&lt;p&gt;Non spaventatevi. Ma qualcuno ha messo in fila &lt;a href=&#34;http://www.cracked.com/index.php?name=News&amp;amp;sid=1925&amp;amp;pageid=2&#34;&gt;le 15 migliori canzoni della storia dedicate all&amp;rsquo;autoerotismo&lt;/a&gt;. Con tanto di testi incriminati e di video (delle canzoni).&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Pump It Up (Elvis Costello)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I Touch Myself (DiVinyls)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;She Bop (Cyndi Lauper)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Turning Japanese (The Vapors)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Praying Hands (Devo)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Blister in the Sun (The Violent Femmes)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The Keys to Her Ferrari (Thomas Dolby)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dancing With Myself (Billy Idol)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;St. Swithin&amp;rsquo;s Day (Billy Bragg)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I&amp;rsquo;m a Wanker (Ivor Biggun and the Winkers)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pictures of Lily (The Who)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Orgasm Addict (The Buzzcocks)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Icicle (Tori Amos)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Darling Nikki (Prince)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;My Ding-A-Ling (Chuck Berry)&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;No, nessuna di queste è tra le &lt;a href=&#34;http://www.rollingstoneextras.com/patron40songs/&#34;&gt;40 canzoni che hanno fatto la storia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;cracked-via-digg-http-digg-com-rolling-stone&#34;&gt;Cracked (via &lt;a href=&#34;http://digg.com/&#34;&gt;Digg&lt;/a&gt;) - Rolling Stone&lt;/h3&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +145,8 @@ Brugo </description>
       <pubDate>Sun, 15 Apr 2007 09:36:52 +0000</pubDate>
       
       <guid>https://macchioni.cc/2007/04/15/andare-per-andare/</guid>
-      <description>Fuori è estate. Magari viene voglia di correre. Debutta l&amp;rsquo;esperimento playlist.</description>
+      <description>&lt;p&gt;Fuori è estate. Magari viene voglia di correre. Debutta l&amp;rsquo;esperimento &lt;a href=&#34;http://www.leibniz-blogs.it/playlists/&#34;&gt;playlist&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

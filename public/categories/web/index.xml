@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Jun 2012 10:40:56 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/categories/web/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/categories/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,12 @@
       <pubDate>Tue, 05 Jun 2012 10:40:56 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/06/05/prendi-i-soldi-e-canta/</guid>
-      <description>Amanda Palmer (quella dei Radiohead rifatti con l&amp;rsquo;ukulele) ha raccolto un milione e passa di dollari per il suo nuovo album, per il tour e per un libro fotografico. Nessuno ha mai fatto meglio di lei su Kickstarter. Quelli di Rockol, che di musica ne sanno, ne avevano già parlato.
-{Amanda Palmer - Kickstarter via Waxy - Rockol | foto di sawb}</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://distilleryimage4.instagram.com/dba45388ad4f11e180c9123138016265_7.jpg&#34;&gt;&lt;img src=&#34;http://leibniz.me/images/uploads/2012/06/dba45388ad4f11e180c9123138016265_7.jpg&#34; alt=&#34;drawing&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.amandapalmer.net/&#34;&gt;Amanda Palmer&lt;/a&gt; (quella dei &lt;a href=&#34;http://music.amandapalmer.net/album/amanda-palmer-performs-the-popular-hits-of-radiohead-on-her-magical-ukulele&#34;&gt;Radiohead rifatti con l&amp;rsquo;ukulele&lt;/a&gt;) ha raccolto &lt;a href=&#34;http://www.kickstarter.com/projects/amandapalmer/amanda-palmer-the-new-record-art-book-and-tour&#34;&gt;un milione e passa di dollari&lt;/a&gt; per il suo nuovo album, per il tour e per un libro fotografico. &lt;a href=&#34;http://www.kickstarter.com/blog/amandas-million&#34;&gt;Nessuno ha mai fatto meglio di lei su Kickstarter&lt;/a&gt;. Quelli di Rockol, che di musica ne sanno, ne avevano &lt;a href=&#34;http://www.rockol.it/news-371090/Kickstarter,-Amanda-Palmer-raccoglie-dai-fan-quasi-200-mila-dollari-in-un-giorno&#34;&gt;già parlato&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;{Amanda Palmer - Kickstarter via &lt;a href=&#34;http://waxy.org/links/&#34;&gt;Waxy&lt;/a&gt; - Rockol | foto di &lt;a href=&#34;http://instagr.am/p/LZ11rvRVGQ/&#34;&gt;sawb&lt;/a&gt;}&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +31,41 @@
       <pubDate>Wed, 22 Feb 2012 16:02:52 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/02/22/butterball-hotline-8/</guid>
-      <description>Quale lingua conviene imparare (dopo l’inglese)? Se l’è chiesto More Intelligent Life e la risposta non è il gettonassimo mandarino (che fatica a diventare lingua universale per colpa dei suoi caratteri), ma il francese. Prrr…   French is unquestionably top of the list. It can enhance your enjoyment of art, history, literature and food, while giving you an important tool in business and a useful one in diplomacy. It has native speakers in every region on earth.</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://moreintelligentlife.com/content/ideas/robert-lane-greene/which-best-language-learn&#34;&gt;Quale lingua conviene imparare&lt;/a&gt; (dopo l’inglese)? Se l’è chiesto &lt;em&gt;More Intelligent Life&lt;/em&gt; e la risposta non è il gettonassimo mandarino (che fatica a diventare lingua universale per colpa dei suoi caratteri), ma il francese. Prrr…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;French is unquestionably top of the list. It can enhance your enjoyment of art, history, literature and food, while giving you an important tool in business and a useful one in diplomacy. It has native speakers in every region on earth. And lest we forget its heartland itself, France attracts more tourists than any other country.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sono un fan degli &lt;a href=&#34;http://www.gaspartorriero.it/category/Arduino/&#34;&gt;esperimenti di Gaspar&lt;/a&gt; con &lt;a href=&#34;http://www.arduino.cc/&#34;&gt;Arduino&lt;/a&gt;, mi chiedo solo che cosa potrebbe combinare se ordinasse anche un &lt;a href=&#34;http://www.raspberrypi.org/about&#34;&gt;Raspberry Pi&lt;/a&gt;, cioè il microcomputer da 25 dollari che può fare anche da media station HD.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Raspberry Pi is a credit-card sized computer that plugs into your TV and a keyboard. It’s a capable little PC which can be used for many of the things that your desktop PC does, like spreadsheets, word-processing and games. It also plays high-definition video. We want to see it being used by kids all over the world to learn programming..&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Non per cadere nei soliti stereotipi da film di quarta categoria sulle mafie cinesi, ma &lt;a href=&#34;http://www.coverjunkie.com/blog/much-more/3/9037&#34;&gt;una cover così&lt;/a&gt; sugli &lt;a href=&#34;http://www.timeout.com.hk/feature-stories/features/48820/the-men-who-rule-hong-kong.html&#34;&gt;Uomini che comandano a Hong Kong&lt;/a&gt;, con tanto di artwork padrinesco, è una di quelle da mandare in tipografia dopo aver lasciato il Paese alla volta di una località segreta.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;How did a small handful of tycoons come to rule over an entire city? Simple: They accumulated your wealth.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Su &lt;em&gt;Wired&lt;/em&gt;: &lt;a href=&#34;http://www.wired.com/magazine/2012/01/pl_madmenmap/&#34;&gt;chi si è fatto chi e chi vorremmo che si facesse chi&lt;/a&gt; in &lt;em&gt;Mad Men&lt;/em&gt;, che sta per ricominciare.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;How did a small handful of tycoons come to rule over an entire city? Simple: They accumulated your wealth.
+AMC’s Madison Avenue irregulars have done enough bed-hopping in 52 episodes to necessitate a diagram of the many entanglements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;«That was excellent. We should do that once a week!»&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=4TcGEcKjSu4&#34;&gt;&lt;img src=&#34;http://www.ermetika.it/ermetika-resources/images/Image/immagini-struttura/key-play.jpg&#34; alt=&#34;play&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,8 +74,14 @@
       <pubDate>Mon, 20 Feb 2012 13:58:07 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/02/20/i-nuovi-guardian/</guid>
-      <description>I cinque candidati al premio Quotidiani dal miglior design secondo The Society for News Design. Io voto Politiken (bello pulito, tipo così) e National Post (provateci voi a fare un bel giornale con quel formato impossibile).
- Excelsior uses a bold color palette and a multiple photographs on virtually every page to give it vigor and urgency. FAS and Politiken use sophisticated typography, masterful illustrations and wide broadsheet display to give them an authoritative look.</description>
+      <description>&lt;p&gt;I cinque candidati al premio &lt;a href=&#34;http://www.snd.org/2012/02/worlds-best-designed-newspaper-snd3/&#34;&gt;Quotidiani dal miglior design&lt;/a&gt; secondo The Society for News Design. Io voto &lt;em&gt;Politiken&lt;/em&gt; (bello pulito, tipo &lt;a href=&#34;http://www.presseurop.eu/files/10012011-Politiken.jpg&#34;&gt;così&lt;/a&gt;) e &lt;em&gt;National Post&lt;/em&gt; (provateci voi a fare un bel giornale con quel formato impossibile).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Excelsior&lt;/em&gt; uses a bold color palette and a multiple photographs on virtually every page to give it vigor and urgency. &lt;em&gt;FAS&lt;/em&gt; and &lt;em&gt;Politiken&lt;/em&gt; use sophisticated typography, masterful illustrations and wide broadsheet display to give them an authoritative look. &lt;em&gt;The National Post&lt;/em&gt; revels in its narrow page width and tells stories visually as well as any newspaper in the world. &lt;em&gt;The Grid&lt;/em&gt; has the feel of an underground paper minus most of the political coverage, but there are engaging story forms on every page.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;{SND}&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -46,8 +90,10 @@
       <pubDate>Sun, 10 Oct 2010 12:20:51 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/10/10/desktop-ubuntu/</guid>
-      <description>Oggi è uscito Maverick Meerkat, ovvero Ubuntu 10.10. Con queste ultime distribuzioni Linux sta diventando sempre meno una cosa da smanettoni ed è sempre più simile agli altri sistemi operativi. Anzi, in certi casi è pure meglio.
-[Ubuntu]</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.ubuntu.com/sites/default/files/active/maverick/pictogram_quote_feature.png&#34; alt=&#34;&#34; /&gt;Oggi è uscito Maverick Meerkat, ovvero &lt;a href=&#34;http://www.ubuntu.com/desktop&#34;&gt;Ubuntu 10.10&lt;/a&gt;. Con queste ultime distribuzioni Linux sta diventando sempre meno una cosa da smanettoni ed è sempre più simile agli altri sistemi operativi. Anzi, in certi casi è pure meglio.&lt;/p&gt;
+
+&lt;p&gt;[Ubuntu]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -56,8 +102,10 @@
       <pubDate>Mon, 20 Sep 2010 11:16:42 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/09/20/lungo-le-sponde-del-mio-torrente/</guid>
-      <description>Domani, The Event (sarà una sòla?). Giovedì, Modern Family. Ma, soprattutto, venerdì notte: Big Bang Theory, Community, 30 Rock e Fringe. E sabato, tanto per gradire, riprende pure The Good Guys. Strumenti essenziali: Tv Calendar, Addic7ed, MyItasa, Miro e Xbmc. Come scrive oggi Tom Mockridge di Sky: &amp;ldquo;liberi di&amp;rdquo;.
-[Nbc - Fox - Cbs - Tv Calendar - Addic7ed - Itasa - Xbmc - Digital sat]</description>
+      <description>&lt;p&gt;Domani, &lt;a href=&#34;http://www.nbc.com/the-event/&#34;&gt;The Event&lt;/a&gt; (sarà una sòla?). Giovedì, &lt;a href=&#34;http://abc.go.com/shows/modern-family&#34;&gt;Modern Family&lt;/a&gt;. Ma, soprattutto, venerdì notte: &lt;a href=&#34;http://www.cbs.com/primetime/big_bang_theory/&#34;&gt;Big Bang Theory&lt;/a&gt;, &lt;a href=&#34;http://www.nbc.com/community/&#34;&gt;Community&lt;/a&gt;, &lt;a href=&#34;http://www.nbc.com/30-rock/&#34;&gt;30 Rock&lt;/a&gt; e &lt;a href=&#34;http://www.fox.com/fringe/&#34;&gt;Fringe&lt;/a&gt;. E sabato, tanto per gradire, riprende pure &lt;a href=&#34;http://www.fox.com/goodguys/&#34;&gt;The Good Guys&lt;/a&gt;. Strumenti essenziali: &lt;a href=&#34;http://www.pogdesign.co.uk/cat/&#34;&gt;Tv Calendar&lt;/a&gt;, &lt;a href=&#34;http://www.addic7ed.com/&#34;&gt;Addic7ed&lt;/a&gt;, &lt;a href=&#34;http://www.italiansubs.net/&#34;&gt;MyItasa&lt;/a&gt;, &lt;a href=&#34;http://www.getmiro.com/&#34;&gt;Miro&lt;/a&gt; e &lt;a href=&#34;http://xbmc.org/&#34;&gt;Xbmc&lt;/a&gt;. Come &lt;a href=&#34;http://www.digital-sat.it/new.php?id=23451&#34;&gt;scrive&lt;/a&gt; oggi Tom Mockridge di Sky: &amp;ldquo;liberi di&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;[Nbc - Fox - Cbs - Tv Calendar - Addic7ed - Itasa - Xbmc - Digital sat]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -66,7 +114,8 @@
       <pubDate>Thu, 09 Sep 2010 15:15:58 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/09/09/buongustai/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://leibniz.me/wp-content/uploads/2010/09/soppressata.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -75,7 +124,8 @@
       <pubDate>Tue, 20 Apr 2010 06:08:33 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/04/20/il-primo-post-della-giornata/</guid>
-      <description>Il Post di Luca si presenta davvero bene. Sarà che preferisco la selezione umana agli aggregatori e la mediazione onesta ai titoloni. Accorri numeroso. [Il Post]</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ilpost.it&#34;&gt;Il Post&lt;/a&gt; di Luca si presenta davvero bene. Sarà che preferisco la selezione umana agli aggregatori e la mediazione onesta ai titoloni. Accorri numeroso. [Il Post]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -84,8 +134,14 @@
       <pubDate>Thu, 04 Mar 2010 06:44:30 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/03/04/bluno/</guid>
-      <description>Peccato, Sacha Baron Cohen in versione femmina di Na&amp;rsquo;vi messa incinta da James Cameron, non era male. Agli Oscar, poi&amp;hellip;
- Our insider informs us that Baron Cohen planned to appear onstage as a blue-skinned, female Na’vi, with Stiller translating “her” interplanetary speech. As the skit went on, though, it would become clear that Stiller wasn’t translating properly, because Cohen would grow ever more upset. At its climax, an infuriated Baron Cohen would pull open “her” evening gown to reveal that s/he was pregnant, knocked up with Cameron’s love child, and would go on to confront her baby daddy as if s/he were on Jerry Springer.</description>
+      <description>&lt;p&gt;Peccato, Sacha Baron Cohen i&lt;a href=&#34;http://nymag.com/daily/entertainment/2010/03/sacha_baron_cohen_james_camero.html&#34;&gt;n versione femmina di Na&amp;rsquo;vi&lt;/a&gt; messa incinta da James Cameron, non era male. Agli Oscar, poi&amp;hellip;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Our insider informs us that Baron Cohen planned to appear onstage as a blue-skinned, female Na’vi, with Stiller translating “her” interplanetary speech. As the skit went on, though, it would become clear that Stiller wasn’t translating properly, because Cohen would grow ever more upset. At its climax, an infuriated Baron Cohen would pull open “her” evening gown to reveal that s/he was pregnant, knocked up with Cameron’s love child, and would go on to confront her baby daddy as if s/he were on Jerry Springer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;[NY Magazine]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -94,8 +150,10 @@
       <pubDate>Fri, 19 Jun 2009 14:15:47 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/06/19/come-evitare-i-refusi/</guid>
-      <description>Poi uno dice dei giornalisti&amp;hellip; David Pogue del New York Times dice di scrivere con la tastiera meno della metà dei suoi articoli. Perché usa un software di riconoscimento vocaboli e uno di riconoscimento vocale che fanno il resto del lavoro per lui.
-[NY Times]</description>
+      <description>&lt;p&gt;Poi uno dice dei giornalisti&amp;hellip; &lt;a href=&#34;http://pogue.blogs.nytimes.com/2009/06/18/pogues-productivity-secrets-revealed/&#34;&gt;David Pogue &lt;/a&gt;del New York Times dice di scrivere con la tastiera meno della metà dei suoi articoli. Perché usa &lt;a href=&#34;http://pogue.blogs.nytimes.com/2009/05/21/typing-expansion-software/&#34;&gt;un software di riconoscimento vocaboli&lt;/a&gt; e uno di riconoscimento vocale che fanno il resto del lavoro per lui.&lt;/p&gt;
+
+&lt;p&gt;[NY Times]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -104,8 +162,12 @@
       <pubDate>Wed, 03 Jun 2009 20:51:51 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/06/03/cinque-pound-per-lacqua-del-tamigi/</guid>
-      <description>Il file di Google Docs con le spese dei ministri ombra inglesi aggiornate ogni cinque minuti è una cosa impensabile qui. E anche un po&amp;rsquo; terrificante, ma sarà perché somiglia molto alla nota spese dei conti di casa mia.
-[Conservatives]</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.conservatives.com/expenses/expensesPopup.html&#34;&gt;&lt;img src=&#34;http://www.conservatives.com/images/modules/spreadsheet.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Il &lt;a href=&#34;http://www.conservatives.com/expenses/expensesPopup.html&#34;&gt;file di Google Docs con le spese dei ministri ombra inglesi&lt;/a&gt; aggiornate ogni cinque minuti è una cosa impensabile qui. E anche un po&amp;rsquo; terrificante, ma sarà perché somiglia molto alla nota spese dei conti di casa mia.&lt;/p&gt;
+
+&lt;p&gt;[Conservatives]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -114,7 +176,10 @@
       <pubDate>Tue, 02 Jun 2009 19:34:03 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/06/02/sindaco-li-pulimo-o-no-sti-marciapiedi-a-mission/</guid>
-      <description>Gavin Newsom, sindaco di San Francisco e aspirante successore di Schwarzenegger come governatore della California, s&amp;rsquo;è inventato SF311, un servizio di comunicazione tra i cittadini e il Comune. Tutto via Twitter. [sfgov]</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://sftwitter.sfgov.org/twitter/&#34;&gt;&lt;img src=&#34;http://www.sfgov.org/site/uploadedimages/sf311/Self-ServicePortal/311.gif&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gavin Newsom, sindaco di San Francisco e aspirante successore di Schwarzenegger come governatore della California, s&amp;rsquo;è inventato SF311, un &lt;a href=&#34;http://sftwitter.sfgov.org/twitter/&#34;&gt;servizio di comunicazione&lt;/a&gt; tra i cittadini e il Comune. Tutto via Twitter. [sfgov]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -123,8 +188,18 @@
       <pubDate>Sun, 24 May 2009 18:54:29 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/05/24/necessaria-come-il-pane-molto-pericolosa/</guid>
-      <description>Mi sa che ha ragione Massimo Mantellini. Sul Rapporto Caio e sul futuro di un network di nuova generazione (Ngn) in Italia.
- Abbiamo bisogno di investire pesantemente sulla rete anche se non sappiamo bene il perché. Come ci insegna chiaramente la storia di Internet negli ultimi 15 anni le tecnologie abilitano e gli umani dopo fanno il resto. E’ assai probabile che lo scenario disegnato dal rapporto Caio sulla evoluzione dei servizi di rete sia risibile e facilmente superato dagli eventi ma non sarà questa superficialità di analisi a togliere validità all’idea di una solo grande rete in fibra che raggiunga la casa del maggior numero possibile di cittadini.</description>
+      <description>&lt;p&gt;Mi sa che ha ragione &lt;a href=&#34;http://www.mantellini.it/?p=6760&#34;&gt;Massimo Mantellini&lt;/a&gt;. Sul Rapporto Caio e sul futuro di un network di nuova generazione (Ngn) in Italia.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abbiamo bisogno di investire pesantemente sulla rete anche se non sappiamo bene il perché.&lt;/strong&gt; Come ci insegna chiaramente la storia di Internet negli ultimi 15 anni &lt;strong&gt;le tecnologie abilitano e gli umani dopo fanno il resto.&lt;/strong&gt; E’ assai probabile che lo scenario disegnato dal rapporto Caio sulla evoluzione dei servizi di rete sia risibile e facilmente superato dagli eventi ma non sarà questa superficialità di analisi a togliere validità all’idea di una solo grande rete in fibra che raggiunga la casa del maggior numero possibile di cittadini. Gli utilizzi intelligenti, se avremo l’accortezza di gestire bene il processo, seguiranno.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Contemporaneamente **sarebbe sciocco non vedere che dietro alla NGN, in Italia così come in molti altri paesi, ribollono le aspettative di soggetti diversi dai fornitori di accesso cui siamo normalmente abituati. **Molti di costoro hanno interessi opposti rispetto a quelli dei cittadini, si oppongono alla neutralità, aspirano alla creazione di servizi di rete chiusi e controllati, immaginano insomma una rete Internet certamente veloce ma che abbia un respiro proprietario e orientato al business.&lt;/p&gt;
+
+&lt;p&gt;**Trovare un equilibrio che crei valore per tutti è forse possibile ma certamente assai complicato. **Ed in questo Paese, dove gli interessi della collettività sono spesso sommersi dalle aspettative di grandi, piccole e piccolissime parrocchie, è anche più difficile e pericoloso che altrove.&lt;/p&gt;
+
+&lt;p&gt;[Manteblog/Punto Informatico]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -133,8 +208,10 @@
       <pubDate>Wed, 20 May 2009 16:08:43 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/05/20/il-bello-della-webpolitica/</guid>
-      <description>Notapolitica, cioè il fivethirtyeight italiano, mi sembra promettere davvero bene: sondaggioni semi-riservati e rassegna stampa intelligente.
-[Nota Politica - 538]</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.notapolitica.it/home.aspx&#34;&gt;Notapolitica&lt;/a&gt;, cioè il &lt;a href=&#34;http://www.fivethirtyeight.com&#34;&gt;fivethirtyeight &lt;/a&gt;italiano, mi sembra promettere davvero bene: sondaggioni semi-riservati e  rassegna stampa intelligente.&lt;/p&gt;
+
+&lt;p&gt;[Nota Politica - 538]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -143,9 +220,14 @@
       <pubDate>Fri, 17 Apr 2009 13:39:04 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/04/17/la-sindrome-di-stoccolma/</guid>
-      <description>Non guarirete un’industria malata. Riuscirete solo a produrre una solida, diffusa, cultura autoritaria.
- Vittorio Zambardino sulla condanna ai tizi di Pirate Bay ha ragione.
-[Scene Digitali]</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Non guarirete un’industria malata. Riuscirete solo a produrre una solida, diffusa, cultura autoritaria.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://zambardino.blogautore.repubblica.it/2009/04/17/?ref=hpsbsx&#34;&gt;Vittorio Zambardino&lt;/a&gt; sulla &lt;a href=&#34;http://www.repubblica.it/2009/01/sezioni/tecnologia/p2p/sentenza-pirate/sentenza-pirate.html&#34;&gt;condanna&lt;/a&gt; ai tizi di Pirate Bay ha ragione.&lt;/p&gt;
+
+&lt;p&gt;[Scene Digitali]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -154,7 +236,12 @@
       <pubDate>Mon, 23 Mar 2009 18:42:13 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/03/23/hanno-rovinato-pure-android/</guid>
-      <description>Non sono un esperto, ma la vera notizia non mi pare tanto Tim che brucia sul tempo Vodafone e vende per prima uno smartphone Android in Italia (l&amp;rsquo;Htc Dream), quanto il fatto che questo manchi di due delle funzionalità principali: la sincronizzazione in automatico di contatti e calendario. Una funzione pressoché fondamentale (il primo video promozionale di Google non parlava quasi d&amp;rsquo;altro), che rendeva unico il googlefonino. Ora aspettiamo di vedere che cosa farà Vodafone con l&amp;rsquo;Htc Magic, che è il modello touchscreen un pelino più glossy e più veloce.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://spinnernetorg.cv.siteprotect.net/cgi-bin/cgiproy/nph-proy.pl/000010A/http/www.google.com/intl/en_uk/mobile/images/android_large.gif&#34; alt=&#34;&#34; /&gt;Non sono un esperto, ma la vera notizia non mi pare tanto &lt;a href=&#34;http://www.tim.it/consumer/c365/i85108/livello2standard.do&#34;&gt;Tim&lt;/a&gt; che brucia sul tempo Vodafone e vende per prima uno smartphone Android in Italia (l&amp;rsquo;Htc Dream), quanto il fatto che questo manchi di due delle funzionalità principali: &lt;a href=&#34;http://www.androidiani.com/problematiche/i-primi-problemi-del-dream-tim-1655&#34;&gt;la sincronizzazione in automatico di contatti e calendario&lt;/a&gt;. Una funzione pressoché fondamentale (&lt;a href=&#34;http://www.youtube.com/watch?v=z7qbPa1O8Ys&#34;&gt;il primo video &lt;/a&gt;promozionale di Google non parlava quasi d&amp;rsquo;altro), che rendeva unico il googlefonino. Ora aspettiamo di vedere che cosa farà Vodafone con l&amp;rsquo;Htc Magic, che è il modello touchscreen un pelino più glossy e più veloce. Ma, se restano così le cose, tanto vale prendersi un iPhone o un Blackberry. O anche niente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; gli smanettatori forse hanno trovato &lt;a href=&#34;http://www.androidiani.com/news/finisce-il-dream-di-tim-guida-allhacking-dellhtc-g1-tim-1677&#34;&gt;un modo&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;[Tim - Androidiani - YouTube - Spinnernetorg]&lt;/p&gt;
+</description>
     </item>
     
   </channel>

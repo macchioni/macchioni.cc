@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Aug 2007 15:48:21 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,12 @@
       <pubDate>Fri, 31 Aug 2007 15:48:21 +0000</pubDate>
       
       <guid>https://macchioni.cc/2007/08/31/tradimenti-estivi/</guid>
-      <description> Nelle ultime settimane ho trascurato l&amp;rsquo;aggregatore per quel mondo chiamato eBay (e ora sono entrato in una dimensione chiamata Htc Touch, quindi non credo cambierà molto).
-Htc </description>
+      <description>
+
+&lt;p&gt;Nelle ultime settimane ho trascurato l&amp;rsquo;aggregatore per quel mondo chiamato eBay (e ora sono entrato in una dimensione chiamata &lt;a href=&#34;http://www.htctouch.com/&#34;&gt;Htc Touch&lt;/a&gt;, quindi non credo cambierà molto).&lt;/p&gt;
+
+&lt;h3 id=&#34;htc&#34;&gt;Htc&lt;/h3&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +31,12 @@ Htc </description>
       <pubDate>Wed, 28 Feb 2007 15:36:59 +0000</pubDate>
       
       <guid>https://macchioni.cc/2007/02/28/gone-with-the-wind-ditelo-a-turigliatto/</guid>
-      <description> Bersani-watch. Sembra che l&amp;rsquo;effetto dell&amp;rsquo;abolizione dei costi di ricarica sulle schede telefoniche (sui piani attivati dalla prossima settimana) stia producendo un&amp;rsquo;ondata di rincari su tutti i piani tariffari. Almeno per quanto riguarda Wind.
-Mobileblog </description>
+      <description>
+
+&lt;p&gt;Bersani-watch. Sembra che l&amp;rsquo;effetto dell&amp;rsquo;abolizione dei costi di ricarica sulle schede telefoniche (sui piani attivati dalla prossima settimana) stia producendo &lt;a href=&#34;http://www.mobileblog.it/post/2720/la-vergogna-di-wind-rimodulate-tutte-le-offerte&#34;&gt;un&amp;rsquo;ondata di rincari&lt;/a&gt; su tutti i piani tariffari. Almeno per quanto riguarda Wind.&lt;/p&gt;
+
+&lt;h3 id=&#34;mobileblog&#34;&gt;Mobileblog&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

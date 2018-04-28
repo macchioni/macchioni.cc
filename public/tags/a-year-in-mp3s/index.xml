@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Sep 2010 10:13:10 +0000</lastBuildDate>
     
-	<atom:link href="https://macchioni.cc/tags/a-year-in-mp3s/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://macchioni.cc/tags/a-year-in-mp3s/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +17,10 @@
       <pubDate>Fri, 10 Sep 2010 10:13:10 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/09/10/uno-suonato/</guid>
-      <description>Roger Luke DuBois è il tizio che, nell&amp;rsquo;ultimo anno, ha composto e messo in rete un brano al giorno. [lukedubois - via Nyt]</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://leibniz.me/wp-content/uploads/2010/09/dubois75-thumbStandard.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lukedubois.com/year&#34;&gt;Roger Luke DuBois&lt;/a&gt; è il tizio che, nell&amp;rsquo;ultimo anno, ha composto e messo in rete un brano al giorno. [lukedubois - via &lt;a href=&#34;http://opinionator.blogs.nytimes.com/2010/09/09/a-year-in-mp3s/?partner=rss&amp;amp;emc=rss&#34;&gt;Nyt&lt;/a&gt;]&lt;/p&gt;
+</description>
     </item>
     
   </channel>
