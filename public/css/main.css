@@ -144,8 +144,17 @@ a {
 .article-date {
   display: block;
   color: #778899;
-  font-size: 16px;
+  font-size: 14px;
+  text-transform: uppercase;
 }
+
+.article-date a, a:hover,
+.article-date a:focus {
+  text-decoration: none;
+  background: none;
+
+  }
+
 
 .article-content p {
   margin: 15px 0 25px;
@@ -210,6 +219,9 @@ a {
   margin: 5px 0 15px;
   padding: 0;
 }
+
+
+
 
 .archive-item-date {
   color: #778899;
@@ -420,3 +432,8 @@ a {
   font-style: bold;
   margin: 1em 3em; }
 
+.horizontal_dotted_line{
+  border-bottom: 1px dashed LightGray;
+  width: 100%;
+
+} 
