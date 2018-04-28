@@ -3,8 +3,8 @@
   <channel>
     <title>Vox.Com on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/vox.com/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2014 00:00:00 +0000</lastBuildDate>
     
@@ -17,8 +17,71 @@
       <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/2014/04/10/vox-e-gli-spinaci-del-giornalismo/</guid>
-      <description>Da qualche giorno è online Vox, un sito di news di cui si è molto parlato per vari motivi. Ne metto giù tre:
- è diretto da Ezra Klein, 29enne-ripeto-29enne, ex wonder boy di American Prospect e del Washington Post. è edito da Vox Media, cioè chi pubblica uno dei siti tecnologici più amati qui, The Verge, e quella gran cosa di SBNation. nasce con lo scopo di spiegare in tempo reale le notizie complesse con dei “bignamini” detti &amp;ldquo;Vox Cards&amp;rdquo; (ma c&amp;rsquo;è anche altro).</description>
+      <description>&lt;p&gt;Da qualche giorno è online &lt;a href=&#34;http://vox.com&#34;&gt;Vox&lt;/a&gt;, un sito di news di cui si è molto parlato per vari motivi. Ne metto giù tre:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;è diretto da &lt;a href=&#34;https://en.wikipedia.org/wiki/Ezra_Klein&#34;&gt;Ezra Klein&lt;/a&gt;, 29enne-ripeto-29enne, ex wonder boy di &lt;em&gt;American Prospect&lt;/em&gt; e del &lt;em&gt;Washington Post&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;è edito da &lt;a href=&#34;http://www.voxmedia.com/&#34;&gt;Vox Media&lt;/a&gt;, cioè chi pubblica uno dei siti tecnologici più amati qui, &lt;a href=&#34;http://www.theverge.com/&#34;&gt;The Verge&lt;/a&gt;, e quella gran cosa di &lt;a href=&#34;http://www.sbnation.com/&#34;&gt;SBNation&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;nasce con lo scopo di spiegare in tempo reale le notizie complesse con dei “bignamini” detti &amp;ldquo;Vox Cards&amp;rdquo; (ma c&amp;rsquo;è anche altro).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Poi di cose interessanti ce ne sarebbero altre due:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;quelli di Vox.com hanno deciso di partire &amp;ldquo;incompleti&amp;rdquo;, sostenendo che il miglior modo di sviluppare il sito per i lettori è iniziare a metterlo online subito.&lt;/li&gt;
+&lt;li&gt;una degli executive editors, &lt;a href=&#34;http://www.vox.com/authors/melissa-bell&#34;&gt;Melissa Bell&lt;/a&gt;, è una specie di Zooey Deschanel in versione journo-nerd (ok, questo non è proprio un elemento fondamentale, mi rendo conto; comunque è qui sotto, tra Ezra Klein e &lt;a href=&#34;www.vox.com/authors/matthew-yglesias&#34;&gt;Matt Yglesias&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/voxdotcom.png&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;##Gli spinaci dell&amp;rsquo;informazione
+Nelle varie presentazioni Klein ha parlato spessissimo della &amp;ldquo;questione verdura&amp;rdquo;. A ogni pasto, ci ripetono da sempre le mamme e i nutrizionisti, dovremmo mangiare verdura: ci sono fibre e vitamine, fanno bene, bla bla bla. Eppure le verdure si mangiano malvolentieri. Ai bambini, spesso, nemmeno piacciono. Ecco, l&amp;rsquo;informazione è come un piatto: spinaci e biete sono le notizie che fanno bene, ma a volte sono noiose, o comunque non ci vanno o non ci piacciono. E le saltiamo. Ma, &lt;a href=&#34;http://www.adweek.com/news/press/ezra-klein-explains-his-new-news-site-vox-156211&#34;&gt;dice Klein&lt;/a&gt;, è tutta colpa di come ce le cucinano:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We call some of the topics we cover the &amp;lsquo;vegetables&amp;rsquo; or the &amp;lsquo;spinach&amp;rsquo; as if they’re gross and people should be reading them but they’re not going to want to. It’s a terrible attitude. &lt;em&gt;If we can’t take things that are important and meaningful in people’s lives and make them interesting, that failure is 100 percent on us as writers&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Loro hanno risolto con le &amp;ldquo;Vox cards&amp;rdquo; come &lt;a href=&#34;http://www.vox.com/cards/ukraine-everything-you-need-to-know/what-is-the-ukraine-crisis&#34;&gt;Tutto quello che devi sapere sulla crisi Ucraina&lt;/a&gt;. L’aspetto interessante è che hanno volutamente &lt;a href=&#34;http://www.vox.com/2014/3/30/5564404/how-we-make-vox&#34;&gt;prediletto la leggibilità su smartphone &amp;amp; co&lt;/a&gt; rispetto alle infografiche dinamiche genere &lt;a href=&#34;http://nytlabs.com/projects/kepler.html&#34;&gt;NY Times Labs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;##Lo spiegone all&amp;rsquo;italiana
+Ecco, mentre negli Stati Uniti di Vox si è parlato tanto prima ancora che nascesse, dopo i primi giorni viene da dire: embe&amp;rsquo;, tutto qui? La rivoluzione copernicana del giornalismo sarebbe fare (bene) (e in fretta) gli spiegoni? Cioè, per dire, in Italia da quasi quattro anni già li fa molto bene &lt;a href=&#34;http://ilpost.it&#34;&gt;Il Post&lt;/a&gt;, e non è che ci siano queste celebrazioni. Né tentativi di imitazione da parte dei big player. Anzi, lo stato penoso della situazione attuale secondo me è l&amp;rsquo;home page del rinnovato &lt;em&gt;Corriere della Sera&lt;/em&gt; (vedi &lt;em&gt;Post scriptum&lt;/em&gt;), del quale molti hanno criticato l&amp;rsquo;impostazione grafica &amp;ldquo;light&amp;rdquo;, tralasciando invece lo scivolamento verso il basso di titolazione e gerarchia delle notizie. Vabbè, forse hanno visto troppe volte &lt;a href=&#34;http://digg.com/video/the-wolf-of-buzzfeed-parody-trailer&#34;&gt;The Wolf of Buzzfeed&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;##Le cose noiose e difficili sono cose importanti
+Il Post, in realtà, mi è venuto in mente l&amp;rsquo;altro giorno leggendo un articolo abbastanza perfetto - credo di &lt;a href=&#34;http://www.francescocosta.net/&#34;&gt;Francesco Costa&lt;/a&gt; - titolato semplicemente &lt;a href=&#34;http://www.ilpost.it/2014/04/08/squalifica-destro-roma/&#34;&gt;La squalifica di Matteo Destro&lt;/a&gt;: circa 5000 battute su una recente sentenza del Giudice Sportivo nei confronti dell&amp;rsquo;attaccante della Roma riguardo un fallo visto/non visto dall&amp;rsquo;arbitro, ma rilevato con la cosiddetta &amp;ldquo;prova televisiva&amp;rdquo;. Uno può accettare le quattro giornate di squalifica, ignorare le norme della Serie A, e continuare a vivere benissimo (ma per i romanisti è più dura), oppure capire perché questo caso è una storia. A livello calcistico, magari, potrebbe essere un po&amp;rsquo; come le sentenze della Corte Costituzionale sulla legge 40. Insomma, nel suo è una cosa importante, ma per capirlo ci vogliono uno che te lo spieghi bene, la voglia di leggere 5000 battute e di guardarsi un paio di video su YouTube. Nessun cartaceo, tra quelli che ho visto, ha raccontato meglio del Post la faccenda.&lt;/p&gt;
+
+&lt;p&gt;Succede così ogni giorno. Perché quasi sempre l&amp;rsquo;istinto dei quotidiani è spiegare in giornalese, un lessico strano che presenta le notizie in frasi costruite apposta per dare vita a scenette immaginarie come questa:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Lettore: &amp;ldquo;O giornalisti, ma non lo potevate dire subito che era così?!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Giornalista: &amp;ldquo;O lettore, se ti soffermi ancora su questo passaggio, vedi, qui, sostanzialmente è ineccepibile: anzi, la notizia era ivi raccontata nella sua interezza, per di più a prova di querela/incazzatura dell&amp;rsquo;inserzionista/offesa del diretto interessato/tradimento della fonte&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;E così facendo, per esempio, siccome nessuno ha voglia di capire come funziona una legge elettorale, che è cosa complicata ma è la base di futuri governi e governicchi, stiamo lì a inventarci gli hashtag sulla #paritadigenereperlegge senza preoccuparci di altre cose che contano: chi fa le circoscrizioni, come si ripartiscono i &amp;ldquo;resti&amp;rdquo;, perché stavolta votare senza le preferenze va bene e l&amp;rsquo;altra no. Così questo meccanismo, ripetuto giorno dopo giorno, abbinato alla formula semplicistica dei vari tg24 con titolazione allarmistica in heavy rotation, se ti va bene cresce un&amp;rsquo;altra &amp;ldquo;generazione &lt;a href=&#34;https://www.youtube.com/watch?v=o_eUuaPR6bY&#34;&gt;La mela Imu no&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Oppure, se racconti la questione X con le parole giuste e sentendo le voci autorevoli, se sbrogli il linguaggio tecnico senza tralasciare l&amp;rsquo;autenticità dei contributi, poi magari succede questo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Figura apicale o pseudoapicale di turno della testata: &amp;ldquo;O giornalista collega, apprezzo la tua dedizione ai temi marginali, però questo tuo pezzo è lungo e noioso. Me lo riscrivi?&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;E quindi, alla fine, si ritorna a Klein e ai suoi spinaci.&lt;/p&gt;
+
+&lt;p&gt;O per disperazione finisce che applichi il &amp;ldquo;metodo Stamina&amp;rdquo;: chiami &lt;em&gt;Le Iene&lt;/em&gt; e ti fai dare il numero del Vannoni di turno. Titolone, lacrime, fade to Papa Francesco.&lt;/p&gt;
+
+&lt;p&gt;##La cosa complicata è che le cose sono complicate
+Già. Ma non è un buon motivo per rinunciare a spiegarle nel modo giusto, pur sapendo che la situazione è quella che è. Come &lt;a href=&#34;http://lucadebiase.nova100.ilsole24ore.com/2014/04/08/dedicato-a-chi-innova/&#34;&gt;scrive&lt;/a&gt; giustamente Luca De Biase:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;La risorsa scarsa, in questo mercato, non è più lo spazio sul quale pubblicare. È il tempo e l’attenzione del pubblico, il riconoscimento della rilevanza delle informazioni proposte.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;•••••&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt; Questo post l&amp;rsquo;ho in testa in maniera ancora più confusa da un po&amp;rsquo;, ma ho deciso di cominciare a scriverlo la sera del 9 aprile. In quel momento la terza notizia sul sito del &lt;em&gt;Corriere della Sera&lt;/em&gt; online è un bel &amp;ldquo;Papa Francesco fa salire un amico sulla Papamobile&amp;rdquo;, mentre dopo il primo blocco che comprende Legge 40, un paio di miracoli di Renzi e il &amp;ldquo;mistero&amp;rdquo; di turno (stavolta è la morte di Peaches Geldof, tre giorni dopo l’effettivo decesso), ci sono Ciancimino chef al ristorante, un pezzo sul segretario della Lega titolato &amp;ldquo;Roma felpona&amp;rdquo;, una fotogallery su Kate Middleton e il piccolo George, un&amp;rsquo;altra gallery sulle occhiaie di Giorgia Meloni che dura da due giorni. Formattato malino, è tutto in &lt;a href=&#34;http://leibniz.me/images/vault/corsera91pr.pdf&#34;&gt;questo pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PPS:&lt;/strong&gt; e comunque, degli ultimi pseudo-journo-neonati, il vero sito imperdibile è il nuovo &lt;a href=&#34;http://fivethirtyeight.com/&#34;&gt;FiveThirtyEight&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

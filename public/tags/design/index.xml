@@ -3,8 +3,8 @@
   <channel>
     <title>Design on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/design/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
     
@@ -17,8 +17,10 @@
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-08-15-good-design-is-medium-agnostic/</guid>
-      <description>Good design is medium-agnostic ➡ @jasonsantamaria @offscreenmag
-possed →  @leibniz</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.offscreenmag.com/issues/17&#34;&gt;Good design is medium-agnostic&lt;/a&gt; ➡ @jasonsantamaria @offscreenmag&lt;/p&gt;
+
+&lt;p&gt;&lt;span rel=&#34;syndication&#34; class=&#34;u-syndication&#34;&gt;possed → &lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://twitter.com/leibniz/status/897575081358086144&#34;&gt;@leibniz&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +29,14 @@ possed →  @leibniz</description>
       <pubDate>Mon, 20 Feb 2012 13:58:07 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/02/20/i-nuovi-guardian/</guid>
-      <description>I cinque candidati al premio Quotidiani dal miglior design secondo The Society for News Design. Io voto Politiken (bello pulito, tipo così) e National Post (provateci voi a fare un bel giornale con quel formato impossibile).
- Excelsior uses a bold color palette and a multiple photographs on virtually every page to give it vigor and urgency. FAS and Politiken use sophisticated typography, masterful illustrations and wide broadsheet display to give them an authoritative look.</description>
+      <description>&lt;p&gt;I cinque candidati al premio &lt;a href=&#34;http://www.snd.org/2012/02/worlds-best-designed-newspaper-snd3/&#34;&gt;Quotidiani dal miglior design&lt;/a&gt; secondo The Society for News Design. Io voto &lt;em&gt;Politiken&lt;/em&gt; (bello pulito, tipo &lt;a href=&#34;http://www.presseurop.eu/files/10012011-Politiken.jpg&#34;&gt;così&lt;/a&gt;) e &lt;em&gt;National Post&lt;/em&gt; (provateci voi a fare un bel giornale con quel formato impossibile).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Excelsior&lt;/em&gt; uses a bold color palette and a multiple photographs on virtually every page to give it vigor and urgency. &lt;em&gt;FAS&lt;/em&gt; and &lt;em&gt;Politiken&lt;/em&gt; use sophisticated typography, masterful illustrations and wide broadsheet display to give them an authoritative look. &lt;em&gt;The National Post&lt;/em&gt; revels in its narrow page width and tells stories visually as well as any newspaper in the world. &lt;em&gt;The Grid&lt;/em&gt; has the feel of an underground paper minus most of the political coverage, but there are engaging story forms on every page.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;{SND}&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -37,8 +45,14 @@ possed →  @leibniz</description>
       <pubDate>Sun, 20 Apr 2008 08:45:27 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/04/20/magari-cosi-se-li-leggono/</guid>
-      <description> Se già vi davano fastidio le copertine dei classici illustrate con immagini tratte da film o fiction recenti, dovreste pensare a come sarebbe il mondo se capolavori o libri simbolo come Il Diario di Anna Frank, la Bibbia o Il lamento di Portnoy venissero illustrati come fossero chick-lit.
-Radar (illustrazioni Monika Aichele) </description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://www.radaronline.com/from-the-magazine//anne_frank.jpg&#34; alt=&#34;&#34; /&gt;&lt;img src=&#34;http://www.radaronline.com/from-the-magazine//bible.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Se già  vi davano fastidio le copertine dei classici illustrate con immagini tratte da film o fiction recenti, dovreste pensare a come sarebbe il mondo se capolavori o libri simbolo come Il Diario di Anna Frank, la Bibbia o Il lamento di Portnoy venissero illustrati &lt;a href=&#34;http://www.radaronline.com/from-the-magazine/2008/03/chick_lit_bible_ayn_rand_pynchon_01.php&#34;&gt;come fossero chick-lit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;radar-illustrazioni-monika-aichele-http-www-monikaaichele-com&#34;&gt;Radar (illustrazioni &lt;a href=&#34;http://www.monikaaichele.com/&#34;&gt;Monika Aichele&lt;/a&gt;)&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

@@ -3,8 +3,8 @@
   <channel>
     <title>Donne on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/donne/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Feb 2008 07:41:00 +0000</lastBuildDate>
     
@@ -17,8 +17,12 @@
       <pubDate>Thu, 21 Feb 2008 07:41:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/02/21/uno-a-zero-per-noi/</guid>
-      <description> Fotografato il punto G. Non tutte le donne lo hanno. Che altro aggiungere?
-Ansa </description>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.ansa.it/opencms/export/site/visualizza_fdg.html_15119686.html&#34;&gt;Fotografato il punto G. Non tutte le donne lo hanno&lt;/a&gt;. Che altro aggiungere?&lt;/p&gt;
+
+&lt;h3 id=&#34;ansa&#34;&gt;Ansa&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

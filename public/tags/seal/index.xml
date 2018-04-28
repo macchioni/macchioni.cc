@@ -3,8 +3,8 @@
   <channel>
     <title>Seal on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/seal/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2008 11:08:43 +0000</lastBuildDate>
     
@@ -17,9 +17,14 @@
       <pubDate>Sun, 22 Jun 2008 11:08:43 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/06/22/il-sigillo-sulla-vittoria/</guid>
-      <description> [](http://www.camilloblog.it/archivio/2008/06/21/a-questa-non-ci-aveva-pensato-nemmeno-il-cav/)
-A questa non ci aveva pensato nemmeno il Cav.
-Camillo </description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://www.camilloblog.it/wp-content/uploads/image/Obamaseal.jpg&#34; alt=&#34;&#34; /&gt;[](&lt;a href=&#34;http://www.camilloblog.it/archivio/2008/06/21/a-questa-non-ci-aveva-pensato-nemmeno-il-cav/&#34;&gt;http://www.camilloblog.it/archivio/2008/06/21/a-questa-non-ci-aveva-pensato-nemmeno-il-cav/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.camilloblog.it/archivio/2008/06/21/a-questa-non-ci-aveva-pensato-nemmeno-il-cav/&#34;&gt;A questa non ci aveva pensato nemmeno il Cav.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;camillo&#34;&gt;Camillo&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

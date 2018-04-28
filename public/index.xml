@@ -3,11 +3,11 @@
   <channel>
     <title>Home on Piero Macchioni</title>
     <link>https://macchioni.cc/</link>
-    <description>&lt;p class=&#34;h-card&#34;&gt;&lt;img class=&#34;u-photo&#34; alt=&#34;piero-macchioni&#34; src=&#34;https://macchioni.cc/images/piero-macchioni-bws.jpg&#34; align=&#34;center&#34; width=&#34;200&#34; style=&#34;display:block;width:100%;max-width:200px&#34;&gt;&lt;/img&gt;
+      <description>&lt;p class=&#34;h-card&#34;&gt;&lt;img class=&#34;u-photo&#34; alt=&#34;piero-macchioni&#34; src=&#34;https://macchioni.cc/images/piero-macchioni-bws.jpg&#34; align=&#34;center&#34; width=&#34;200&#34; style=&#34;display:block;width:100%;max-width:200px&#34;&gt;&lt;/img&gt;
 
 &lt;p class=&#34;p-note&#34; rel=&#34;me&#34;&gt;Ahoy! This is &lt;a rel=&#34;me&#34; class=&#34;u-url&#34; class=&#34;p-name&#34; href=&#34;https://macchioni.cc/&#34;&gt;Piero Macchioni&lt;/a&gt;, journalist, currently managing editor at Grazia Magazine Italy. Blogging as &lt;a class=&#34;u-url&#34; href=&#34;http://leibniz.me&#34;&gt;leibniz&lt;/a&gt; since 2003, interested in open web, news distribution, privacy and the magic that lies between the analog and the digital self. You can contact me &lt;a class=&#34;u-email&#34; href=&#34;https://macchioni.cc/contatti/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
-    <generator>Hugo -- gohugo.io</generator>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
     
@@ -29,9 +29,40 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>https://macchioni.cc/open-web/</guid>
-      <description>In the last few years we&amp;rsquo;ve been seduced by the wonderful world of social media and social networks. They work beautifully. Unfortunately that means we&amp;rsquo;ve progressively lost control over our content and locked many of the web content into the social media walled gardens, accepting that our data may be used, bought and sold.
-It&amp;rsquo;s a matter of privacy and a matter of freedom.
-I believe, like the founding fathers of the World Wide Web, in a different kind of Internet.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/own.jpg&#34; alt=&#34;own&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In the last few years we&amp;rsquo;ve been seduced by the wonderful world of social media and social networks.&lt;/strong&gt; They work beautifully. Unfortunately that means we&amp;rsquo;ve progressively lost control over our content and locked many of the web content into the social media walled gardens, accepting that our data may be used, bought and sold.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a matter of privacy and a matter of freedom.&lt;/p&gt;
+
+&lt;p&gt;I believe, like the founding fathers of the World Wide Web, in a different kind of Internet. I believe in a &lt;strong&gt;Open Web&lt;/strong&gt;, respectful of people. Here is the place where I collect links and posts about this.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Feel free to write me and suggest other stuff.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;house-manifesto-sort-of&#34;&gt;★ House Manifesto (sort of)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://macchioni.cc/blog/2016-04-14-the-struggle-for-the-open-web/&#34;&gt;The struggle for the open web&lt;/a&gt; by Piero Macchioni&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What if, one day, you discover that your fulfilling social media life was completely wrong? What if your castle of self gratification and instant connections, friends and followers, mobile power and desktop automation would fall apart?&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;essentials&#34;&gt;☆ Essentials&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://altplatform.org/2017/07/28/an-introduction-to-the-indieweb/&#34;&gt;An Introduction to the IndieWeb&lt;/a&gt; by &lt;a href=&#34;http://boffosocko.com/blog/&#34;&gt;Chris Aldrich&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.cjr.org/analysis/facebook_and_media.php&#34;&gt;Facebook is eating the world&lt;/a&gt; by Emily Bell&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.salimvirani.com/facebook/&#34;&gt;Get your loved ones off Facebook&lt;/a&gt; by Salim Virani&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.vickiboykis.com/2016/11/20/fix-the-internet/&#34;&gt;Fix the internet by writing good stuff and being nice to people&lt;/a&gt; by Vicki Boykis&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://newsroom.fb.com/news/2017/06/hard-questions/&#34;&gt;Hard Questions&lt;/a&gt; by Elliot Schrage @Facebook&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/&#34;&gt;Facebook is broken&lt;/a&gt; by Jon Evans&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(more to come)&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -40,7 +71,8 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/about/</guid>
-      <description>PM 2017</description>
+      <description>&lt;p&gt;PM 2017&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +81,10 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>https://macchioni.cc/contatti/</guid>
-      <description>You can contact me via email or via Twitter. I&#39;m also on Github and Instagram. At the moment I do not fancy Facebook that much (a few reasons here).  </description>
+      <description>&lt;div class=&#34;h-card&#34;&gt;
+You can contact me via &lt;a rel=&#34;me&#34; class=&#34;u-email&#34; target=&#34;_blank&#34; href=&#34;http://www.shortwhale.com/leibniz&#34;&gt;email&lt;/a&gt; or via &lt;a rel=&#34;me&#34; target=&#34;_blank&#34; class=&#34;u-url&#34; href=&#34;https://twitter.com/leibniz&#34;&gt;Twitter&lt;/a&gt;. I&#39;m also on &lt;a rel=&#34;me&#34; class=&#34;u-url&#34; href=&#34;https://github.com/macchioni&#34; target=&#34;_blank&#34; &gt;Github&lt;/a&gt; and &lt;a href=&#34;https://instagram.com/piero_mac&#34; rel=&#34;me&#34; target=&#34;_blank&#34; &gt;Instagram&lt;/a&gt;. At the moment I do not fancy Facebook that much (a few reasons &lt;a href&#34;/open-web/&#34;&gt;here&lt;/a&gt;).
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -58,7 +93,40 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2018-04-25-la-mia-storia-internet/</guid>
-      <description>La mia storia con internet è cominciata da qualche parte negli Anni 90, in un internet cafè di Trastevere, a Roma. Eravamo in 6-8 compagni di scuola, davanti a un monitor 14’’, e non avevamo idea di che cosa scrivere nel box di ricerca. Ricordo che mi toccò l’onore della digitazione per due motivi: uno, avevo un computer in casa; due, perché qualche tempo prima, a casa dell’amico di un’amico “che ci capiva”, avevo visto comparire dopo una lunga attesa l’immagine di uno di quei manga un po’ porno che popolavano già gli scaffali della sua libreria.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/la-mia-storia-internet.png&#34; alt=&#34;la-mia-storia-internet&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La mia storia con internet è cominciata da qualche parte negli Anni 90, in un internet cafè di Trastevere, a Roma. Eravamo in 6-8 compagni di scuola, davanti a un monitor 14’’, e non avevamo idea di che cosa scrivere nel box di ricerca. Ricordo che mi toccò l’onore della digitazione per due motivi: uno, avevo un computer in casa; due, perché qualche tempo prima, a casa dell’amico di un’amico “che ci capiva”, avevo visto comparire dopo una lunga attesa l’immagine di uno di quei manga un po’ porno che popolavano già gli scaffali della sua libreria. Insomma, io ero quello che sapeva. In realtà, a Trastevere scoprimmo poco e niente, tanto che il sabato successivo investimmo i nostri risparmi con maggior soddisfazione in una sala biliardo.&lt;/p&gt;
+
+&lt;h3 id=&#34;geocities&#34;&gt;Geocities&lt;/h3&gt;
+
+&lt;p&gt;Però, se ci penso, la mia vera storia con internet è iniziata molto dopo. Quando, grazie alla connessione casalinga, ho messo faticosamente su un sito su &lt;a href=&#34;https://it.wikipedia.org/wiki/Yahoo!_GeoCities&#34;&gt;Geocities&lt;/a&gt;, che era il servizio gratuito dell’epoca. Avevo mixato l’improbabile immagine di un dipinto di Turner e il manifesto di un movimento giovanile europeista, ma soprattutto avevo cominciato a cercare di capire l’html, il linguaggio della Rete.
+Per me internet è stata, in quel momento lì - quando ancora non cerano i cani sullo skate, i troll, i tutorial e i like - la possibilità di accedere a un mondo di conoscenza: leggere i giornali stranieri, ordinare libri dall’America (dall’America!), scoprire luoghi lontani, ascoltare musica diversa, impiegare diversi minuti a capire che cosa fosse quella cosa chiamata iPod.&lt;/p&gt;
+
+&lt;h3 id=&#34;splinder&#34;&gt;Splinder&lt;/h3&gt;
+
+&lt;p&gt;Poi una sera, l’8 febbraio 2003, decido di provare questa cosa che si chiama blog e che altrove va già fortissimo. Vado su Splinder, una piattaforma italiana che offre un servizio gratuito, mi devo registrare. Che nome scelgo? Alzo gli occhi, sopra il monitor ci sono ancora i volumi di filosofia del liceo. Mi viene in mente che Luca Sofri ha un blog chiamato &lt;a href=&#34;https://www.wittgenstein.it/&#34;&gt;Wittgenstein&lt;/a&gt;, quello di “i limiti del mio linguaggio sono i limiti del mio mondo”, e un po’ lo invidio. Allora penso che come nickname mi resta sempre quello di Gottfried Wilhelm von &lt;a href=&#34;http://leibniz.me&#34;&gt;Leibniz&lt;/a&gt;, uno che a 15 anni andava per boschi chiedendosi se credere nelle forme sostanziali o nel meccanicismo. Uno che, non da meno, ha il nome di un biscotto. Mi sembra un nick eccentrico a sufficienza. Scrivo &lt;a href=&#34;http://leibniz.me/libri/2003/02/08/Ep%C3%AEtre-%C3%A0-nos-nouveaux-ma%C3%AEtres/&#34;&gt;sette righe&lt;/a&gt; a proposito di un libro francese di cui avevo letto su un settimanale parigino, uso due link, segnalo le fonti. Il giorno dopo non vedo l’ora di rifarlo, ben consapevole che non mi sta leggendo nessuno ma che, potenzialmente, potrebbe farlo il mondo intero.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/splinder.png&#34; alt=&#34;splinder&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;macché-bloggers&#34;&gt;Macché bloggers&lt;/h3&gt;
+
+&lt;p&gt;Il tempo passa, scrivo con regolarità, linko articoli stranieri, linko altri blog. Scopro i referer, cioè chi cita me e per quale motivo. Non siamo più io e il mio blog, siamo nodi di una rete. Qualcuno ci chiamerà blogger, ma in realtà siamo persone. Siamo cacciatori, tessitori e sciamani, come a un certo punto ci classifica Giorgio Nava di &lt;a href=&#34;https://books.google.it/books?id=xsPKZZnTImAC&amp;amp;pg=PA172&amp;amp;lpg=PA172&amp;amp;dq=falsoidillio+splinder&amp;amp;source=bl&amp;amp;ots=m4EtR5PMzm&amp;amp;sig=u2_i295yn6ynLe6iKhOkXdtYtrg&amp;amp;hl=it&amp;amp;sa=X&amp;amp;ved=0ahUKEwj2hraHltXaAhVDzKQKHcJLACMQ6AEIKTAA#v=onepage&amp;amp;q=falsoidillio%20splinder&amp;amp;f=false&#34;&gt;Falso Idillio&lt;/a&gt;, un alto blog. Vivo a Roma, già lavoro come giornalista, ma sul mio blog sono solo Leibniz. I miei contatti sono soprattutto altri blogger milanesi, torinesi, fiorentini. Non ho amici con un blog, faccio ancora fatica a spiegare che cosa siano senza essere guardato in modo strano. «E che cosa scrivi?», «E perché lo fai?», mi chiedono i più. «Ma questa cosa è fantastica! Perché non ne sapevo niente?», mi dice invece &lt;a href=&#34;http://www.domitillaferrari.com/&#34;&gt;la persona&lt;/a&gt; che mi &lt;a href=&#34;https://lamiastoriaconinternet.it/&#34;&gt;ha spinto&lt;/a&gt;, oggi, a scrivere questo post.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/blogs-it.png&#34; alt=&#34;blogs-it&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;poi-sono-arrivati-i-social&#34;&gt;Poi sono arrivati i social&lt;/h3&gt;
+
+&lt;p&gt;Il blog, quando ancora non c’erano i social, è stata la mia evasione, il mio master, il mio aggregatore d’interessi. Grazie al blog ho conosciuto persone che ho ammirato e con cui ho lavorato, e mi sono fatto conoscere da persone per cui lavoro tutt’ora. Una di loro mi ha contattato proprio scrivendomi un’email che cominciava con “Caro Leibniz…”.
+Grazie a internet, a quell’internet lì, ho scoperto un mondo vasto che mi sembrava senza confini. È anche un po’ per questo che, invece, non ho mai cavalcato volentieri l’onda dei social, dei walled gardens, delle super intermediazioni. È mancato un po’ il tempo, perché la vita offline più cresci più ti prende tempo, ed è mancata la capacità di separare il rumore dal segnale.&lt;/p&gt;
+
+&lt;h3 id=&#34;connessi-senza-permesso&#34;&gt;Connessi senza permesso&lt;/h3&gt;
+
+&lt;p&gt;Oggi credo che sia arrivato il momento di fare qualcosa per internet, perché la mia storia con internet non è solo il passato. C’è uno spirito della Rete che va preservato ed è quello della sua libertà, che è anche la nostra. È quello della condivisione, senza svendere la  privacy. È quello di chi mette in comune quello che sa o che cerca un servizio, senza voler essere ridotto a un briciolo di polvere nei big data.&lt;/p&gt;
+
+&lt;p&gt;Il vero superpotere del web, come hanno scritto David Weinberger e Doc Searls, si chiama &lt;a href=&#34;http://cluetrain.com/newclues/&#34;&gt;connessione senza permesso&lt;/a&gt;. Ed è quello che ci ha legati gli uni agli altri, lontanissimi e vicini, saputi e ingenui, diversissimi eppure simili, quando è iniziata la nostra storia con internet.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -67,8 +135,14 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2018-03-27-facebook-psychological-gravity/</guid>
-      <description>This Cambridge Analytica scandal is generating a lot of interesting writing. I should bind that in somewhere. For now, let&amp;rsquo;s pin this.
- It is psychological gravity, not technical inertia, however, that is the greater force against the open web. Human beings are social animals and centralized social media like Twitter and Facebook provide a powerful sense of ambient humanity—the feeling that “others are here”—that is often missing when one writes on one’s own site.</description>
+      <description>&lt;p&gt;This Cambridge Analytica scandal is generating a lot of interesting writing. I should bind that in somewhere. For now, let&amp;rsquo;s pin this.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It is psychological gravity, not technical inertia, however, that is the greater force against the open web. Human beings are social animals and centralized social media like Twitter and Facebook provide a powerful sense of ambient humanity—the feeling that “others are here”—that is often missing when one writes on one’s own site.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dan Cohen, &lt;a href=&#34;https://dancohen.org/2018/03/21/back-to-the-blog/&#34;&gt;Back to the blog&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -77,8 +151,12 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2018-03-14-badass-stephen-hawking/</guid>
-      <description>Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there is always something you can do and succeed at. It matters that you don’t just give up.
- Stephen Hawking, badass theoretical physicist, cosmologist and Big Bang Theory guest star.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?time_continue=1&amp;amp;v=ZrVVvXOIwQc&#34;&gt;Remember&lt;/a&gt; to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there is always something you can do and succeed at. It matters that you don’t just give up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Stephen_Hawking&#34;&gt;Stephen Hawking&lt;/a&gt;, badass theoretical physicist, cosmologist and Big Bang Theory guest star.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -87,8 +165,14 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2018-03-05-i-titoli-che-vincono-le-elezioni/</guid>
-      <description>A proposito delle elezioni italiane del 4 marzo, credo che non dovrebbe andar perduta questa riflessione di Luca Sofri sulle modalità narrative del sistema dell&amp;rsquo;informazione italiana e sui messaggi che passano o no.
- Quello di cui sono fatti i media italiani (giornali, programmi tv del pomeriggio, dichiarazioni di politici, eccetera, l’informazione) è testi e titoli: passano i titoli. Quello di cui sono fatti i media italiani è riflessioni accurate e sensazionalismo: passa il sensazionalismo.</description>
+      <description>&lt;p&gt;A proposito delle &lt;a href=&#34;https://it.wikipedia.org/wiki/Elezioni_politiche_italiane_del_2018&#34;&gt;elezioni italiane del 4 marzo&lt;/a&gt;, credo che non dovrebbe andar perduta &lt;a href=&#34;https://www.wittgenstein.it/2018/03/05/quanto-vi-crediate-assolti/&#34;&gt;questa riflessione di Luca Sofri&lt;/a&gt; sulle modalità narrative del sistema dell&amp;rsquo;informazione italiana e sui messaggi che passano o no.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Quello di cui sono fatti i media italiani (giornali, programmi tv del pomeriggio, dichiarazioni di politici, eccetera, l’informazione) è testi e titoli: passano i titoli. Quello di cui sono fatti i media italiani è riflessioni accurate e sensazionalismo: passa il sensazionalismo. Quello di cui sono fatti i media italiani è immagine di progresso e terrorismo: passa il terrorismo. Quello di cui sono fatti i media italiani è spirito di convivenza e risentimento aizzato: passa il risentimento. Quello di cui sono fatti i media italiani è spiegazione dei fenomeni e litigio nei talk show: passa il litigio. Quello di cui sono fatti i media italiani è vero complesso e falso semplice: passa il falso.&lt;/p&gt;
+
+&lt;p&gt;[&amp;hellip;] Perché non è vero che “tanta gente non si informa”: è vero che tanta gente – disabituata da decenni di media sciatti e cinici alla comprensione del mondo – registra solo le comunicazioni terroristiche, false, divisive e sobillatrici, delle quali sono complici tutti quanti, quelli che ora commentano l’inatteso 5%.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -97,8 +181,99 @@ I believe, like the founding fathers of the World Wide Web, in a different kind 
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2018-02-02-steven-pinker-enlightenment-for-journalism/</guid>
-      <description>Steven Pinker&amp;rsquo;s latest fatigue, Enlightment Now, has already been tagged like the book everyone has to read - well - now. His big sponsor is a guy named Bill Gates and actually Pinker has a few bullets in his belt.
-The book&amp;rsquo;s central idea is that we tend to forget the forces of progress the world has experienced, because our natural pessimism is reinforced every day by politics, media and viral false-beliefs.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/pinker.jpg&#34; alt=&#34;pinker&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Steven_Pinker&#34;&gt;Steven Pinker&lt;/a&gt;&amp;rsquo;s latest fatigue, &lt;a href=&#34;https://www.penguinrandomhouse.com/books/317051/enlightenment-now-by-steven-pinker/9780525427575/&#34;&gt;Enlightment Now&lt;/a&gt;, has already been tagged like the book everyone has to read - well - now. His big sponsor is a guy named &lt;a href=&#34;https://qz.com/1192746/bill-gates-book-recommendation-steven-pinkers-enlightenment-now/&#34;&gt;Bill Gates&lt;/a&gt; and actually Pinker has a few bullets in his belt.&lt;/p&gt;
+
+&lt;p&gt;The book&amp;rsquo;s central idea is that we tend to forget the forces of progress the world has experienced, because our natural pessimism is reinforced every day by politics, media and viral false-beliefs.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t read &lt;em&gt;Enlightenment Now&lt;/em&gt; yet, but watching &lt;a href=&#34;https://www.youtube.com/watch?v=1s2qyYQIRQE&#34;&gt;this Pinker&amp;rsquo;s Keynote&lt;/a&gt;, I took a few notes useful for journalists and readers*.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/sentiment.jpg&#34; alt=&#34;sentiment&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;your-op-ed-is-not-a-sign-of-the-imminent-end-of-the-world&#34;&gt;Your op-ed is not a sign of the imminent end of the world&lt;/h3&gt;
+
+&lt;p&gt;Pinker says that the first thing any media org has to do is place news in their historical and statistical context. Do you think that they teach that in Jounalism 101? Maybe they do, but media outlets often forget about that.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Op-eds should not use something blew up yesterday as the indication that the world is getting worse.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;All claims have to be backed up by statistical data and comparisons with past periods. As Professor P. says: «Things may suck now, but in many cases they were worse in the past» (Vietnam War was worse than Syrian conflict).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;humans-need-help-to-be-reasonable&#34;&gt;Humans need help to be reasonable&lt;/h3&gt;
+
+&lt;p&gt;Human beings, says Pinker, are not particularly reasonable.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We&amp;rsquo;re likely to generalize from anecdotes, stereotypes, conspiracy theories. But people are capable of reason, if they establish certain norms and institutions: free speech, open debate and criticism, logical analysis, fact-checking and empirical testing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;media-can-scale-sympathy&#34;&gt;Media can scale sympathy&lt;/h3&gt;
+
+&lt;p&gt;According to Pinker «humanism, the idea that the ultimate moral purpose is to reduce the suffering and enhance the flourishing of human beings and other creatures». But we often fail, because we have a natural bias.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;By default our circle of sympathy is rather puny. We tend to feel the pain of our relatives, friends, allies, friends and cute little fuzzy animals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But this instinct can be expanded by what he calls &amp;ldquo;forces of cosmopolitanism&amp;rdquo;: education, art, mobility and&amp;hellip; journalism.&lt;/p&gt;
+
+&lt;h3 id=&#34;if-you-read-papers-you-underestimate-progress&#34;&gt;If you read papers, you underestimate progress&lt;/h3&gt;
+
+&lt;p&gt;Why do people deny progress? Part of the answer, says Pinker, comes from a psychological quirk called &amp;ldquo;Availability heuristics&amp;rdquo;: human assess risk based on how easily they recall examples from memory.
+And we, journalists, are memory makers. So, if we combine the nature of news and cognition, you get the idea that the world is getting more dangerous.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;News is about stuff that happens, not about stuff that doesn&amp;rsquo;t happen. You never see a reporter saying: &amp;ldquo;Here I am in a country that is not a war&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/heuristic.jpg&#34; alt=&#34;heuristic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The other force to consider is something called &amp;ldquo;negativity bias&amp;rdquo;: our idea that bad is stronger than good.&lt;/p&gt;
+
+&lt;p&gt;But newspapers and TVs cannot stop reporting the bad news, so what&amp;rsquo;s the psychologist answer to that?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Of course it is essential to become aware of suffering and injustice when they occur, but also have to be aware on how they can be reduced. There are dangers with thoughtless pessimism.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Do we have to balance more bad news with good news?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The point is to give a picture to the world of what&amp;rsquo;s going wrong, but still have a clear signal of what actually helps it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;pessimistic-audiences-vote-wrong-leaders&#34;&gt;Pessimistic audiences vote wrong leaders&lt;/h3&gt;
+
+&lt;p&gt;The narrative of pessimism makes people think things are getting worse, and voters can polarize around charismatic (or populistic) leaders.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If the picture of the world is that there are no solutions, the rational response would be just drop your hands and say: well, let&amp;rsquo;s enjoy life while we can.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;journalism-has-a-future&#34;&gt;Journalism has a future&lt;/h3&gt;
+
+&lt;p&gt;Institutions like science and journalism have to open up their workings, reinforce their methods of arriving to ways to get to their claims. Using peer reviews, fact-checkings: without these metods fallacies and ignorance will prosper.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-bullets&#34;&gt;Other bullets&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Problems are inevitables, but problems are solvable, even if solutions bring new problems. That&amp;rsquo;s progress.&lt;/p&gt;
+
+&lt;p&gt;Humans are always vulnerable to fake news and misinformation and conspiracy theories. But since we do have to trust others, we must know which authority to trust.&lt;/p&gt;
+
+&lt;p&gt;Knowledge is hard. You shouldn&amp;rsquo;t trust anyone, but people should take more serious people with a verified track record. You got to earn the authority.&lt;/p&gt;
+
+&lt;p&gt;Intellectuals hate progress.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;*&lt;em&gt;Important note: this post was born like a draft, in a no wi-fi zone; literal quotes by Pinker can be verified watching the &lt;a href=&#34;https://www.youtube.com/watch?v=1s2qyYQIRQE&#34;&gt;video&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;**Pinker’s photo credit: Rose Lincoln / Harvard University&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -107,9 +282,24 @@ The book&amp;rsquo;s central idea is that we tend to forget the forces of progre
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2018-01-17-feed-rss-for-journalists-copia/</guid>
-      <description>This year started with a small project I really like: Feeds for Journalists, by Dave Winer. The idea is that RSS is still a valid technology to get an effective and unbiased flow of news.
-As he puts it, after reading a tweet by Mathew Ingram:
- If you&amp;rsquo;re a journalist and you love RSS, please join me in an easy project to improve both. Let&amp;rsquo;s put together a list of starter feeds for journalists.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/office-for-creative-research-3.jpg&#34; alt=&#34;office-for-creative-research-3&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year started with a small project I really like: &lt;a href=&#34;https://github.com/scripting/feedsForJournalists&#34;&gt;Feeds for Journalists&lt;/a&gt;, by &lt;a href=&#34;http://scripting.com/&#34;&gt;Dave Winer&lt;/a&gt;. The idea is that RSS is still a valid technology to get an effective and unbiased flow of news.&lt;/p&gt;
+
+&lt;p&gt;As he puts it, after reading &lt;a href=&#34;https://twitter.com/mathewi/status/952214692918734848&#34;&gt;a tweet by Mathew Ingram&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you&amp;rsquo;re a journalist and you love RSS, please join me in an easy project to improve both. Let&amp;rsquo;s put together a list of starter feeds for journalists.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Basically, we’re sharing our RSS bookmarks considering  only the accountable sources. Since &lt;a href=&#34;https://www.theverge.com/2018/1/11/16881102/facebook-news-feed-changes-meaningful-interactions&#34;&gt;Facebook is pivoting from its initial position regarding news and its News Feed&lt;/a&gt;, I think even the timing of &lt;a href=&#34;https://github.com/scripting/feedsForJournalists&#34;&gt;Feeds for Journalists&lt;/a&gt; is right.&lt;/p&gt;
+
+&lt;p&gt;When good ol’ &lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Reader&#34;&gt;Google Reader&lt;/a&gt; was killed by Google, I continued using RSS via Feedly, Inoreader and &lt;a href=&#34;http://rss2.io/electric/&#34;&gt;Electric River&lt;/a&gt; (the latter also by Dave). RSS is still the best option for massive news browsers, an indispensabile technology in any newsroom. Give it a try.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update:&lt;/em&gt; Dave made a &lt;a href=&#34;http://scripting.com/journalists/&#34;&gt;useful river here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bonus: since we spoke about Zuck, Frederic Filloux says &lt;a href=&#34;https://mondaynote.com/facebook-is-done-with-quality-journalism-deal-with-it-afc2475f1f84&#34;&gt;Facebook has all the reasons in the world to get rid of journalism&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -118,8 +308,17 @@ As he puts it, after reading a tweet by Mathew Ingram:
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-10-21-the-only-living-boy-in-new-york/</guid>
-      <description>There&amp;rsquo;s always mystery. You both know that. You both know it isn&amp;rsquo;t perfect. Excitement, trust and struggle, and the unknown privacies that keep us together. Glue of struggle. I raise my glass. The fragile glass we stomped on and shattered and will forever be putting back together, like the puzzles we first worked as children, learning to be patient, searching for what fits.
- -The Only Living Boy in New York, written by Allan Loeb.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/jeff-bridges.jpg&#34; alt=&#34;jeff-bridges&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;There&amp;rsquo;s always mystery. You both know that.
+You both know it isn&amp;rsquo;t perfect.
+Excitement, trust and struggle, and the unknown privacies that keep us together. Glue of struggle.
+I raise my glass. The fragile glass we stomped on and shattered and will forever be putting back together, like the puzzles we first worked as children, learning to be patient, searching for what fits.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;-&lt;a href=&#34;https://www.instagram.com&#34;&gt;The Only Living Boy in New York&lt;/a&gt;, written by Allan Loeb.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -128,7 +327,16 @@ As he puts it, after reading a tweet by Mathew Ingram:
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-10-15-harvey-weinstein-and--a-disconnected-generation/</guid>
-      <description>We are constantly dazzled and blinded by power. We tend to allow and enable our leaders to play by a different set of moral rules and laws. While we distract ourselves with stupid selfies and pictures of our latest dinner, the real world around us spins out of control. Will we go down in history as the generation of connectivity that constantly disconnected itself from reality? I say - to hell with success and authority.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/harvey-weinstein-by-platon.jpg&#34; alt=&#34;harvey-weinstein-by-platon&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We are constantly dazzled and blinded by power. We tend to allow and enable our leaders to play by a different set of moral rules and laws. While we distract ourselves with stupid selfies and pictures of our latest dinner, the real world around us spins out of control. Will we go down in history as the generation of connectivity that constantly disconnected itself from reality? I say - to hell with success and authority.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;-&lt;a href=&#34;https://www.instagram.com/p/BaPkP9lBTFp/?taken-by=platon&#34;&gt;Platon&lt;/a&gt;, Oct 15th 2017, via Instagram.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(I&amp;rsquo;m reposting it here: it&amp;rsquo;s an interesting angle from an artist who&amp;rsquo;s been taking portraits of powerful people for years)&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -137,7 +345,46 @@ As he puts it, after reading a tweet by Mathew Ingram:
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-10-14-standing-on-the-shoulders-of-tech-giants/</guid>
-      <description>I&amp;rsquo;ve been reading a lot of good writing about Facebook, lately. Critics are fair and give us a lot to think about our relationship with the always on social network and the idea of &amp;ldquo;Building a global community&amp;rdquo;. As always, even before the Internet, it&amp;rsquo;s not enough we repeat &amp;ldquo;technology is neutral&amp;rdquo;. It is neutral, but we must commit so we get more good than bad, as Kevin Kelly said 7 years ago.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/southzuck.jpg&#34; alt=&#34;southzuck&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been reading a lot of good writing about Facebook, lately. Critics are fair and give us a lot to think about our relationship with the always on social network and the idea of &lt;a href=&#34;https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634/&#34;&gt;&amp;ldquo;Building a global community&amp;rdquo;&lt;/a&gt;. As always, even before the Internet, it&amp;rsquo;s not enough we repeat &amp;ldquo;technology is neutral&amp;rdquo;. It is neutral, but we must commit so we get &lt;a href=&#34;https://www.theguardian.com/technology/2010/oct/24/my-bright-idea-kevin-kelly&#34;&gt;more good than bad&lt;/a&gt;, as Kevin Kelly said 7 years ago. But how can you work with something you do not own or comprehend? Because Facebook, as Max Read puts it in the first article you&amp;rsquo;ll read here, is «like a four-dimensional object: we catch slices of it when it passes through the three-dimensional world we recognize». So we need a four-dimensional approach, and a lot of patience.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nymag.com/selectall/2017/10/does-even-mark-zuckerberg-know-what-facebook-is.html&#34;&gt;Does Even Mark Zuckerberg Know What Facebook Is?&lt;/a&gt; by Max Read.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Facebook’s actual value system seems less positive than recursive. Facebook is good because it creates community; community is good because it enables Facebook. The values of Facebook are Facebook.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502/&#34;&gt;What Facebook Did to American Democracy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The truth is that while many reporters knew some things that were going on on Facebook, no one knew everything what was going on on Facebook, not even Facebook.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/2017/10/12/technology/tech-giants-threats.html&#34;&gt;Tech Giants, Once Seen as Saviors, Are Now Viewed as Threats&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Their amount of concentrated authority resembles the divine right of kings, and is sparking a backlash that is still gathering force.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2017/10/13/opinion/sunday/Silicon-Valley-Is-Not-Your-Friend.html&#34;&gt;Silicon Valley Is Not Your Friend&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We need to break up these online monopolies because if a few people make the decisions about how we communicate, shop, learn the news, again, do we control our own society?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bonus: &lt;a href=&#34;https://www.nytimes.com/2017/10/13/reader-center/social-media-guidelines.html&#34;&gt;The Times Issues Social Media Guidelines for the Newsroom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -146,8 +393,10 @@ As he puts it, after reading a tweet by Mathew Ingram:
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-08-15-good-design-is-medium-agnostic/</guid>
-      <description>Good design is medium-agnostic ➡ @jasonsantamaria @offscreenmag
-possed →  @leibniz</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.offscreenmag.com/issues/17&#34;&gt;Good design is medium-agnostic&lt;/a&gt; ➡ @jasonsantamaria @offscreenmag&lt;/p&gt;
+
+&lt;p&gt;&lt;span rel=&#34;syndication&#34; class=&#34;u-syndication&#34;&gt;possed → &lt;i class=&#34;fa fa-twitter&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://twitter.com/leibniz/status/897575081358086144&#34;&gt;@leibniz&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -156,8 +405,24 @@ possed →  @leibniz</description>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2017-08-06-best-food-review-black-axe-mangal/</guid>
-      <description>I believe this is the best food review I’ve read this year.
- Black Axe Mangal Lamb Offal Flatbread* There are dicks and vaginas on the floor. Metallica on the sound system, and the menu sometimes features something called a deepthroater. It’s so tempting to hate it. But then you eat former St John head chef Lee Tiernan’s dayglovibrant riffs on kebab-house fare, and you can’t help but acknowledge that you’re eating the future.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/noblerot.jpg&#34; alt=&#34;noblerot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I believe this is the best food review I’ve read this year.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;black-axe-mangal-http-www-blackaxemangal-com&#34;&gt;&lt;a href=&#34;http://www.blackaxemangal.com&#34;&gt;Black Axe Mangal&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;lamb-offal-flatbread&#34;&gt;Lamb Offal Flatbread*&lt;/h4&gt;
+
+&lt;p&gt;There are dicks and vaginas on the floor. Metallica on the sound system, and the menu sometimes features something called a deepthroater. It’s so tempting to hate it. But then you eat former &lt;a href=&#34;https://www.stjohngroup.uk.com/&#34;&gt;St John&lt;/a&gt; head chef Lee Tiernan’s dayglovibrant riffs on kebab-house fare, and you can’t help but acknowledge that you’re eating the future. A future where the quality of the ingredients and the care taken in their preparation run up against the trashily enjoyable dishes they appear in, erasing forever the distinction between high and low. A future where the food is just a part of the noisy fun you’re having, but remains of paramount importance. A future rooted in London but content to range promiscuously across most of the world map. A future that’s bright, but that’s also dicks and vaginas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://noblerot.co.uk/magazine&#34;&gt;NobleRot Magazine- Sex &amp;amp; Drugs &amp;amp; Pinot Noir - issue 14&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*btw, that’s a &lt;a href=&#34;http://www.londoncheapeats.com/entries/lamb-offal-flat-bread-black-axe-mangal-550&#34;&gt;Lamb Offal Flatbread&lt;/a&gt;: it looks harmless, doesn’t it? It’s not.&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

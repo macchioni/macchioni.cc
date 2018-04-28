@@ -3,8 +3,8 @@
   <channel>
     <title>Soppressata on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/soppressata/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Sep 2010 15:15:58 +0000</lastBuildDate>
     
@@ -17,7 +17,8 @@
       <pubDate>Thu, 09 Sep 2010 15:15:58 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/09/09/buongustai/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://leibniz.me/wp-content/uploads/2010/09/soppressata.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

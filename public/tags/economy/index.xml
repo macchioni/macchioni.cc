@@ -3,8 +3,8 @@
   <channel>
     <title>Economy on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/economy/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Apr 2008 08:59:08 +0000</lastBuildDate>
     
@@ -17,8 +17,12 @@
       <pubDate>Thu, 17 Apr 2008 08:59:08 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/04/17/siamo-dove-viviamo/</guid>
-      <description> La scelta più importante che uno possa fare al giorno d&amp;rsquo;oggi è scegliere dove vivere. Lo sostiene Who&amp;rsquo;s your city, il nuovo libro di Richard Florida.
-Business Week </description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://images.businessweek.com/mz/08/16/0816_82books.jpg&#34; alt=&#34;&#34; /&gt;La scelta più importante che uno possa fare al giorno d&amp;rsquo;oggi è &lt;a href=&#34;http://www.businessweek.com/magazine/content/08_16/b4080082393402.htm&#34;&gt;scegliere dove vivere&lt;/a&gt;. Lo sostiene &lt;a href=&#34;http://www.amazon.com/Whos-Your-City-Creative-Important/dp/0465003524&#34;&gt;Who&amp;rsquo;s your city&lt;/a&gt;, il nuovo libro di Richard Florida.&lt;/p&gt;
+
+&lt;h3 id=&#34;business-week&#34;&gt;Business Week&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

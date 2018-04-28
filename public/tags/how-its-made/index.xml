@@ -3,8 +3,8 @@
   <channel>
     <title>How Its Made on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/how-its-made/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Aug 2012 09:01:45 +0000</lastBuildDate>
     
@@ -17,9 +17,12 @@
       <pubDate>Fri, 24 Aug 2012 09:01:45 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/08/24/perche-le-ottiche-leica-costano-tanto/</guid>
-      <description>Leica Lenses (English) from Leica Camera on Vimeo.
-Made in Germany e realizzate meticolosamente a mano. Le ottiche Leica, nuove o usate che siano, hanno dei prezzi davvero esagerati, ma sono considerate di qualità superiore. Una breve intervista su Humans Invent e il video qui su possono dare un&amp;rsquo;idea del perché.
-{Human Invent - via The Verge}</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://vimeo.com/26251829&#34;&gt;Leica Lenses (English)&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/leicacamera&#34;&gt;Leica Camera&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Made in Germany e realizzate meticolosamente a mano. Le ottiche Leica, nuove o usate che siano, hanno dei prezzi davvero esagerati, ma sono considerate di qualità superiore. Una &lt;a href=&#34;http://www.humansinvent.com/#!/8687/pursuit-of-perfection-hand-crafting-a-leica-lens/&#34;&gt;breve intervista&lt;/a&gt; su Humans Invent e il video qui su possono dare un&amp;rsquo;idea del perché.&lt;/p&gt;
+
+&lt;p&gt;{Human Invent - via &lt;a href=&#34;http://www.theverge.com/2012/8/23/3264324/leica-hand-made-lens-production-interview&#34;&gt;The Verge&lt;/a&gt;}&lt;/p&gt;
+</description>
     </item>
     
   </channel>

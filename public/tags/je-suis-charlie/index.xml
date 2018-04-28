@@ -3,8 +3,8 @@
   <channel>
     <title>Je Suis Charlie on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/je-suis-charlie/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
     
@@ -17,7 +17,8 @@
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2015-01-07-je-suis-charlie/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/charlie.jpg&#34; alt=&#34;je-suis-charlie&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

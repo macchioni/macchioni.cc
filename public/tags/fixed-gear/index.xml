@@ -3,8 +3,8 @@
   <channel>
     <title>Fixed Gear on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/fixed-gear/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2012 07:40:39 +0000</lastBuildDate>
     
@@ -17,7 +17,8 @@
       <pubDate>Mon, 04 Jun 2012 07:40:39 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/06/04/premium-rush/</guid>
-      <description>Sarà una cavolata, ma il trailer è bello. {Yahoo - Wikipedia}</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Premium_Rush&#34;&gt;Sarà&lt;/a&gt; una cavolata, ma il trailer è bello. {Yahoo - Wikipedia}&lt;/p&gt;
+</description>
     </item>
     
   </channel>

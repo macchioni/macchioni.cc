@@ -3,8 +3,8 @@
   <channel>
     <title>Writeup on Piero Macchioni</title>
     <link>https://macchioni.cc/categories/writeup/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Oct 2010 00:00:00 +0000</lastBuildDate>
     
@@ -17,7 +17,8 @@
       <pubDate>Mon, 11 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/10/11/lets-writeup/</guid>
-      <description>Quello che vuole la tecnologia di Kevin Kelly. Perché dovrebbe essere obbligatorio alle superiori.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.codiceedizioni.it/libri/quello-che-vuole-la-tecnologia/&#34;&gt;Quello che vuole la tecnologia&lt;/a&gt; di Kevin Kelly. Perché dovrebbe essere obbligatorio alle superiori.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

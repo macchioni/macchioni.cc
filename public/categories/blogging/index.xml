@@ -3,8 +3,8 @@
   <channel>
     <title>Blogging on Piero Macchioni</title>
     <link>https://macchioni.cc/categories/blogging/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Apr 2016 00:00:00 +0000</lastBuildDate>
     
@@ -17,8 +17,38 @@
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/blog/2016-04-14-the-struggle-for-the-open-web/</guid>
-      <description>What if, one day, you discover that your fulfilling social media life was completely wrong? What if your castle of self gratification and instant connections, friends and followers, mobile power and desktop automation would fall apart? We do not need an incoming Apocalypse to ask the right questions, we just need to stop one moment and think.
-I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere I go I find myself scribbling something down: open web first.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/rosencrantz.jpg&#34; alt=&#34;rosencrantz&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What if, one day, you discover that your fulfilling social media life was completely wrong? What if your castle of self gratification and instant connections, friends and followers, mobile power and desktop automation would fall apart? We do not need an incoming Apocalypse to ask the right questions, we just need to stop one moment and think.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere I go I find myself scribbling something down: open web first. Open. Web. First.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/indiewc.jpg&#34; alt=&#34;indiewc&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The open web is the internet we build together out of the social media walls. It&amp;rsquo;s the post you write on your own blog, the note you take and share, the snapshot of a moment. It&amp;rsquo;s something you make for the whole web, out of Facebook, out of Instagram, Twitter, Tumblr, Medium and any other well engineered social media platform. Then you distribute it and link it as you wish.&lt;/p&gt;
+
+&lt;p&gt;Why do I care about the open web? Because it&amp;rsquo;s open. Because it’s the web itself.&lt;/p&gt;
+
+&lt;p&gt;It is a content distribution system one can control. For contents that you ultimately own and certainly you can share. Actually thinking &amp;ldquo;open web first&amp;rdquo; gives you the opportunity to share twice: 1) with the whole internet; 2) with any social platform and any restricted circle you desire.
+It&amp;rsquo;s something I can easily search and link, a liquid matter of knowledge we all can own and control at any time of our life. Not only a flash of a moment, an insta-something of truth you can miss just because you weren&amp;rsquo;t following the right dude at the right time.&lt;/p&gt;
+
+&lt;p&gt;Think about your social routine today: posts living only on Facebook, buried in endless timelines. It can be acceptable if you&amp;rsquo;re sharing the photos of your cat, but if you&amp;rsquo;re a communicator, in the public square, you should think &amp;ldquo;open web first&amp;rdquo; and get control of your content.&lt;/p&gt;
+
+&lt;p&gt;You can start reading about it following &lt;a href=&#34;http://scripting.com/liveblog/users/davewiner/2016/01/07/0801.html&#34;&gt;Dave Winer&amp;rsquo;s blog posts&lt;/a&gt;, or studying the &lt;a href=&#34;https://indiewebcamp.com/&#34;&gt;IndieWebCamp wiki&lt;/a&gt;. They wrote about the open web better than me. Then you can rethink your paradigm, or keep going on, knowing even more.&lt;/p&gt;
+
+&lt;p&gt;Yes, we have a problem: open web should be for the masses, but now it&amp;rsquo;s not that cool to join. It&amp;rsquo;s 2016, social platforms are easy and beautiful and powerful: they can gather all your friends with a glance of an API, give you instant likes, compress your videos, make you an influencer. They gain value of your content, but - if you can use them, if you&amp;rsquo;re creative enough - they pay you back. They also can get closer to the open web we have in mind, check &lt;a href=&#34;https://medium.com/the-story/making-medium-more-powerful-for-publishers-39663413a904&#34;&gt;Medium&amp;rsquo;s latest efforts&lt;/a&gt; and you&amp;rsquo;ll understand.&lt;/p&gt;
+
+&lt;p&gt;An open web tool can be difficult, I’m learning the hard way trying that transition: you have to set up your own server, find a CMS, learn some coding, find your way to share your content after you publish, protect your vault. You can lose time and immediacy, you can swear and cry, make a mess and start again. It&amp;rsquo;s what we do when we change our daily habits and start living better. It&amp;rsquo;s what you do when you start eating healthy, put on a pair of shoes and start running your first mile, when you collect your garbage properly, when you discover you can even floss every day (never been able to do that). It&amp;rsquo;s good for you, it&amp;rsquo;s good for the environment. And, somehow, it’s also “shakespearesque”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“There must have a moment, at the beginning, where we could have said &amp;ndash; no. But somehow we missed it”.&lt;br /&gt;
+- Tom Stoppard, Rosencrantz and Guildenstern are dead&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/guild.jpg&#34; alt=&#34;Rosencrantz-Guildenstern&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PS: easter egg, find the paragraph I totally stole from &lt;em&gt;West Wing, S03E10, Bartlet for America&lt;/em&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +57,8 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Thu, 29 Nov 2012 11:10:59 +0000</pubDate>
       
       <guid>https://macchioni.cc/2012/11/29/una-monade/</guid>
-      <description>Qualcuno si è finalmente preso il mio vecchio dominio leibniz-blogs.it: Mr.Leibniz&amp;rsquo;s blog. Articoli, recensioni e riflessioni sul mondo. Non sono io, ma in bocca al lupo, da riflettere c&amp;rsquo;è sempre molto.</description>
+      <description>&lt;p&gt;Qualcuno si è finalmente preso il mio vecchio dominio leibniz-blogs.it: &lt;a href=&#34;http://www.leibniz-blogs.it&#34;&gt;Mr.Leibniz&amp;rsquo;s blog. Articoli, recensioni e riflessioni sul mondo&lt;/a&gt;. Non sono io, ma in bocca al lupo, da riflettere c&amp;rsquo;è sempre molto.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,7 +67,8 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Tue, 07 Sep 2010 07:28:58 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/09/07/elezioni/</guid>
-      <description>Di quelle politiche parliamo poi, ora c&amp;rsquo;è quella di Mr Skytg24. Tutto vero. [River]</description>
+      <description>&lt;p&gt;Di quelle politiche parliamo poi, ora c&amp;rsquo;è quella di &lt;a href=&#34;http://www.river-blog.com/2010/09/07/mr-skytg24-il-regolamento-come-si-vota/&#34;&gt;Mr Skytg24&lt;/a&gt;. Tutto vero. [River]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,7 +77,8 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Mon, 06 Sep 2010 05:27:07 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/09/06/le-innominations-ai-macchianera-blog-awards/</guid>
-      <description>Sono uscite le nomination dei Macchianera Blog Awards 2010. A prima vista mancano almeno Il Sole 24 ore, Inkiostro, Spigoloso, noiseFromAmeriKa, Camillo e il Post - che è sicuramente la migliore novità dell&amp;rsquo;anno - un po&amp;rsquo; non c&amp;rsquo;entra nulla nella categoria blog. Mancava il premio per il &amp;ldquo;miglior servizio che ha mandato tanti blog a puttane&amp;rdquo;: Friendfeed avrebbe vinto a mani basse. [Macchianera]</description>
+      <description>&lt;p&gt;Sono uscite le nomination dei &lt;a href=&#34;http://www.macchianera.net/2010/09/06/mba-macchianera-blog-awards-2010-2-le-nomination/&#34;&gt;Macchianera Blog Awards 2010&lt;/a&gt;. A prima vista mancano almeno &lt;a href=&#34;http://www.ilsole24ore.com/&#34;&gt;Il Sole 24 ore&lt;/a&gt;, &lt;a href=&#34;http://www.inkiostro.com/&#34;&gt;Inkiostro&lt;/a&gt;, &lt;a href=&#34;http://www.spigoloso.com/&#34;&gt;Spigoloso&lt;/a&gt;, &lt;a href=&#34;http://www.noisefromamerika.org/&#34;&gt;noiseFromAmeriKa&lt;/a&gt;, &lt;a href=&#34;http://www.camilloblog.it/&#34;&gt;Camillo&lt;/a&gt; e &lt;a href=&#34;http://www.ilpost.it/&#34;&gt;il Post&lt;/a&gt; - che è sicuramente la migliore novità dell&amp;rsquo;anno - un po&amp;rsquo; non c&amp;rsquo;entra nulla nella categoria blog. Mancava il premio per il &amp;ldquo;miglior servizio che ha mandato tanti blog a puttane&amp;rdquo;: Friendfeed avrebbe vinto a mani basse. [Macchianera]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -54,8 +87,10 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Tue, 07 Jul 2009 14:19:39 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/07/07/piovono-grane/</guid>
-      <description>Vedo che sullo sciopero dei blog è nato un virile botta e risposta tra Facci e Gilioli. Bene, se riesco a sistemare la casa allagata, poi me lo leggo anche.
-[Il Giornale - Piovono rane]</description>
+      <description>&lt;p&gt;Vedo che sullo sciopero dei blog è nato un virile botta e risposta tra &lt;a href=&#34;http://www.ilgiornale.it/a.pic1?ID=364467&#34;&gt;Facci&lt;/a&gt; e &lt;a href=&#34;http://gilioli.blogautore.espresso.repubblica.it/2009/07/07/14-luglio-risposta-a-filippo-facci/&#34;&gt;Gilioli&lt;/a&gt;. Bene, se riesco a sistemare la casa allagata, poi me lo leggo anche.&lt;/p&gt;
+
+&lt;p&gt;[Il Giornale - Piovono rane]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -64,7 +99,8 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Mon, 27 Apr 2009 16:17:13 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/04/27/anche-se-e-vero-non-ci-voglio-credere/</guid>
-      <description>Dicono che La Stampa online ha scambiato la rubrica del Guardian sulle finte email di Obama per una corrispondenza vera. [Cattiva Maestra - La Stampa - The Guardian]</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.cattivamaestra.it/2009/04/la-stampa-cade-sulla-falsa-corrispondenza-di-obama.html&#34;&gt;Dicono&lt;/a&gt; che &lt;a href=&#34;http://www.lastampa.it/redazione/cmsSezioni/esteri/200904articoli/43186girata.asp&#34;&gt;La Stampa online&lt;/a&gt; ha scambiato &lt;a href=&#34;http://www.guardian.co.uk/world/2009/apr/26/presidents-emails-barack-obama&#34;&gt;la rubrica del Guardian&lt;/a&gt; sulle finte email di Obama per una corrispondenza vera. [Cattiva Maestra - La Stampa - The Guardian]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -73,9 +109,22 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Mon, 13 Apr 2009 09:46:57 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/04/13/forse-ho-mangiato-pesante/</guid>
-      <description>Format destinati ad avere scarsa fortuna che mi sono passati per la testa di recente:
- un West Wing ambientato in Italia. Ma, al contrario della versione americana, con un presidente del Consiglio di centrodestra ma non troppo (genere &amp;ldquo;Fini tendenza Pd&amp;rdquo;).
- un newsmagazine generalista che tenta il guizzo, abbandona la sua imbalsamata struttura e diventa un incrocio tra l&amp;rsquo;Atlantic Monthly, il New York Magazine e Time (con tanto di online copiato da quest&amp;rsquo;ultimo, anzi da tutti e tre).</description>
+      <description>&lt;p&gt;Format destinati ad avere scarsa fortuna che mi sono passati per la testa di recente:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;un &lt;a href=&#34;http://it.wikipedia.org/wiki/The_West_Wing&#34;&gt;West Wing&lt;/a&gt; ambientato in Italia. Ma, al contrario della versione americana, con un presidente del Consiglio di centrodestra ma non troppo (genere &amp;ldquo;&lt;a href=&#34;http://www.corriere.it/politica/09_febbraio_20/fini_provocazione_giornale_3977f928-ff62-11dd-a1d5-00144f02aabc.shtml&#34;&gt;Fini tendenza Pd&lt;/a&gt;&amp;rdquo;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;un newsmagazine generalista che tenta il guizzo, abbandona la sua imbalsamata struttura e diventa un incrocio tra l&amp;rsquo;&lt;a href=&#34;http://www.theatlantic.com/&#34;&gt;Atlantic Monthly&lt;/a&gt;, il &lt;a href=&#34;http://nymag.com/&#34;&gt;New York Magazine&lt;/a&gt; e &lt;a href=&#34;http://www.time.com/time/&#34;&gt;Time&lt;/a&gt; (con tanto di online copiato da quest&amp;rsquo;ultimo, anzi da tutti e tre).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;un blog unico di &lt;a href=&#34;http://www.wittgenstein.it/&#34;&gt;Luca Sofri&lt;/a&gt; e &lt;a href=&#34;http://www.mantellini.it/&#34;&gt;Massimo Mantellini&lt;/a&gt;, così smettono di citarsi a vicenda (&amp;ldquo;The Wittgenstein Post&amp;rdquo;?).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;sostituire la blog-rubrica di Zincone sul Corriere della Sera Magazine direttamente con i post che appaiono su &lt;a href=&#34;http://www.spinoza.it/&#34;&gt;Spinoza&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;mettere Gasparri a fare il giudice in un qualsiasi reality show o, al limite, farlo partecipare in coppia con una ballerina russa e sperare che diventi il nuovo &lt;a href=&#34;http://www.macitynet.it/macity/aA37349/il_woz_eliminato_da_ballando_con_le_stelle.shtml&#34;&gt;Wozniak&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;invece di fare le barricate sull&amp;rsquo;&lt;a href=&#34;http://www.politichiamo.it/2009/02/25/400_milioni_per_far_fallire_il.html&#34;&gt;election day&lt;/a&gt;, risparmiare i famosi soldi delle elezioni europee non facendole proprio (utilità dell&amp;rsquo;europarlamento=0).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -84,7 +133,10 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Wed, 18 Mar 2009 09:03:42 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/03/18/dilettanti/</guid>
-      <description>Non ho trovato il tempo per segnalare anch&amp;rsquo;io la curiosa vicenda di Davide Rossi, il tizio che si scaglia contro internet e poi dalla rete viene riscoperto come paninaro (vabbè, è una sintesi un po&amp;rsquo; estrema). Comunque, oggi è apparso un suo commento da Mantellini, il che mi pare una cosa positiva: dal giudizio secco si passa al dialogo. Aggiungo solo che, tra poco, esce in italiano, col titolo &amp;ldquo;Dilettanti.com&amp;rdquo;, il discusso libro di Andrew Keen &amp;ldquo;The cult of amateur&amp;rdquo;, che non è che dica cose molto diverse da quelle di Rossi, però una lettura la meriterebbe lo stesso.</description>
+      <description>&lt;p&gt;Non ho trovato il tempo per segnalare anch&amp;rsquo;io la curiosa vicenda di Davide Rossi, il tizio che &lt;a href=&#34;http://www.youtube.com/watch?v=3HabNofBVNo&#34;&gt;si scaglia contro internet &lt;/a&gt;e poi dalla rete viene riscoperto come &lt;a href=&#34;http://www.ilgiornale.it/a.pic1?ID=336731&#34;&gt;paninaro&lt;/a&gt; (vabbè, è una sintesi un po&amp;rsquo; estrema). Comunque, oggi è apparso &lt;a href=&#34;http://www.mantellini.it/?p=6519&#34;&gt;un suo commento&lt;/a&gt; da Mantellini, il che mi pare una cosa positiva: dal giudizio secco si passa al dialogo. Aggiungo solo che, tra poco, esce in italiano, col titolo &amp;ldquo;Dilettanti.com&amp;rdquo;, &lt;a href=&#34;http://blog.panorama.it/culturaesocieta/2007/06/20/i-blog-una-boiata-pazzesca-parola-di-andrew-keen/&#34;&gt;il discusso libro&lt;/a&gt; di Andrew Keen &amp;ldquo;The cult of amateur&amp;rdquo;, che non è che dica cose molto diverse da quelle di Rossi, però una lettura la meriterebbe lo stesso.&lt;/p&gt;
+
+&lt;p&gt;[YouTube - Il Giornale - Manteblog - Panorama]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -93,7 +145,8 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Mon, 02 Mar 2009 13:38:38 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/03/02/non-e-un-paese-per-vecchi/</guid>
-      <description>Al grido di largo ai ggiovani, Brodo saluta e ci abbandona (come uno Uòlter qualsiasi). Facciamo che io non ci credo. [Brodo Primordiale]</description>
+      <description>&lt;p&gt;Al grido di &lt;a href=&#34;http://brodoprimordiale.net/archives/2009/03/02/largo-ai-ggiovani/&#34;&gt;largo ai ggiovani&lt;/a&gt;, Brodo saluta e ci abbandona (come uno Uòlter qualsiasi). Facciamo che io non ci credo. [Brodo Primordiale]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -102,7 +155,8 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Sun, 18 Jan 2009 12:09:41 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/01/18/lifestream-is-a-state-of-mind/</guid>
-      <description>Ecco, tante cose giuste sui blog e Friendfeed le ha scritte Akille: se il blog muore, Friendfeed è il maggiordomo. [Akille.net]</description>
+      <description>&lt;p&gt;Ecco, tante cose giuste sui blog e Friendfeed le ha scritte Akille: &lt;a href=&#34;http://www.akille.net/2009/01/16/se-il-blog-muore-friendfeed-e-il-maggiordomo/&#34;&gt;se il blog muore, Friendfeed è il maggiordomo&lt;/a&gt;. [Akille.net]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -111,8 +165,10 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Fri, 16 Jan 2009 10:21:10 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/01/16/il-senso-della-lettura/</guid>
-      <description>Al molto citato post di Seth Godin, When newspapers are gone, what will you miss?, secondo me va mossa un&amp;rsquo;obiezione fondamentale. Sì, è vero che tecnicamente tutto quello che sta sul cartaceo potrebbe trovare nuova (e miglior) vita in formato digitale. Giornalismo d&amp;rsquo;inchiesta compreso. Ma come la mettiamo con l&amp;rsquo;esperienza unica dello sfogliare?
-[Seth&amp;rsquo;s blog]</description>
+      <description>&lt;p&gt;Al molto citato post di Seth Godin, &lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2009/01/when-newspapers.html&#34;&gt;When newspapers are gone, what will you miss?&lt;/a&gt;, secondo me va mossa un&amp;rsquo;obiezione fondamentale. Sì, è vero che tecnicamente tutto quello che sta sul cartaceo potrebbe trovare nuova (e miglior) vita in formato digitale. Giornalismo d&amp;rsquo;inchiesta compreso. Ma come la mettiamo con l&amp;rsquo;esperienza unica dello sfogliare?&lt;/p&gt;
+
+&lt;p&gt;[Seth&amp;rsquo;s blog]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -121,7 +177,10 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Fri, 09 Jan 2009 07:12:38 +0000</pubDate>
       
       <guid>https://macchioni.cc/2009/01/09/salutate-il-signor-kimble/</guid>
-      <description>Stamattina, tra un po&amp;rsquo;, svenivo. [Twitter/Schwarzenegger]</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.leibniz-blogs.it/gallery/gov.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stamattina, tra un po&amp;rsquo;, svenivo. [&lt;a href=&#34;http://twitter.com/schwarzenegger&#34;&gt;Twitter/Schwarzenegger&lt;/a&gt;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -130,7 +189,8 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Tue, 04 Nov 2008 11:46:30 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/11/04/quattro-anni-fa-e-un-po/</guid>
-      <description>Grazie davvero a Luca Sofri che è andato a ripescare il mio primo post su Obama (28 luglio 2004), che avevo perduto causa ardimentosi cambi di piattaforma. [Wittgenstein - L*]</description>
+      <description>&lt;p&gt;Grazie davvero a Luca Sofri che è andato a &lt;a href=&#34;http://www.wittgenstein.it/2008/11/04/3-novembre-2004/&#34;&gt;ripescare&lt;/a&gt; il mio &lt;a href=&#34;http://www.leibniz-blogs.it/2004/07/28/oba-oba/&#34;&gt;primo post su Obama&lt;/a&gt; (28 luglio 2004), che avevo perduto causa ardimentosi cambi di piattaforma. [Wittgenstein - L*]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -139,7 +199,8 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Sun, 19 Oct 2008 18:11:55 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/10/19/ce-portfolio-e-portfolio/</guid>
-      <description>Prima c&amp;rsquo;erano i broker disperati, poii blogger che si disperavano come i broker, adesso si ricomincia. [Manteblog - the brokers with hands on their faces blog via BoingBoing]</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://data.tumblr.com/MrTVlxUrDeuxo4rffhmBxdFwo1_400.jpg&#34;&gt;&lt;img src=&#34;http://data.tumblr.com/MrTVlxUrDeuxo4rffhmBxdFwo1_400.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;Prima c&amp;rsquo;erano i broker disperati, poi&lt;a href=&#34;http://www.mantellini.it/2008_10_01_archive.html#3639395039577487306&#34;&gt; i blogger che si disperavano come i broker&lt;/a&gt;, adesso &lt;a href=&#34;http://brokershandsontheirfacesblog.tumblr.com/&#34;&gt;si ricomincia&lt;/a&gt;. [Manteblog - the brokers with hands on their faces blog &lt;em&gt;via&lt;/em&gt; &lt;a href=&#34;http://www.boingboing.net/2008/10/19/photos-of-facepalmin.html&#34;&gt;BoingBoing&lt;/a&gt;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -148,7 +209,16 @@ I&amp;rsquo;ve been walking around in a kind of a daze for weeks and everywhere 
       <pubDate>Wed, 18 Jun 2008 13:15:50 +0000</pubDate>
       
       <guid>https://macchioni.cc/2008/06/18/bianco-ros-e-verde/</guid>
-      <description>io non ci credo tanto ai blog che fanno massa critica e contano in cabina elettorale. Non in Italia almeno. Se i blog contassero qualcosa, almeno quelli che leggo io, Uòlter avrebbe preso il 90% alle ultime elezioni. Scalfacoso sarebbe come minimo ministro, iQuattrogatti in Parlamento. Oppure avremmo un sistemista Presdelcons, cosa che non mi sembra molto allettante (non che le altre ipotesi mi allettino di più). Magari una nenia dei Sigur Rós al posto dell&amp;rsquo;inno di Mameli.</description>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;io non ci credo tanto ai blog che fanno massa critica e contano in cabina elettorale. Non in Italia almeno. Se i blog contassero qualcosa, almeno quelli che leggo io, Uòlter avrebbe preso il 90% alle ultime elezioni. Scalfacoso sarebbe come minimo ministro, iQuattrogatti in Parlamento. Oppure avremmo un sistemista Presdelcons, cosa che non mi sembra molto allettante (non che le altre ipotesi mi allettino di più). Magari una nenia dei Sigur Rós al posto dell&amp;rsquo;inno di Mameli.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://brodoprimordiale.net/archives/2008/06/17/meno-male/&#34;&gt;Meno Male&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;brodo-primordiale&#34;&gt;Brodo Primordiale&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

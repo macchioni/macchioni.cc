@@ -3,8 +3,8 @@
   <channel>
     <title>Mappa on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/mappa/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
+      <description></description>
+      <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Nov 2007 06:34:43 +0000</lastBuildDate>
     
@@ -17,8 +17,12 @@
       <pubDate>Tue, 06 Nov 2007 06:34:43 +0000</pubDate>
       
       <guid>https://macchioni.cc/2007/11/06/london-for-dummies/</guid>
-      <description> La mappa semplificata di Londra.
-Pizdaus (via Reddit, o Strangemaps) </description>
+      <description>
+
+&lt;p&gt;La &lt;a href=&#34;http://www.pizdaus.com/pics/lhVRq4A6JW4Y.jpg&#34;&gt;mappa semplificata di Londra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;pizdaus-via-reddit-http-reddit-com-o-strangemaps-http-strangemaps-wordpress-com-2007-11-03-199-a-simplified-map-of-london&#34;&gt;Pizdaus (via &lt;a href=&#34;http://reddit.com/&#34;&gt;Reddit&lt;/a&gt;, o &lt;a href=&#34;http://strangemaps.wordpress.com/2007/11/03/199-a-simplified-map-of-london/&#34;&gt;Strangemaps&lt;/a&gt;)&lt;/h3&gt;
+</description>
     </item>
     
   </channel>
