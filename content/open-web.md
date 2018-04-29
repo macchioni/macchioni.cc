@@ -39,6 +39,18 @@ _Feel free to write me and suggest other stuff._
 
 [Facebook is broken](https://techcrunch.com/2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/) by Jon Evans
 
+[The Cambridge Analytica Facebook scandal](https://www.vox.com/2018/4/10/17207394/cambridge-analytica-facebook-zuckerberg-trump-privacy-scandal) by Vox.com 
+
+[#deletefacebook](https://techcrunch.com/2018/03/19/deletefacebook/) by John Biggs
+
+[Dear Facebook user 752461218193242](Dear Facebook user 752461218193242) by Vicki Boykis
+
+[Don’t Fix Facebook. Replace It.](https://www.nytimes.com/2018/04/03/opinion/facebook-fix-replace.html) by Tim Wu
+
+[Should You Delete Your Facebook Page?](https://www.easydns.com/blog/2018/03/26/should-you-delete-your-facebook-page/) by Mark E. Jeftovic
+
+[The Facebook Current](https://stratechery.com/2018/the-facebook-current/) by Ben Thompson
+
 
 
 _(more to come)_
