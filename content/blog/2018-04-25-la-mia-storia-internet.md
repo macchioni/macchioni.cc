@@ -10,7 +10,7 @@ tags:
 - blog
 - freedom
 - open web
-image: /images/vault/splinder.png
+image: https://macchioni.cc/images/vault/splinder.png
 ---
 
 ![la-mia-storia-internet](/images/vault/la-mia-storia-internet.png)
