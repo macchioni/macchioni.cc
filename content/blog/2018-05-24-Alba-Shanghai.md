@@ -25,4 +25,4 @@ La Cina dei sapori antichi è altrove, e si è dovuta adattare alle nuove genera
 L’ultima tappa di questa Shanghai che va veloce è nel segno della creatività: l’M50 (50 Monganshan Road) è il luogo dove andare per capire come mai l’arte contemporanea cinese sia così apprezzata. In uno dei locali della zona, se sarete fortunati, potrete assaggiare il brodo di fagioli rossi azuki: la tradizione vuole che annusandolo si senta il profumo di qualcuno che non è più con noi. E anche se gli abitanti di Shanghai non hanno tempo per la nostalgia, ancora lo sorseggiano socchiudendo gli occhi.
 
 
-<a class="fa fa-newspaper"><em>(da Grazia 23 del 24-5-2018)</em></a>
+<a class="fa fa-newspaper-o"></a><em>(da Grazia 23 del 24-5-2018)</em>
