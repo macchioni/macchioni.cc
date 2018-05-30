@@ -39,4 +39,4 @@ Per Biao la storia può essere scandita così: abbiamo impiegato 2000 anni per p
 A questo punto la reazione dell’uomo medio che ancora fatica a ricordare le sue password è un misto di incredulità venato da un filo di paura. Ci pensa Richard Yu a mettere in prospettiva la questione: «Ripetiamo sempre che la tecnologia può creare cose buone o cattive, dipende dall’uso che ne facciamo. Bene, ma io credo che se le macchine faranno di più per gli esseri umani, gli esseri umani potranno fare di più ciò che amano. Godersi la vita». Una vita tutta nuova.
 
 
-<a class="fa fa-newspaper"><em>(Grazia.it, 7 febbraio 2018)</em></a>
+<a class="fa fa-newspaper-o"></a><em>(Grazia.it, 7 febbraio 2018)</em></a>
