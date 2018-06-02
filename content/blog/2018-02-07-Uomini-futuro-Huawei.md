@@ -14,6 +14,8 @@ tags:
 - artificial intelligence
 ---
 
+![hua-sh.jpg](/images/vault/hua-sh.jpg)
+
 Non è passato molto tempo da quando un bambino di 10 anni chiamato Manfu Wang, uno scolaro di una remota regione della Cina sud-orientale, ha commosso il mondo. Il ragazzino era arrivato in classe con i capelli gelati e grazie a una foto scattata dallo smartphone del suo maestro, poi diventata virale, si è trasformato in uno dei simboli della voglia di riscatto degli ultimi, dei dimenticati. 
 
 Molti anni prima qualcosa del genere era successo anche a un ragazzo chiamato Chengdong Yu: ogni giorno questo figlio di contadini tornava a casa da scuola a piedi e, guardando le persone intente a lavorare con la schiena curva, pensava che, se avessero avuto a disposizione delle macchine, non avrebbero più dovuto fare tutta quella fatica. Yu oggi ha quasi 50 anni, non si occupa di agricoltura, ma può dire di aver creato macchine senza eguali. 
@@ -39,4 +41,4 @@ Per Biao la storia può essere scandita così: abbiamo impiegato 2000 anni per p
 A questo punto la reazione dell’uomo medio che ancora fatica a ricordare le sue password è un misto di incredulità venato da un filo di paura. Ci pensa Richard Yu a mettere in prospettiva la questione: «Ripetiamo sempre che la tecnologia può creare cose buone o cattive, dipende dall’uso che ne facciamo. Bene, ma io credo che se le macchine faranno di più per gli esseri umani, gli esseri umani potranno fare di più ciò che amano. Godersi la vita». Una vita tutta nuova.
 
 
-<a class="fa fa-newspaper-o"></a><em>(Grazia.it, 7 febbraio 2018)</em></a>
+<a class="fa fa-newspaper-o"></a><em> (Grazia.it, 7 febbraio 2018)</em></a>

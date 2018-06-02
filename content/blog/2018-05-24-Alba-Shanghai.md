@@ -13,6 +13,8 @@ tags:
 - grazia
 ---
 
+![shanghai-p](/images/vault/shanghai-p.jpg)
+
 Shanghai è una città di 24 milioni di persone che non hanno tempo per la nostalgia. La corsa verso il futuro della capitale economica della Cina non ammette distrazioni: in strada studenti e impiegati non si spostano più in bicicletta, ma su silenziosissimi scooter elettrici, e le abitazioni a due piani in mattoni rossi stile Shikumen hanno lasciato il posto a grattacieli da record. In strada i ragazzi sfoggiano look che superano per originalità quelli degli influencer occidentali, mentre le ragazze escono la sera mostrando con abiti e accessori la passione sincera per gli stilisti europei. 
 
 «La Cina una volta era un Paese proibito, ma Shanghai ha sempre avuto nel suo spirito un’apertura verso l’Occidente che è ancora oggi la sua forza», dice a Grazia Richard Yu, ceo della divisione consumer di Huawei, l’azienda che proprio qui ha lanciato le due sfida tecnologiche di questi anni: inserire in smartphone e computer un’intelligenza artificiale capace di anticipare le nostre azioni e rendere le città connesse grazie alla velocissima rete 5G che, spiega Yu, renderà presto affidabili le auto a guida senza conducente. Un ulteriore assaggio di futuro è già in Jiujiang Road: lì, nella filiale della China Construction Bank, da pochi giorni un impiegato robot chiamato Xiao Long ha preso il posto dei bancari in carne e ossa.
@@ -25,4 +27,4 @@ La Cina dei sapori antichi è altrove, e si è dovuta adattare alle nuove genera
 L’ultima tappa di questa Shanghai che va veloce è nel segno della creatività: l’M50 (50 Monganshan Road) è il luogo dove andare per capire come mai l’arte contemporanea cinese sia così apprezzata. In uno dei locali della zona, se sarete fortunati, potrete assaggiare il brodo di fagioli rossi azuki: la tradizione vuole che annusandolo si senta il profumo di qualcuno che non è più con noi. E anche se gli abitanti di Shanghai non hanno tempo per la nostalgia, ancora lo sorseggiano socchiudendo gli occhi.
 
 
-<a class="fa fa-newspaper-o"></a><em>(da Grazia 23 del 24-5-2018)</em>
+<a class="fa fa-newspaper-o"></a><em> (da Grazia 23 del 24-5-2018)</em>
