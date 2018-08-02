@@ -6,7 +6,7 @@ description = "29 8 2018"
 weight = "4"
 +++
 
-![busok](/vault/busok.jpg)
+![busok](/images/vault/busok.jpg)
 
 Ciao, indomiti invitati. In questa pagina troverete le informazioni fondamentali per il London Wedding Renewal (d’ora in poi #TheMacchionis), ovvero il rinnovo dei voti matrimoniali di Piero e Francesca a 10 anni dalle nozze vere e proprie.
 
@@ -16,7 +16,7 @@ Le grandiose celebrazioni disposte da Francesca prevedono diverse fermate in gir
 
 - Appuntamento fondamentale: alle ore 14:00 fuori casa (8 Stanhope Mews South, South Kensington). Per favore, siate puntuali, ne va della freschezza delle bevande che gusterete successivamente. 
 
-![stanhope](/vault/stanhope.jpg)
+![stanhope](/images/vault/stanhope.jpg)
 
 - Partenza tutti insieme a bordo di un discretissimo mezzo di locomozione dal quale vedremo un sacco di torri e ponti.
  
@@ -28,7 +28,7 @@ Le grandiose celebrazioni disposte da Francesca prevedono diverse fermate in gir
 
 - Ultima tappa alle 19:00: pub. Andiamo al Water Poet (9-11 Folgate St, Spitafields), lo sposo cercava un luogo dall’atmosfera informale e rilassata. Ci saranno birre, stuzzichini, musica.
 
-![waterpoet](/vault/waterpoet.jpg)
+![waterpoet](/images/vault/waterpoet.jpg)
 
 
 ### RACCOMANDAZIONI
