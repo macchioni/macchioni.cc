@@ -42,23 +42,23 @@ Le grandiose celebrazioni disposte da Francesca prevedono diverse fermate in gir
 ### LONDRA, QUESTA SCONOSCIUTA
 
 **Sono atterrato a Londra, aiuto, come arrivo in città?**
-Primo, usate l’app Citymapper sul vostro smartphone, ve lo dice lei. Comunque, a Heathrow prendete il metrò; da Stansted e da Gatwick il trenino. Si pagano ai box con la carta di credito o il bancomat, semmai ripassate il pin.
+Primo, usa l’app Citymapper sul tuo smartphone, te lo dice lei. Comunque, a Heathrow prendi il metrò; da Stansted e da Gatwick il trenino. Si pagano alle biglietterie automatiche con la carta di credito o il bancomat, semmai ripassa il pin.
 
-**Per girare in metrò devo fare la Travelcard o no?**
-Guardate [qui](https://tfl.gov.uk/fares-and-payments/). Noi consigliamo di fare la Travelcard giornaliera “off peak” 1-2 zone, ricordatevelo quando arrivate ai totem della metropolitana.
+**Per girare in città che devo fare?**
+Guarda [qui](https://tfl.gov.uk/fares-and-payments/). Noi consigliamo di fare la Travelcard giornaliera “off peak” 1-2 zone, ricordatelo quando arrivi alle biglietterie automatiche del metrò.
 
-**Voglio fare shopping, in che negozi entro?**
-Capitolo grandi magazzini: lasciate stare Harrods, troppa gente e troppo casino; meglio Selfridges e Liberty. Sono un grande classico, ma Oxford Street, Regent Street, Carnaby Street meritano sempre. Le vetrine più rilassanti sono quelle di King’s Road. Oppure perdetevi tra le strade di Seven Dials. Qualcosa di originale la trovate a Camden Town. Negozi sposa-approved: Hobbs, Ted Baker, Phase Eight, Oasis, Coast, Temperley, L.K. Bennett, Kurt Geiger. 
+**Voglio fare shopping, dove vado?**
+Lascia stare Harrods, troppa gente e troppo casino; meglio Selfridges e Liberty. Sono un grande classico, ma Oxford Street, Bond Street, Regent Street e Carnaby Street - per ultima, che scendi - meritano sempre. Le vetrine più rilassanti sono quelle di King’s Road. Oppure perditi tra le strade di Seven Dials. Qualcosa di originale la trovi a Camden Town. Negozi sposa-approved: Hobbs, Ted Baker, Phase Eight, Oasis, Coast, Temperley, L.K. Bennett, Kurt Geiger. 
 
 **Che cosa devo assolutamente assaggiare?**
-C’è tantissimo. Piero, per non andare lunghi, consiglia cinque fermate: 
+C’è tantissimo. Lo sposo, per non andare lunghi, consiglia cinque fermate: 
 
-1) Bagel e pane: Brick Lane Beigel Bake (159 Brick Ln).
+1) Bagel e pane: Brick Lane Beigel Bake (159 Brick Lane).
 
 2) Caffè: Nude Coffee Roasters (4 Market Street; 8 Bell Lane; 26 Hanbury Street; 25 Hanbury Street).
 
-3) Colazione inglese senza fagioli: il bacon sandwich e i dougnut di St John Bread and Wine (94-96 Commercial St.).
+3) Colazione inglese senza fagioli: il bacon sandwich e i dougnut di St John Bread and Wine (94-96 Commercial Street).
 
-4) Dolci: Hummingbird Bakery (155a Wardour St.; 47 Old Brompton Road, London).
+4) Dolci: Hummingbird Bakery (155a Wardour Street; 47 Old Brompton Road).
 
-5) Il posto del momento: Black Axe Mangal (156 Canonbury Road, Londra N1 2UP) per tre cose, ovvero lo Squid ink and smoked cod's roe (focaccia al nero di seppia con crema di uova di pesce e rosso d’uovo d’anatra), il Lamb offal (focaccia alla crema piccante di interiora di agnello, palle comprese, con cipolla cruda e cumino), il cuore alla griglia che suona strano ma non lo è.
+5) Il posto del momento: Black Axe Mangal (156 Canonbury Road) per tre cose, ovvero lo Squid ink and smoked cod's roe (focaccia al nero di seppia con crema di uova di pesce e rosso d’uovo d’anatra), il Lamb offal (focaccia alla crema piccante di interiora di agnello, palle comprese, con cipolla cruda e cumino), il cuore alla griglia che suona strano ma non lo è.
