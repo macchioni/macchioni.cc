@@ -1,6 +1,6 @@
 +++
 type = "static"
-page = "static/single.html"
+page = "static/nologo.html"
 title = "#TheMacchionis | London, August 29th 2018"
 description = "29 8 2018"
 weight = "4"
@@ -48,7 +48,7 @@ Primo, usa l’app Citymapper sul tuo smartphone, te lo dice lei. Comunque, a He
 Guarda [qui](https://tfl.gov.uk/fares-and-payments/). Noi consigliamo di fare la Travelcard giornaliera “off peak” 1-2 zone, ricordatelo quando arrivi alle biglietterie automatiche del metrò.
 
 **Voglio fare shopping, dove vado?**
-Lascia stare Harrods, troppa gente e troppo casino; meglio Selfridges e Liberty. Sono un grande classico, ma Oxford Street, Bond Street, Regent Street e Carnaby Street - per ultima, che scendi - meritano sempre. Le vetrine più rilassanti sono quelle di King’s Road. Oppure perditi tra le strade di Seven Dials. Qualcosa di originale la trovi a Camden Town. Negozi sposa-approved: Hobbs, Ted Baker, Phase Eight, Oasis, Coast, Temperley, L.K. Bennett, Kurt Geiger. 
+Lascia stare Harrods, troppa gente e troppo casino; meglio Selfridges e Liberty. Sono un grande classico, ma Oxford Street, Bond Street, Regent Street e Carnaby Street meritano sempre. Le vetrine più rilassanti sono quelle di King’s Road. Oppure perditi tra le strade di Seven Dials. Qualcosa di originale la trovi a Camden Town. Negozi sposa-approved: Hobbs, Ted Baker, Phase Eight, Oasis, Coast, Temperley, L.K. Bennett, Kurt Geiger. 
 
 **Che cosa devo assolutamente assaggiare?**
 C’è tantissimo. Lo sposo, per non andare lunghi, consiglia cinque fermate: 
