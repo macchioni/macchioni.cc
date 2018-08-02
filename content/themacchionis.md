@@ -3,7 +3,6 @@ type = "static"
 page = "static/nologo.html"
 title = "#TheMacchionis | London, August 29th 2018"
 description = "29 8 2018"
-weight = "4"
 +++
 
 ![busok](/images/vault/busok.jpg)
