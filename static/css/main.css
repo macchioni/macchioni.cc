@@ -114,16 +114,16 @@ a {
 
 .content a {
   text-decoration: none;
-  color: inherit;
-  border-bottom: 3px solid #ed4740;
-  box-shadow: inset 0 -4px 0 #ed4740;
+  color: #ed4740;
+  border-bottom: 1px solid #ed4740;
   background: transparent;
   transition: background 150ms ease;
 }
 
 .content a:hover,
 .content a:focus {
-  background: #ed4740;
+color: #252891;
+
 
 }
 
