@@ -3,7 +3,7 @@ author: Piero Macchioni
 date: 2018-10-10
 title: Unfriended
 description: Yesterday I deleted my Facebook account. I wasn’t using that anymore, not even for lurking.
-published: false
+published: true
 categories:
 - social
 tags:
