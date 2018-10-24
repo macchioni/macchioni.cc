@@ -8,3 +8,17 @@ publish_mode: editorial_workflow
 # These lines should *not* be indented
 media_folder: "static/images/vault" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/vault" # The src attribute for uploaded media will begin with /images/uploads
+
+fields:
+  - label: "Title"
+    name: "title"
+    widget: "string"
+    pattern: ['.{20,}', "Must have at least 20 characters"]
+  - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+  - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+  - {label: "Body", name: "body", widget: "markdown"}
+
+  slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+  
+  editor:
+    preview: false
