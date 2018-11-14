@@ -43,7 +43,7 @@ _Feel free to write me and suggest other stuff._
 
 [#deletefacebook](https://techcrunch.com/2018/03/19/deletefacebook/) by John Biggs
 
-[Dear Facebook user 752461218193242](Dear Facebook user 752461218193242) by Vicki Boykis
+[Dear Facebook user 752461218193242](http://veekaybee.github.io/2018/03/30/dear-facebook-user/) by Vicki Boykis
 
 [Don’t Fix Facebook. Replace It.](https://www.nytimes.com/2018/04/03/opinion/facebook-fix-replace.html) by Tim Wu
 
@@ -51,6 +51,7 @@ _Feel free to write me and suggest other stuff._
 
 [The Facebook Current](https://stratechery.com/2018/the-facebook-current/) by Ben Thompson
 
+[Contract for the web](https://fortheweb.webfoundation.org/principles) by World Wide Web Fundation. 
 
 
 _(more to come)_
