@@ -1,7 +1,7 @@
 ---
 author: Piero Macchioni
 date: 2019-11-17
-title: Finding friendship in time of Brexit
+title: Finding friendship in times of Brexit
 description: Reading might be an antidote to the Brexits of our time, suggest authors Ken Follett, Jojo Moyes, Kate Mosse and Lee Child in Milan. 
 published: true
 categories:
@@ -18,22 +18,27 @@ On this rainy Sunday of november I met renowned authors Jojo Moyes, Kate Mosse, 
 
 ![The Friendship Tour Manifesto](https://macchioni.cc/images/vault/frienship-manifesto.jpg)
 
-### Four lessons from four novelists (plus one)
+### Four lessons (+1) from four novelists
 
 
 **1. Boundaries change, people do not**
+
 Kate Mosse (the most brillant of the four, IMHO) said that history teaches us that boundaries and reigns can change, put people keeps being the same. We share the same stories and the same sentiments.
 
 **2. When people are scared, they look for an enemy**
-Mosse also said that always in History when men and women are in difficult times, they reach for what they know and look for an enemy outside. This began before the Brexit referendum. But young people can change things, as they always do in History. 
+
+Mosse also said that always in History when men and women are in difficult times, they reach for what they know and look for an enemy outside. This began before the Brexit referendum. But young people can change things, as they always do. 
 
 **3. Politicians should read more**
-Child and Moyes talked about the importance of reading for the policy-makers. We would have a better world if politicians would read more - said Moyes - because stories teach you to be in someone else's shoes. 
+
+Child and Moyes talked about the importance of reading for the decision-makers. We would have a better world if politicians would read more - said Moyes - because stories teach you to be in someone else's shoes. 
 
 **4. Alternative futures ahead**
-Thinking about Catalunya and Scotland, Ireland and even Norhern Italy, Follett gave us a suggestive dystopic idea for (a possible) future: nations would divide and we will live in a world with wealthy liberal democracies and (hopefully) irrelevant illiberal states.  
+
+Thinking about Catalunya and Scotland, Ireland and even Norhern Italy, Follett gave us a suggestive dystopic idea for (a possible) future: nations would divide and we will live in a world with wealthy liberal democracies and hopefully-irrelevant illiberal states. That's not his wish, he said, just a story. 
 
 **5. Where we came from**
+
 The cultural boom of the Elizabethan Period - say the four - came from the refugees escaping from the religious persecutions in France and ore countries. The openess of Netherlands made many masterpieces possible. Afro-americans invented rock'n'roll, jewish made Hollywood. The most important artist of the 20th Century was a spanish immigrant living in Paris, Pablo Picasso. 
 
 
