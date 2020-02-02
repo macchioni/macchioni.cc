@@ -15,7 +15,7 @@ tags:
 
 ![start](https://macchioni.cc/images/vault/aoutnoma.jpg)
 
-On the night of February 21st I slipped a slice of Black Spanish Radish into the inside pocket of my suit. I believe it has been sliced a few minutes before in front of me by a cook named Rebecca Raben and it was part of a sea snails salad, one of the best dishes I had that night at [Noma](https://noma.dk/) in Copenhagen, Denmark. One of the best I had in my life. 
+On the night of January 21st I slipped a slice of Black Spanish Radish into the inside pocket of my suit. I believe it has been sliced a few minutes before in front of me by a cook named Rebecca Raben and it was part of a sea snails salad, one of the best dishes I had that night at [Noma](https://noma.dk/) in Copenhagen, Denmark. One of the best I had in my life. 
 
 Usually people who wants to remember a restaurant ask for a business card, take a ton of pictures, steal a fork. But what if you want to take with you a memory of the craftsmanship, the symbol of a cutting edge experience, the tangible matter shaped by an alliance of hearts, minds and hands? Well, the best I could do was keeping that fine slice of radish who has survived a japanese mandolin and now sits dried between the pages of my bojo. 
 
