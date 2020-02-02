@@ -32,9 +32,14 @@ One day I probably will forget the honey scent coming up from that sea snails sa
 
 ![A cook on a break](https://macchioni.cc/images/vault/cooknoma.jpg)
 
-If you have read some kitchen stories (think about Anthony Bourdain stuff), you already know that consistency of plates is made by the ability of line cooks to replicate the dish their chef has put on the menu. If possible, chefs would secretly trade off people for AIs with the sense of smell or robots with taste, but they can't. So, cooking is still a game for people, but the struggle to perfection is a road paved with underpaid young guys running like hell and through hell to be perfect at any mise en place, any seasoning, any plating, any line cleaning and wiping. At Noma this happens under 200 hundred eyes expecting nothing more than Heaven for any inch of edible and inedible stuff. 
-Cooks can be tired, their hands can be wet or patched or burnt, they can consider pure shit what they have to serve (duck brain cooked inside a duck head? See Noma's Game and Forest Season Menu for more), but they deliver. And when Ben whispers, they say "YES". 
+If you have read some kitchen stories (think about Anthony Bourdain stuff), you already know that consistency of plates is made by the ability of line cooks to replicate the dish their chef has put on the menu. If possible, chefs would secretly trade off people for AIs with the sense of smell or robots with taste, but they can't. 
+
+So, cooking is still a game for people, but the struggle to perfection is a road paved with underpaid young guys running like hell and through hell to be perfect at any mise en place, any seasoning, any plating, any line cleaning and wiping. At Noma this happens under 200 hundred eyes expecting nothing more than Heaven for any inch of edible and inedible stuff. 
+
+Cooks can be tired, their hands can be wet or patched or burnt, they can consider pure shit what they have to serve (duck brain cooked inside a duck head? See Noma's Game and Forest Season Menu for more), but they deliver. And when Ben whispers, they say "YES".
+
 ["Yes Is More"](https://www.amazon.com/Yes-More-Archicomic-Architectural-Evolution/dp/3836520109/) is also the name of a book by architect [Bjarke Ingels](https://big.dk/) of B.I.G. group, a manifesto for the things possible nowadays and the power of saying yes to the society (funny enough, Ingels also built the new Noma, and after he presented the first project to Redzepi, René told him... "No!", because he didn't like that at all).
+
 Anyway, in my experience, **that firm "YES" is what managers expect from their team anytime they have to ask for impossible**. Probably a manager, a head chef, some kind of leader knows the billion things that can go wrong, the many many "but/if" that can blossom after a demanding task. But they need that "YES", and the hard work it follows. I will repeat that to myself from now on: saying "YES" is not submission, is the noble affirmation of you power and responsibility executing an important task.
 
 ### 2. Don't underestimate the power of Number 2s
@@ -44,7 +49,10 @@ On December 28th, a few weeks later I committed myself in spending a fortune for
 
 ![René Redzepi and family in Japan](https://macchioni.cc/images/vault/reneinjapan.jpg)
 
-Would you have renounced your reservation after that? Well, I kept mine. My belief is simple: if you long for that food, if you think you're going in one of the best restaurants in the world, you don't need Mr. Number 1 in the house. Why I say so? Because, at work, I'm a Number 2. In any high quality organization Number 1s are the face of the brand, the minds of the product, the soul searchers, the mobile and sleepless business units and pr machines keeping the family alive. They can't be 24/7 on the grocery lists, or kneeled under the sink fixing a pipe, or even holding a pan and serving all his guests when the house is full. It's Number 2's task to deliver the menu, the feeling, making a team of individuals sing together, like Number 1 intended. 
+Would you have renounced your reservation after that? Well, I kept mine. My belief is simple: if you long for that food, if you think you're going in one of the best restaurants in the world, you don't need Mr. Number 1 in the house. 
+
+Why I say so? Because, at work, I'm a Number 2. In any high quality organization Number 1s are the face of the brand, the minds of the product, the soul searchers, the mobile and sleepless business units and pr machines keeping the family alive. They can't be 24/7 on the grocery lists, or kneeled under the sink fixing a pipe, or even holding a pan and serving all his guests when the house is full. It's Number 2's task to deliver the menu, the feeling, making a team of individuals sing together, like Number 1 intended. 
+
 I bet Redzepi's Number 2s would deliver, I think I won the bet (as it happened many times before in my life in similar experiences). 
 
 ### 3. Time, space, fermentation and all the answers in the world
@@ -55,7 +63,9 @@ But remember Immanuel Kant: you need time and space to experience something; and
 ![start](https://macchioni.cc/images/vault/greenhouse.jpg)
 
 We always tell ourselves that food is love, that cooking is showing love for people (or for what you cook), but sometimes food is philosophy, is science, is the mean we use to answer many questions about ourselves and our place in the world. 
+
 «What can I know? What should I do? What may I hope?», asked Kant. What can I eat? What  should I eat? What may I hope to eat», could we ask ourselves in these times of environmental awakening. 
+
 These questions need answers, answers need time and space to blossom, and time to ferment like the deer brain you can find in a jar at Noma's. Or maybe we'll get answers when we will finally embrace the idea that you need good contamination to generate good food: like salt for fermented plums, or koji for the barley sticks I was served under some roe. Old questions, new answers, new taste in our lives. 
 
 ### 4. Sketches
