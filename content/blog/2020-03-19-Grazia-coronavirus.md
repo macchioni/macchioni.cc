@@ -21,7 +21,7 @@ Questo è un numero di [@grazia_it](https://instagram.com/grazia_it) straordinar
 
 * È un numero che abbiamo realizzato interamente in `#smartworking`, ognuno in casa propria, senza aver mai provato a lavorare così fino a un minuto prima dell'`#iorestoacasa`. 
 
-* Un numero che con [@graziacn](https://instagram.com/graziacn) esce contemporaneamente in Italia e in Cina, i due Paesi più colpiti dal coronavirus.
+* Un numero che con [@graziacn](https://instagram.com/graziachina) esce contemporaneamente in Italia e in Cina, i due Paesi più colpiti dal coronavirus.
 
 * Un numero che abbiamo voluto riempire così tanto di news, moda e storie che abbiamo rinunciato tutti al colophon, la pagina che ospita di solito i nostri nomi. Li metto qui dicendo anche grazie a tutti e ai tecnici di [@mondadori](https://instagram.com/mondadori) che in poche ore ci hanno messo in grado di lavorare come se fossimo a Palazzo Niemeyer. **Grazie a tutti, `#ioleggograzia` `#TorneremoAdAbbracciarci`**
  
