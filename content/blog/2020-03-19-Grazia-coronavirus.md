@@ -2,7 +2,7 @@
 author: Piero Macchioni
 date: 2020-03-19
 title: Torneremo ad abbracciarci, il numero speciale di Grazia ai tempi di covid-19.  
-description: Ai tempi del coronavirus Grazia esce con una grafica rinnovata e un numero di 282 pagine realizzato interamente in smart working #iorestoacasa
+description: Ai tempi del coronavirus Grazia esce con una grafica rinnovata e un numero di 282 pagine realizzato interamente in smart working
 published: true
 categories:
 - journalism
