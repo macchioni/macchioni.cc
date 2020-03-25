@@ -3,7 +3,6 @@ type = "static"
 page = "static/linktree.html"
 title = "linktree"
 description = "linktree - Piero Macchioni"
-menu = "main"
 +++
 
 __Ahoy! This is Piero Macchioni, journalist, currently managing editor at Grazia Magazine Italy. Follow the link you like.__
