@@ -1,7 +1,7 @@
 +++
 type = "static"
 title = "Home"
-description = "Piero Maccchioni — journo"
+description = "Piero Macchioni — journo"
 +++
 
 <p class="h-card"><img class="u-photo" alt="piero-macchioni" src="/images/piero-macchioni-bws.jpg" align="center" width="200" style="display:block;width:100%;max-width:200px"></img>
