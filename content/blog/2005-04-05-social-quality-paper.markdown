@@ -10,7 +10,7 @@ url: "/2005/04/05/social-quality-paper/"
 wordpress_id: 367
 
 ---
-Per leggere il New York Times in maniera diversa, andate su [The Annotated New York Times](http://nytimes.blogrunner.com/).  
+Per leggere il New York Times in maniera diversa, andate su [The Annotated New York Times](https://nytimes.blogrunner.com/).  
 
 
 

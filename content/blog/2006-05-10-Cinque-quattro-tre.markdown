@@ -12,5 +12,5 @@ url: "/2006/05/10/Cinque-quattro-tre/"
 
 (da "[Per il bene dell'Italia][1]", programma dell'Unione - [pdf][2])
 
-[1]:	http://www.rifondazione.it/elezioni2006/programma_unione.html
-[2]:	http://www.diario.it/content/documents/dl000109.programma.unione.pdf
+[1]:	https://www.rifondazione.it/elezioni2006/programma_unione.html
+[2]:	https://www.diario.it/content/documents/dl000109.programma.unione.pdf

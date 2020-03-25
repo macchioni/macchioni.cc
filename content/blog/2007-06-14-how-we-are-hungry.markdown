@@ -10,7 +10,7 @@ url: "/2007/06/14/how-we-are-hungry/"
 wordpress_id: 2496
 
 ---
-[![](http://www.leibniz-blogs.it/gallery/eggers.gif)](http://store.mcsweeneys.net/)McSweeney's [ha bisogno di soldi](http://www.mcsweeneys.net/), quindi fa i saldi (per invogliare la gente a comprare qualcosa subito ed evitare di chiudere bottega).
+[![](https://www.leibniz-blogs.it/gallery/eggers.gif)](https://store.mcsweeneys.net/)McSweeney's [ha bisogno di soldi](https://www.mcsweeneys.net/), quindi fa i saldi (per invogliare la gente a comprare qualcosa subito ed evitare di chiudere bottega).
 
 
 ### McSweeney's

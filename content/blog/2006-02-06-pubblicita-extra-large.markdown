@@ -10,7 +10,7 @@ url: "/2006/02/06/pubblicita-extra-large/"
 wordpress_id: 2020
 
 ---
-[![](http://www.blackathlete.net/artman/uploads/superbowldetroit.jpg)](http://video.google.com/superbowl.html)I video delle [pubblicità del Superbowl](http://video.google.com/superbowl.html).
+[![](https://www.blackathlete.net/artman/uploads/superbowldetroit.jpg)](https://video.google.com/superbowl.html)I video delle [pubblicità del Superbowl](https://video.google.com/superbowl.html).
 
 
 ### Google Video

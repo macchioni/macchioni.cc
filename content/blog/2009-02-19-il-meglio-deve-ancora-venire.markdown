@@ -10,7 +10,7 @@ url: "/2009/02/19/il-meglio-deve-ancora-venire/"
 wordpress_id: 3948
 
 ---
-![](http://www.wired.it/dam/681x430/w_z/WiredITCover01Large_1.jpg)Prime impressioni dopo aver sfogliato (non letto tutto, dato che è uscito stamattina) il nuovo [Wired](http://www.wired.it/). Che è ricco, ma potrebbe essere più sorprendente. Però, l'editoriale del direttore si chiude con un «il meglio deve ancora venire». Lo prenderei in parola.
+![](https://www.wired.it/dam/681x430/w_z/WiredITCover01Large_1.jpg)Prime impressioni dopo aver sfogliato (non letto tutto, dato che è uscito stamattina) il nuovo [Wired](https://www.wired.it/). Che è ricco, ma potrebbe essere più sorprendente. Però, l'editoriale del direttore si chiude con un «il meglio deve ancora venire». Lo prenderei in parola.
 
 **Tired**
 

@@ -10,7 +10,7 @@ url: "/2005/10/18/dove-la-sola/"
 wordpress_id: 670
 
 ---
-Dall'Oriente torna un servizio per mandare [sms gratis](http://www.agentsms.com/) anche in Italia.  
+Dall'Oriente torna un servizio per mandare [sms gratis](https://www.agentsms.com/) anche in Italia.  
  
 
-### Agent sms | tag: [sms](http://www.technorati.com/tags/sms)
+### Agent sms | tag: [sms](https://www.technorati.com/tags/sms)

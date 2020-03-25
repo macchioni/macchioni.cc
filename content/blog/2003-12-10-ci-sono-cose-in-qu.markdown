@@ -14,6 +14,6 @@ wordpress_id: 698
 Altre invece cambiano.
 **Questo per dire che dopo 10 memorabili mesi Leibniz lascia Splinder per cambiare indirizzo: 
 
-   [ http://leibniz.blogs.it](http://leibniz.blogs.it/)
+   [ https://leibniz.blogs.it](https://leibniz.blogs.it/)
 
   Leibniz spera avrete la pazienza di seguirlo anche li. Comunque fino a domenica questo blog continuera a funzionare in parallelo con l'altro. Grazie.

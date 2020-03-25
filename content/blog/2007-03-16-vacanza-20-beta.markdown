@@ -10,7 +10,7 @@ url: "/2007/03/16/vacanza-20-beta/"
 wordpress_id: 2429
 
 ---
-![](http://www.leibniz-blogs.it/gallery/tanning.png)
+![](https://www.leibniz-blogs.it/gallery/tanning.png)
 
 (delirio)
 Se fossi su Twitter sarei... on vacation :-)

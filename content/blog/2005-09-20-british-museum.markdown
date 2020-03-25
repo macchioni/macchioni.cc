@@ -10,10 +10,10 @@ url: "/2005/09/20/british-museum/"
 wordpress_id: 65
 
 ---
-[![british museum](http://static.flickr.com/28/44965967_999526e111_t.jpg)](http://www.flickr.com/photos/leibniz/44965967/)  
+[![british museum](https://static.flickr.com/28/44965967_999526e111_t.jpg)](https://www.flickr.com/photos/leibniz/44965967/)  
 
 	
-		originally uploaded by [Leibniz*](http://www.flickr.com/people/leibniz/).
+		originally uploaded by [Leibniz*](https://www.flickr.com/people/leibniz/).
 	
 
 

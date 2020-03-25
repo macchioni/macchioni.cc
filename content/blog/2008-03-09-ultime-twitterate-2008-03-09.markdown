@@ -10,6 +10,6 @@ url: "/2008/03/09/ultime-twitterate-2008-03-09/"
 wordpress_id: 2684
 
 ---
-* aggiorna i bookmarks e verifica che moltissimi siti non hanno le favicon, tipo... raiclick (che ve lo dico a fa') [#](http://twitter.com/leibniz/statuses/768937924)
+* aggiorna i bookmarks e verifica che moltissimi siti non hanno le favicon, tipo... raiclick (che ve lo dico a fa') [#](https://twitter.com/leibniz/statuses/768937924)
 
 

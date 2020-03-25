@@ -11,6 +11,6 @@ url: "/2009/01/09/salutate-il-signor-kimble/"
 wordpress_id: 3820
 
 ---
-![](http://www.leibniz-blogs.it/gallery/gov.png)
+![](https://www.leibniz-blogs.it/gallery/gov.png)
 
-Stamattina, tra un po', svenivo. [[Twitter/Schwarzenegger](http://twitter.com/schwarzenegger)]
+Stamattina, tra un po', svenivo. [[Twitter/Schwarzenegger](https://twitter.com/schwarzenegger)]

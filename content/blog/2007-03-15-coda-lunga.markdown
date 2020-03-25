@@ -10,10 +10,10 @@ url: "/2007/03/15/coda-lunga/"
 wordpress_id: 2428
 
 ---
-[![](http://www.dpmhi.com/elements/stored/product_group_imgs/1421.jpg)](http://www.dpmhi.com/productdisplay.php?item=1042)Via [Giavasan](http://giavasan.diludovico.it/archivio/2007/03/15/pornography-statistics-2007/):
+[![](https://www.dpmhi.com/elements/stored/product_group_imgs/1421.jpg)](https://www.dpmhi.com/productdisplay.php?item=1042)Via [Giavasan](https://giavasan.diludovico.it/archivio/2007/03/15/pornography-statistics-2007/):
 
 
-> The [pornography industry](http://internet-filter-review.toptenreviews.com/internet-pornography-statistics.html) is larger than the revenues of the top technology companies combined: Microsoft, Google, Amazon, eBay, Yahoo!, Apple, Netflix and EarthLink.
+> The [pornography industry](https://internet-filter-review.toptenreviews.com/internet-pornography-statistics.html) is larger than the revenues of the top technology companies combined: Microsoft, Google, Amazon, eBay, Yahoo!, Apple, Netflix and EarthLink.
 
 
 

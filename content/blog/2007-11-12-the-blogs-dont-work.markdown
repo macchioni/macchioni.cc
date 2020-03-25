@@ -10,7 +10,7 @@ url: "/2007/11/12/the-blogs-dont-work/"
 wordpress_id: 2592
 
 ---
-Al Washington Post hanno diffuso un memo su [come utilizzare al meglio i blog](http://www.editorsweblog.org/news/2007/11/blog_guidelines_for_washingtonpostcom.php) della testata. Ecco che cosa non funziona:
+Al Washington Post hanno diffuso un memo su [come utilizzare al meglio i blog](https://www.editorsweblog.org/news/2007/11/blog_guidelines_for_washingtonpostcom.php) della testata. Ecco che cosa non funziona:
 
 	
   * Blog collettivi che vanno fuori tema

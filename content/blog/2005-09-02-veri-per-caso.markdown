@@ -10,11 +10,11 @@ url: "/2005/09/02/veri-per-caso/"
 wordpress_id: 105
 
 ---
-[Questa puntata](http://www.coverville.com/archives/2005/09/coverville_127.html)
+[Questa puntata](https://www.coverville.com/archives/2005/09/coverville_127.html)
 di Coverville dedicata alle versioni «a cappella» merita davvero: ci
 sono - tra le altre - Pride, Accidentally in love, Kashmir, Walking in
 Memphis e l'immancabile Stand by me.  
 
 
 
-### Coverville | tag: [podcast](http://www.technorati.com/tags/podcast), [covers](http://www.technorati.com/tags/covers)
+### Coverville | tag: [podcast](https://www.technorati.com/tags/podcast), [covers](https://www.technorati.com/tags/covers)

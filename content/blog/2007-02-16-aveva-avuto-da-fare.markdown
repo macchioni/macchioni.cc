@@ -10,6 +10,6 @@ url: "/2007/02/16/aveva-avuto-da-fare/"
 wordpress_id: 2403
 
 ---
-Dopo 113 giorni d'assenza torna [un post](http://flaviavento.leonardo.it/blog/sono_tornata_11.html) sul blog di Flavia Vento, per un mondo migliore.
+Dopo 113 giorni d'assenza torna [un post](https://flaviavento.leonardo.it/blog/sono_tornata_11.html) sul blog di Flavia Vento, per un mondo migliore.
 
 ### Flavia Vento

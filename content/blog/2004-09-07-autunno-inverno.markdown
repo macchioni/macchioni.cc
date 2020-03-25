@@ -10,5 +10,5 @@ url: "/2004/09/07/autunno-inverno/"
 wordpress_id: 3317
 
 ---
-A [Novembre](http://www.newyorkmetro.com/nymetro/urban/seasons/fallpreview2004/9763/), dopo i lavori, riapre il [MoMa](http://www.moma.org/) di New York: sarà due volte più grande di prima e avrà sempre i suoi Picasso, Cézanne, ecc...
+A [Novembre](https://www.newyorkmetro.com/nymetro/urban/seasons/fallpreview2004/9763/), dopo i lavori, riapre il [MoMa](https://www.moma.org/) di New York: sarà due volte più grande di prima e avrà sempre i suoi Picasso, Cézanne, ecc...
 NY Mag - MoMa

@@ -18,12 +18,12 @@ wordpress_id: 4157
 
 
 
-Cavolo, a [Locarno](http://www.pardo.ch/jahia/Jahia/home/lang/it) c'è uno dei film che più sono curioso di vedere (la colonna sonora è promossa). Naturalmente il titolo l'hanno già rovinato: [500 days of Summer](http://www.foxsearchlight.com/500daysofsummer/) è diventato "500 giorni insieme" (da qualche parte ho letto anche che Summer, la protagonista, viene ribattezzata Sole, ma non ci voglio credere).
+Cavolo, a [Locarno](https://www.pardo.ch/jahia/Jahia/home/lang/it) c'è uno dei film che più sono curioso di vedere (la colonna sonora è promossa). Naturalmente il titolo l'hanno già rovinato: [500 days of Summer](https://www.foxsearchlight.com/500daysofsummer/) è diventato "500 giorni insieme" (da qualche parte ho letto anche che Summer, la protagonista, viene ribattezzata Sole, ma non ci voglio credere).
 
 
 
 
-![](http://hollywoodandfine.com/reviews/wp-content/uploads/2009/07/500-days-of-summer-300x200.jpg)
+![](https://hollywoodandfine.com/reviews/wp-content/uploads/2009/07/500-days-of-summer-300x200.jpg)
 
 
 

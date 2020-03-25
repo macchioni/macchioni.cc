@@ -10,7 +10,7 @@ url: "/2005/06/23/cose-buone-dai-due-mondi/"
 wordpress_id: 234
 
 ---
-Roger Cohen s'inventa l'[Eumerica](http://www.iht.com/articles/2005/06/21/news/globalist.php).
+Roger Cohen s'inventa l'[Eumerica](https://www.iht.com/articles/2005/06/21/news/globalist.php).
 Un posto dove il caffe sarebbe italiano, i limiti di velocita tedeschi,
 il clima spagnolo, professori e aria condizionata americani, le rette
 scolastiche europee, la vodka polacca, la birra ceca e la cioccolata

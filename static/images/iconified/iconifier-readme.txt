@@ -1,5 +1,5 @@
 
-Thanks for using iconifier.net to create Apple icon and favicon files for your website. See http://iconifier.net/readme for the latest information.
+Thanks for using iconifier.net to create Apple icon and favicon files for your website. See https://iconifier.net/readme for the latest information.
 
 Most browsers will find the Apple icons in the root folder of your website. Add the following HTML to your page if necessary to specify other locations, remembering to include the correct path:
 
@@ -18,9 +18,9 @@ Most browsers will find the favicon file in the root folder of your website but 
 
   1. On Joomla websites, copy the favicon.ico to your active template folder at: /templates/[your_template_name].
 
-  2. On WordPress websites you may need to upload the favicon.ico file to your current theme's main folder as well as your website root folder. For more details, see http://codex.wordpress.org/Creating_a_Favicon.
+  2. On WordPress websites you may need to upload the favicon.ico file to your current theme's main folder as well as your website root folder. For more details, see https://codex.wordpress.org/Creating_a_Favicon.
 
-  3. On Drupal websites, navigate to the admin/build/themes/settings/[your_theme_name] page in the admin area of the site and choose the favicon.ico file in the 'Shortcut icon settings' section of the theme configuration page and upload the file. For more details, see the official Drupal favicon changing instructions at: http://drupal.org/node/362265
+  3. On Drupal websites, navigate to the admin/build/themes/settings/[your_theme_name] page in the admin area of the site and choose the favicon.ico file in the 'Shortcut icon settings' section of the theme configuration page and upload the file. For more details, see the official Drupal favicon changing instructions at: https://drupal.org/node/362265
 
 If your favicon.ico file isn't in the root folder, it's probably a good idea to place a copy in the root folder anyway as some web servers expect to see a favicon.ico file in this location and will add errors to the error log if the file is not found.
 
@@ -28,5 +28,5 @@ I'm very grateful to Chris Jean for sharing his excellent PHP-ICO tool which can
 
 If you find this tool useful, please Tweet, Share, Like, +1 and if you are really keen, include attribution in your humans.txt file! Thanks.
 
-iconifier.net is provided for free by Webilicious® Web Design and Development Services - Joomla!® website creation, maintainance and security specialists - http://webilicious.com.au.
+iconifier.net is provided for free by Webilicious® Web Design and Development Services - Joomla!® website creation, maintainance and security specialists - https://webilicious.com.au.
 

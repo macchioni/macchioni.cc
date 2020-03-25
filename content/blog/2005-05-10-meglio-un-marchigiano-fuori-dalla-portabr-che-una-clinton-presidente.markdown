@@ -10,7 +10,7 @@ url: "/2005/05/10/meglio-un-marchigiano-fuori-dalla-portabr-che-una-clinton-pres
 wordpress_id: 303
 
 ---
-Joe Klein su Time spiega perche Hillary Clinton farebbe meglio a [evitare la corsa alla Casa Bianca](http://www.time.com/time/columnist/klein/article/0,9565,1059000,00.html) (e lasciare queste cose [a Geena Davis](http://mae.splinder.com/1115654569#4730676)).
+Joe Klein su Time spiega perche Hillary Clinton farebbe meglio a [evitare la corsa alla Casa Bianca](https://www.time.com/time/columnist/klein/article/0,9565,1059000,00.html) (e lasciare queste cose [a Geena Davis](https://mae.splinder.com/1115654569#4730676)).
 
 > [She] is a judicious hawk on foreign policy and has learned her
 lessons on domestic-policy overreach. No less an expert than Newt

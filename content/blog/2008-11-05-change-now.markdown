@@ -15,7 +15,7 @@ wordpress_id: 3423
 
 
 
-![](http://www.bayareaforobama.com/northbay/obama-logo.png)[Ha vinto Obama](http://www.nytimes.com/2008/11/05/us/politics/05elect.html?_r=1&hp&oref=slogin) e non c'era bisogno di fare nottata per saperlo. Un giovane, un uomo di colore, un credente: nel mondo c'è bisogno di [speranza](http://www.guardian.co.uk/commentisfree/2008/nov/05/uselections2008-barackobama) e lui è quello che, al momento, può incarnarla meglio. Ora dovrà dimostrare di non essere un "Manchurian Candidate". Forse, se tutto andrà bene, da questa vicenda qualcosa impareranno anche i politici italiani. Ma forse no. 
+![](https://www.bayareaforobama.com/northbay/obama-logo.png)[Ha vinto Obama](https://www.nytimes.com/2008/11/05/us/politics/05elect.html?_r=1&hp&oref=slogin) e non c'era bisogno di fare nottata per saperlo. Un giovane, un uomo di colore, un credente: nel mondo c'è bisogno di [speranza](https://www.guardian.co.uk/commentisfree/2008/nov/05/uselections2008-barackobama) e lui è quello che, al momento, può incarnarla meglio. Ora dovrà dimostrare di non essere un "Manchurian Candidate". Forse, se tutto andrà bene, da questa vicenda qualcosa impareranno anche i politici italiani. Ma forse no. 
 
 
 [NY Times - Guardian]

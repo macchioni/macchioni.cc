@@ -10,7 +10,7 @@ url: "/2006/04/11/trovatemene-una-migliore/"
 wordpress_id: 2140
 
 ---
-Copio e incollo [Quarky](http://quarky.splinder.com/post/7731639):
+Copio e incollo [Quarky](https://quarky.splinder.com/post/7731639):
 
 
 > Ieri notte intorno alle tre, un debolissimo augurio ronzava nella mia mente: vuoi vedere che, zitto zitto, ci siamo tolti dai coglioni in una botta sola Prodi e Berlusconi? Stamattina mi sono risvegliato in Italia.

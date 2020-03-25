@@ -10,7 +10,7 @@ url: "/2007/04/04/capitalismo-in-saldo/"
 wordpress_id: 2441
 
 ---
-Prendere nota. [Tito Boeri, a proposito dell'affare "Telecom in vendita"](http://www.lastampa.it/_web/cmstp/tmplRubriche/editoriali/gEditoriali.asp?ID_blog=25&ID_articolo=2724&ID_sezione=&sezione=):
+Prendere nota. [Tito Boeri, a proposito dell'affare "Telecom in vendita"](https://www.lastampa.it/_web/cmstp/tmplRubriche/editoriali/gEditoriali.asp?ID_blog=25&ID_articolo=2724&ID_sezione=&sezione=):
 
 
 > Il paradosso è che il vero problema messo a nudo da questa vicenda rischia di passare inosservato, col risultato di permettere di rinviare una volta di più l’unica vera guerra che oggi è legittimo combattere: quella alle strutture piramidali del capitalismo italiano. **Queste strutture proprietarie permettono di acquisire il controllo di società quotate attraverso le controllanti con un esborso molto contenuto.**

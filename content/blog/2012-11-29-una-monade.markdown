@@ -13,4 +13,4 @@ url: "/2012/11/29/una-monade/"
 wordpress_id: 4980
 
 ---
-Qualcuno si è finalmente preso il mio vecchio dominio leibniz-blogs.it: [Mr.Leibniz's blog. Articoli, recensioni e riflessioni sul mondo](http://www.leibniz-blogs.it). Non sono io, ma in bocca al lupo, da riflettere c'è sempre molto.
+Qualcuno si è finalmente preso il mio vecchio dominio leibniz-blogs.it: [Mr.Leibniz's blog. Articoli, recensioni e riflessioni sul mondo](https://www.leibniz-blogs.it). Non sono io, ma in bocca al lupo, da riflettere c'è sempre molto.

@@ -13,7 +13,7 @@ url: "/2007/05/09/tu-sola-dentro-una-stanza/"
 wordpress_id: 2469
 
 ---
-Non spaventatevi. Ma qualcuno ha messo in fila [le 15 migliori canzoni della storia dedicate all'autoerotismo](http://www.cracked.com/index.php?name=News&sid=1925&pageid=2). Con tanto di testi incriminati e di video (delle canzoni).
+Non spaventatevi. Ma qualcuno ha messo in fila [le 15 migliori canzoni della storia dedicate all'autoerotismo](https://www.cracked.com/index.php?name=News&sid=1925&pageid=2). Con tanto di testi incriminati e di video (delle canzoni).
 
 
 
@@ -63,7 +63,7 @@ Non spaventatevi. Ma qualcuno ha messo in fila [le 15 migliori canzoni della sto
   15. My Ding-A-Ling (Chuck Berry)
 
 
-No, nessuna di queste è tra le [40 canzoni che hanno fatto la storia](http://www.rollingstoneextras.com/patron40songs/).
+No, nessuna di queste è tra le [40 canzoni che hanno fatto la storia](https://www.rollingstoneextras.com/patron40songs/).
 
 
-### Cracked (via [Digg](http://digg.com/)) - Rolling Stone
+### Cracked (via [Digg](https://digg.com/)) - Rolling Stone

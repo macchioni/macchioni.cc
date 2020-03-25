@@ -10,8 +10,8 @@ url: "/2005/10/12/perche-non-possiamo-non-dirci-celentiani/"
 wordpress_id: 658
 
 ---
-Perche Arnold Schwarzenegger, 38° governatore della California, [sara ospite](http://213.215.144.81/public_html/esclusivo.html) nella trasmissione di Adriano Celentano.
+Perche Arnold Schwarzenegger, 38° governatore della California, [sara ospite](https://213.215.144.81/public_html/esclusivo.html) nella trasmissione di Adriano Celentano.
 
  
 
-### Dagospia | tag: [schwarzenegger](http://www.technorati.com/tags/schwarzenegger)
+### Dagospia | tag: [schwarzenegger](https://www.technorati.com/tags/schwarzenegger)

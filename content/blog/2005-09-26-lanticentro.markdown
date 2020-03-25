@@ -10,7 +10,7 @@ url: "/2005/09/26/lanticentro/"
 wordpress_id: 69
 
 ---
-![](http://www.traditioninaction.org/movies/movieimages/007_j_architect.jpg)Su [questo numero](http://ideazione.blogspot.com/2005/09/ideazione-blog-in-copertina.html) Ideazione ha dedicato grande spazio ai blog. Online si trovano [l'introduzione](http://www.ideazione.com/quotidiano/6.altro/2005/2005-09-22_rivista_mancia.htm) di Andrea Mancia e - soprattutto - il saggio di Giuseppe Granieri sulle[ reti relativamente stupide](http://www.bookcafe.net/blog/blog.cfm?id=352) ([qui in pdf](http://www.bookcafe.net/blog/relativamentestupido.pdf)). Imperdibile soprattutto se vi interessa il seguente discorso, che riprende [Buchanan](http://www.ita-bol.com/bol/main.jsp?action=bolscheda&ean=978880453333):  
+![](https://www.traditioninaction.org/movies/movieimages/007_j_architect.jpg)Su [questo numero](https://ideazione.blogspot.com/2005/09/ideazione-blog-in-copertina.html) Ideazione ha dedicato grande spazio ai blog. Online si trovano [l'introduzione](https://www.ideazione.com/quotidiano/6.altro/2005/2005-09-22_rivista_mancia.htm) di Andrea Mancia e - soprattutto - il saggio di Giuseppe Granieri sulle[ reti relativamente stupide](https://www.bookcafe.net/blog/blog.cfm?id=352) ([qui in pdf](https://www.bookcafe.net/blog/relativamentestupido.pdf)). Imperdibile soprattutto se vi interessa il seguente discorso, che riprende [Buchanan](https://www.ita-bol.com/bol/main.jsp?action=bolscheda&ean=978880453333):  
 
 
 
@@ -26,5 +26,5 @@ per un preciso scopo. Come hanno fatto tutte quante a diventare cosi?»
 
 
 
-### Right Nation - Ideazione - Blog Notes - Bol - Tradition in action |  tag: [blogging](http://www.technorati.com/tags/blogging), [politics](http://www.technorati.com/tags/politics), [networks](http://www.technorati.com/tags/networks)
+### Right Nation - Ideazione - Blog Notes - Bol - Tradition in action |  tag: [blogging](https://www.technorati.com/tags/blogging), [politics](https://www.technorati.com/tags/politics), [networks](https://www.technorati.com/tags/networks)
 

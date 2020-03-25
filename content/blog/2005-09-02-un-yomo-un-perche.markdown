@@ -10,7 +10,7 @@ url: "/2005/09/02/un-yomo-un-perche/"
 wordpress_id: 103
 
 ---
-Lo scrivo sottovoce: ma se [Beppe Grillo](http://www.beppegrillo.it/)
+Lo scrivo sottovoce: ma se [Beppe Grillo](https://www.beppegrillo.it/)
 fosse molto sopravvalutato come avversario dei poteri forti e molto
 sottovalutato come ariete di altri poteri che aspirano a diventare
 forti?  

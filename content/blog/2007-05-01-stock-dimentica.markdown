@@ -10,10 +10,10 @@ url: "/2007/05/01/stock-dimentica/"
 wordpress_id: 2465
 
 ---
-![](http://www.thebestpageintheuniverse.net/images/stock_diversity3.jpg)
+![](https://www.thebestpageintheuniverse.net/images/stock_diversity3.jpg)
 
 
-Un certo Maddox si è messo a studiare banner e pubblicità illustrati con fotografie "di stock", quelle generiche che vengono usate un po' per tutto. Lui dice di aver imparato [9 cose](http://www.thebestpageintheuniverse.net/c.cgi?u=stock_photos), tra cui:
+Un certo Maddox si è messo a studiare banner e pubblicità illustrati con fotografie "di stock", quelle generiche che vengono usate un po' per tutto. Lui dice di aver imparato [9 cose](https://www.thebestpageintheuniverse.net/c.cgi?u=stock_photos), tra cui:
 
 
 

@@ -10,6 +10,6 @@ url: "/2005/10/28/sliding-doors/"
 wordpress_id: 1855
 
 ---
-Si parla della metropolitana di Londra e della [percentuale di viaggiatori single sulle rispettive linee](http://www.snoglondon.com/lovelines.php): sulla Piccadilly c'e un single su cinque, il doppio di quanto non accada sulla Circle.
+Si parla della metropolitana di Londra e della [percentuale di viaggiatori single sulle rispettive linee](https://www.snoglondon.com/lovelines.php): sulla Piccadilly c'e un single su cinque, il doppio di quanto non accada sulla Circle.
 
-### Snog London | tag: [underground](http://www.technorati.com/tags/underground), [tube](http://www.technorati.com/tags/tube), [london](http://www.technorati.com/tags/london), [singles](http://www.technorati.com/tags/singles)
+### Snog London | tag: [underground](https://www.technorati.com/tags/underground), [tube](https://www.technorati.com/tags/tube), [london](https://www.technorati.com/tags/london), [singles](https://www.technorati.com/tags/singles)

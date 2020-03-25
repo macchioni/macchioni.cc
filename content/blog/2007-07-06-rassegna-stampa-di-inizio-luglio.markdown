@@ -10,7 +10,7 @@ url: "/2007/07/06/rassegna-stampa-di-inizio-luglio/"
 wordpress_id: 2522
 
 ---
-[Andrea Marcenaro](http://www.ilfoglio.it/) meglio di tutti:
+[Andrea Marcenaro](https://www.ilfoglio.it/) meglio di tutti:
 
 
 > E’ un manifesto viaggiante, un ponte tra passato e futuro, una liaison tra le vecchie generazioni e le giovani. Certo, forse non basta ancora, ci vuole anche dell’altro perché la sua leadership diventi completa, uno sforzo ancora maggiore. Ma nessuno aveva osato sperare tanto, solo poco tempo fa, quando tutto veniva dato per finito e la partita sembrava persa, nessuno aveva osato spingere il proprio ottimismo fino a questo punto.

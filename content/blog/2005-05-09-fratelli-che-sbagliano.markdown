@@ -10,7 +10,7 @@ url: "/2005/05/09/fratelli-che-sbagliano/"
 wordpress_id: 305
 
 ---
-![](http://giotto.ibs.it/thumbnails/z25/8842075825.jpg)Dittatura del relativismo? Ecco qui il saggio di Mahmood Mamdani «[Musulmani buoni e cattivi](http://www.internetbookshop.it/ser/serdsp.asp?shop=1&c=BCGGWJN04Z0XC)», ben tradotto per Laterza. Se abbiamo capito bene, Noam Chomsky, lo commenta cosi: 
+![](https://giotto.ibs.it/thumbnails/z25/8842075825.jpg)Dittatura del relativismo? Ecco qui il saggio di Mahmood Mamdani «[Musulmani buoni e cattivi](https://www.internetbookshop.it/ser/serdsp.asp?shop=1&c=BCGGWJN04Z0XC)», ben tradotto per Laterza. Se abbiamo capito bene, Noam Chomsky, lo commenta cosi: 
 
 > Tutti i musulmani sembrano ormai soggetti
 all'obbligo di provare le loro credenziali, arruolandosi nella guerra

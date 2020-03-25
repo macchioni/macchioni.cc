@@ -10,6 +10,6 @@ url: "/2006/07/28/meglio-di-un-mutandari/"
 wordpress_id: 2268
 
 ---
-All'asta gli [acquarelli attribuiti a un giovane pittore chiamato Adolf Hitler](http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/5222108.stm).
+All'asta gli [acquarelli attribuiti a un giovane pittore chiamato Adolf Hitler](https://news.bbc.co.uk/2/hi/uk_news/england/cornwall/5222108.stm).
 
 ### BBC

@@ -11,12 +11,12 @@ url: "/2006/11/07/peoples-governor-2/"
 wordpress_id: 2323
 
 ---
-[![](http://static.flickr.com/39/89916478_c653453fd0_m.jpg)](http://www.flickr.com/photos/leibniz/89916478/)
+[![](https://static.flickr.com/39/89916478_c653453fd0_m.jpg)](https://www.flickr.com/photos/leibniz/89916478/)
 
 > «What’s Best in Life?».
 «To crush your enemies, see them driven before you, and hear the lamentations of the women». (Conan)
 
 
-Come tre anni e un mese fa, anche oggi questo blog tifa per Arnold, [il Governatore della gente](http://gov.ca.gov/).
+Come tre anni e un mese fa, anche oggi questo blog tifa per Arnold, [il Governatore della gente](https://gov.ca.gov/).
 
 ### Flickr - California, Office of the Governator

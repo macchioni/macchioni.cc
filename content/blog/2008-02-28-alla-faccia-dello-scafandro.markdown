@@ -16,7 +16,7 @@ url: "/2008/02/28/alla-faccia-dello-scafandro/"
 wordpress_id: 2667
 
 ---
-[![](http://www.vanityfair.com/images/culture/2008/03/cuar02_schnabel0803.jpg)](http://www.vanityfair.com/culture/features/2008/03/schnabel200803)Ecco [Palazzo Chupi](http://www.vanityfair.com/culture/features/2008/03/schnabel200803), la casetta che Julian Schnabel si Ã¨ fatto a sua immagine e somiglianza. Nel Village. "Chupi" Ã¨ il nomignolo di sua moglie.
+[![](https://www.vanityfair.com/images/culture/2008/03/cuar02_schnabel0803.jpg)](https://www.vanityfair.com/culture/features/2008/03/schnabel200803)Ecco [Palazzo Chupi](https://www.vanityfair.com/culture/features/2008/03/schnabel200803), la casetta che Julian Schnabel si Ã¨ fatto a sua immagine e somiglianza. Nel Village. "Chupi" Ã¨ il nomignolo di sua moglie.
 
 
 ### Vanity Fair Usa

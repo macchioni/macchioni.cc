@@ -42,7 +42,7 @@ E pure Anna ha fatto il suo restyling: ora si chiama A e si prende assai sul ser
   * La rubrica dei libri - chiamata senza vergogna "i libri della settimana" - sembra la tradizionale pubblicità bi-pagina del club degli editori (oppure l'equivalente di 8 schermate di Amazon Books).
 
 	
-  * Non poteva mancare il blog. Ma il [sito](http://www.a-anna.it) al momento è irraggiungibile e non ricordo bene il nome della "più nota blogger del momento" che lo cura, comunque è quella padovana che casualmente era finita senza motivo su Corriere della Sera e Repubblica la scorsa settimana.
+  * Non poteva mancare il blog. Ma il [sito](https://www.a-anna.it) al momento è irraggiungibile e non ricordo bene il nome della "più nota blogger del momento" che lo cura, comunque è quella padovana che casualmente era finita senza motivo su Corriere della Sera e Repubblica la scorsa settimana.
 
 	
   * Se siete di quelli che anni fa (prima di internet) erano curiosi di vedere in faccia i dj radiofonici e oggi avete la stessa smania per i giornalisti A fa al caso vostro: foto dei contributor a inizio giornale, foto dei redattori nella pagina dell'oroscopo.

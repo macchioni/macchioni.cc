@@ -10,6 +10,6 @@ url: "/2005/11/29/customer-satisfaction/"
 wordpress_id: 1905
 
 ---
-Come rilanciare il piccolo commercio italiano dall'invasione dei prodotti cinesi? [Così](http://www.thread.co.nz/article/1432). 
+Come rilanciare il piccolo commercio italiano dall'invasione dei prodotti cinesi? [Così](https://www.thread.co.nz/article/1432). 
 
 ### Thread

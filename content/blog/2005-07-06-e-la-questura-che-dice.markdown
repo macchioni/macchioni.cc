@@ -13,7 +13,7 @@ wordpress_id: 211
 L'esaltatissimo Bob Geldof ha sparato che nel mondo tre miliardi di
 persone avrebbero ascoltato o visto il Live 8. Per quanto straordinario
 fosse l'evento (seguito in massa su telefonini e internet) pare che gli
-spettatori effettivi fossero [cento volte in meno](http://www.blognews.it/click/-2,130469/).  
+spettatori effettivi fossero [cento volte in meno](https://www.blognews.it/click/-2,130469/).  
 
 
 

@@ -10,7 +10,7 @@ url: "/2004/07/23/la-madre-di-ogni-last-minute/"
 wordpress_id: 3269
 
 ---
-Vacanze alle porte, se qualcuno dovesse varcare il Mediterraneo ecco [le 10 regole da seguire per guidare in Tunisia](http://www.subzeroblue.com/archives/001478.html). Leibniz ne mette tre:
+Vacanze alle porte, se qualcuno dovesse varcare il Mediterraneo ecco [le 10 regole da seguire per guidare in Tunisia](https://www.subzeroblue.com/archives/001478.html). Leibniz ne mette tre:
 
 
 > **1.** Get in the car and make sure you don't fasten your seat belt. (It's considered a bad habit.)

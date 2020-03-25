@@ -11,12 +11,12 @@ url: "/2007/05/18/to-be-a-rock-and-not-to-roll/"
 wordpress_id: 2475
 
 ---
-[Dice](http://grazia.blog.it/2007/05/17/rock-borchie-e-catene/) che bisogna spiegare  a un alieno quali sono i 25 singoli più significativi della storia del rock. Siccome una lista così potrebbe cambiare ogni giorno, mi sono dato 25 minuti per comporla. Un po' classica, ma il messaggio arriva:
+[Dice](https://grazia.blog.it/2007/05/17/rock-borchie-e-catene/) che bisogna spiegare  a un alieno quali sono i 25 singoli più significativi della storia del rock. Siccome una lista così potrebbe cambiare ogni giorno, mi sono dato 25 minuti per comporla. Un po' classica, ma il messaggio arriva:
 
 
 
 	
-  1. ![](http://www.lambruscoepopcorn.it/images/lespaul.gif)Bill Haley - Rock Around The Clock
+  1. ![](https://www.lambruscoepopcorn.it/images/lespaul.gif)Bill Haley - Rock Around The Clock
 
 	
   2. Elvis Presley - Jailhouse Rock

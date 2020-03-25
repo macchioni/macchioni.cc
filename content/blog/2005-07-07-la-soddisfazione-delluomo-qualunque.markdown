@@ -10,7 +10,7 @@ url: "/2005/07/07/la-soddisfazione-delluomo-qualunque/"
 wordpress_id: 206
 
 ---
-![](http://www.myfonts.com/images/family/p22/underground.gif)[Taniwa](http://taniwha.splinder.com/post/5230802):«Ero nella metropolitana, ma sulla Victoria line, al momento
+![](https://www.myfonts.com/images/family/p22/underground.gif)[Taniwa](https://taniwha.splinder.com/post/5230802):«Ero nella metropolitana, ma sulla Victoria line, al momento
 delle esplosioni intorno alle nove. Il treno si e fermato e ci hanno fatto
 evacuare la stazione. Poi, in un silenzio surreale, spezzato soltanto dalle
 sirene e dagli elicotteri, aspettavamo di fronte la stazione, per strada,

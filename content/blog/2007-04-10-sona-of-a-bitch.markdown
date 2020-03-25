@@ -11,7 +11,7 @@ wordpress_id: 2446
 
 ---
 Ora che ho finalmente visto che cosa succede nell'ultima puntata della seconda serie di Prison Break... lasciatemi un attimo per riprendermi.
-(segue [spoiler](http://www.buddytv.com/articles/prison-break/prison-break-season-three-pris-5613.aspx))
+(segue [spoiler](https://www.buddytv.com/articles/prison-break/prison-break-season-three-pris-5613.aspx))
 
 
 ### Buddy tv

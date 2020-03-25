@@ -10,7 +10,7 @@ url: "/2004/11/27/omaggio-a-kim/"
 wordpress_id: 608
 
 ---
-[Lo fa](http://www.macchianera.net/archives/2004/11/331776_24_alla.html) Gianluca Neri, annunciando la quarta serie di 24. In realta il suo e un omaggio a Jack Bauer:
+[Lo fa](https://www.macchianera.net/archives/2004/11/331776_24_alla.html) Gianluca Neri, annunciando la quarta serie di 24. In realta il suo e un omaggio a Jack Bauer:
 
 
 
@@ -29,7 +29,7 @@ torna a battere le strade di Los Angeles per conto del CTU...
 
 
 
-[Qui](http://primetimetv.about.com/library/blspoilers_24.htm) qualcosa in piu sulla quarta serie.
+[Qui](https://primetimetv.about.com/library/blspoilers_24.htm) qualcosa in piu sulla quarta serie.
 
 
 

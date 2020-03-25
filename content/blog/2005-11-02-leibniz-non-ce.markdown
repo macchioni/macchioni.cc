@@ -10,5 +10,5 @@ url: "/2005/11/02/leibniz-non-ce/"
 wordpress_id: 1862
 
 ---
-Ancora problemi. Scusate e [chiedete ai padroni di casa](http://www.tophost.it/aiuto/cat2/18/76/).  
+Ancora problemi. Scusate e [chiedete ai padroni di casa](https://www.tophost.it/aiuto/cat2/18/76/).  
 

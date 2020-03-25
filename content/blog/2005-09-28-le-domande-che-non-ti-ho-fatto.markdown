@@ -10,7 +10,7 @@ url: "/2005/09/28/le-domande-che-non-ti-ho-fatto/"
 wordpress_id: 628
 
 ---
-L'ennesima chicca: [generatore (un po' monotono) di nomi e loghi aziendali](http://lekkerdesign.com/ray/folio/projects/ecompanies/ecompanies.htm).  
+L'ennesima chicca: [generatore (un po' monotono) di nomi e loghi aziendali](https://lekkerdesign.com/ray/folio/projects/ecompanies/ecompanies.htm).  
 
 
-### eCompanies (via [Generator Blog](http://generatorblog.blogspot.com/)) |"tag"[generators](http://www.technorati.com/tags/generators), [brand](http://www.technorati.com/tags/brand), [marketing](http://www.technorati.com/tags/marketing)
+### eCompanies (via [Generator Blog](https://generatorblog.blogspot.com/)) |"tag"[generators](https://www.technorati.com/tags/generators), [brand](https://www.technorati.com/tags/brand), [marketing](https://www.technorati.com/tags/marketing)

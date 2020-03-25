@@ -11,7 +11,7 @@ url: "/2006/09/16/rimbrottato-dalle-grandi-firme/"
 wordpress_id: 2294
 
 ---
-Gianni Riotta, deluso per aver letto su qualche blog [citazioni delle sue ruvide interviste](http://feeds.feedburner.com/~r/GiudaMaccablog/~3/22009628/1158192195), ha diramato [la seguente nota](http://www.corriere.it/Primo_Piano/Editoriali/2006/06_Giugno/14/ri0tta.shtml):
+Gianni Riotta, deluso per aver letto su qualche blog [citazioni delle sue ruvide interviste](https://feeds.feedburner.com/~r/GiudaMaccablog/~3/22009628/1158192195), ha diramato [la seguente nota](https://www.corriere.it/Primo_Piano/Editoriali/2006/06_Giugno/14/ri0tta.shtml):
 
 
 

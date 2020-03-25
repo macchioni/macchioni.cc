@@ -42,4 +42,4 @@ Walter Veltroni, mood 2002-2006:
 
 
 
-### [Pandemia](http://www.lucaconti.it/2006/08/29/politici-bugiardi-veltroni-e-lafrica/)/il Velino
+### [Pandemia](https://www.lucaconti.it/2006/08/29/politici-bugiardi-veltroni-e-lafrica/)/il Velino

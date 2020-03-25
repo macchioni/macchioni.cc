@@ -11,7 +11,7 @@ url: "/2007/03/07/changing-this-country/"
 wordpress_id: 2423
 
 ---
-Il candidato democratico alla presidenza, John Edwards, non solo [si vanta di essere stato definito "finocchio"](https://johnedwards.com/action/contribute/coulter) dalla giornalista conservatrice Ann Coulter. Ora ha anche un suo bell'[account su Twitter](http://twitter.com/johnedwards).
+Il candidato democratico alla presidenza, John Edwards, non solo [si vanta di essere stato definito "finocchio"](https://johnedwards.com/action/contribute/coulter) dalla giornalista conservatrice Ann Coulter. Ora ha anche un suo bell'[account su Twitter](https://twitter.com/johnedwards).
 
 
 ### John Edwards - Twitter

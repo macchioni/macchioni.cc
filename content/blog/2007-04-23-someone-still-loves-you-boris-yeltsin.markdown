@@ -11,9 +11,9 @@ url: "/2007/04/23/someone-still-loves-you-boris-yeltsin/"
 wordpress_id: 2460
 
 ---
-[![](http://www.duvekot.ca/eliane/archives/Yeltsin.jpg)](http://www.youtube.com/watch?v=aA-lal2MUKw)
+[![](https://www.duvekot.ca/eliane/archives/Yeltsin.jpg)](https://www.youtube.com/watch?v=aA-lal2MUKw)
 
-[Ma](http://news.google.it/news/url?sa=t&ct=it/0-0&fp=462c05cfb1d848be&ei=8r4sRrurK6PAoAO2xYwu&url=http%3A//www.agi.it/ultime-notizie-page/200704231552-pol-rom1139-art.html&cid=1103024415http://news.google.it/news/url?sa=t&ct=it/0-0&fp=462c05cfb1d848be&ei=8r4sRrurK6PAoAO2xYwu&url=http%3A//www.agi.it/ultime-notizie-page/200704231552-pol-rom1139-art.html&cid=1103024415) noi vogliamo ricordarlo [così](http://hypem.com/artist/someone+still+loves+you+boris+yeltsin) (e [anche così](http://www.youtube.com/watch?v=aA-lal2MUKw)).
+[Ma](https://news.google.it/news/url?sa=t&ct=it/0-0&fp=462c05cfb1d848be&ei=8r4sRrurK6PAoAO2xYwu&url=http%3A//www.agi.it/ultime-notizie-page/200704231552-pol-rom1139-art.html&cid=1103024415https://news.google.it/news/url?sa=t&ct=it/0-0&fp=462c05cfb1d848be&ei=8r4sRrurK6PAoAO2xYwu&url=http%3A//www.agi.it/ultime-notizie-page/200704231552-pol-rom1139-art.html&cid=1103024415) noi vogliamo ricordarlo [così](https://hypem.com/artist/someone+still+loves+you+boris+yeltsin) (e [anche così](https://www.youtube.com/watch?v=aA-lal2MUKw)).
 
 
 ### Agi - The Hype Machine - Youtube

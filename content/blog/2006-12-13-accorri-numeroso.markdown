@@ -10,6 +10,6 @@ url: "/2006/12/13/accorri-numeroso/"
 wordpress_id: 2346
 
 ---
-A Natale la gente comune fa l'albero, i blogger fanno Il [Post sotto l'albero](http://www.spiritum.it/squonk/?p=1563).
+A Natale la gente comune fa l'albero, i blogger fanno Il [Post sotto l'albero](https://www.spiritum.it/squonk/?p=1563).
 
 ### Squonk

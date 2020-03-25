@@ -10,10 +10,10 @@ url: "/2005/07/08/pero/"
 wordpress_id: 204
 
 ---
-![](http://www.myfonts.com/images/family/p22/underground.gif)Ancora e presto per leggere i primi ragionamenti sulla stampa (la prima pagina piu bella appartiene all'[Economist](http://economist.com/images/20050709/20050709issuecov.jpg)).
+![](https://www.myfonts.com/images/family/p22/underground.gif)Ancora e presto per leggere i primi ragionamenti sulla stampa (la prima pagina piu bella appartiene all'[Economist](https://economist.com/images/20050709/20050709issuecov.jpg)).
 Da segnalare un paio di post trovati in giro, ampiamente contestabili,
 ma che hanno il pregio di far riflettere. Il primo, da leggere tutto, e
-di[ Gregory Djerejian](http://www.belgraviadispatch.com/archives/004662.html):  
+di[ Gregory Djerejian](https://www.belgraviadispatch.com/archives/004662.html):  
 
 
 > 
@@ -23,7 +23,7 @@ the world's great cities. But is it just me, or does one feel that the
 explosives used by al-Qaeda couldn't have been of the strength of those
 employed in Madrid?
 
-Il secondo viene da [Smog](http://smog.ilcannocchiale.it/?id_blogdoc=577302):  
+Il secondo viene da [Smog](https://smog.ilcannocchiale.it/?id_blogdoc=577302):  
 
 
 

@@ -10,7 +10,7 @@ url: "/2005/07/27/silent-bob-speaks/"
 wordpress_id: 172
 
 ---
-![](http://www.wizarduniverse.com/_gfx_/conventions/conventions/WW20031003-smith.gif)Il regista Kevin Smith (autore del film [Clerks](http://www.imdb.com/title/tt0109445/), del prossimo [Clerks2](http://www.imdb.com/title/tt0424345/), ma anche della saga di [Jay & Silent Bob](http://www.imdb.com/title/tt0261392/), nonche Silent Bob lui medesimo) [ha aperto un blog](http://silentbobspeaks.com/).  
+![](https://www.wizarduniverse.com/_gfx_/conventions/conventions/WW20031003-smith.gif)Il regista Kevin Smith (autore del film [Clerks](https://www.imdb.com/title/tt0109445/), del prossimo [Clerks2](https://www.imdb.com/title/tt0424345/), ma anche della saga di [Jay & Silent Bob](https://www.imdb.com/title/tt0261392/), nonche Silent Bob lui medesimo) [ha aperto un blog](https://silentbobspeaks.com/).  
 
 
 

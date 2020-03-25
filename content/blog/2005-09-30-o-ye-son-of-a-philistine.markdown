@@ -10,7 +10,7 @@ url: "/2005/09/30/o-ye-son-of-a-philistine/"
 wordpress_id: 635
 
 ---
-Oggi piu che mai non vi aspettate cose intelligenti. Per cominciare, il [generatore di maledizioni bibliche](http://www.shipoffools.com/curses/index.html).   
+Oggi piu che mai non vi aspettate cose intelligenti. Per cominciare, il [generatore di maledizioni bibliche](https://www.shipoffools.com/curses/index.html).   
 
 
-### Ship of fools | tag: [generators](http://www.technorati.com/tags/generators)
+### Ship of fools | tag: [generators](https://www.technorati.com/tags/generators)

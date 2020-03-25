@@ -11,4 +11,4 @@ url: "/2008/10/29/geyser-in-the-dark/"
 wordpress_id: 3134
 
 ---
-La crisi finanziaria islandese raccontata da... [Björk](http://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article5026175.ece). [Times]
+La crisi finanziaria islandese raccontata da... [Björk](https://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article5026175.ece). [Times]

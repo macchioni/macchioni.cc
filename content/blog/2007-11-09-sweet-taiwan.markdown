@@ -10,6 +10,6 @@ url: "/2007/11/09/sweet-taiwan/"
 wordpress_id: 2591
 
 ---
-L'Italia [ha battuto gli Stati Uniti](http://www.repubblica.it/2007/11/sezioni/sport/baseball-battuti-usa/baseball-battuti-usa/baseball-battuti-usa.html) a baseball. (Titolo alternativo del post, per solutori abili: "Oggi a [Condor](http://condor.blog.rai.it/)")
+L'Italia [ha battuto gli Stati Uniti](https://www.repubblica.it/2007/11/sezioni/sport/baseball-battuti-usa/baseball-battuti-usa/baseball-battuti-usa.html) a baseball. (Titolo alternativo del post, per solutori abili: "Oggi a [Condor](https://condor.blog.rai.it/)")
 
 ### Repubblica

@@ -10,7 +10,7 @@ url: "/2006/03/21/le-ali-ai-piedi/"
 wordpress_id: 2104
 
 ---
-L'aeroporto di Belfast [sarà intitolato a George Best](http://news.independent.co.uk/uk/ulster/article352650.ece).
+L'aeroporto di Belfast [sarà intitolato a George Best](https://news.independent.co.uk/uk/ulster/article352650.ece).
 
 
 ### Independent

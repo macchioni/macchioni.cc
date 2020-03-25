@@ -12,7 +12,7 @@ wordpress_id: 190
 ---
 Non so se Adinolfi scrivera davvero l'enciclopedia dei blog italiani.
 Intanto si mette a scrivere giudizi partendo dai blogger del
-Cannocchiale, [categoria under 30](http://marioadinolfi.ilcannocchiale.it/?id_blogdoc=589092).  
+Cannocchiale, [categoria under 30](https://marioadinolfi.ilcannocchiale.it/?id_blogdoc=589092).  
 
 
 

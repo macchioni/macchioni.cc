@@ -10,7 +10,7 @@ url: "/2006/05/28/annoying-customers/"
 wordpress_id: 2200
 
 ---
-Il debutto di [Clerks 2](http://www.clerks2.com/trailer/index.html) a Cannes [sembra essere andato bene](http://silentbobspeaks.com/?p=252). Almeno così si legge sul blog del regista.
+Il debutto di [Clerks 2](https://www.clerks2.com/trailer/index.html) a Cannes [sembra essere andato bene](https://silentbobspeaks.com/?p=252). Almeno così si legge sul blog del regista.
 
 
 ### My Boring Asslife

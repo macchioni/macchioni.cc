@@ -10,9 +10,9 @@ url: "/2005/09/01/preferivo-la-nuova-classe-creativa/"
 wordpress_id: 108
 
 ---
-![](http://ribas.e.eresmas.net/labanda/cuadros_labanda/p_pisces.gif)Ecco [un'altra sociologa](http://www.boston.com/news/globe/ideas/articles/2005/08/28/one_no_longer_the_loneliest_number/) che vuole far credere al gentil sesso che la
+![](https://ribas.e.eresmas.net/labanda/cuadros_labanda/p_pisces.gif)Ecco [un'altra sociologa](https://www.boston.com/news/globe/ideas/articles/2005/08/28/one_no_longer_the_loneliest_number/) che vuole far credere al gentil sesso che la
 vita da single e imbattibile e che anzi [la donna single e la piu adatta
-a vivere il ventunesimo secolo](http://www.amazon.com/exec/obidos/tg/detail/-/0807065226/ref=ase_artandlies-20/103-4597999-4443059?v=glance&s=books). Ecco le sei caratteritiche necessarie:
+a vivere il ventunesimo secolo](https://www.amazon.com/exec/obidos/tg/detail/-/0807065226/ref=ase_artandlies-20/103-4597999-4443059?v=glance&s=books). Ecco le sei caratteritiche necessarie:
 
 
 > 1. She has a nurturing home  
@@ -34,7 +34,7 @@ with friends and family
 
 
 ### Amazon - Boston Globe |
-tag: [singles](http://www.technorati.com/tags/singles), [women](http://www.technorati.com/tags/women), [chick-lit](http://www.technorati.com/tags/chick-lit)
+tag: [singles](https://www.technorati.com/tags/singles), [women](https://www.technorati.com/tags/women), [chick-lit](https://www.technorati.com/tags/chick-lit)
 
   
 

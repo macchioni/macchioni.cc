@@ -10,7 +10,7 @@ url: "/2006/03/08/internet-is-that-thing-still-around/"
 wordpress_id: 2075
 
 ---
-Hanno rifatto [la sigla iniziale dei Simpsons con attori veri](http://youtube.com/watch?v=49IDp76kjPw).
+Hanno rifatto [la sigla iniziale dei Simpsons con attori veri](https://youtube.com/watch?v=49IDp76kjPw).
 
 
 ### Tou Tube

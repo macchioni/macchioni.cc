@@ -10,7 +10,7 @@ url: "/2007/03/04/il-medioevo-prossimo-venturo/"
 wordpress_id: 2421
 
 ---
-![](http://www.leibniz-blogs.it/gallery/freedom.png)Come sono cambiate [l'architettura e l'urbanistica dopo l'11 settembre](http://www.nytimes.com/2007/03/04/weekinreview/04ouroussoff.html?_r=1&oref=slogin).
+![](https://www.leibniz-blogs.it/gallery/freedom.png)Come sono cambiate [l'architettura e l'urbanistica dopo l'11 settembre](https://www.nytimes.com/2007/03/04/weekinreview/04ouroussoff.html?_r=1&oref=slogin).
 
 
 > Not so long ago, architects were obsessed with the notion that globalism, the Internet and sophisticated new building technologies were opening the way for a more fluid, transparent landscape in which walls would simply begin to melt away.

@@ -10,6 +10,6 @@ url: "/2006/07/07/ask-rupert/"
 wordpress_id: 2249
 
 ---
-In attesa di tornare ufficialmente al blog va detto che [la finta pagina Myspace di Rupert Murdoch](http://www.slate.com/features/myspace/) è quasi meglio dell'[Attizzatoio di Wittgenstein](http://attizzatoio.splinder.com/).
+In attesa di tornare ufficialmente al blog va detto che [la finta pagina Myspace di Rupert Murdoch](https://www.slate.com/features/myspace/) è quasi meglio dell'[Attizzatoio di Wittgenstein](https://attizzatoio.splinder.com/).
 
-### Slate (via [Paferrobyday](http://homepage.mac.com/paferro/iblog/paferrobyday/Media/E584476613/index.html)) - Attizzatoio
+### Slate (via [Paferrobyday](https://homepage.mac.com/paferro/iblog/paferrobyday/Media/E584476613/index.html)) - Attizzatoio

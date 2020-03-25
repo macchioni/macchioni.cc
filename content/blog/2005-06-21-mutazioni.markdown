@@ -10,7 +10,7 @@ url: "/2005/06/21/mutazioni/"
 wordpress_id: 241
 
 ---
-E [Technorati](http://www.technorati.com/) cambia [faccia](http://www.technorati.com/weblog/).  
+E [Technorati](https://www.technorati.com/) cambia [faccia](https://www.technorati.com/weblog/).  
 
 
 

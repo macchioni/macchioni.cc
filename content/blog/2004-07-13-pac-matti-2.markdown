@@ -10,5 +10,5 @@ url: "/2004/07/13/pac-matti-2/"
 wordpress_id: 3210
 
 ---
-Dimostrazione che chi ha un Mac ha (o crede di avere) un che di artistico in più: invece di Pac-man, [Pac-Mondrian](http://pbfbca.prizebudgetforboys.com/rhizome_commission/).
+Dimostrazione che chi ha un Mac ha (o crede di avere) un che di artistico in più: invece di Pac-man, [Pac-Mondrian](https://pbfbca.prizebudgetforboys.com/rhizome_commission/).
 Pbfbca

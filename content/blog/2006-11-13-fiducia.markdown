@@ -11,11 +11,11 @@ url: "/2006/11/13/fiducia/"
 wordpress_id: 2329
 
 ---
-[Prima pagina dell'Ansa](http://www.ansa.it/opencms/export/site/visualizza_fdg.html_2027117091.html):
+[Prima pagina dell'Ansa](https://www.ansa.it/opencms/export/site/visualizza_fdg.html_2027117091.html):
 
 > FINANZIARIA: SALE IL TICKET DEL PRONTO SOCCORSO
 **Passa da 23 a 27 euro e vale anche per il codice verde.** La novita' e' prevista da un emendamento alla manovra. Prosegue a ritmo serrato l'esame alla Camera, dopo la seduta di sabato e quella notturna di ieri. Fiduciosa la maggioranza: **se continuiamo cosi' si potra' evitare la fiducia**.
 
-Segue spiegazione del ministero del perché [invece non sarebbe aumentato nulla](http://www.ansa.it/site/notizie/awnplus/topnews/news/2006-11-13_11315036.html).
+Segue spiegazione del ministero del perché [invece non sarebbe aumentato nulla](https://www.ansa.it/site/notizie/awnplus/topnews/news/2006-11-13_11315036.html).
 
 ### Ansa

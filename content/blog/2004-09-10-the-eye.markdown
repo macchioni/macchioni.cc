@@ -10,5 +10,5 @@ url: "/2004/09/10/the-eye/"
 wordpress_id: 3343
 
 ---
-![](http://craphound.com/images/eyetracknews.jpg)Questo qui a destra non è un ritaglio della Settimana Enigmistica, ma dovrebbe rappresentare il diagramma che sintetizza il [percorso del nostro sguardo](http://www.boingboing.net/2004/09/08/how_your_eyes_read_n.html) di fronte a un sito web di news. Per arrivare a tanto le telecamere dei ricercatori hanno seguito lo sguardo umano.
+![](https://craphound.com/images/eyetracknews.jpg)Questo qui a destra non è un ritaglio della Settimana Enigmistica, ma dovrebbe rappresentare il diagramma che sintetizza il [percorso del nostro sguardo](https://www.boingboing.net/2004/09/08/how_your_eyes_read_n.html) di fronte a un sito web di news. Per arrivare a tanto le telecamere dei ricercatori hanno seguito lo sguardo umano.
 Boing Boing

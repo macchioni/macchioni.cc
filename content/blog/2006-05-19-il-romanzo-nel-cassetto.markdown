@@ -10,7 +10,7 @@ url: "/2006/05/19/il-romanzo-nel-cassetto/"
 wordpress_id: 2189
 
 ---
-Era molto gustosa qualche giorno fa [l'intervista](http://www.ilgiornale.it/a.pic1?ID=89089) di Stefano Lorenzetto all'editore bibliofilo Giuliano Vigini.
+Era molto gustosa qualche giorno fa [l'intervista](https://www.ilgiornale.it/a.pic1?ID=89089) di Stefano Lorenzetto all'editore bibliofilo Giuliano Vigini.
 
 
 > Ogni giorno in Italia escono 170 nuovi libri e 70 vecchi quotidiani. Spesso l'unico pregio dei 170 libri è d'avere un titolo diverso dai 70 quotidiani, che tutte le mattine sono costretti ad andare in edicola con quello che si diedero alla fondazione. A differenza dei 70 quotidiani, il 35-40% dei 170 libri non venderà neppure una copia, segno che persino i parenti più stretti sono disinteressati a conoscere ciò che taluni scrittori hanno da dire.

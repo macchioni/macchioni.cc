@@ -17,6 +17,6 @@ La notizia del giorno l'Ansa la racconta così:
 
   
 
-Se parlate cirillico la notizia è [su questo sito](http://www.newsru.com/).
+Se parlate cirillico la notizia è [su questo sito](https://www.newsru.com/).
 
 ### Newsru

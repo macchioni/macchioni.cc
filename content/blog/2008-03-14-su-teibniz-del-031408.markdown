@@ -10,6 +10,6 @@ url: "/2008/03/14/su-teibniz-del-031408/"
 wordpress_id: 2690
 
 ---
-* [POWER METAL Album Generator](http://feeds.feedburner.com/~r/teibniz/~3/251582460/28871128)
+* [POWER METAL Album Generator](https://feeds.feedburner.com/~r/teibniz/~3/251582460/28871128)
 
 

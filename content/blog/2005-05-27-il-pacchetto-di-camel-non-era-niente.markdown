@@ -10,7 +10,7 @@ url: "/2005/05/27/il-pacchetto-di-camel-non-era-niente/"
 wordpress_id: 266
 
 ---
-Tra le cose piu strane viste di questi tempi sulla rete ci sono anche i «[Phallic Logo Awards](http://b3ta.com/features/phalliclogoawards/)», una collezione di loghi venduti tante companies diverse e approvati senza vedere cosa nascondevano.  
+Tra le cose piu strane viste di questi tempi sulla rete ci sono anche i «[Phallic Logo Awards](https://b3ta.com/features/phalliclogoawards/)», una collezione di loghi venduti tante companies diverse e approvati senza vedere cosa nascondevano.  
 
 
 

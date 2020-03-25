@@ -10,7 +10,7 @@ url: "/2005/06/08/una-diamante-e-per-sempre/"
 wordpress_id: 253
 
 ---
-Ma questa cosa che invece di seppellire o cremare una persona la si [trasformi in un brillante](http://service.spiegel.de/cache/international/0,1518,359567,00.html) non l'avevate gia sentita?  
+Ma questa cosa che invece di seppellire o cremare una persona la si [trasformi in un brillante](https://service.spiegel.de/cache/international/0,1518,359567,00.html) non l'avevate gia sentita?  
 
 
 

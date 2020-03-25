@@ -11,4 +11,4 @@ url: "/2009/06/05/il-tizio-con-il-topolanek-di-fuori/"
 wordpress_id: 4068
 
 ---
-[Le mitiche foto di Villa Certosa](http://www.elpais.com/articulo/internacional/fotos/vetadas/Berlusconi/elppgl/20090604elpepuint_19/Tes) pubblicate e superpixelate dal Pais. Il titolo è merito di [Daveblog](http://www.daveblog.net/2009/06/05/si_salvi_chi_puo_1.html) [El Pais]
+[Le mitiche foto di Villa Certosa](https://www.elpais.com/articulo/internacional/fotos/vetadas/Berlusconi/elppgl/20090604elpepuint_19/Tes) pubblicate e superpixelate dal Pais. Il titolo è merito di [Daveblog](https://www.daveblog.net/2009/06/05/si_salvi_chi_puo_1.html) [El Pais]

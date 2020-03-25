@@ -14,4 +14,4 @@ url: "/2010/09/09/buongustai/"
 wordpress_id: 4514
 
 ---
-![](http://leibniz.me/wp-content/uploads/2010/09/soppressata.png)
+![](https://leibniz.me/wp-content/uploads/2010/09/soppressata.png)

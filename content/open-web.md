@@ -27,13 +27,13 @@ _Feel free to write me and suggest other stuff._
 
 ## ☆ Essentials
 
-[An Introduction to the IndieWeb](http://altplatform.org/2017/07/28/an-introduction-to-the-indieweb/) by [Chris Aldrich](http://boffosocko.com/blog/)
+[An Introduction to the IndieWeb](https://altplatform.org/2017/07/28/an-introduction-to-the-indieweb/) by [Chris Aldrich](https://boffosocko.com/blog/)
 
 [Facebook is eating the world](https://www.cjr.org/analysis/facebook_and_media.php) by Emily Bell
 
-[Get your loved ones off Facebook](http://www.salimvirani.com/facebook/) by Salim Virani
+[Get your loved ones off Facebook](https://www.salimvirani.com/facebook/) by Salim Virani
 
-[Fix the internet by writing good stuff and being nice to people](http://blog.vickiboykis.com/2016/11/20/fix-the-internet/) by Vicki Boykis
+[Fix the internet by writing good stuff and being nice to people](https://blog.vickiboykis.com/2016/11/20/fix-the-internet/) by Vicki Boykis
 
 [Hard Questions](https://newsroom.fb.com/news/2017/06/hard-questions/) by Elliot Schrage @Facebook
 
@@ -43,7 +43,7 @@ _Feel free to write me and suggest other stuff._
 
 [#deletefacebook](https://techcrunch.com/2018/03/19/deletefacebook/) by John Biggs
 
-[Dear Facebook user 752461218193242](http://veekaybee.github.io/2018/03/30/dear-facebook-user/) by Vicki Boykis
+[Dear Facebook user 752461218193242](https://veekaybee.github.io/2018/03/30/dear-facebook-user/) by Vicki Boykis
 
 [Don’t Fix Facebook. Replace It.](https://www.nytimes.com/2018/04/03/opinion/facebook-fix-replace.html) by Tim Wu
 

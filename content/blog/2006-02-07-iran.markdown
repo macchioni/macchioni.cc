@@ -11,7 +11,7 @@ url: "/2006/02/07/iran/"
 wordpress_id: 2022
 
 ---
-Il democratico Mel Levine scrive a proposito dei [tre falsi miti sull'Iran](http://www.washingtonpost.com/wp-dyn/content/article/2006/02/06/AR2006020601255.html) e della possibilità di una dissuasione nucleare senza ricorrere alle armi. Secondo lui sono errate tre convizioni:
+Il democratico Mel Levine scrive a proposito dei [tre falsi miti sull'Iran](https://www.washingtonpost.com/wp-dyn/content/article/2006/02/06/AR2006020601255.html) e della possibilità di una dissuasione nucleare senza ricorrere alle armi. Secondo lui sono errate tre convizioni:
 
 
 
@@ -27,4 +27,4 @@ Il democratico Mel Levine scrive a proposito dei [tre falsi miti sull'Iran](http
 
 
 
-### Washington Post | tag: [iran](http://www.technorati.com/tags/iran)
+### Washington Post | tag: [iran](https://www.technorati.com/tags/iran)

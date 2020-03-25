@@ -10,7 +10,7 @@ url: "/2007/11/12/scoprire-ikea-a-55-anni/"
 wordpress_id: 2593
 
 ---
-Con l'innocenza di un ragazzino David Byrne racconta [la sua prima gita all'Ikea](http://journal.davidbyrne.com/2007/11/11032007-social.html).
+Con l'innocenza di un ragazzino David Byrne racconta [la sua prima gita all'Ikea](https://journal.davidbyrne.com/2007/11/11032007-social.html).
 
 
 
@@ -20,4 +20,4 @@ Con l'innocenza di un ragazzino David Byrne racconta [la sua prima gita all'Ikea
 
 
 
-### David Byrne (via [Boing Boing](http://www.boingboing.net/2007/11/11/david-byrne-consider.html))
+### David Byrne (via [Boing Boing](https://www.boingboing.net/2007/11/11/david-byrne-consider.html))

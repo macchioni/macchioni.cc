@@ -10,7 +10,7 @@ url: "/2005/05/23/la-pazienza-dellarrostito/"
 wordpress_id: 279
 
 ---
-![](http://craphound.com/images/mspaintmasterpiece.jpg)Certo che questo qui che ha [disegnato Venezia con MsPaint ](http://www.boingboing.net/2005/05/23/ms_paint_masterpiece.html)merita davvero una citazione (anche se poi ha passato tutto a Photoshop).  
+![](https://craphound.com/images/mspaintmasterpiece.jpg)Certo che questo qui che ha [disegnato Venezia con MsPaint ](https://www.boingboing.net/2005/05/23/ms_paint_masterpiece.html)merita davvero una citazione (anche se poi ha passato tutto a Photoshop).  
 
 
 

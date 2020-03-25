@@ -10,7 +10,7 @@ url: "/2006/06/09/distillerai-con-dolore/"
 wordpress_id: 2219
 
 ---
-La buona idea della settimana è di Vincenzo Della Mea: i feed delle trasmissioni radio della Rai in versione podcast, [divisi per trasmissione](http://www.dellamea.it/distillerai/) (dato che in Rai non ci avevano pensato).
+La buona idea della settimana è di Vincenzo Della Mea: i feed delle trasmissioni radio della Rai in versione podcast, [divisi per trasmissione](https://www.dellamea.it/distillerai/) (dato che in Rai non ci avevano pensato).
 
 
 ### Della Mea

@@ -10,7 +10,7 @@ url: "/2006/08/18/raidiateli/"
 wordpress_id: 2280
 
 ---
-Sarà il Libano, sarà la fase Merkel, sarà la morte del bagaglio a mano (celebrata con tanto di obituary da Panorama), saranno i lapilli vulcanici arrivati fino alla sua torre d'avorio, tant'è che [Gramellini s'è riposizionato per un giorno](http://www.lastampa.it/cmstp/rubriche/girata.asp?ID_blog=41&ID_articolo=133&ID_sezione=56&sezione=).
+Sarà il Libano, sarà la fase Merkel, sarà la morte del bagaglio a mano (celebrata con tanto di obituary da Panorama), saranno i lapilli vulcanici arrivati fino alla sua torre d'avorio, tant'è che [Gramellini s'è riposizionato per un giorno](https://www.lastampa.it/cmstp/rubriche/girata.asp?ID_blog=41&ID_articolo=133&ID_sezione=56&sezione=).
 
 > Per orientarsi fra i tg Rai dedicati ai fatti del Libano, può essere utile questo glossario autorizzato dal dipartimento dell'informazione DC-PCI (Democratica Coraggiosa - Politicamente Corretta e Incorruttibile) di Saxa Rubra.
 **

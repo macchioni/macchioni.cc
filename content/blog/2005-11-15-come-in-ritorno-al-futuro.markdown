@@ -10,6 +10,6 @@ url: "/2005/11/15/come-in-ritorno-al-futuro/"
 wordpress_id: 1878
 
 ---
-Forbes ha dedicato una pagina del suo sito alla [E-Mail Capsule](http://forbes.codefix.net/capsule/). Praticamente chi vuole può spedirsi una e-mail che arriverà in uno, tre, cinque, dieci o venti anni. Per poi leggerla e _vedere (neanche troppo di nascosto) l'effetto che fa_.
+Forbes ha dedicato una pagina del suo sito alla [E-Mail Capsule](https://forbes.codefix.net/capsule/). Praticamente chi vuole può spedirsi una e-mail che arriverà in uno, tre, cinque, dieci o venti anni. Per poi leggerla e _vedere (neanche troppo di nascosto) l'effetto che fa_.
 
-### Forbes | tag: [email](http://www.technorati.com/tags/email), [future](http://www.technorati.com/tags/future)
+### Forbes | tag: [email](https://www.technorati.com/tags/email), [future](https://www.technorati.com/tags/future)

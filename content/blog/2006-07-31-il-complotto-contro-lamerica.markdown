@@ -11,7 +11,7 @@ url: "/2006/07/31/il-complotto-contro-lamerica/"
 wordpress_id: 2270
 
 ---
-Di questi tempi si moltiplicano gli articoli che mettono in discussione Israele. Uno che sta facendo il giro del mondo via blog è questo di William Hughes: «[What If Israel Had Never Been Created?](http://www.americanchronicle.com/articles/viewArticle.asp?articleID=11391)». Lui ha trovato 25 motivi, come:
+Di questi tempi si moltiplicano gli articoli che mettono in discussione Israele. Uno che sta facendo il giro del mondo via blog è questo di William Hughes: «[What If Israel Had Never Been Created?](https://www.americanchronicle.com/articles/viewArticle.asp?articleID=11391)». Lui ha trovato 25 motivi, come:
 
 
 > 1. The U.S. would not have any enemies in the Islamic World.

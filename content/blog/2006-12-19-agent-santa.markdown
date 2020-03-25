@@ -11,7 +11,7 @@ url: "/2006/12/19/agent-santa/"
 wordpress_id: 2354
 
 ---
-Il Natale [raccontato](http://www.20thcenturyfox-tvd.com/sites/Holiday2006/Italienne.html) come se fosse una puntata di 24.
+Il Natale [raccontato](https://www.20thcenturyfox-tvd.com/sites/Holiday2006/Italienne.html) come se fosse una puntata di 24.
 
 
-### 20th - (visto su [Wittgenstein](http://www.wittgenstein.it))
+### 20th - (visto su [Wittgenstein](https://www.wittgenstein.it))

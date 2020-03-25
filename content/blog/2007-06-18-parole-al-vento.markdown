@@ -10,7 +10,7 @@ url: "/2007/06/18/parole-al-vento/"
 wordpress_id: 2500
 
 ---
-«[Questo Blog](http://flaviavento.leonardo.it/blog/blog_chiuso_2.html) è stato chiuso per le continue offese ricevute».
+«[Questo Blog](https://flaviavento.leonardo.it/blog/blog_chiuso_2.html) è stato chiuso per le continue offese ricevute».
 
 
 ### Flavia Vento

@@ -10,7 +10,7 @@ url: "/2007/01/24/vegetariano-alla-brace/"
 wordpress_id: 2378
 
 ---
-[![](http://www.vegetarianismo.com.br/images/vegan.gif)](http://www.vegetarianismo.com.br/)Ti dicono: se fossimo vegetariani saremmo tutti più sani, [gli allevamenti consumano tantissimo terreno](http://www.scienzavegetariana.it/ambiente/imp_amb_vegag2004.html) e danno poca resa, tra qualche decennio non ci sarà da mangiare per tutti, dobbiamo pensare a delle [fattorie verticali](http://www.leibniz-blogs.it/archives/2005/06/25/230),... Uno allora pensa che magari, in questi anni, qualche vegetariano in più ci sia. Almeno nel mondo ricco, dove quello che mangi lo puoi scegliere. [E' così, ma](http://www.newyorker.com/printables/critics/070122crbo_books_shapin):
+[![](https://www.vegetarianismo.com.br/images/vegan.gif)](https://www.vegetarianismo.com.br/)Ti dicono: se fossimo vegetariani saremmo tutti più sani, [gli allevamenti consumano tantissimo terreno](https://www.scienzavegetariana.it/ambiente/imp_amb_vegag2004.html) e danno poca resa, tra qualche decennio non ci sarà da mangiare per tutti, dobbiamo pensare a delle [fattorie verticali](https://www.leibniz-blogs.it/archives/2005/06/25/230),... Uno allora pensa che magari, in questi anni, qualche vegetariano in più ci sia. Almeno nel mondo ricco, dove quello che mangi lo puoi scegliere. [E' così, ma](https://www.newyorker.com/printables/critics/070122crbo_books_shapin):
 
 
 

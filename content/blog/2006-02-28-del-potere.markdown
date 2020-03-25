@@ -10,7 +10,7 @@ url: "/2006/02/28/del-potere/"
 wordpress_id: 2062
 
 ---
-Smog [fa i conti col potere](http://smog.ilcannocchiale.it/?id_blogdoc=879473):
+Smog [fa i conti col potere](https://smog.ilcannocchiale.it/?id_blogdoc=879473):
 
 
 > Ma come fai a vedere Sanremo se La7 ti piazza in rapida successione Febbre da cavallo e Fracchia la belva umana? Scrive Alexander Stille: "Denaro + mezzi di comunicazione + celebrità = potere politico".

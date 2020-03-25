@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>10.10 on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/10.10/</link>
@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Oct 2010 12:20:51 +0000</pubDate>
       
       <guid>https://macchioni.cc/2010/10/10/desktop-ubuntu/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.ubuntu.com/sites/default/files/active/maverick/pictogram_quote_feature.png&#34; alt=&#34;&#34; /&gt;Oggi è uscito Maverick Meerkat, ovvero &lt;a href=&#34;http://www.ubuntu.com/desktop&#34;&gt;Ubuntu 10.10&lt;/a&gt;. Con queste ultime distribuzioni Linux sta diventando sempre meno una cosa da smanettoni ed è sempre più simile agli altri sistemi operativi. Anzi, in certi casi è pure meglio.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.ubuntu.com/sites/default/files/active/maverick/pictogram_quote_feature.png&#34; alt=&#34;&#34; /&gt;Oggi è uscito Maverick Meerkat, ovvero &lt;a href=&#34;https://www.ubuntu.com/desktop&#34;&gt;Ubuntu 10.10&lt;/a&gt;. Con queste ultime distribuzioni Linux sta diventando sempre meno una cosa da smanettoni ed è sempre più simile agli altri sistemi operativi. Anzi, in certi casi è pure meglio.&lt;/p&gt;
 
 &lt;p&gt;[Ubuntu]&lt;/p&gt;
 </description>

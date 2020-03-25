@@ -10,7 +10,7 @@ url: "/2005/06/24/latea-arrabbiata/"
 wordpress_id: 231
 
 ---
-La Fallaci [si fa intervistare ](http://www.opinionjournal.com/columnists/tvaradarajan/?id=110006858)da Tunku Varadarajan, sul Wall Street
+La Fallaci [si fa intervistare ](https://www.opinionjournal.com/columnists/tvaradarajan/?id=110006858)da Tunku Varadarajan, sul Wall Street
 Journal. Ha bevuto champagne e non ha parlato solo delle accuse nei
 suoi confronti:  
 

@@ -10,7 +10,7 @@ url: "/2008/10/16/classisti/"
 wordpress_id: 3066
 
 ---
-[Sandro Veronesi,](http://www.corriere.it/cronache/08_ottobre_16/veronesi_classi_separate_2daa5258-9b58-11dd-a5ca-00144f02aabc.shtml) oggi:
+[Sandro Veronesi,](https://www.corriere.it/cronache/08_ottobre_16/veronesi_classi_separate_2daa5258-9b58-11dd-a5ca-00144f02aabc.shtml) oggi:
 
 
 

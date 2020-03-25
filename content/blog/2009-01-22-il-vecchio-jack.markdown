@@ -10,4 +10,4 @@ url: "/2009/01/22/il-vecchio-jack/"
 wordpress_id: 3895
 
 ---
-Riassumendo: in [24](http://en.wikipedia.org/wiki/24_(TV_series)) siamo passati dal "procuratemi una sega" (Day 2, anno 2002) a "passami quell'insalatiera" (Day 7, attualmente in corso).
+Riassumendo: in [24](https://en.wikipedia.org/wiki/24_(TV_series)) siamo passati dal "procuratemi una sega" (Day 2, anno 2002) a "passami quell'insalatiera" (Day 7, attualmente in corso).

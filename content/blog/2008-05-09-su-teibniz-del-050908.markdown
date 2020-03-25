@@ -10,6 +10,6 @@ url: "/2008/05/09/su-teibniz-del-050908/"
 wordpress_id: 2782
 
 ---
-* ['The 21 Steps' by Charles Cumming](http://feeds.feedburner.com/~r/teibniz/~3/286589718/34191820)
+* ['The 21 Steps' by Charles Cumming](https://feeds.feedburner.com/~r/teibniz/~3/286589718/34191820)
 
 

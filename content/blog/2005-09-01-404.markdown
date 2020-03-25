@@ -10,7 +10,7 @@ url: "/2005/09/01/404/"
 wordpress_id: 109
 
 ---
-[Bush non c'e](http://www.madkane.com/bush_missing.html).  
+[Bush non c'e](https://www.madkane.com/bush_missing.html).  
 
 
 

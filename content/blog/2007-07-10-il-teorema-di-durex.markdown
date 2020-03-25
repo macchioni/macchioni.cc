@@ -10,9 +10,9 @@ url: "/2007/07/10/il-teorema-di-durex/"
 wordpress_id: 2528
 
 ---
-![](http://www.leibniz-blogs.it/gallery/condom.jpg)
+![](https://www.leibniz-blogs.it/gallery/condom.jpg)
 
-C'è in giro una stramba teoria secondo cui [fare sesso con un maggior numero di partner aiuterebbe a ritardare la diffusione dell'Aids](http://www.nytimes.com/2007/07/08/books/chapters/0708-1st-land.html?ex=1184558400&en=09fff5564cc07afa&ei=5070&emc=eta1), ben più della monogamia. In sostanza, molto per sommi capi: ogni partner sano-prudente-consapevole contribuisce a togliere di mezzo un potenziale partner malato, che morirebbe portando il virus con sé.
+C'è in giro una stramba teoria secondo cui [fare sesso con un maggior numero di partner aiuterebbe a ritardare la diffusione dell'Aids](https://www.nytimes.com/2007/07/08/books/chapters/0708-1st-land.html?ex=1184558400&en=09fff5564cc07afa&ei=5070&emc=eta1), ben più della monogamia. In sostanza, molto per sommi capi: ogni partner sano-prudente-consapevole contribuisce a togliere di mezzo un potenziale partner malato, che morirebbe portando il virus con sé.
 
 
 ### The New York Times

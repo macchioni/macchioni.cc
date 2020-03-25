@@ -10,7 +10,7 @@ url: "/2005/07/22/alzati-che-si-sta-alzando/"
 wordpress_id: 179
 
 ---
-Ma quant'e' brutta la «[Canzone Riformista](http://www.ilriformista.it/servizi/canzone.asp)»?  
+Ma quant'e' brutta la «[Canzone Riformista](https://www.ilriformista.it/servizi/canzone.asp)»?  
 
 
 

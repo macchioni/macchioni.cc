@@ -10,10 +10,10 @@ url: "/2005/03/07/la-grande-conversazione/"
 wordpress_id: 426
 
 ---
-![](http://www.bookcafe.net/blog/bgeneration.jpg)Leibniz si Ë letto [Blog Generation](http://www.bookcafe.net/blog/archivio.cfm?categoria=Blog%20Generation)
+![](https://www.bookcafe.net/blog/bgeneration.jpg)Leibniz si Ë letto [Blog Generation](https://www.bookcafe.net/blog/archivio.cfm?categoria=Blog%20Generation)
 di Giuseppe Granieri. In poche parole si tratta di un saggio che cerca
 di raccontare come i weblog contribuiscono (o possono contribuire) alla
-formazione dell'opinione pubblica. [Qualcuno ](http://creativeclassics.blogspot.com/2005/03/blog-generation-lettura-consigliata.html)ha
+formazione dell'opinione pubblica. [Qualcuno ](https://creativeclassics.blogspot.com/2005/03/blog-generation-lettura-consigliata.html)ha
 scritto: «Dopo la lettura di BG si impara a conoscere la deriva della
 blogosfera e ci si sente piu responsabilizzati nel crescere il proprio
 blog». E' vero.
@@ -50,7 +50,7 @@ Commento breve
 «Blog
 Generation» di fatto cerca di spiegare come funziona un fenomeno
 complesso che pure vive in maniera quasi intuitiva. Detto in un altro
-modo: postare e facile, capire la «[rivoluzio'»](http://www.wittgenstein.it/html/foglio270702.html) un po' meno.
+modo: postare e facile, capire la «[rivoluzio'»](https://www.wittgenstein.it/html/foglio270702.html) un po' meno.
 
 
 

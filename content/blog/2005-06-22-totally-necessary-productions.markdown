@@ -10,7 +10,7 @@ url: "/2005/06/22/totally-necessary-productions/"
 wordpress_id: 238
 
 ---
-Magari non e una cosa nuovissima ma insomma... secondo Reporters san frontieres tra i [blog piu utili del mondo](http://www.rsf.org/blog-awards-en.php3) c'e - primo in Europa - [IctLex](http://www.ictlex.net/), italiano.  
+Magari non e una cosa nuovissima ma insomma... secondo Reporters san frontieres tra i [blog piu utili del mondo](https://www.rsf.org/blog-awards-en.php3) c'e - primo in Europa - [IctLex](https://www.ictlex.net/), italiano.  
 
 
 

@@ -10,4 +10,4 @@ url: "/2008/02/07/sono-fuori/"
 wordpress_id: 2640
 
 ---
-[![](http://www.leibniz-blogs.it/gallery/stateofthenet.png)](http://www.stateofthenet.it/)
+[![](https://www.leibniz-blogs.it/gallery/stateofthenet.png)](https://www.stateofthenet.it/)

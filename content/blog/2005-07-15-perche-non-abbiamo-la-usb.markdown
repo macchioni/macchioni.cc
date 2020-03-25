@@ -10,7 +10,7 @@ url: "/2005/07/15/perche-non-abbiamo-la-usb/"
 wordpress_id: 192
 
 ---
-Se avevate dei dubbi, ora c'e [qualcuno](http://www.news.cornell.edu/stories/June05/new.mind.model.ssl.html)
+Se avevate dei dubbi, ora c'e [qualcuno](https://www.news.cornell.edu/stories/June05/new.mind.model.ssl.html)
 che lo conferma: computer e cervello umano hanno due diversi modi di
 "pensare". Dicono che il cervello produca un flusso continuo. Dicono.  
 

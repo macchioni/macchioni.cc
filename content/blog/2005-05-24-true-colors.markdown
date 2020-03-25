@@ -10,7 +10,7 @@ url: "/2005/05/24/true-colors/"
 wordpress_id: 276
 
 ---
-Bellissimo [progetto di animazione](http://www.mariaclaudiacortes.com/colors/Colors.html) che racconta storia e significato dei colori.  
+Bellissimo [progetto di animazione](https://www.mariaclaudiacortes.com/colors/Colors.html) che racconta storia e significato dei colori.  
 
 
 

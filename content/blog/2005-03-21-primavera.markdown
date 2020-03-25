@@ -10,7 +10,7 @@ url: "/2005/03/21/primavera/"
 wordpress_id: 399
 
 ---
-[Veloce test](http://www.teenvogue.com/) per capie quale
+[Veloce test](https://www.teenvogue.com/) per capie quale
 abito leggero possa andare bene alle ragazze che hanno un appuntamento
 di questi tempi: Marc Jacobs, Peter Som o Max Azria.
 

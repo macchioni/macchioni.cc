@@ -15,4 +15,4 @@ url: "/2010/04/20/il-primo-post-della-giornata/"
 wordpress_id: 4406
 
 ---
-[Il Post](http://www.ilpost.it) di Luca si presenta davvero bene. Sarà che preferisco la selezione umana agli aggregatori e la mediazione onesta ai titoloni. Accorri numeroso. [Il Post]
+[Il Post](https://www.ilpost.it) di Luca si presenta davvero bene. Sarà che preferisco la selezione umana agli aggregatori e la mediazione onesta ai titoloni. Accorri numeroso. [Il Post]

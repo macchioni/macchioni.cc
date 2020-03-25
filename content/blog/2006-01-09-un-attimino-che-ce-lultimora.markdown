@@ -13,7 +13,7 @@ wordpress_id: 1976
 > ULTIM'ORA: Una volta fermava le rotative. Ora è una condizione del basso ventre che viene mentre si consuma un pasto davanti alla tv. Esempio: "Stanno interrompendo la mia cena per dirmi che Katie Holmes è incinta” — Michael Raczko, Swanton, Ohio.
 
 
-Questa e altre [espressioni inflazionate su questo sito](http://www.lssu.edu/banished/current.php).
+Questa e altre [espressioni inflazionate su questo sito](https://www.lssu.edu/banished/current.php).
 
 
 ### Lake Superior State Un.

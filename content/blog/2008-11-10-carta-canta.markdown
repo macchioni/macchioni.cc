@@ -10,7 +10,7 @@ url: "/2008/11/10/carta-canta/"
 wordpress_id: 3605
 
 ---
-Ricopio [l'ottima sintesi di Marco Pratellesi](http://mediablog.corriere.it/2008/11/giornali_un_futuro_dietro_le_s.html) dell'articolo "The Elite Newspaper of the Future" di Philip Meyer ([tradotto qu](http://www.lsdi.it/2008/11/07/finale-di-partita-per-i-giornali/)i).
+Ricopio [l'ottima sintesi di Marco Pratellesi](https://mediablog.corriere.it/2008/11/giornali_un_futuro_dietro_le_s.html) dell'articolo "The Elite Newspaper of the Future" di Philip Meyer ([tradotto qu](https://www.lsdi.it/2008/11/07/finale-di-partita-per-i-giornali/)i).
 
 
 

@@ -10,7 +10,7 @@ url: "/2007/10/09/lalchimista-reloaded/"
 wordpress_id: 2574
 
 ---
-Tutti a parlare di Mario Capecchi e nessuno che elogi Mayu Yamamoto, [che è riuscito a estrarre il profumo di vaniglia dalle feci di vacca](http://news.bbc.co.uk/2/hi/science/nature/7026150.stm) (sì, sono gli Ig Nobel):
+Tutti a parlare di Mario Capecchi e nessuno che elogi Mayu Yamamoto, [che è riuscito a estrarre il profumo di vaniglia dalle feci di vacca](https://news.bbc.co.uk/2/hi/science/nature/7026150.stm) (sì, sono gli Ig Nobel):
 
 
 > Medicine - Brian Witcombe, of Gloucestershire Royal NHS Foundation Trust, UK, and Dan Meyer for their probing work on the health consequences of swallowing a sword.

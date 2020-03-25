@@ -10,7 +10,7 @@ url: "/2004/11/26/la-timidezza-politica-del-blog/"
 wordpress_id: 611
 
 ---
-Con questo titolo Antonio Sofi [riflette](http://www.webgol.it/archives/000606.html) sul peso politico dei blogger italiani (ieri avevamo [riassunto](http://blogs.it/0100915/2004/11/25.html#a16) la situazione americana). Su Webgol prima c'e una [considerazione sul peso politico](http://www.webgol.it/archives/000604.html) dei blog italiani, quindi un'ammissione:
+Con questo titolo Antonio Sofi [riflette](https://www.webgol.it/archives/000606.html) sul peso politico dei blogger italiani (ieri avevamo [riassunto](https://blogs.it/0100915/2004/11/25.html#a16) la situazione americana). Su Webgol prima c'e una [considerazione sul peso politico](https://www.webgol.it/archives/000604.html) dei blog italiani, quindi un'ammissione:
 
 
 
@@ -27,7 +27,7 @@ politico che si costruisce nelle varie arene mediali classiche.
 
 
 
-Tutto cio nasce da uno scambio di post tra Luca Sofri e Christian Rocca (iniziato [cosi](http://www.wittgenstein.it/post/20041115_66828.html)), e da due post ([uno](http://www.bookcafe.net/blog/blog.cfm?id=239) e [due](http://www.bookcafe.net/blog/blog.cfm?id=240)) di Giuseppe Granieri, che infaticabilmente sta lavorando a un nuovo progetto «politico». Antonio ha cosi stilato una lista:
+Tutto cio nasce da uno scambio di post tra Luca Sofri e Christian Rocca (iniziato [cosi](https://www.wittgenstein.it/post/20041115_66828.html)), e da due post ([uno](https://www.bookcafe.net/blog/blog.cfm?id=239) e [due](https://www.bookcafe.net/blog/blog.cfm?id=240)) di Giuseppe Granieri, che infaticabilmente sta lavorando a un nuovo progetto «politico». Antonio ha cosi stilato una lista:
 
 
 
@@ -37,53 +37,53 @@ Tutto cio nasce da uno scambio di post tra Luca Sofri e Christian Rocca (iniziat
 > 
 > **Destra**  
   
-[[[[http://1972.splinder.com/](http://1972.splinder.com/)](http://1972.splinder.com/)](http://1972.splinder.com/)](http://1972.splinder.com/)   
-[[[[http://www.ilfoglio.it/camillo/](http://www.ilfoglio.it/camillo/)](http://www.ilfoglio.it/camillo/)](http://www.ilfoglio.it/camillo/)](http://www.ilfoglio.it/camillo/)   
-[[[[http://ilcavouriano.ilcannocchiale.it](http://ilcavouriano.ilcannocchiale.it)](http://ilcavouriano.ilcannocchiale.it)](http://ilcavouriano.ilcannocchiale.it)](http://ilcavouriano.ilcannocchiale.it/)   
-[[[[http://antikomunista.splinder.com/](http://antikomunista.splinder.com/)](http://antikomunista.splinder.com/)](http://antikomunista.splinder.com/)](http://antikomunista.splinder.com/)   
-[[[[http://junipers.blogspot.com/](http://junipers.blogspot.com/)](http://junipers.blogspot.com/)](http://junipers.blogspot.com/)](http://junipers.blogspot.com/)   
-[[[[http://leguerrecivili.splinder.com/](http://leguerrecivili.splinder.com/)](http://leguerrecivili.splinder.com/)](http://leguerrecivili.splinder.com/)](http://leguerrecivili.splinder.com/)   
-[[[[http://v.splinder.com/](http://v.splinder.com/)](http://v.splinder.com/)](http://v.splinder.com/)](http://v.splinder.com/)   
-[[[[http://www.rolliblog.net/](http://www.rolliblog.net/)](http://www.rolliblog.net/)](http://www.rolliblog.net/)](http://www.rolliblog.net/)   
-[[[[http://sorvegliatospeciale.splinder.com/](http://sorvegliatospeciale.splinder.com/)](http://sorvegliatospeciale.splinder.com/)](http://sorvegliatospeciale.splinder.com/)](http://sorvegliatospeciale.splinder.com/)   
-[[[[http://daw.ilcannocchiale.it](http://daw.ilcannocchiale.it)](http://daw.ilcannocchiale.it)](http://daw.ilcannocchiale.it)](http://daw.ilcannocchiale.it/)   
-[[[[http://harry.ilcannocchiale.it](http://harry.ilcannocchiale.it)](http://harry.ilcannocchiale.it)](http://harry.ilcannocchiale.it)](http://harry.ilcannocchiale.it/)   
-[[[[http://www.rudybelcastro.it/](http://www.rudybelcastro.it/)](http://www.rudybelcastro.it/)](http://www.rudybelcastro.it/)](http://www.rudybelcastro.it/) (ma ha chiuso da poco)   
-[[[[http://www.instablog.org](http://www.instablog.org)](http://www.instablog.org)](http://www.instablog.org)](http://www.instablog.org/)   
+[[[[https://1972.splinder.com/](https://1972.splinder.com/)](https://1972.splinder.com/)](https://1972.splinder.com/)](https://1972.splinder.com/)   
+[[[[https://www.ilfoglio.it/camillo/](https://www.ilfoglio.it/camillo/)](https://www.ilfoglio.it/camillo/)](https://www.ilfoglio.it/camillo/)](https://www.ilfoglio.it/camillo/)   
+[[[[https://ilcavouriano.ilcannocchiale.it](https://ilcavouriano.ilcannocchiale.it)](https://ilcavouriano.ilcannocchiale.it)](https://ilcavouriano.ilcannocchiale.it)](https://ilcavouriano.ilcannocchiale.it/)   
+[[[[https://antikomunista.splinder.com/](https://antikomunista.splinder.com/)](https://antikomunista.splinder.com/)](https://antikomunista.splinder.com/)](https://antikomunista.splinder.com/)   
+[[[[https://junipers.blogspot.com/](https://junipers.blogspot.com/)](https://junipers.blogspot.com/)](https://junipers.blogspot.com/)](https://junipers.blogspot.com/)   
+[[[[https://leguerrecivili.splinder.com/](https://leguerrecivili.splinder.com/)](https://leguerrecivili.splinder.com/)](https://leguerrecivili.splinder.com/)](https://leguerrecivili.splinder.com/)   
+[[[[https://v.splinder.com/](https://v.splinder.com/)](https://v.splinder.com/)](https://v.splinder.com/)](https://v.splinder.com/)   
+[[[[https://www.rolliblog.net/](https://www.rolliblog.net/)](https://www.rolliblog.net/)](https://www.rolliblog.net/)](https://www.rolliblog.net/)   
+[[[[https://sorvegliatospeciale.splinder.com/](https://sorvegliatospeciale.splinder.com/)](https://sorvegliatospeciale.splinder.com/)](https://sorvegliatospeciale.splinder.com/)](https://sorvegliatospeciale.splinder.com/)   
+[[[[https://daw.ilcannocchiale.it](https://daw.ilcannocchiale.it)](https://daw.ilcannocchiale.it)](https://daw.ilcannocchiale.it)](https://daw.ilcannocchiale.it/)   
+[[[[https://harry.ilcannocchiale.it](https://harry.ilcannocchiale.it)](https://harry.ilcannocchiale.it)](https://harry.ilcannocchiale.it)](https://harry.ilcannocchiale.it/)   
+[[[[https://www.rudybelcastro.it/](https://www.rudybelcastro.it/)](https://www.rudybelcastro.it/)](https://www.rudybelcastro.it/)](https://www.rudybelcastro.it/) (ma ha chiuso da poco)   
+[[[[https://www.instablog.org](https://www.instablog.org)](https://www.instablog.org)](https://www.instablog.org)](https://www.instablog.org/)   
   
 **Sinistra**  
   
-[[[[http://www.sabellifioretti.com/](http://www.sabellifioretti.com/)](http://www.sabellifioretti.com/)](http://www.sabellifioretti.com/)](http://www.sabellifioretti.com/)   
-[[[[http://www.wittgenstein.it](http://www.wittgenstein.it)](http://www.wittgenstein.it)](http://www.wittgenstein.it)](http://www.wittgenstein.it/)   
-[[[[http://leonardo.blogspot.com](http://leonardo.blogspot.com)](http://leonardo.blogspot.com)](http://leonardo.blogspot.com)](http://leonardo.blogspot.com/)   
-[[[[http://www.pfaall.com/](http://www.pfaall.com/)](http://www.pfaall.com/)](http://www.pfaall.com/)](http://www.pfaall.com/)   
-[[[[http://homepage.mac.com/paferro/iblog/paferrobyday/index.html](http://homepage.mac.com/paferro/iblog/paferrobyday/index.html)](http://homepage.mac.com/paferro/iblog/paferrobyday/index.html)](http://homepage.mac.com/paferro/iblog/paferrobyday/index.html)](http://homepage.mac.com/paferro/iblog/paferrobyday/index.html)   
-[[[[http://www.pfaall.com/it/](http://www.pfaall.com/it/)](http://www.pfaall.com/it/)](http://www.pfaall.com/it/)](http://www.pfaall.com/it/)   
-[[[[http://blogs.it/0100523/](http://blogs.it/0100523/)](http://blogs.it/0100523/)](http://blogs.it/0100523/)](http://blogs.it/0100523/)   
-[[[[http://blogs.it/0100206/](http://blogs.it/0100206/)](http://blogs.it/0100206/)](http://blogs.it/0100206/)](http://blogs.it/0100206/)   
-[[[[http://europa.ilcannocchiale.it/](http://europa.ilcannocchiale.it/)](http://europa.ilcannocchiale.it/)](http://europa.ilcannocchiale.it/)](http://europa.ilcannocchiale.it/)   
-[[[[http://misteriitalianienon.splinder.com/](http://misteriitalianienon.splinder.com/)](http://misteriitalianienon.splinder.com/)](http://misteriitalianienon.splinder.com/)](http://misteriitalianienon.splinder.com/)   
-[[[[http://oiraid.ilcannocchiale.it](http://oiraid.ilcannocchiale.it)](http://oiraid.ilcannocchiale.it)](http://oiraid.ilcannocchiale.it)](http://oiraid.ilcannocchiale.it/)   
-[[[[http://liberopensiero.ilcannocchiale.it](http://liberopensiero.ilcannocchiale.it)](http://liberopensiero.ilcannocchiale.it)](http://liberopensiero.ilcannocchiale.it)](http://liberopensiero.ilcannocchiale.it/)   
-[[[[http://controcorrente.ilcannocchiale.it](http://controcorrente.ilcannocchiale.it)](http://controcorrente.ilcannocchiale.it)](http://controcorrente.ilcannocchiale.it)](http://controcorrente.ilcannocchiale.it/)   
-[[[[http://ghirone.ilcannocchiale.it](http://ghirone.ilcannocchiale.it)](http://ghirone.ilcannocchiale.it)](http://ghirone.ilcannocchiale.it)](http://ghirone.ilcannocchiale.it/)   
-[[[[http://ricordiamocene.ilcannocchiale.it](http://ricordiamocene.ilcannocchiale.it)](http://ricordiamocene.ilcannocchiale.it)](http://ricordiamocene.ilcannocchiale.it)](http://ricordiamocene.ilcannocchiale.it/)   
-[[[[http://www.lebowsky.it/dblog/default.asp](http://www.lebowsky.it/dblog/default.asp)](http://www.lebowsky.it/dblog/default.asp)](http://www.lebowsky.it/dblog/default.asp)](http://www.lebowsky.it/dblog/default.asp)   
-[[[[http://attentialcane.ilcannocchiale.it/](http://attentialcane.ilcannocchiale.it/)](http://attentialcane.ilcannocchiale.it/)](http://attentialcane.ilcannocchiale.it/)](http://attentialcane.ilcannocchiale.it/)   
+[[[[https://www.sabellifioretti.com/](https://www.sabellifioretti.com/)](https://www.sabellifioretti.com/)](https://www.sabellifioretti.com/)](https://www.sabellifioretti.com/)   
+[[[[https://www.wittgenstein.it](https://www.wittgenstein.it)](https://www.wittgenstein.it)](https://www.wittgenstein.it)](https://www.wittgenstein.it/)   
+[[[[https://leonardo.blogspot.com](https://leonardo.blogspot.com)](https://leonardo.blogspot.com)](https://leonardo.blogspot.com)](https://leonardo.blogspot.com/)   
+[[[[https://www.pfaall.com/](https://www.pfaall.com/)](https://www.pfaall.com/)](https://www.pfaall.com/)](https://www.pfaall.com/)   
+[[[[https://homepage.mac.com/paferro/iblog/paferrobyday/index.html](https://homepage.mac.com/paferro/iblog/paferrobyday/index.html)](https://homepage.mac.com/paferro/iblog/paferrobyday/index.html)](https://homepage.mac.com/paferro/iblog/paferrobyday/index.html)](https://homepage.mac.com/paferro/iblog/paferrobyday/index.html)   
+[[[[https://www.pfaall.com/it/](https://www.pfaall.com/it/)](https://www.pfaall.com/it/)](https://www.pfaall.com/it/)](https://www.pfaall.com/it/)   
+[[[[https://blogs.it/0100523/](https://blogs.it/0100523/)](https://blogs.it/0100523/)](https://blogs.it/0100523/)](https://blogs.it/0100523/)   
+[[[[https://blogs.it/0100206/](https://blogs.it/0100206/)](https://blogs.it/0100206/)](https://blogs.it/0100206/)](https://blogs.it/0100206/)   
+[[[[https://europa.ilcannocchiale.it/](https://europa.ilcannocchiale.it/)](https://europa.ilcannocchiale.it/)](https://europa.ilcannocchiale.it/)](https://europa.ilcannocchiale.it/)   
+[[[[https://misteriitalianienon.splinder.com/](https://misteriitalianienon.splinder.com/)](https://misteriitalianienon.splinder.com/)](https://misteriitalianienon.splinder.com/)](https://misteriitalianienon.splinder.com/)   
+[[[[https://oiraid.ilcannocchiale.it](https://oiraid.ilcannocchiale.it)](https://oiraid.ilcannocchiale.it)](https://oiraid.ilcannocchiale.it)](https://oiraid.ilcannocchiale.it/)   
+[[[[https://liberopensiero.ilcannocchiale.it](https://liberopensiero.ilcannocchiale.it)](https://liberopensiero.ilcannocchiale.it)](https://liberopensiero.ilcannocchiale.it)](https://liberopensiero.ilcannocchiale.it/)   
+[[[[https://controcorrente.ilcannocchiale.it](https://controcorrente.ilcannocchiale.it)](https://controcorrente.ilcannocchiale.it)](https://controcorrente.ilcannocchiale.it)](https://controcorrente.ilcannocchiale.it/)   
+[[[[https://ghirone.ilcannocchiale.it](https://ghirone.ilcannocchiale.it)](https://ghirone.ilcannocchiale.it)](https://ghirone.ilcannocchiale.it)](https://ghirone.ilcannocchiale.it/)   
+[[[[https://ricordiamocene.ilcannocchiale.it](https://ricordiamocene.ilcannocchiale.it)](https://ricordiamocene.ilcannocchiale.it)](https://ricordiamocene.ilcannocchiale.it)](https://ricordiamocene.ilcannocchiale.it/)   
+[[[[https://www.lebowsky.it/dblog/default.asp](https://www.lebowsky.it/dblog/default.asp)](https://www.lebowsky.it/dblog/default.asp)](https://www.lebowsky.it/dblog/default.asp)](https://www.lebowsky.it/dblog/default.asp)   
+[[[[https://attentialcane.ilcannocchiale.it/](https://attentialcane.ilcannocchiale.it/)](https://attentialcane.ilcannocchiale.it/)](https://attentialcane.ilcannocchiale.it/)](https://attentialcane.ilcannocchiale.it/)   
   
 **Non schierati/classificati**   
   
-[[[[http://klamm.splinder.com](http://klamm.splinder.com)](http://klamm.splinder.com)](http://klamm.splinder.com)](http://klamm.splinder.com/)   
-[[[[http://leibniz.blogs.it/](http://leibniz.blogs.it/)](http://leibniz.blogs.it/)](http://leibniz.blogs.it/)](http://leibniz.blogs.it/)   
-[[[[http://www.demosfera.net](http://www.demosfera.net)](http://www.demosfera.net)](http://www.demosfera.net)](http://www.demosfera.net/)   
-[[[[http://laradice.iobloggo.com/](http://laradice.iobloggo.com/)](http://laradice.iobloggo.com/)](http://laradice.ioblog
-go.com/)](http://laradice.iobloggo.com/)  
-[[[[http://fratelliditalia.iobloggo.com](http://fratelliditalia.iobloggo.com)](http://fratelliditalia.iobloggo.com)](http://fratelliditalia.iobloggo.com)](http://fratelliditalia.iobloggo.com/)   
-[[[[http://controlapenadimorte.splinder.com/](http://controlapenadimorte.splinder.com/)](http://controlapenadimorte.splinder.com/)](http://controlapenadimorte.splinder.com/)](http://controlapenadimorte.splinder.com/)  
-[[[[http://referendumanchio.splinder.com/](http://referendumanchio.splinder.com/)](http://referendumanchio.splinder.com/)](http://referendumanchio.splinder.com/)](http://referendumanchio.splinder.com/)  
-[[[[http://www.aldocivico.com/blog](http://www.aldocivico.com/blog)](http://www.aldocivico.com/blog)](http://www.aldocivico.com/blog)](http://www.aldocivico.com/blog)  
-[[[[http://www.lucacoscioni.it/](http://www.lucacoscioni.it/)](http://www.lucacoscioni.it/)](http://www.lucacoscioni.it/)](http://www.lucacoscioni.it/)  
-[[[[http://mondocane.splinder.com](http://mondocane.splinder.com)](http://mondocane.splinder.com)](http://mondocane.splinder.com)](http://mondocane.splinder.com/)
+[[[[https://klamm.splinder.com](https://klamm.splinder.com)](https://klamm.splinder.com)](https://klamm.splinder.com)](https://klamm.splinder.com/)   
+[[[[https://leibniz.blogs.it/](https://leibniz.blogs.it/)](https://leibniz.blogs.it/)](https://leibniz.blogs.it/)](https://leibniz.blogs.it/)   
+[[[[https://www.demosfera.net](https://www.demosfera.net)](https://www.demosfera.net)](https://www.demosfera.net)](https://www.demosfera.net/)   
+[[[[https://laradice.iobloggo.com/](https://laradice.iobloggo.com/)](https://laradice.iobloggo.com/)](https://laradice.ioblog
+go.com/)](https://laradice.iobloggo.com/)  
+[[[[https://fratelliditalia.iobloggo.com](https://fratelliditalia.iobloggo.com)](https://fratelliditalia.iobloggo.com)](https://fratelliditalia.iobloggo.com)](https://fratelliditalia.iobloggo.com/)   
+[[[[https://controlapenadimorte.splinder.com/](https://controlapenadimorte.splinder.com/)](https://controlapenadimorte.splinder.com/)](https://controlapenadimorte.splinder.com/)](https://controlapenadimorte.splinder.com/)  
+[[[[https://referendumanchio.splinder.com/](https://referendumanchio.splinder.com/)](https://referendumanchio.splinder.com/)](https://referendumanchio.splinder.com/)](https://referendumanchio.splinder.com/)  
+[[[[https://www.aldocivico.com/blog](https://www.aldocivico.com/blog)](https://www.aldocivico.com/blog)](https://www.aldocivico.com/blog)](https://www.aldocivico.com/blog)  
+[[[[https://www.lucacoscioni.it/](https://www.lucacoscioni.it/)](https://www.lucacoscioni.it/)](https://www.lucacoscioni.it/)](https://www.lucacoscioni.it/)  
+[[[[https://mondocane.splinder.com](https://mondocane.splinder.com)](https://mondocane.splinder.com)](https://mondocane.splinder.com)](https://mondocane.splinder.com/)
 
 
 

@@ -10,7 +10,7 @@ url: "/2008/11/19/piu-verde-che-nero/"
 wordpress_id: 3771
 
 ---
-Il prodotto più venduto di questi giorni è il green-Obama, cioè l'idea che il presidente eletto ci salverà dal global warming. Uno che ci casca con tutte le scarpe è [Ian McEwan](http://www.guardian.co.uk/environment/2008/nov/19/global-climate-change-policy-obama) (quello che era stato capace d'infilare un elogio di Walter Veltroni nel finale di un suo romanzo bellissimo). Poi il titolista ha fatto il resto: "Perché solo Obama può salvare il Pianeta".
+Il prodotto più venduto di questi giorni è il green-Obama, cioè l'idea che il presidente eletto ci salverà dal global warming. Uno che ci casca con tutte le scarpe è [Ian McEwan](https://www.guardian.co.uk/environment/2008/nov/19/global-climate-change-policy-obama) (quello che era stato capace d'infilare un elogio di Walter Veltroni nel finale di un suo romanzo bellissimo). Poi il titolista ha fatto il resto: "Perché solo Obama può salvare il Pianeta".
 
 [Guardian][
-](http://www.guardian.co.uk/environment/2008/nov/19/global-climate-change-policy-obama)
+](https://www.guardian.co.uk/environment/2008/nov/19/global-climate-change-policy-obama)

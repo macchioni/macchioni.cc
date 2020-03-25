@@ -17,7 +17,7 @@ C'era un tempo in cui si veniva licenziati se si veniva scoperti a tenere un blo
 
 Poi è venuto un tempo, più o meno ieri, in cui tutti dicevano alle aziende: fatevi il blog.
 
-Oggi è venuto il tempo in cui il presidente della vostra compagnia vi [spiega - sul suo blog - perché sta licenziando voi e altre 4.999 persone](http://blogs.sun.com/roller/page/jonathan/20060531).
+Oggi è venuto il tempo in cui il presidente della vostra compagnia vi [spiega - sul suo blog - perché sta licenziando voi e altre 4.999 persone](https://blogs.sun.com/roller/page/jonathan/20060531).
 
 
 ### Jonathan Schwartz

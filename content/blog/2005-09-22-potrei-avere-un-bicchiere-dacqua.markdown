@@ -10,7 +10,7 @@ url: "/2005/09/22/potrei-avere-un-bicchiere-dacqua/"
 wordpress_id: 76
 
 ---
-Non so perche ma le divise delle hostess restano un classico. Su Travel+Leisure [si puo votare la migliore delle sei](http://www.travelandleisure.com/uniforms/index.cfm) prescelte.  
+Non so perche ma le divise delle hostess restano un classico. Su Travel+Leisure [si puo votare la migliore delle sei](https://www.travelandleisure.com/uniforms/index.cfm) prescelte.  
 
 
 

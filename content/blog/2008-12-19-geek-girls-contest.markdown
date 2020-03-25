@@ -11,8 +11,8 @@ url: "/2008/12/19/geek-girls-contest/"
 wordpress_id: 3808
 
 ---
-[![zooey](http://www.pedestrian.tv/uploads/images/blogs/478edbf8703ce/zooey%20deschanel.jpg)](http://blog.wired.com/underwire/2008/12/every-geeks-a-l.html)
+[![zooey](https://www.pedestrian.tv/uploads/images/blogs/478edbf8703ce/zooey%20deschanel.jpg)](https://blog.wired.com/underwire/2008/12/every-geeks-a-l.html)
 
 
 
-[Io voto Zooey](http://blog.wired.com/underwire/2008/12/every-geeks-a-l.html). [The Underwire via Wired.com]
+[Io voto Zooey](https://blog.wired.com/underwire/2008/12/every-geeks-a-l.html). [The Underwire via Wired.com]

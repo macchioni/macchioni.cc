@@ -10,6 +10,6 @@ url: "/2008/07/19/just-done-it/"
 wordpress_id: 2981
 
 ---
-Lo slogan della Nike, "just do it", [compie 20 anni](http://adage.com/article?article_id=129723): prepariamoci a un bombardamento autocelebrativo.
+Lo slogan della Nike, "just do it", [compie 20 anni](https://adage.com/article?article_id=129723): prepariamoci a un bombardamento autocelebrativo.
 
 ### AdAge

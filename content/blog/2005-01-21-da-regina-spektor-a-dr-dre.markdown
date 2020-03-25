@@ -10,7 +10,7 @@ url: "/2005/01/21/da-regina-spektor-a-dr-dre/"
 wordpress_id: 518
 
 ---
-[Le canzoni piu adatte](http://www.vanityfair.com/entertainment/music/articles/050110famu) al _Valentine's mood_ secondo Vanity Fair Usa.
+[Le canzoni piu adatte](https://www.vanityfair.com/entertainment/music/articles/050110famu) al _Valentine's mood_ secondo Vanity Fair Usa.
 
 
 

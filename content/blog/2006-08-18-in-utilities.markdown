@@ -11,9 +11,9 @@ wordpress_id: 2279
 
 ---
 Due cose divertenti:
-- I titoli del New York Times che cambiano a seconda del credo politico di chi legge (aka [right-wing Times](http://rightwingnytimes.cf.huffingtonpost.com/))
+- I titoli del New York Times che cambiano a seconda del credo politico di chi legge (aka [right-wing Times](https://rightwingnytimes.cf.huffingtonpost.com/))
 
-- [Google, the Musical](http://www.imdo.org/)
+- [Google, the Musical](https://www.imdo.org/)
 
 
 ### Huffington Post - Google, the Musical

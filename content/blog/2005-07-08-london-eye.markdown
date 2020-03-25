@@ -10,14 +10,14 @@ url: "/2005/07/08/london-eye/"
 wordpress_id: 205
 
 ---
-![](http://www.myfonts.com/images/family/p22/underground.gif)Per la prima volta, o almeno cosi viene da pensare,
+![](https://www.myfonts.com/images/family/p22/underground.gif)Per la prima volta, o almeno cosi viene da pensare,
 i media
 tradizionali si sono appoggiati al web per recuperare immagini e
 testimonianze visive. Time, ad esempio, [nel set
-fotografico](http://www.time.com/time/2005/london/eyewitness/) cita foto scattate dai videofonini e interi siti
-collaborativi ([Flickr](http://flickr.com/groups/bomb/pool/), [Moblog.Uk](http://moblog.co.uk/), [London
-Photobloggers](http://london.photobloggers.org/) e [Onion Bag](http://www.onionbagblog.com)). Ah, il logo
-apparso ieri accanto ai post e preso da[ My Fonts](http://myfonts.com).  
+fotografico](https://www.time.com/time/2005/london/eyewitness/) cita foto scattate dai videofonini e interi siti
+collaborativi ([Flickr](https://flickr.com/groups/bomb/pool/), [Moblog.Uk](https://moblog.co.uk/), [London
+Photobloggers](https://london.photobloggers.org/) e [Onion Bag](https://www.onionbagblog.com)). Ah, il logo
+apparso ieri accanto ai post e preso da[ My Fonts](https://myfonts.com).  
 
 
 

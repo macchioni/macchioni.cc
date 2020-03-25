@@ -10,7 +10,7 @@ url: "/2006/01/07/si-vede-che-gli-scappava/"
 wordpress_id: 1973
 
 ---
-![](http://www.beatmuseum.org/duchamp/images/fountain.jpg)L'altro giorno uno di 76 anni [ha attaccato](http://news.yahoo.com/s/ap/20060106/ap_on_re_eu/france_duchamp_urinal_4) la celebre opera di Duchamp con un martello, pare per una performance artistica.
+![](https://www.beatmuseum.org/duchamp/images/fountain.jpg)L'altro giorno uno di 76 anni [ha attaccato](https://news.yahoo.com/s/ap/20060106/ap_on_re_eu/france_duchamp_urinal_4) la celebre opera di Duchamp con un martello, pare per una performance artistica.
 
 
-### Yahoo! News - [Beat Museum](http://www.beatmuseum.org)
+### Yahoo! News - [Beat Museum](https://www.beatmuseum.org)

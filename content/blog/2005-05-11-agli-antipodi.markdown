@@ -10,7 +10,7 @@ url: "/2005/05/11/agli-antipodi/"
 wordpress_id: 298
 
 ---
-All'Europa unita non ci credono [nemmeno gli australiani](http://www.theaustralian.news.com.au/common/story_page/0,5744,15243137%255E32522,00.html):  
+All'Europa unita non ci credono [nemmeno gli australiani](https://www.theaustralian.news.com.au/common/story_page/0,5744,15243137%255E32522,00.html):  
 
 
 > This odd alliance between Left and Right might

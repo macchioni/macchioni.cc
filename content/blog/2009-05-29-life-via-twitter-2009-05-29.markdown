@@ -12,6 +12,6 @@ url: "/2009/05/29/life-via-twitter-2009-05-29/"
 wordpress_id: 4054
 
 ---
-* android fine [#](http://twitter.com/leibniz/statuses/1962068700)
+* android fine [#](https://twitter.com/leibniz/statuses/1962068700)
 
 

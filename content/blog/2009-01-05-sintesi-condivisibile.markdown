@@ -13,4 +13,4 @@ wordpress_id: 3816
 > Il 90% delle cose che fa figo leggere fa schifo. I libri di Roth sono bellissimi.
 
 
-Difficile contraddire [Massimo Morelli](http://blog.morellinet.com/categories/momoblog/2009/01/04.html#a2390). [Momoblog]
+Difficile contraddire [Massimo Morelli](https://blog.morellinet.com/categories/momoblog/2009/01/04.html#a2390). [Momoblog]

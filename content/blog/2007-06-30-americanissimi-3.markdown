@@ -10,10 +10,10 @@ url: "/2007/06/30/americanissimi-3/"
 wordpress_id: 2517
 
 ---
-[![Ping Pong](http://farm2.static.flickr.com/1086/672301920_932acbf7ab_t.jpg)](http://www.flickr.com/photos/khoi/672301920/)  
+[![Ping Pong](https://farm2.static.flickr.com/1086/672301920_932acbf7ab_t.jpg)](https://www.flickr.com/photos/khoi/672301920/)  
 
 	
-		originally uploaded by [Khoi Vinh](http://www.flickr.com/people/khoi/).
+		originally uploaded by [Khoi Vinh](https://www.flickr.com/people/khoi/).
 	
 
 

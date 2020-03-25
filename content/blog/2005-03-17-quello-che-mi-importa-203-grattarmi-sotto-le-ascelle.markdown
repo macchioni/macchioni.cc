@@ -10,7 +10,7 @@ url: "/2005/03/17/quello-che-mi-importa-203-grattarmi-sotto-le-ascelle/"
 wordpress_id: 406
 
 ---
-[Scrive](http://www.gaspartorriero.it/HTML/blogarchive/2005_03_13_archive.html#111098267706680708) Gaspar:
+[Scrive](https://www.gaspartorriero.it/HTML/blogarchive/2005_03_13_archive.html#111098267706680708) Gaspar:
 
 
 
@@ -26,7 +26,7 @@ di fighetti repressi, depressi e insignificantiº.
 
 
 
-(La cosa e piaciuta anche a [Paolo](http://paolo.evectors.it/italian/2005/03/16.html#a2450))
+(La cosa e piaciuta anche a [Paolo](https://paolo.evectors.it/italian/2005/03/16.html#a2450))
 
 
 

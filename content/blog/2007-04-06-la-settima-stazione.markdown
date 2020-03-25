@@ -14,7 +14,7 @@ wordpress_id: 2445
 Venerdì. Metto La7: prima Augias, poi gli scout. E pensare che la Via Crucis doveva essere su Rai Uno. **Buona Pasqua, alla prossima settimana.**
 
 (ascoltate questo, magari: Stringfever,  [The History of Music
-in Five Minutes](http://stringfever.co.uk/video.html), da Ludwig van Beethoven a Pretty Woman suonate da un quartetto d'archi)
+in Five Minutes](https://stringfever.co.uk/video.html), da Ludwig van Beethoven a Pretty Woman suonate da un quartetto d'archi)
 
 
 ### Le invasioni barbariche - Stringfever

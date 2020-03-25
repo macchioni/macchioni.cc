@@ -10,7 +10,7 @@ url: "/2004/12/29/ciuffi-bianchi/"
 wordpress_id: 564
 
 ---
-E' morta Susan Sontag. [Il ricordo](http://www.corriere.it/edicola/index.jsp?path=COMMENTI&doc=MORTA) di Fernanda Pivano.
+E' morta Susan Sontag. [Il ricordo](https://www.corriere.it/edicola/index.jsp?path=COMMENTI&doc=MORTA) di Fernanda Pivano.
 
 
 

@@ -12,10 +12,10 @@ wordpress_id: 169
 
 ---
 Il senatore rampante Barack Obama battuto da una donna? Non e la storia
-delle prossime primarie democratiche, ma la classifica dei [50 piu belli di Capitol Hill](http://thehill.com/thehill/export/TheHill/Features/CapitalLiving/072705.html), segretarie e personale di sicurezza compresi. Lei si chiama Kate Michael.  
+delle prossime primarie democratiche, ma la classifica dei [50 piu belli di Capitol Hill](https://thehill.com/thehill/export/TheHill/Features/CapitalLiving/072705.html), segretarie e personale di sicurezza compresi. Lei si chiama Kate Michael.  
 
 
 
-### The Hill (via [Wonkette](http://www.wonkette.com))  
+### The Hill (via [Wonkette](https://www.wonkette.com))  
 
 

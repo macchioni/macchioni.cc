@@ -10,7 +10,7 @@ url: "/2006/03/09/il-vero-export-danese/"
 wordpress_id: 2080
 
 ---
-E intanto nello Yemen un direttore che ha pubblicato le famose vignette danesi [rischia la pena di morte](http://news.bbc.co.uk/2/hi/middle_east/4786322.stm).
+E intanto nello Yemen un direttore che ha pubblicato le famose vignette danesi [rischia la pena di morte](https://news.bbc.co.uk/2/hi/middle_east/4786322.stm).
 
 
 ### BBC

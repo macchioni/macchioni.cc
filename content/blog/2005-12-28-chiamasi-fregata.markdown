@@ -10,6 +10,6 @@ url: "/2005/12/28/chiamasi-fregata/"
 wordpress_id: 1954
 
 ---
-Carina [la notizia ](http://www.elmundo.es/elmundo/2005/12/28/espana/1135728660.html)della fregata spagnola che avrebbe partecipato ad [azioni di guerra dopo il ritiro dall'Iraq](http://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=FRE). Il governo smentisce, El Mundo conferma. 
+Carina [la notizia ](https://www.elmundo.es/elmundo/2005/12/28/espana/1135728660.html)della fregata spagnola che avrebbe partecipato ad [azioni di guerra dopo il ritiro dall'Iraq](https://www.corriere.it/edicola/index.jsp?path=PRIMA_PAGINA&doc=FRE). Il governo smentisce, El Mundo conferma. 
 
 ### El Mundo - Corriere.it

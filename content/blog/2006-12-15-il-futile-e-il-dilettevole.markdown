@@ -10,6 +10,6 @@ url: "/2006/12/15/il-futile-e-il-dilettevole/"
 wordpress_id: 2348
 
 ---
-Su Dagospia c'è [il dotto pezzo di Alberto Arbasino](http://www.blognews.it/click/-5,183149/) sull'Aida alla Scala
+Su Dagospia c'è [il dotto pezzo di Alberto Arbasino](https://www.blognews.it/click/-5,183149/) sull'Aida alla Scala
 
 ### Dagospia

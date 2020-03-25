@@ -11,7 +11,7 @@ url: "/2009/06/26/canzoni-su-michael-jackson/"
 wordpress_id: 4113
 
 ---
-A proposito di Jacko, certe canzoni restano immortali. Come [questa degli Squallor](http://www.youtube.com/watch?gl=IT&hl=it&v=kE7-_w2A8hY), in cui c'è davvero tutto (i corsivi sono miei): presente, passato e futuro.
+A proposito di Jacko, certe canzoni restano immortali. Come [questa degli Squallor](https://www.youtube.com/watch?gl=IT&hl=it&v=kE7-_w2A8hY), in cui c'è davvero tutto (i corsivi sono miei): presente, passato e futuro.
 
 
 > **Caro Michael Jackson, tu che mandi i soldi in Africa,**

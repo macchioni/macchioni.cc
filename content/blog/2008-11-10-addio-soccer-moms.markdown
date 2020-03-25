@@ -10,4 +10,4 @@ url: "/2008/11/10/addio-soccer-moms/"
 wordpress_id: 3600
 
 ---
-Chissà se il nuovo presidente riuscirà a smuovere qualcosa nel mondo della musica e dare supporto a una delle minoranze più minoranze che esistano: [le donne rapper di colore](http://www.slate.com/id/2203360/?from=rss). [Slate]
+Chissà se il nuovo presidente riuscirà a smuovere qualcosa nel mondo della musica e dare supporto a una delle minoranze più minoranze che esistano: [le donne rapper di colore](https://www.slate.com/id/2203360/?from=rss). [Slate]

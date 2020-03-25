@@ -11,5 +11,5 @@ wordpress_id: 719
 
 ---
 ** The whisky in the jar   
-**   Il Guardan dedica un  [ dossier ](http://www.guardian.co.uk/netnotes/article/0,6729,1100136,00.html)allo "Spirito della Scozia", pieno di links e curiosita. Immaginiamo che tra i bloggers c'e chi apprezzera.  
+**   Il Guardan dedica un  [ dossier ](https://www.guardian.co.uk/netnotes/article/0,6729,1100136,00.html)allo "Spirito della Scozia", pieno di links e curiosita. Immaginiamo che tra i bloggers c'e chi apprezzera.  
   Guardian

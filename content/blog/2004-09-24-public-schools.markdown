@@ -10,7 +10,7 @@ url: "/2004/09/24/public-schools/"
 wordpress_id: 3393
 
 ---
-Il Birkbeck college, università di Londra, ha lanciato un corso niente male: «[Capire Londra, teoria in pratica](http://www.bbk.ac.uk/ce/london/courses/theorypractice.shtml)». The Big Smoker, che segnala la notizia, scherza su e propone alcune materie:
+Il Birkbeck college, università di Londra, ha lanciato un corso niente male: «[Capire Londra, teoria in pratica](https://www.bbk.ac.uk/ce/london/courses/theorypractice.shtml)». The Big Smoker, che segnala la notizia, scherza su e propone alcune materie:
 
 
 > Escalator etiquette: when is it wrong to stand on the right?

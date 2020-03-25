@@ -13,7 +13,7 @@ wordpress_id: 199
 Non so che gusti abbiate, ma se vi piacciono le
 bionde dure Republican
 Style tipo Ann Coulter, e stato appena pubblicato un [howto
-](http://www.weeklyworldnews.com/features/how_to/61558?printer=1)per conquistarne le grazie.
+](https://www.weeklyworldnews.com/features/how_to/61558?printer=1)per conquistarne le grazie.
 
 > 1 You know, in this light you look like you could be Laura Bush's younger, more desirable sister.  
 

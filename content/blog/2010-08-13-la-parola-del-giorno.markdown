@@ -12,6 +12,6 @@ wordpress_id: 15
 ---
 **smar•ro•na•re**
 [ʃmar-ro-nà-re] v. intr.
-[ Compiere grossi errori, spropositi](http://dizionari.hoepli.it/Dizionario_Italiano/parola/smarronare.aspx?idD=1&Query=smarronare&lettera=S). ‖ Agire con scarsa opportunità e finezza: _Neanche Gianfranco Fini, come accadde a molti in difficoltà, ha resistito alla tentazione di dire bugie nella speranza di aggirare il problema dell'appartamento di Montecarlo. Ma non gli è andara bene: ha smarronato*_.
+[ Compiere grossi errori, spropositi](https://dizionari.hoepli.it/Dizionario_Italiano/parola/smarronare.aspx?idD=1&Query=smarronare&lettera=S). ‖ Agire con scarsa opportunità e finezza: _Neanche Gianfranco Fini, come accadde a molti in difficoltà, ha resistito alla tentazione di dire bugie nella speranza di aggirare il problema dell'appartamento di Montecarlo. Ma non gli è andara bene: ha smarronato*_.
 
 *Vittorio Feltri, Il Giornale del 13.8.10

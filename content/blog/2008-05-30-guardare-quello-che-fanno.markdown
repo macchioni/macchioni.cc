@@ -10,7 +10,7 @@ url: "/2008/05/30/guardare-quello-che-fanno/"
 wordpress_id: 2807
 
 ---
-A proposito dei [fatti del Pigneto](http://roma.repubblica.it/dettaglio/S%C3%AC-al-Pigneto-sono-stato-io-ma-non-chiamatemi-razzista/1469611?ref=rephp), [Miic](http://miic.livejournal.com/157159.html) ha scritto qualcosa che inizialmente mi sembrava corretto, ma che non mi ha convinto fino in fondo (scrivo qui, perché non ho mai imparato a usare i commenti su Livejournal).
+A proposito dei [fatti del Pigneto](https://roma.repubblica.it/dettaglio/S%C3%AC-al-Pigneto-sono-stato-io-ma-non-chiamatemi-razzista/1469611?ref=rephp), [Miic](https://miic.livejournal.com/157159.html) ha scritto qualcosa che inizialmente mi sembrava corretto, ma che non mi ha convinto fino in fondo (scrivo qui, perché non ho mai imparato a usare i commenti su Livejournal).
 
 
 > Ok, lo sfasciavetrine del Pigneto non è un nazista. E allora? Un'altra occasione, l'ennesima, per smettere di etichettarsi ed etichettare le altre persone in base a categorie ideologiche che risalgono alla metà  del secolo scorso, se non a quello prima. Un'altra occasione, l'ennesima, per smettere di guardare a quello che le persone dicono di essere, o vogliono sembrare, e cominciare a guardare a quello che fanno.

@@ -10,10 +10,10 @@ url: "/2006/04/12/lo-dice-anche-la-tv/"
 wordpress_id: 2142
 
 ---
-![](http://www.leibniz-blogs.it/gallery/break.jpg)
+![](https://www.leibniz-blogs.it/gallery/break.jpg)
 
 
-(fatto [qui](http://www.imagegenerator.net/create/newscaster/))
+(fatto [qui](https://www.imagegenerator.net/create/newscaster/))
 
 
 ### Newscaster generator

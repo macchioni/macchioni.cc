@@ -11,8 +11,8 @@ wordpress_id: 2833
 
 ---
 ![]()  
-[![](http://www.brickartist.com/gallery/ArtoftheBrick.jpg)](http://www.brickartist.com)  
+[![](https://www.brickartist.com/gallery/ArtoftheBrick.jpg)](https://www.brickartist.com)  
 
-Questo [Nathan Sawaya](http://edition.cnn.com/2008/SHOWBIZ/07/04/lego.artist/index.html#cnnSTCText) ci sa fare coi Lego.
+Questo [Nathan Sawaya](https://edition.cnn.com/2008/SHOWBIZ/07/04/lego.artist/index.html#cnnSTCText) ci sa fare coi Lego.
 
 ### Cnn - Brick Artist

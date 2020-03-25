@@ -10,7 +10,7 @@ url: "/2007/06/28/come-diventare-scrittori-di-successo/"
 wordpress_id: 2510
 
 ---
-Ed ecco, per una settimana, [il ritorno di (mezzo) Klamm](http://grazia.blog.it/2007/06/28/hai-i-numeri-per-diventare-uno-scrittore/) *:
+Ed ecco, per una settimana, [il ritorno di (mezzo) Klamm](https://grazia.blog.it/2007/06/28/hai-i-numeri-per-diventare-uno-scrittore/) *:
 
 
 > ...vanno sempre più di moda gli **scrittori che, oltre a esibire la penna, esibiscono se stessi come casi umani** [...] I manipolatori del marketing, immagino, sono arrivati a stabilire un tariffario che funziona così:

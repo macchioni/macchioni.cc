@@ -18,7 +18,7 @@ sono tornata!!!
 
 
 > 
-Riapre il [blog della Vento](http://flaviavento.leonardo.it/blog/diritti_degli_animali.html).
+Riapre il [blog della Vento](https://flaviavento.leonardo.it/blog/diritti_degli_animali.html).
 
 
 ### Flavia Vento

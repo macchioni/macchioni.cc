@@ -10,9 +10,9 @@ url: "/2005/12/15/e-lallegro-chirurgo/"
 wordpress_id: 1929
 
 ---
-![](http://tulsatvmemories.com/giftshop/mrpotat.gif)Tra [i giocattoli più popolari degli ultimi cent'anni](http://www.forbes.com/2005/12/01/mattel-hasbro-toys-cx_lh_1202feat_ls.html) selezionati da Forbes... grazie a Dio c'è Mr. Potato.
+![](https://tulsatvmemories.com/giftshop/mrpotat.gif)Tra [i giocattoli più popolari degli ultimi cent'anni](https://www.forbes.com/2005/12/01/mattel-hasbro-toys-cx_lh_1202feat_ls.html) selezionati da Forbes... grazie a Dio c'è Mr. Potato.
 
-### Forbes | tag: [toys](http://www.technorati.com/tags/toys), [lists](http://www.technorati.com/tags/lists)
+### Forbes | tag: [toys](https://www.technorati.com/tags/toys), [lists](https://www.technorati.com/tags/lists)
 
   
 

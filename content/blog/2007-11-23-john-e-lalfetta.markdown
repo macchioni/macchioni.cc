@@ -11,7 +11,7 @@ url: "/2007/11/23/john-e-lalfetta/"
 wordpress_id: 2599
 
 ---
-A proposito di numeri che non tornano, ecco [le pagine più visitate](http://blogs.tnr.com/tnr/blogs/the_plank/archive/2007/11/21/you-re-my-obsession.aspx) (esclusa la home page) di [Conservapedia](http://www.conservapedia.com/), la Wikipedia dei conservatori americani.
+A proposito di numeri che non tornano, ecco [le pagine più visitate](https://blogs.tnr.com/tnr/blogs/the_plank/archive/2007/11/21/you-re-my-obsession.aspx) (esclusa la home page) di [Conservapedia](https://www.conservapedia.com/), la Wikipedia dei conservatori americani.
 
 > 	
 >   1. Homosexuality [1,541,712]

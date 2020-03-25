@@ -10,7 +10,7 @@ url: "/2008/05/05/rutto-libero/"
 wordpress_id: 2772
 
 ---
-In questi giorni tutti a esaltare (giustamente) Wii Fit e la bellezza del tenersi in forma con un videogioco. Ma, siccome nessuna nicchia di mercato deve rimanere scoperta, ecco il videogame dedicato ai [campionati di abbuffate](http://nymag.com/news/intelligencer/46656/).
+In questi giorni tutti a esaltare (giustamente) Wii Fit e la bellezza del tenersi in forma con un videogioco. Ma, siccome nessuna nicchia di mercato deve rimanere scoperta, ecco il videogame dedicato ai [campionati di abbuffate](https://nymag.com/news/intelligencer/46656/).
 
 
 ### NyMag

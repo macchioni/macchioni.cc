@@ -20,4 +20,4 @@ url: "/2011/03/18/e5909be3818ce4bba3e381af-e58d83e4bba3e381abe585abe58d83e4bba3e
 wordpress_id: 4626
 
 ---
-The relief money [collected through Google Checkout](http://www.google.com/crisisresponse/japanquake2011.html) will be donated to a charity set up through the [Japanese Red Cross](http://www.jrc.or.jp/english/index.html) to support victims of the earthquake and rebuild the afflicted areas (ma ci sono anche International medical corps, Save The Children e Unicef).
+The relief money [collected through Google Checkout](https://www.google.com/crisisresponse/japanquake2011.html) will be donated to a charity set up through the [Japanese Red Cross](https://www.jrc.or.jp/english/index.html) to support victims of the earthquake and rebuild the afflicted areas (ma ci sono anche International medical corps, Save The Children e Unicef).

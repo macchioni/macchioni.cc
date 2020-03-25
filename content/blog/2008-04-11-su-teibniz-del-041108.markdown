@@ -10,6 +10,6 @@ url: "/2008/04/11/su-teibniz-del-041108/"
 wordpress_id: 2741
 
 ---
-* [playlist2008.muxtape.com](http://feeds.feedburner.com/~r/teibniz/~3/268474574/31480738)
+* [playlist2008.muxtape.com](https://feeds.feedburner.com/~r/teibniz/~3/268474574/31480738)
 
 

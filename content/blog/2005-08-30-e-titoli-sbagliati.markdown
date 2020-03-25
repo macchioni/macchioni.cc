@@ -10,12 +10,12 @@ url: "/2005/08/30/e-titoli-sbagliati/"
 wordpress_id: 115
 
 ---
-Sembra che piu della meta degli articoli e saggi pubblicati sulle riviste scientifiche arrivi a[ conclusioni sbagliate](http://www.boingboing.net/2005/08/30/journal_article_50_o.html).  
+Sembra che piu della meta degli articoli e saggi pubblicati sulle riviste scientifiche arrivi a[ conclusioni sbagliate](https://www.boingboing.net/2005/08/30/journal_article_50_o.html).  
 
 
 
 ### 
-Boing Boing |  tag: [journals](http://www.technorati.com/tags/journals), [science](http://www.technorati.com/tags/science)
+Boing Boing |  tag: [journals](https://www.technorati.com/tags/journals), [science](https://www.technorati.com/tags/science)
 
   
   

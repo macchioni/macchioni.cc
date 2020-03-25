@@ -10,8 +10,8 @@ url: "/2005/05/21/storewars/"
 wordpress_id: 280
 
 ---
-Se Arcimboldo avesse potuto girare un film, avrebbe scelto [questo](http://www.storewars.org/flash/index.html).  
+Se Arcimboldo avesse potuto girare un film, avrebbe scelto [questo](https://www.storewars.org/flash/index.html).  
 
 
 
-### Storewars (via [Oxblog](http://oxblog.blogspot.com/2005_05_15_oxblog_archive.html#111662237522678876))
+### Storewars (via [Oxblog](https://oxblog.blogspot.com/2005_05_15_oxblog_archive.html#111662237522678876))

@@ -10,7 +10,7 @@ url: "/2006/06/05/living-with-war/"
 wordpress_id: 2212
 
 ---
-[Michael Barone ](http://www.usnews.com/usnews/opinion/baroneblog/archives/060601/putting_iraq_in.htm?s_cid=rss:site1)recupera dei dati e mette in prospettiva gli esiti dell'impegno militare americano in Iraq.
+[Michael Barone ](https://www.usnews.com/usnews/opinion/baroneblog/archives/060601/putting_iraq_in.htm?s_cid=rss:site1)recupera dei dati e mette in prospettiva gli esiti dell'impegno militare americano in Iraq.
 
 
 

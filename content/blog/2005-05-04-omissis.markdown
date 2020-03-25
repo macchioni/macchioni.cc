@@ -12,5 +12,5 @@ wordpress_id: 316
 ---
 Forse e un'impressione sbagliata, ma non vi pare che la blogosfera
 extra-italiana stia recependo troppo lentamente la notizia dello scoop
-di [Macchianera](http://www.macchianera.net/)?  
+di [Macchianera](https://www.macchianera.net/)?  
 

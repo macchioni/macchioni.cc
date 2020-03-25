@@ -10,7 +10,7 @@ url: "/2006/05/10/il-monarca-vero/"
 wordpress_id: 2175
 
 ---
-Che poi la questione non è Napolitano - che è un uomo d'onore, così tutti gli altri, tutti sono uomini d'onore - ma [Gifuni](http://www.blognews.it/click/-3,165701/).
+Che poi la questione non è Napolitano - che è un uomo d'onore, così tutti gli altri, tutti sono uomini d'onore - ma [Gifuni](https://www.blognews.it/click/-3,165701/).
 
 
 ### Dagospia

@@ -12,6 +12,6 @@ url: "/2010/04/23/life-via-twitter-2010-04-23/"
 wordpress_id: 4417
 
 ---
-* Ubuntu 10.04 è la prima distribuzione Linux accattivante anche per i non smanettoni (in più funziona e non è marrone) - [http://bit.ly/aGETqu](http://bit.ly/aGETqu) [#](http://twitter.com/leibniz/statuses/12695087161)
+* Ubuntu 10.04 è la prima distribuzione Linux accattivante anche per i non smanettoni (in più funziona e non è marrone) - [https://bit.ly/aGETqu](https://bit.ly/aGETqu) [#](https://twitter.com/leibniz/statuses/12695087161)
 
 

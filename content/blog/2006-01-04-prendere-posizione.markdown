@@ -10,7 +10,7 @@ url: "/2006/01/04/prendere-posizione/"
 wordpress_id: 1966
 
 ---
-[The kamasutra of reading](http://storms.typepad.com/booklust/2005/01/reading_is_sexy.html).
+[The kamasutra of reading](https://storms.typepad.com/booklust/2005/01/reading_is_sexy.html).
 
 
-### Booklust (via [Giavasan](http://giavasan.diludovico.it/))
+### Booklust (via [Giavasan](https://giavasan.diludovico.it/))

@@ -11,8 +11,8 @@ wordpress_id: 240
 
 ---
 Se il Corsera aveva sdoganato il burraco, ora Panorama (che assomiglia
-sempre piu a [Parioli Pocket](http://www.gruppopocket.com/index2.html) ma senza la donnina in copertina) dedica due pagine al trash romano ma
-soprattutto ai [Prophilax](http://www.prophilax.it/).  
+sempre piu a [Parioli Pocket](https://www.gruppopocket.com/index2.html) ma senza la donnina in copertina) dedica due pagine al trash romano ma
+soprattutto ai [Prophilax](https://www.prophilax.it/).  
 
 
 

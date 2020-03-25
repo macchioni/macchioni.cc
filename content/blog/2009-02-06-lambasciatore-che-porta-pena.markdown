@@ -11,4 +11,4 @@ url: "/2009/02/06/lambasciatore-che-porta-pena/"
 wordpress_id: 3936
 
 ---
-[Il meraviglioso discorso d'addio](http://www.usembassy.it/viewer/article.asp?article=/file2009_02/alia/a9020405.htm) dell'ambasciatore americano in Italia Ronald Spogli. [US Embassy]
+[Il meraviglioso discorso d'addio](https://www.usembassy.it/viewer/article.asp?article=/file2009_02/alia/a9020405.htm) dell'ambasciatore americano in Italia Ronald Spogli. [US Embassy]

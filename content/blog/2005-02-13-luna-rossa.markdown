@@ -10,7 +10,7 @@ url: "/2005/02/13/luna-rossa/"
 wordpress_id: 467
 
 ---
-Grazie a [Diario](http://www.repubblica.it/speciale/2004/diario/index.html)
+Grazie a [Diario](https://www.repubblica.it/speciale/2004/diario/index.html)
 di Repubblica, Miuccia Prada racconta 'quell'aspirazione a ben fare,
 quell'ossessione a comportarmi bene che mi vengono dall'educazione
 cattolica e comunista'.

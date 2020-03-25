@@ -10,10 +10,10 @@ url: "/2005/09/03/sweden-will-suffer-in-the-name-of-allah/"
 wordpress_id: 100
 
 ---
-[Pare ](http://www.danielpipes.org/blog/507)che i fondamentalisti islamici ce l'abbiano anche con il paese di Ikea e delle polpette di alce.  
+[Pare ](https://www.danielpipes.org/blog/507)che i fondamentalisti islamici ce l'abbiano anche con il paese di Ikea e delle polpette di alce.  
 
 
 
 ### Daniel Pipes |
-tag: [terrorism](http://www.technorati.com/tags/terrorism), [sweden](http://www.technorati.com/tags/sweden)
+tag: [terrorism](https://www.technorati.com/tags/terrorism), [sweden](https://www.technorati.com/tags/sweden)
 

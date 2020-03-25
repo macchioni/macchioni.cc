@@ -18,4 +18,4 @@ qui si chiude fino alla prossima settimana e vi si rimanda all'Enciclopedia dei 
 
 ### Mario Adinolfi
 
-[1]:	http://marioadinolfi.ilcannocchiale.it/
+[1]:	https://marioadinolfi.ilcannocchiale.it/

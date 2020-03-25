@@ -10,7 +10,7 @@ url: "/2007/01/25/pecorelle/"
 wordpress_id: 2381
 
 ---
-![](http://www.kidsdomain.com/brain/animals/clip/sheep.gif)Ci sono due modi di [vederla](http://www.lastampa.it/redazione/cmsSezioni/politica/200701articoli/17088girata.asp).
+![](https://www.kidsdomain.com/brain/animals/clip/sheep.gif)Ci sono due modi di [vederla](https://www.lastampa.it/redazione/cmsSezioni/politica/200701articoli/17088girata.asp).
 
 **Caso numero 1**
 

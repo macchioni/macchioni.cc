@@ -10,7 +10,7 @@ url: "/2009/02/03/poveri-ma-ricchi/"
 wordpress_id: 3932
 
 ---
-Salta fuori che in Italia - in tempo di crisi, ma anche da prima - i salari sono aumentati più dei prezzi. Uno si chiede: dov'è la fregatura? Spiega [Francesco Daveri](http://www.lavoce.info/articoli/pagina1000919.html) su lavoce.info:
+Salta fuori che in Italia - in tempo di crisi, ma anche da prima - i salari sono aumentati più dei prezzi. Uno si chiede: dov'è la fregatura? Spiega [Francesco Daveri](https://www.lavoce.info/articoli/pagina1000919.html) su lavoce.info:
 
 
 > Si deve quindi concludere che la percezione di impoverimento deriva da ciò che succede fuori dalle relazioni industriali e fuori dai negozi e dai supermercati, cioè nel momento in cui compiliamo la dichiarazione dei redditi e in quello in cui andiamo in banca a pagare la rata mensile del mutuo. **È evidentemente l’aumento delle tasse e dei mutui che ci fa sentire più poveri tutti i mesi, non l’ingordigia dei distributori.**

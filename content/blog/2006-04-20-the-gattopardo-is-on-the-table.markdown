@@ -10,10 +10,10 @@ url: "/2006/04/20/the-gattopardo-is-on-the-table/"
 wordpress_id: 2148
 
 ---
-![](http://www.dawmedia.it/blog/prodichitarra2.jpg)
+![](https://www.dawmedia.it/blog/prodichitarra2.jpg)
 
 "Se vogliamo che tutto rimanga com’è, bisogna che tutto cambi".
 
 
-### Foto tratta(ta) da [Daw](http://daw.ilcannocchiale.it/?id_blogdoc=960752) (ma solo in alto a destra)[
-](http://daw.ilcannocchiale.it/?id_blogdoc=960752)
+### Foto tratta(ta) da [Daw](https://daw.ilcannocchiale.it/?id_blogdoc=960752) (ma solo in alto a destra)[
+](https://daw.ilcannocchiale.it/?id_blogdoc=960752)

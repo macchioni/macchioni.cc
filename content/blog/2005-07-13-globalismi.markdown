@@ -11,14 +11,14 @@ url: "/2005/07/13/globalismi/"
 wordpress_id: 197
 
 ---
-Per la cronaca, ecco le prime dieci cose ricercate su [Technorati](http://www.technorati.com/) piu o meno a quest'ora, ma la scorsa notte:  
+Per la cronaca, ecco le prime dieci cose ricercate su [Technorati](https://www.technorati.com/) piu o meno a quest'ora, ma la scorsa notte:  
 
 
 > 1. Karl Rove  
 
 2. Mariah Carey  
 
-3. [Japanese Cheesecake](http://jaschin.blog.com/226114/)  
+3. [Japanese Cheesecake](https://jaschin.blog.com/226114/)  
 
 4. london  
 

@@ -10,7 +10,7 @@ url: "/2005/09/27/letica-di-tallin/"
 wordpress_id: 68
 
 ---
-L'Ansa ieri sera ha battuto la seguente notizia: il ministro della Difesa estone[ Jaak Joeruut](http://en.wikipedia.org/wiki/Jaak_J%C3%B5er%C3%BC%C3%BCt)
+L'Ansa ieri sera ha battuto la seguente notizia: il ministro della Difesa estone[ Jaak Joeruut](https://en.wikipedia.org/wiki/Jaak_J%C3%B5er%C3%BC%C3%BCt)
 ha annunciato oggi di aver presentato le dimissioni a causa del
 comportamento del direttore del Museo della guerra, dipendente dal suo
 dicastero, che aveva indossato una maglia con la scritta «Comunisti al
@@ -35,5 +35,5 @@ una valigetta contenente documenti riservati nella sua residenza estiva.
 
 
 
-### Wikipedia | tag: [quirkies](http://www.technorati.com/tags/quirkies), [estonia](http://www.technorati.com/tags/estonia)
+### Wikipedia | tag: [quirkies](https://www.technorati.com/tags/quirkies), [estonia](https://www.technorati.com/tags/estonia)
 

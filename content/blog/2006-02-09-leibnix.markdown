@@ -10,7 +10,7 @@ url: "/2006/02/09/leibnix/"
 wordpress_id: 2025
 
 ---
-![](http://www.galileocomputing.de/download/buch/769/cover.gif)Oggi altro giorno incasinato. Se non altro, nel frattempo - anzi, in meno di due ore - un vecchio pc è stato rianimato, ha lasciato Windows 98 e ora ospita [Ubuntu](http://www.ubuntuitalia.org/).
+![](https://www.galileocomputing.de/download/buch/769/cover.gif)Oggi altro giorno incasinato. Se non altro, nel frattempo - anzi, in meno di due ore - un vecchio pc è stato rianimato, ha lasciato Windows 98 e ora ospita [Ubuntu](https://www.ubuntuitalia.org/).
 
 
 ### Ubuntu Italia

@@ -10,6 +10,6 @@ url: "/2006/07/24/knight-rider/"
 wordpress_id: 2263
 
 ---
-Ma, esattamente, chi potrebbe mai andare a vedere [un musical sulla vita di David Hasselhoff](http://www.celebrityweek.com/news/show_news.asp?id=712)?
+Ma, esattamente, chi potrebbe mai andare a vedere [un musical sulla vita di David Hasselhoff](https://www.celebrityweek.com/news/show_news.asp?id=712)?
 
 ### Celebrity Week

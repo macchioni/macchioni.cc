@@ -10,8 +10,8 @@ url: "/2005/08/11/lalba-dentro-limbrunire/"
 wordpress_id: 134
 
 ---
-[San Pietroburgo](http://www.vanityfair.com/commentary/content/articles/050808roco02) raccontata da Christopher Hitchens.  
+[San Pietroburgo](https://www.vanityfair.com/commentary/content/articles/050808roco02) raccontata da Christopher Hitchens.  
 
 
 
-### Vanity Fair | tag: [stpetersburg](http://www.technorati.com/tags/stpetersburg), [reportage](http://www.technorati.com/tags/reportage), [cities](http://www.technorati.com/tags/cities)
+### Vanity Fair | tag: [stpetersburg](https://www.technorati.com/tags/stpetersburg), [reportage](https://www.technorati.com/tags/reportage), [cities](https://www.technorati.com/tags/cities)

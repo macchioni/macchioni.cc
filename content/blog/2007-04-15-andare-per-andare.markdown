@@ -10,4 +10,4 @@ url: "/2007/04/15/andare-per-andare/"
 wordpress_id: 2452
 
 ---
-Fuori è estate. Magari viene voglia di correre. Debutta l'esperimento [playlist](http://www.leibniz-blogs.it/playlists/).
+Fuori è estate. Magari viene voglia di correre. Debutta l'esperimento [playlist](https://www.leibniz-blogs.it/playlists/).

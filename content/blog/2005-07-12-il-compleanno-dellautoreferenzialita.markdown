@@ -10,10 +10,10 @@ url: "/2005/07/12/il-compleanno-dellautoreferenzialita/"
 wordpress_id: 200
 
 ---
-![](http://blogday.wikispaces.org/i/n/blogday.gif)Giavasan, versione daily, [ricorda ](http://giavasan.diludovico.it/archivio/2005/07/11/blogday-2005/)che il 31 agosto sara il [Blog Day](http://blogday.wikispaces.org/).
+![](https://blogday.wikispaces.org/i/n/blogday.gif)Giavasan, versione daily, [ricorda ](https://giavasan.diludovico.it/archivio/2005/07/11/blogday-2005/)che il 31 agosto sara il [Blog Day](https://blogday.wikispaces.org/).
 Ogno blogger, in teoria, scrivera bene di 5 blog diversi dal suo, in
 modo da farlo conoscere ai visitatori. Nel frattempo Leibniz,
-incuriosito [dai guru della rete](http://paolo.evectors.it/italian/2005/07/08.html#a2566), sta facendo [una prova](http://www.rosental.typepad.com/) del nuovo TypePad in italiano.  
+incuriosito [dai guru della rete](https://paolo.evectors.it/italian/2005/07/08.html#a2566), sta facendo [una prova](https://www.rosental.typepad.com/) del nuovo TypePad in italiano.  
 
 
 

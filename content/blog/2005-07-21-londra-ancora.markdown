@@ -10,4 +10,4 @@ url: "/2005/07/21/londra-ancora/"
 wordpress_id: 180
 
 ---
-Che [prima pagina l'Ansa](http://www.ansa.it/).
+Che [prima pagina l'Ansa](https://www.ansa.it/).

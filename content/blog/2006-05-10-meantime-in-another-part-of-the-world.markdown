@@ -10,7 +10,7 @@ url: "/2006/05/10/meantime-in-another-part-of-the-world/"
 wordpress_id: 2176
 
 ---
-Antonio Dini, ispirato dai [gamberi della Bay Area](http://antoniodini.blogspot.com/2006/05/la-vita-monte-della-valle.html), si dà alla giusta [demografia](http://antoniodini.blogspot.com/2006/05/demografia-dei-poveri.html):
+Antonio Dini, ispirato dai [gamberi della Bay Area](https://antoniodini.blogspot.com/2006/05/la-vita-monte-della-valle.html), si dà alla giusta [demografia](https://antoniodini.blogspot.com/2006/05/demografia-dei-poveri.html):
 
 
 > negli Usa l'età media è 36,2 anni (nel 2000 era 35,3). Si tratta della media dell'età di tutta la popolazione vivente. L'età media in Italia è 42,2 anni, l'attesa di vita per chi viene al mondo oggi invece è 79,8 anni (negli Usa è 77,8). La metà matematica per l'aspettativa di vita cade rispettivamente a 39,9 anni da noi e a 38,9 anni negli Usa.

@@ -13,5 +13,5 @@ Una bella mostra d'arte contemporanea organizzata per far parlare di sé è quel
 
 ### Royal Academy - This is London
 
-[1]:	http://www.royalacademy.org.uk/exhibitions/usatoday/
-[2]:	http://www.thisislondon.co.uk/arts/article-23369558-details/Shock+of+the+nude+in+Saatchi's+new+show/article.do
+[1]:	https://www.royalacademy.org.uk/exhibitions/usatoday/
+[2]:	https://www.thisislondon.co.uk/arts/article-23369558-details/Shock+of+the+nude+in+Saatchi's+new+show/article.do

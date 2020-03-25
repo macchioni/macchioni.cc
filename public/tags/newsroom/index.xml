@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Newsroom on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/newsroom/</link>
@@ -17,11 +17,11 @@
       <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/2014/05/21/il-manuale-segreto-del-nytimes/</guid>
-      <description>&lt;p&gt;Il &lt;a href=&#34;http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014&#34;&gt;&lt;em&gt;New York Times&lt;/em&gt; Innovation Report&lt;/a&gt;, l’inchiesta interna (e, in teoria, riservata) del più grande giornale del mondo realizzata per capire come si fa ad avere più lettori al tempo dell’Internet, è forse il documento più interessante che leggeremo quest’anno per avere un quadro chiaro sull’industria del giornalismo oggi.&lt;/p&gt;
+      <description>&lt;p&gt;Il &lt;a href=&#34;https://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014&#34;&gt;&lt;em&gt;New York Times&lt;/em&gt; Innovation Report&lt;/a&gt;, l’inchiesta interna (e, in teoria, riservata) del più grande giornale del mondo realizzata per capire come si fa ad avere più lettori al tempo dell’Internet, è forse il documento più interessante che leggeremo quest’anno per avere un quadro chiaro sull’industria del giornalismo oggi.&lt;/p&gt;
 
-&lt;p&gt;Noi italiani, considerata l’arretratezza del panorama, potremmo evitare di guardarlo per un altro paio di anni, ma chi pensa davvero di voler lavorare nei media, chi ci lavora e si annoia, chi non sa da dove iniziare per costruirisi una qualche carriera nei giornali di domani deve solo scaricare il pdf e preparare la lista dei corsi di aggiornamento da seguire. Io, intanto, segno qui, alcune cose che è meglio non far volare via. Senza dimenticare che, di questi tempi, è tutto un po’ volatile: in fondo, &lt;a href=&#34;http://www.nytco.com/the-new-york-timess-most-visited-content-of-2013/&#34;&gt;il contenuto più letto del &lt;em&gt;New York Times&lt;/em&gt; nel 2013 non è stato un articolo di grande giornalismo da Pulitzer&lt;/a&gt;, ma un quiz.&lt;/p&gt;
+&lt;p&gt;Noi italiani, considerata l’arretratezza del panorama, potremmo evitare di guardarlo per un altro paio di anni, ma chi pensa davvero di voler lavorare nei media, chi ci lavora e si annoia, chi non sa da dove iniziare per costruirisi una qualche carriera nei giornali di domani deve solo scaricare il pdf e preparare la lista dei corsi di aggiornamento da seguire. Io, intanto, segno qui, alcune cose che è meglio non far volare via. Senza dimenticare che, di questi tempi, è tutto un po’ volatile: in fondo, &lt;a href=&#34;https://www.nytco.com/the-new-york-timess-most-visited-content-of-2013/&#34;&gt;il contenuto più letto del &lt;em&gt;New York Times&lt;/em&gt; nel 2013 non è stato un articolo di grande giornalismo da Pulitzer&lt;/a&gt;, ma un quiz.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/nytinnovation.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leibniz.me/images/vault/nytinnovation.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;###I tuoi contenuti sono il tuo prodotto
 L’introduzione del rapporto dice due cose, che valgono per il &lt;em&gt;Times&lt;/em&gt; come per tutti i giornali:
@@ -33,24 +33,24 @@ L’introduzione del rapporto dice due cose, che valgono per il &lt;em&gt;Times&
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Negli ultimi anni, persino in Italia, gli editori più tradizionali hanno cominciato a pensare ai lettori come “clienti”. Ecco, l’esperienza americana, che pure fa ampio ricorso a strumenti ambigui come il &lt;a href=&#34;https://it.wikipedia.org/wiki/Native_advertising&#34;&gt;native advertising&lt;/a&gt;, oggi dice: occhio, non perdiamo di vista il nostro core business, è quello il nostro valore; vendiamo contenuti giornalistici (ognuno ha poi il suo target e la sua unicità). Un giornale oggi non può prescindere da due obiettivi: costruire contenuti che abbiano un valore, farli arrivare ai lettori, far sì che quegli stessi lettori continuino a leggere quel giornale. In mezzo, ovviamente, ci sono la pubblicità, il marketing, l’esercizio di un qualche potere politico, ma oggi - soprattutto - c’è il web. Con internet, dicono i tipi del &lt;em&gt;Times&lt;/em&gt;, puoi scrivere anche il miglior pezzo del mondo, ma poi è possibilissimo che siano altri siti di news, pur citandoti, ad avvantaggiarsene. A loro succede spesso, ma il caso più clamoroso riguarda &lt;a href=&#34;http://query.nytimes.com/mem/archive-free/pdf?res=9E03EEDC1438E334BC4851DFB7668388649FDE&amp;amp;smid=nytimesarts&#34;&gt;un pezzo di 161 anni fa&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Negli ultimi anni, persino in Italia, gli editori più tradizionali hanno cominciato a pensare ai lettori come “clienti”. Ecco, l’esperienza americana, che pure fa ampio ricorso a strumenti ambigui come il &lt;a href=&#34;https://it.wikipedia.org/wiki/Native_advertising&#34;&gt;native advertising&lt;/a&gt;, oggi dice: occhio, non perdiamo di vista il nostro core business, è quello il nostro valore; vendiamo contenuti giornalistici (ognuno ha poi il suo target e la sua unicità). Un giornale oggi non può prescindere da due obiettivi: costruire contenuti che abbiano un valore, farli arrivare ai lettori, far sì che quegli stessi lettori continuino a leggere quel giornale. In mezzo, ovviamente, ci sono la pubblicità, il marketing, l’esercizio di un qualche potere politico, ma oggi - soprattutto - c’è il web. Con internet, dicono i tipi del &lt;em&gt;Times&lt;/em&gt;, puoi scrivere anche il miglior pezzo del mondo, ma poi è possibilissimo che siano altri siti di news, pur citandoti, ad avvantaggiarsene. A loro succede spesso, ma il caso più clamoroso riguarda &lt;a href=&#34;https://query.nytimes.com/mem/archive-free/pdf?res=9E03EEDC1438E334BC4851DFB7668388649FDE&amp;amp;smid=nytimesarts&#34;&gt;un pezzo di 161 anni fa&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;On Oscar night, &lt;em&gt;The Times&lt;/em&gt; tweeted a 161-year-old story about Solomon Northup, whose memoir was the basis for “12 Years a Slave.” After it started going viral on social media, &lt;a href=&#34;http://gawker.com/this-is-the-161-year-old-new-york-times-article-about-1-1535199589&#34;&gt;Gawker pounced&lt;/a&gt;, and quickly fashioned a story based on excerpts from our piece. It ended up being one of their best-read items of the year.&lt;/p&gt;
+&lt;p&gt;On Oscar night, &lt;em&gt;The Times&lt;/em&gt; tweeted a 161-year-old story about Solomon Northup, whose memoir was the basis for “12 Years a Slave.” After it started going viral on social media, &lt;a href=&#34;https://gawker.com/this-is-the-161-year-old-new-york-times-article-about-1-1535199589&#34;&gt;Gawker pounced&lt;/a&gt;, and quickly fashioned a story based on excerpts from our piece. It ended up being one of their best-read items of the year.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/guy.png&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leibniz.me/images/vault/guy.png&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;###Disruption, ovvero Beppe Grillo è il nostro Buzzfeed ma senza  LOL e gattini
 Secondo il Rapporto, la forza dei media digitali che ogni giorno surclassano un gigante come il &lt;em&gt;New York Times&lt;/em&gt;, sta nella loro capacità di sconvolgere il panorama grazie alla tecnologia. La parola usata è &lt;a href=&#34;https://en.wikipedia.org/wiki/Disruptive_innovation&#34;&gt;Disruption&lt;/a&gt; e la storia è questa:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Il &lt;strong&gt;pezzo grosso&lt;/strong&gt; del mercato innova apportando miglioramenti graduali al suo prodotto, focalizzandosi sulla qualità e tenendo ben presente il modello di business che funziona per lui.&lt;/li&gt;
-&lt;li&gt;Lo &lt;strong&gt;sfidante di turno&lt;/strong&gt;, il &lt;strong&gt;disruptor&lt;/strong&gt;, inizia proponendo prodotti di qualità più bassa che non sembrano in concorrenza con quelli del pezzo grosso. Pensate ai &lt;a href=&#34;http://www.buzzfeed.com/tag/lolcats&#34;&gt;gattini di &lt;em&gt;Buzzfeed&lt;/em&gt;&lt;/a&gt;, ai Samsung che imitano a scoppio ritardato gli iPhone, persino a Beppe Grillo che ha rubato una certa scena politica a Silvio Berlusconi (che non è un iPhone, ma insomma, ci siamo capiti).&lt;/li&gt;
+&lt;li&gt;Lo &lt;strong&gt;sfidante di turno&lt;/strong&gt;, il &lt;strong&gt;disruptor&lt;/strong&gt;, inizia proponendo prodotti di qualità più bassa che non sembrano in concorrenza con quelli del pezzo grosso. Pensate ai &lt;a href=&#34;https://www.buzzfeed.com/tag/lolcats&#34;&gt;gattini di &lt;em&gt;Buzzfeed&lt;/em&gt;&lt;/a&gt;, ai Samsung che imitano a scoppio ritardato gli iPhone, persino a Beppe Grillo che ha rubato una certa scena politica a Silvio Berlusconi (che non è un iPhone, ma insomma, ci siamo capiti).&lt;/li&gt;
 &lt;li&gt;A un certo punto il &lt;strong&gt;disruptor&lt;/strong&gt; usa la nuova tecnologia così bene che migliora il suo prodotto e lo rende “buono abbastanza” per la nicchia di mercato del pezzo grosso e anche per tutti gli altri. E quindi l’&lt;em&gt;Huffington Post&lt;/em&gt; e &lt;em&gt;Buzzfeed&lt;/em&gt; generano molto più traffico del &lt;em&gt;Times&lt;/em&gt;, Samsung vende 40 milioni di S4 in sei mesi, Grillo verosimilmente fa diventare il suo Movimento 5 Stelle il secondo partito d’Italia.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Ora, è chiaro che di casi con risultati opposti ce ne sono molti (il primo che mi viene in mente è il successo e la breve vita della free press), ma quando l’equazione dà come risultato “giornali+internet”, grosso modo va come detto sopra. In Italia, però, il guru del momento sembra essere l’Urbano Cairo che fa affari felice, fa il disruptor e &lt;a href=&#34;http://www.ilfoglio.it/soloqui/23251&#34;&gt;il web dice di evitarlo perché non lo capisce&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Ora, è chiaro che di casi con risultati opposti ce ne sono molti (il primo che mi viene in mente è il successo e la breve vita della free press), ma quando l’equazione dà come risultato “giornali+internet”, grosso modo va come detto sopra. In Italia, però, il guru del momento sembra essere l’Urbano Cairo che fa affari felice, fa il disruptor e &lt;a href=&#34;https://www.ilfoglio.it/soloqui/23251&#34;&gt;il web dice di evitarlo perché non lo capisce&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Non è vero che con i giornali non si possono fare soldi. Io li faccio. Ma quando fai un giornale devi parlare al pubblico, devi rendere appetibile il prodotto. E quindi devi pensare con la testa di chi compra, non con la testa dei padroni.&lt;/p&gt;
@@ -75,10 +75,10 @@ Torno al Report del &lt;em&gt;Times&lt;/em&gt;. Come si attirano oggi, verosimil
 
 &lt;p&gt;La buona notizia è che, in redazione, a fare il nuovo lavoro, non resteremo soli.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://leibniz.me/images/vault/slo.png&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leibniz.me/images/vault/slo.png&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;###Redazioni senza (solo) giornalisti
-Ora, parlare di aprire le redazioni dei giornali nel Paese dove esiste uno degli ordini professionali più chiusi ever è abbastanza naïf. Pura fantascienza è anche una qualche organizzazione che somigli alla incasinata redazione-&lt;a href=&#34;http://scripting.com/stories/2010/02/07/hypercampRevisited.html&#34;&gt;hypercamp&lt;/a&gt; teorizzata da Dave Winer con tanto di &lt;a href=&#34;https://secure.flickr.com/photos/scriptingnews/87587076/&#34;&gt;schizzo&lt;/a&gt; postato su Flickr, e &lt;a href=&#34;http://scripting.com/2014/05/18/#a1400431859&#34;&gt;rilanciata&lt;/a&gt; in questi giorni.&lt;/p&gt;
+Ora, parlare di aprire le redazioni dei giornali nel Paese dove esiste uno degli ordini professionali più chiusi ever è abbastanza naïf. Pura fantascienza è anche una qualche organizzazione che somigli alla incasinata redazione-&lt;a href=&#34;https://scripting.com/stories/2010/02/07/hypercampRevisited.html&#34;&gt;hypercamp&lt;/a&gt; teorizzata da Dave Winer con tanto di &lt;a href=&#34;https://secure.flickr.com/photos/scriptingnews/87587076/&#34;&gt;schizzo&lt;/a&gt; postato su Flickr, e &lt;a href=&#34;https://scripting.com/2014/05/18/#a1400431859&#34;&gt;rilanciata&lt;/a&gt; in questi giorni.&lt;/p&gt;
 
 &lt;p&gt;Comunque sia, la pagina 59 dell’Innovation Report del &lt;em&gt;Times&lt;/em&gt; andrebbe letta, mandata a memoria e poi almeno sognata, dato che richiede una quantità di innovazione, strategia, professionalità e forza lavoro che poche aziende editoriali italiane sarebbero desiderose di mettere in campo.&lt;/p&gt;
 

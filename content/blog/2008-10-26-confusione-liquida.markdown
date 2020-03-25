@@ -10,7 +10,7 @@ url: "/2008/10/26/confusione-liquida/"
 wordpress_id: 3117
 
 ---
-Per Zygmunt Bauman [il problema della sinistra](http://www.guardian.co.uk/commentisfree/2008/oct/26/labour-economics) (ma anche della destra, dunque) è che fatica a trovare un'identità coerente con la sua storia:
+Per Zygmunt Bauman [il problema della sinistra](https://www.guardian.co.uk/commentisfree/2008/oct/26/labour-economics) (ma anche della destra, dunque) è che fatica a trovare un'identità coerente con la sua storia:
 
 
 

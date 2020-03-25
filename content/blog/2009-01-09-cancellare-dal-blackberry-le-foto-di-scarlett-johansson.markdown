@@ -10,4 +10,4 @@ url: "/2009/01/09/cancellare-dal-blackberry-le-foto-di-scarlett-johansson/"
 wordpress_id: 3827
 
 ---
-Mad Magazine ha provato a indovinare non i primi 100 giorni, ma  [i primi 100 minuti di Barack Obama](http://blog.indecision2008.com/2009/01/08/mad-magazine-barack-obamas-first-100-minutes-exclusive/) alla Casa Bianca. [Mad Magazine via Indecision 2008]
+Mad Magazine ha provato a indovinare non i primi 100 giorni, ma  [i primi 100 minuti di Barack Obama](https://blog.indecision2008.com/2009/01/08/mad-magazine-barack-obamas-first-100-minutes-exclusive/) alla Casa Bianca. [Mad Magazine via Indecision 2008]

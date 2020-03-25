@@ -10,7 +10,7 @@ url: "/2006/05/15/il-coniglio-del-presidente-sempre-zompa/"
 wordpress_id: 2180
 
 ---
-Applausi a scena aperta per il [discorso rivoluzionario](http://smog.ilcannocchiale.it/?id_blogdoc=1000799) tenuto poco fa dal Presidente della Repubblica, Giorgio Napolitano:
+Applausi a scena aperta per il [discorso rivoluzionario](https://smog.ilcannocchiale.it/?id_blogdoc=1000799) tenuto poco fa dal Presidente della Repubblica, Giorgio Napolitano:
 
 
 > Cari colleghi, signor presidente della Camera, la politica italiana è entrata da tempo nel canyon profondo dell’anomalia. Anomali gli attori, anomale le procedure, anomala la prassi, anomale le forme di sostentamento.
@@ -37,7 +37,7 @@ Applausi a scena aperta per il [discorso rivoluzionario](http://smog.ilcannocchi
 Viva la Libertà!
 
 
-Ultim'ora: alla fine il Presidente ha letto [il discorso di riserva](http://www.repubblica.it/2006/05/sezioni/politica/nuovo-presidente-5/napolitano-discorso-integrale/napolitano-discorso-integrale.html).
+Ultim'ora: alla fine il Presidente ha letto [il discorso di riserva](https://www.repubblica.it/2006/05/sezioni/politica/nuovo-presidente-5/napolitano-discorso-integrale/napolitano-discorso-integrale.html).
 
 
 ### Smog - Repubblica

@@ -10,7 +10,7 @@ url: "/2004/05/22/una-serata-tranquilla-ai-fori/"
 wordpress_id: 3724
 
 ---
-E' cominciato ieri sera con Antonio Tabucchi il Festival Letterature alla Basilica di Massenzio. Ogni serata uno scrittore legge un suo testo, o uno scritto elaborato sul tema, accompagnato da un musicista o un attore. A guardare dal [programma](http://www.festivaldelleletterature.it/programma.asp?lang=it), anche quest'anno qualcosina da vedere c'è. Ecco alcune date: 
+E' cominciato ieri sera con Antonio Tabucchi il Festival Letterature alla Basilica di Massenzio. Ogni serata uno scrittore legge un suo testo, o uno scritto elaborato sul tema, accompagnato da un musicista o un attore. A guardare dal [programma](https://www.festivaldelleletterature.it/programma.asp?lang=it), anche quest'anno qualcosina da vedere c'è. Ecco alcune date: 
 
 
 > 26/5 Jonathan Franzen (con Valeria Golino)

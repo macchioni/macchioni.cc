@@ -10,8 +10,8 @@ url: "/2005/07/11/sveglie/"
 wordpress_id: 201
 
 ---
-![](http://www.educared.org.ar/tamtam/images/roger_wood.jpg)A proposito di Londra, qualche appunto letto qua e la.  
-Le [tre lezioni da imparare](http://www.time.com/time/magazine/printout/0,8816,1081366,00.html) secondo Time:  
+![](https://www.educared.org.ar/tamtam/images/roger_wood.jpg)A proposito di Londra, qualche appunto letto qua e la.  
+Le [tre lezioni da imparare](https://www.time.com/time/magazine/printout/0,8816,1081366,00.html) secondo Time:  
 
 
 > 1. EUROPE IS BURNING - The attacks on 7/7 were a reminder that Europe is, more than ever, a center of the threat.
@@ -24,7 +24,7 @@ tactics in response.
 is that the larger, law-abiding Muslim communities in Europe will more
 effectively marginalize their radicals.
 
-[La sveglia](http://www.corriere.it/Primo_Piano/Editoriali/2005/07_Luglio/10/loggia.shtml) di Galli della Loggia:  
+[La sveglia](https://www.corriere.it/Primo_Piano/Editoriali/2005/07_Luglio/10/loggia.shtml) di Galli della Loggia:  
 
 
 
@@ -43,7 +43,7 @@ non buonista per antonomasia degli Stati Uniti. La quale pero ha almeno
 il merito inestimabile di saper riconoscere i propri nemici, di
 chiamarli con il loro nome e di combatterli senza esitazioni.
 
-Fareed Zakaria, dopo il suo fulminante attacco («The London bombings have failed»), cerca di capire cosa vuol dire [«vincere» ](http://www.msnbc.msn.com/id/8525976/site/newsweek/print/1/displaymode/1098)contro il terrirismo:
+Fareed Zakaria, dopo il suo fulminante attacco («The London bombings have failed»), cerca di capire cosa vuol dire [«vincere» ](https://www.msnbc.msn.com/id/8525976/site/newsweek/print/1/displaymode/1098)contro il terrirismo:
 
 > Real
 victory is not about preventing all attacks everywhere. No one can

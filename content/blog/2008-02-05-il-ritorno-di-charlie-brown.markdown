@@ -10,7 +10,7 @@ url: "/2008/02/05/il-ritorno-di-charlie-brown/"
 wordpress_id: 2637
 
 ---
-Come tradizione, una rassegna [dei peggiori e dei migliori spot del Superbowl](http://www.slate.com/id/2183443/nav/tap3/).
+Come tradizione, una rassegna [dei peggiori e dei migliori spot del Superbowl](https://www.slate.com/id/2183443/nav/tap3/).
 
 
 ### Slate

@@ -12,4 +12,4 @@ url: "/2008/12/05/never-an-honest-word-but-that-was-when-i-ruled-the-world/"
 wordpress_id: 3798
 
 ---
-[Ecco](http://it.youtube.com/watch?v=1ofFw9DKu_I) che cosa mi ricordava... [[iGotSpaceLikeNASA](http://it.youtube.com/user/iGotSpaceLikeNASA) -YouTube]
+[Ecco](https://it.youtube.com/watch?v=1ofFw9DKu_I) che cosa mi ricordava... [[iGotSpaceLikeNASA](https://it.youtube.com/user/iGotSpaceLikeNASA) -YouTube]

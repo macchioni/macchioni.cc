@@ -10,7 +10,7 @@ url: "/2007/01/14/una-cagata-pazzesca-2/"
 wordpress_id: 2373
 
 ---
-La [Coca Cola fritta](http://www.boingboing.net/2006/10/12/deepfried_cocacola.html)? [Filamenti di sciroppo incandescente](http://www.mcsweeneys.net/links/newfood/#FriedCoke) che fannno male ai denti.
+La [Coca Cola fritta](https://www.boingboing.net/2006/10/12/deepfried_cocacola.html)? [Filamenti di sciroppo incandescente](https://www.mcsweeneys.net/links/newfood/#FriedCoke) che fannno male ai denti.
 
 
 ### BoinBoing - McSweeney's

@@ -12,8 +12,8 @@ wordpress_id: 182
 
 ---
 Il British Film Institute ha stilato la lista dei [50 film
-piu belli per i ragazzi con piu di 14 anni](http://www.bfi.org.uk/education/events/watchthis/top50.php). Per l'Italia c'e giusto «Ladri
-di Biciclette», persino l'Iran ha due citazioni (e uno e il terribile «[Palloncino bianco](http://www.imdb.com/title/tt0112445/)»).  
+piu belli per i ragazzi con piu di 14 anni](https://www.bfi.org.uk/education/events/watchthis/top50.php). Per l'Italia c'e giusto «Ladri
+di Biciclette», persino l'Iran ha due citazioni (e uno e il terribile «[Palloncino bianco](https://www.imdb.com/title/tt0112445/)»).  
 
 
 ### Bfi

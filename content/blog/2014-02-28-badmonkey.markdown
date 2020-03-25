@@ -20,7 +20,7 @@ wordpress_id: 5048
 
 
 
-Per colpa di [Gary Shteyngart](http://www.nytimes.com/2014/02/02/books/review/gary-shteyngart-by-the-book.html?_r=0) ho comprato e letto [Bad Monkey](http://www.amazon.com/Bad-Monkey-Carl-Hiaasen/dp/0307272591) di Carl Hiaasen.  A me piace Gary, lo chiamo per nome solo perché compro i suoi libri, ma so che dovrei fidarmi meno dei suoi endorsement, anche perché è uno dei pochi scrittori ad avere un intero paragrafo di Wikipedia dedicato ai suoi [blurb](https://en.wikipedia.org/wiki/Gary_Shteyngart#Blurbs). E poi c'è anche un'altra ragione per la quale non avrei dovuto credergli: il nuovo libro di Shteyngart’s, _Little Failure_, viene presentato proprio da una frase di… Hiaasen:
+Per colpa di [Gary Shteyngart](https://www.nytimes.com/2014/02/02/books/review/gary-shteyngart-by-the-book.html?_r=0) ho comprato e letto [Bad Monkey](https://www.amazon.com/Bad-Monkey-Carl-Hiaasen/dp/0307272591) di Carl Hiaasen.  A me piace Gary, lo chiamo per nome solo perché compro i suoi libri, ma so che dovrei fidarmi meno dei suoi endorsement, anche perché è uno dei pochi scrittori ad avere un intero paragrafo di Wikipedia dedicato ai suoi [blurb](https://en.wikipedia.org/wiki/Gary_Shteyngart#Blurbs). E poi c'è anche un'altra ragione per la quale non avrei dovuto credergli: il nuovo libro di Shteyngart’s, _Little Failure_, viene presentato proprio da una frase di… Hiaasen:
 
 
 
@@ -46,7 +46,7 @@ Inoltre il libro è pieno di altri elementi unici: arti umani, una scimmia con l
 
 
 
-![drawing](http://amycitrondesign.com/wp-content/uploads/2013/05/hiaasen.jpg)
+![drawing](https://amycitrondesign.com/wp-content/uploads/2013/05/hiaasen.jpg)
 
 Piccola digressione, se _Bad Monkey_ vi ricorda qualcosa, vi risparmio la rapida ricerca su Google: era un pedale overdrive per chitarra elettrica, Tipo questo qui sotto.
 

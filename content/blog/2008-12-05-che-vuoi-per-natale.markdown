@@ -10,4 +10,4 @@ url: "/2008/12/05/che-vuoi-per-natale/"
 wordpress_id: 3796
 
 ---
-E pure quest'anno niente [Kindle](http://en.wikipedia.org/wiki/Amazon_Kindle). [Wikipedia]
+E pure quest'anno niente [Kindle](https://en.wikipedia.org/wiki/Amazon_Kindle). [Wikipedia]

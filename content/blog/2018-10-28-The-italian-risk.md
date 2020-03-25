@@ -13,7 +13,7 @@ tags:
 
 ![fifth-risk](/images/vault/fifth-risk.jpg)
 
-Michael Lewis' latest book, [The Fifth Risk](http://books.wwnorton.com/books/The-Fifth-Risk/), is good as expected. It's not another "Trump-is-evil" non-fiction. It has something seminal, we all should think about: it works for the american government and for any other government. 
+Michael Lewis' latest book, [The Fifth Risk](https://books.wwnorton.com/books/The-Fifth-Risk/), is good as expected. It's not another "Trump-is-evil" non-fiction. It has something seminal, we all should think about: it works for the american government and for any other government. 
 
 To me it's impressive how concerned the civil servants are about the possibility Trump administration could not be capable of handling the present or the future: it's a matter of competence, not politics. But it's also the most unevaluated risk of politics nowadays. Something we in Italy have been forgetting for years.
 

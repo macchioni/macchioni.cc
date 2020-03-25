@@ -10,8 +10,8 @@ url: "/2005/08/21/musica-per-le-mie-orecchie/"
 wordpress_id: 126
 
 ---
-Gia che ci siamo, ma ogni tanto ce lo fate un salto su [MuchMusic](http://www.muchmusic.net)?  
+Gia che ci siamo, ma ogni tanto ce lo fate un salto su [MuchMusic](https://www.muchmusic.net)?  
 
 
 
-### Muchmusic.net | tag: [music](http://www.technorati.com/tags/music), [mp3](http://www.technorati.com/tags/mp3)
+### Muchmusic.net | tag: [music](https://www.technorati.com/tags/music), [mp3](https://www.technorati.com/tags/mp3)

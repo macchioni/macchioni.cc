@@ -10,7 +10,7 @@ url: "/2005/08/21/sotto-al-cactus/"
 wordpress_id: 127
 
 ---
-Che vi devo dire... [Radio](http://radio.userland.com), la
+Che vi devo dire... [Radio](https://radio.userland.com), la
 piattaforma che si usa qui, ha tanti pregi e moltissime potenzialita
 pero praticamente funziona solo da un computer (o comunque deve essere
 attivo e connesso quello su cui e installato il software). Metteteci

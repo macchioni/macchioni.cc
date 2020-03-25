@@ -13,26 +13,26 @@ tags:
 title: Street photography, in chat con Craig Semetko
 
 ---
-[Craig Semetko](http://www.semetko.com/) è un fotografo reportagista che scatta molto in bianco e nero ed è diventato abbastanza famoso nel giro degli amanti della street photography almeno per questi motivi:
+[Craig Semetko](https://www.semetko.com/) è un fotografo reportagista che scatta molto in bianco e nero ed è diventato abbastanza famoso nel giro degli amanti della street photography almeno per questi motivi:
 
 - Ha cominciato a fotografare abbastanza tardi, prima faceva un altro lavoro.
-- Ha debuttato a Los Angeles in una mostra che affiancava lui a un certo [Henri Cartier-Bresson](http://en.wikipedia.org/wiki/Henri_Cartier-Bresson).
-- È diventato un uomo [Leica](http://it.leica-camera.com/), o come si dice.
+- Ha debuttato a Los Angeles in una mostra che affiancava lui a un certo [Henri Cartier-Bresson](https://en.wikipedia.org/wiki/Henri_Cartier-Bresson).
+- È diventato un uomo [Leica](https://it.leica-camera.com/), o come si dice.
 - Si presenta così: "I'm a guy with a camera from Los Angeles".
-- Ha una certa ironia e ogni tanto fotografa cani "alla [Elliott Erwitt](http://en.wikipedia.org/wiki/Elliott_Erwitt)" (ma chi non ci ha mai provato?).
+- Ha una certa ironia e ogni tanto fotografa cani "alla [Elliott Erwitt](https://en.wikipedia.org/wiki/Elliott_Erwitt)" (ma chi non ci ha mai provato?).
 
-![drawing](http://pbs.twimg.com/media/Bu9EtPvCMAA8uHh.jpg)
+![drawing](https://pbs.twimg.com/media/Bu9EtPvCMAA8uHh.jpg)
 
 
-Io l’ho conosciuto tardi, ascoltandolo [in una puntata](http://ibarionex.net/thecandidframe/2014/5/11/the-candid-frame-231-craig-semetko) del podcast *The Candid Frame* di [Ibarionex Perello](https://twitter.com/Ibarionex). In occasione della presentazione del suo ultimo libro, *[India Unposed](http://indiaunposed.com)*, sabato 30 agosto Semetko ha partecipato a una chat su twitter (#LeicaChat, [qui](http://twitter.com/hashtag/LeicaChat?src=hash)) e ho pensato di raccogliere qui qualche sua risposta. Sintetizzo tutto in maniera un po' inaccurata, ma il ragazzo tanto scatta bene, tanto ignora l'uso delle *mentions* e dei *reply*, quindi ritrovare i veri titolari delle domande è stato laborioso.
+Io l’ho conosciuto tardi, ascoltandolo [in una puntata](https://ibarionex.net/thecandidframe/2014/5/11/the-candid-frame-231-craig-semetko) del podcast *The Candid Frame* di [Ibarionex Perello](https://twitter.com/Ibarionex). In occasione della presentazione del suo ultimo libro, *[India Unposed](https://indiaunposed.com)*, sabato 30 agosto Semetko ha partecipato a una chat su twitter (#LeicaChat, [qui](https://twitter.com/hashtag/LeicaChat?src=hash)) e ho pensato di raccogliere qui qualche sua risposta. Sintetizzo tutto in maniera un po' inaccurata, ma il ragazzo tanto scatta bene, tanto ignora l'uso delle *mentions* e dei *reply*, quindi ritrovare i veri titolari delle domande è stato laborioso.
 
 ## **#LeicaChat** with Craig Semetko
 
-![drawing](http://leibniz.me/images/vault/semetko.png)
+![drawing](https://leibniz.me/images/vault/semetko.png)
 
 **[@BobBaron](https://twitter.com/BobBaron): One body or two in your travel kit? (You even have an “at home kit”?)**
 
->[Leica m240](http://it.leica-camera.com/Fotografia/Sistema-M/Leica-M), 35 and 50 summiluxes.
+>[Leica m240](https://it.leica-camera.com/Fotografia/Sistema-M/Leica-M), 35 and 50 summiluxes.
 
 **How much does a camera count?**
 
@@ -42,7 +42,7 @@ Io l’ho conosciuto tardi, ascoltandolo [in una puntata](http://ibarionex.net/t
 
 >To me a qood picture has a sense of design, provides information, and has emotion...
 
-![drawing](http://indiaunposed.com/wp-content/uploads/2014/03/India-Unposed-012.jpg)
+![drawing](https://indiaunposed.com/wp-content/uploads/2014/03/India-Unposed-012.jpg)
 
 **[leibniz](https://twitter.com/leibniz): When you're trying to shoot something new, what's your best ally: time (patience, etc..) or distance (India...)?**
 
@@ -65,13 +65,13 @@ Io l’ho conosciuto tardi, ascoltandolo [in una puntata](http://ibarionex.net/t
 
 **[@lalengzuala](https://twitter.com/lalengzuala): How did you study system of design (Root rectangles, etc) Any recommended materials?**
 
->lalengzuala--no, i did not study the [root system](http://en.wikipedia.org/wiki/Root_system)--took art classes as a kid and always liked geometry...but not math :)
+>lalengzuala--no, i did not study the [root system](https://en.wikipedia.org/wiki/Root_system)--took art classes as a kid and always liked geometry...but not math :)
 
 **[@ArizRizvi](https://twitter.com/ArizRizvi): How do you engage with your human subjects when you shoot close without making them conscious?**
 
 >ariz-every situation is different. work fast. act like you're looking elsewhere and don't know how to use the camera :)
 
-![drawing](http://indiaunposed.com/wp-content/uploads/2014/03/India-Unposed-007.jpg)
+![drawing](https://indiaunposed.com/wp-content/uploads/2014/03/India-Unposed-007.jpg)
 
 **[@mactonius](https://twitter.com/mactonius): "act like you're looking elsewhere" and if you get caught, say "you remind me my dead grandfather" (or what else)**
 
@@ -95,7 +95,7 @@ Io l’ho conosciuto tardi, ascoltandolo [in una puntata](http://ibarionex.net/t
 
 >barb, so many of them do...right now I am moved by the boy and elephant from india and the two young men rowing at night.
 
-![drawing](http://pbs.twimg.com/media/BwTUSNzCYAA7iId.jpg)
+![drawing](https://pbs.twimg.com/media/BwTUSNzCYAA7iId.jpg)
 
 ----
 *All images here ©CraigSemetko*

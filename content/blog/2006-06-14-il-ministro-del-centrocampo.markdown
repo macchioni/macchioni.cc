@@ -11,7 +11,7 @@ url: "/2006/06/14/il-ministro-del-centrocampo/"
 wordpress_id: 2230
 
 ---
-![](http://www.sci.utah.edu/~stevec/paint/orange_soccerball.jpg)C'è chi di politica non vuole saperne e chi riesce a intravederla anche in una partita di calcio. Roma 2011, ad esempio, ha tratto alcuni principi universali della politica leggendo [la rivista dell'assoallenatori](http://roma2011.blogosfere.it/2006/06/dai_mondiali_le.html) e poi [un pezzo di Carlo Ancelotti](http://roma2011.blogosfere.it/2006/06/dai_mondiali_le_1.html). Cose così:
+![](https://www.sci.utah.edu/~stevec/paint/orange_soccerball.jpg)C'è chi di politica non vuole saperne e chi riesce a intravederla anche in una partita di calcio. Roma 2011, ad esempio, ha tratto alcuni principi universali della politica leggendo [la rivista dell'assoallenatori](https://roma2011.blogosfere.it/2006/06/dai_mondiali_le.html) e poi [un pezzo di Carlo Ancelotti](https://roma2011.blogosfere.it/2006/06/dai_mondiali_le_1.html). Cose così:
 
 
 > - muoversi quando il compagno è in condizione di passare la palla

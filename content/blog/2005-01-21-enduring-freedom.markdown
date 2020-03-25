@@ -10,7 +10,7 @@ url: "/2005/01/21/enduring-freedom/"
 wordpress_id: 515
 
 ---
-Dopo la Rice ('[E' venuto il tempo della diplomazia](http://www.news24.com/News24/World/News/0,,2-10-1462_1648723,00.html)') e stato il momento di George W. Bush, che [ha buttato li due o tre concetti](http://www.usatoday.com/news/washington/2005-01-20-bush-transcript_x.htm):
+Dopo la Rice ('[E' venuto il tempo della diplomazia](https://www.news24.com/News24/World/News/0,,2-10-1462_1648723,00.html)') e stato il momento di George W. Bush, che [ha buttato li due o tre concetti](https://www.usatoday.com/news/washington/2005-01-20-bush-transcript_x.htm):
 
 
 

@@ -12,7 +12,7 @@ url: "/2007/10/17/elogio-di-time/"
 wordpress_id: 2581
 
 ---
-![](http://img.timeinc.net/time/images/covers/europe/2007/20071022_107.jpg)Ogni tanto, tra le righe, qui scappa un complimento a Time, il newsmagazine americano, che da diversi mesi ha rivoluzionato tutto con un spirito che potrebbe riassumersi con: più qualità, meno quantità; la carta si integra col web. Non so a livello industriale, ma per ora, per questi tempi, a livello di prodotto sembra funzionare. Ecco, [l'ultimo numero](http://www.time.com/time/magazine/current), è l'esempio classico di come dovrebbe essere (e che cosa dovrebbe contenere) oggi un settimanale d'informazione. Tipo:
+![](https://img.timeinc.net/time/images/covers/europe/2007/20071022_107.jpg)Ogni tanto, tra le righe, qui scappa un complimento a Time, il newsmagazine americano, che da diversi mesi ha rivoluzionato tutto con un spirito che potrebbe riassumersi con: più qualità, meno quantità; la carta si integra col web. Non so a livello industriale, ma per ora, per questi tempi, a livello di prodotto sembra funzionare. Ecco, [l'ultimo numero](https://www.time.com/time/magazine/current), è l'esempio classico di come dovrebbe essere (e che cosa dovrebbe contenere) oggi un settimanale d'informazione. Tipo:
 
 Veloce: Time ha 60 pagine, pesa meno di un cellulare, pezzi corti, titoli chiari, caratteri leggibili e interlinea spaziosa. Non è la grafica più bella del mondo, ma è chiara ed essenziale.
 

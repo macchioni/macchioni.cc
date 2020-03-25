@@ -10,9 +10,9 @@ url: "/2005/07/28/travolti-da-un-insolito-destino/"
 wordpress_id: 167
 
 ---
-![](http://www.darningpixels.com/images/tn_monicas.jpg)  
+![](https://www.darningpixels.com/images/tn_monicas.jpg)  
 
-Vicino alla [Clinton Library](http://www.clintonfoundation.org/cpc-index.htm) avrebbe aperto un cigar-bar chiamato Monica.  
+Vicino alla [Clinton Library](https://www.clintonfoundation.org/cpc-index.htm) avrebbe aperto un cigar-bar chiamato Monica.  
 
 
 

@@ -10,7 +10,7 @@ url: "/2005/09/03/london/"
 wordpress_id: 101
 
 ---
-![](http://www.pff.org/weblog/mindthegap1.jpg)[Sei un londinese vero quando](http://london-underground.blogspot.com/2005_09_01_london-underground_archive.html#112570750906545522):  
+![](https://www.pff.org/weblog/mindthegap1.jpg)[Sei un londinese vero quando](https://london-underground.blogspot.com/2005_09_01_london-underground_archive.html#112570750906545522):  
 
 
 > 1. Dici "the City" e ti aspetti che tutti sappiano di cosa stai parlando  
@@ -35,7 +35,7 @@ senegalese, l'ultimo tassista africano, il giornalaio indiano.
 
 
 ### Going Underground - Pff |
-tag: [london](http://www.technorati.com/tags/london), [lists](http://www.technorati.com/tags/lists)
+tag: [london](https://www.technorati.com/tags/london), [lists](https://www.technorati.com/tags/lists)
 
   
   

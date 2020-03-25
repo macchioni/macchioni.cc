@@ -11,6 +11,6 @@ url: "/2009/06/02/sindaco-li-pulimo-o-no-sti-marciapiedi-a-mission/"
 wordpress_id: 4057
 
 ---
-[![](http://www.sfgov.org/site/uploadedimages/sf311/Self-ServicePortal/311.gif)](http://sftwitter.sfgov.org/twitter/)
+[![](https://www.sfgov.org/site/uploadedimages/sf311/Self-ServicePortal/311.gif)](https://sftwitter.sfgov.org/twitter/)
 
-Gavin Newsom, sindaco di San Francisco e aspirante successore di Schwarzenegger come governatore della California, s'è inventato SF311, un [servizio di comunicazione](http://sftwitter.sfgov.org/twitter/) tra i cittadini e il Comune. Tutto via Twitter. [sfgov]
+Gavin Newsom, sindaco di San Francisco e aspirante successore di Schwarzenegger come governatore della California, s'è inventato SF311, un [servizio di comunicazione](https://sftwitter.sfgov.org/twitter/) tra i cittadini e il Comune. Tutto via Twitter. [sfgov]

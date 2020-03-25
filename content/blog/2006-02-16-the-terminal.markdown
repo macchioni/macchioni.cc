@@ -11,7 +11,7 @@ url: "/2006/02/16/the-terminal/"
 wordpress_id: 2036
 
 ---
-[Nove cose curiose e decisamente idiote che si possono fare in un aeroporto](http://www.weeklyworldnews.com/features/how_to/61574) (specialmente americano):
+[Nove cose curiose e decisamente idiote che si possono fare in un aeroporto](https://www.weeklyworldnews.com/features/how_to/61574) (specialmente americano):
 
 
 
@@ -34,7 +34,7 @@ wordpress_id: 2036
   6. Andare al bar e rimorchiare qualche ragazza sola
 
 	
-  7. [...](http://www.weeklyworldnews.com/features/how_to/61574)
+  7. [...](https://www.weeklyworldnews.com/features/how_to/61574)
 
 
 

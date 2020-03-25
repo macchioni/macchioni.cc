@@ -30,7 +30,7 @@ It's something I can easily search and link, a liquid matter of knowledge we all
 
 Think about your social routine today: posts living only on Facebook, buried in endless timelines. It can be acceptable if you're sharing the photos of your cat, but if you're a communicator, in the public square, you should think "open web first" and get control of your content. 
 
-You can start reading about it following [Dave Winer's blog posts](http://scripting.com/liveblog/users/davewiner/2016/01/07/0801.html), or studying the [IndieWebCamp wiki](https://indiewebcamp.com/). They wrote about the open web better than me. Then you can rethink your paradigm, or keep going on, knowing even more. 
+You can start reading about it following [Dave Winer's blog posts](https://scripting.com/liveblog/users/davewiner/2016/01/07/0801.html), or studying the [IndieWebCamp wiki](https://indiewebcamp.com/). They wrote about the open web better than me. Then you can rethink your paradigm, or keep going on, knowing even more. 
 
 Yes, we have a problem: open web should be for the masses, but now it's not that cool to join. It's 2016, social platforms are easy and beautiful and powerful: they can gather all your friends with a glance of an API, give you instant likes, compress your videos, make you an influencer. They gain value of your content, but - if you can use them, if you're creative enough - they pay you back. They also can get closer to the open web we have in mind, check [Medium's latest efforts](https://medium.com/the-story/making-medium-more-powerful-for-publishers-39663413a904) and you'll understand.
 

@@ -10,7 +10,7 @@ url: "/2005/07/13/la-prima-sorsata-di-dos-equis/"
 wordpress_id: 196
 
 ---
-Quando [i viaggi in Messico](http://blogs.it/0100915/2005/06/10.html#a406)... [non sono inutili](http://www.repubblica.it/2003/e/gallerie/esteri/pictrot/pictrot.html).  
+Quando [i viaggi in Messico](https://blogs.it/0100915/2005/06/10.html#a406)... [non sono inutili](https://www.repubblica.it/2003/e/gallerie/esteri/pictrot/pictrot.html).  
 
 
 

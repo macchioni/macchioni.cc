@@ -10,7 +10,7 @@ url: "/2005/06/23/elementare-watson/"
 wordpress_id: 236
 
 ---
-L'American Film Institute ha stilato la lista delle [100 battute degne di nota](http://news.yahoo.com/news?tmpl=story&u=/ap/20050622/ap_on_en_mo/film_movie_quotes_list_1) della cinematografia a stelle e strisce. Non ci sono i Blues Brothers.  
+L'American Film Institute ha stilato la lista delle [100 battute degne di nota](https://news.yahoo.com/news?tmpl=story&u=/ap/20050622/ap_on_en_mo/film_movie_quotes_list_1) della cinematografia a stelle e strisce. Non ci sono i Blues Brothers.  
 
 
 

@@ -15,7 +15,7 @@ title: Senza Westworld non è vita
 ---
 ![dr-ford-westworld](/images/vault/dr-ford-westworld.jpg)
 
-[Westworld](http://bit.ly/2gmnCv4) è la serie tv HBO che fa parte di quella categoria dei serial che si guardano fino alla fine solo per capire che cosa tu stia effettivamente guardando. O anche di quelli che, leggendo la trama per la prima volta, dici: «Niente da fare, che è 'sta boiata?». E poi chiedi scusa al dio delle serie tv.
+[Westworld](https://bit.ly/2gmnCv4) è la serie tv HBO che fa parte di quella categoria dei serial che si guardano fino alla fine solo per capire che cosa tu stia effettivamente guardando. O anche di quelli che, leggendo la trama per la prima volta, dici: «Niente da fare, che è 'sta boiata?». E poi chiedi scusa al dio delle serie tv.
 
 Le prime 10 puntate le ho seguite così:
 
@@ -29,6 +29,6 @@ E, a serie finita, un ripasso dei monologhi da pelle d'oca di tale Anthony Hopki
 
 > The self is a kind of fiction, for hosts and humans alike. It's a story we tell ourselves. [...] There is no threshold that makes us greater than the sum of our parts, no inflection point at which we become fully alive. We can't define consciousness because consciousness does not exist. Humans fancy that there's something special about the way we perceive the world, and yet we live in loops as tight and as closed as the hosts do, seldom questioning our choices, content, for the most part, to be told what to do next. No, my friend, you're not missing anything at all.
 
-Anthony Hopkins as [Dr. Robert Ford](http://westworld.wikia.com/wiki/Robert_Ford) - [Westworld](http://bit.ly/2gmnCv4) [s01e08](http://westworld.wikia.com/wiki/Trace_Decay)
+Anthony Hopkins as [Dr. Robert Ford](https://westworld.wikia.com/wiki/Robert_Ford) - [Westworld](https://bit.ly/2gmnCv4) [s01e08](https://westworld.wikia.com/wiki/Trace_Decay)
 
 (Amen)

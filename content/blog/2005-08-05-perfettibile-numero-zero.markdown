@@ -15,8 +15,8 @@ Tel Aviv: l'uomo che ti siede vicino in autobus potrebbe essere il tuo
 assassino. Anche se questo a me risulta essere uno dei
 presupposti del capitalismo.
 
-Petunias goes [podcasting](http://www.thepetunias.net/archives/2005/08/il_perfettibile_1.html).  
+Petunias goes [podcasting](https://www.thepetunias.net/archives/2005/08/il_perfettibile_1.html).  
 
 
 
-### Petunias | tag: [podcast](http://www.technorati.com/tags/podcast)
+### Petunias | tag: [podcast](https://www.technorati.com/tags/podcast)

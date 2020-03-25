@@ -13,4 +13,4 @@ wordpress_id: 3072
 > Il prossimo presidente degli Stati Uniti è Obama, che non sarà all'altezza della situazione. L'unilateralismo americano viene rovesciato: è il mondo adesso a tenere isolati gli Stati Uniti.
 
 
-[Le profezie di Giorgio Dell'Arti](http://gda3.splinder.com/post/18735011) per i prossimi anni. [Altrimondi]
+[Le profezie di Giorgio Dell'Arti](https://gda3.splinder.com/post/18735011) per i prossimi anni. [Altrimondi]

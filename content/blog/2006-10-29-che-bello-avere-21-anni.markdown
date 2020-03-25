@@ -11,7 +11,7 @@ url: "/2006/10/29/che-bello-avere-21-anni/"
 wordpress_id: 2319
 
 ---
-Beatrice Borromeo, quella che la notte arriva alla stazione di Milano e nessuno la va a prendere, giorni fa ha rilasciato [un'intervista formidabile a Claudio Sabelli Fioretti](http://www.melba.it/csf/articolo.asp?articolo=335). E ha detto cose che starebbero benissimo anche sul blog di Flavia Vento.
+Beatrice Borromeo, quella che la notte arriva alla stazione di Milano e nessuno la va a prendere, giorni fa ha rilasciato [un'intervista formidabile a Claudio Sabelli Fioretti](https://www.melba.it/csf/articolo.asp?articolo=335). E ha detto cose che starebbero benissimo anche sul blog di Flavia Vento.
 
 
 

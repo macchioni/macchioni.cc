@@ -11,7 +11,7 @@ url: "/2006/03/16/comunque-non-sono-praticante/"
 wordpress_id: 2093
 
 ---
-L'algerina Souad Massi ha fatto breccia in Francia e ora sembra sfondare anche in Gran Bretagna. Anche se essere definita "[la Madonna musulmana](http://www.thisislondon.com/music/articles/21985265?source=Evening%20Standard)", per una cantante con la chitarra in spalla non è un granché.
+L'algerina Souad Massi ha fatto breccia in Francia e ora sembra sfondare anche in Gran Bretagna. Anche se essere definita "[la Madonna musulmana](https://www.thisislondon.com/music/articles/21985265?source=Evening%20Standard)", per una cantante con la chitarra in spalla non è un granché.
 
 
 ### ThisIsLondon

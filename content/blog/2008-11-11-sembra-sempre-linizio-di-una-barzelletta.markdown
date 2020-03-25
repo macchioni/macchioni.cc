@@ -11,6 +11,6 @@ url: "/2008/11/11/sembra-sempre-linizio-di-una-barzelletta/"
 wordpress_id: 3611
 
 ---
-Qualche mese fa, per il municipio di Londra, si sfidarono un conservatore pazzo, un eccentrico sindaco uscente e un ex poliziotto gay. Ora [a Gerusalemme](http://www.time.com/time/world/article/0,8599,1857925,00.html?xid=rss-topstories) abbiamo: un miliardario russo, un rabbino ultraortodosso e un ingegnere informatico di destra.
+Qualche mese fa, per il municipio di Londra, si sfidarono un conservatore pazzo, un eccentrico sindaco uscente e un ex poliziotto gay. Ora [a Gerusalemme](https://www.time.com/time/world/article/0,8599,1857925,00.html?xid=rss-topstories) abbiamo: un miliardario russo, un rabbino ultraortodosso e un ingegnere informatico di destra.
 
 [Time]

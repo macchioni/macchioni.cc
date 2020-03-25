@@ -10,7 +10,7 @@ url: "/2007/03/31/non-ci-resta-che-leccare-la-testa-delle-rane/"
 wordpress_id: 2436
 
 ---
-Paolo Attivissimo ha stabilito che [Coca Cola e aspirina insieme non hanno effetti psichedelici](http://attivissimo.blogspot.com/2007/03/coca-cola-e-aspirina-sono-un-cocktail.html).
+Paolo Attivissimo ha stabilito che [Coca Cola e aspirina insieme non hanno effetti psichedelici](https://attivissimo.blogspot.com/2007/03/coca-cola-e-aspirina-sono-un-cocktail.html).
 
 
 ### Attivissimo

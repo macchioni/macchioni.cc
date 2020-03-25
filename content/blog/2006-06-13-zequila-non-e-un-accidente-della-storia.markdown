@@ -10,7 +10,7 @@ url: "/2006/06/13/zequila-non-e-un-accidente-della-storia/"
 wordpress_id: 2227
 
 ---
-[Elogio del boxer attillato](http://www.slate.com/id/2143313/nav/tap1/) e della sua presunta superiorità rispetto a boxer canonici e slip.
+[Elogio del boxer attillato](https://www.slate.com/id/2143313/nav/tap1/) e della sua presunta superiorità rispetto a boxer canonici e slip.
 
 
 ### Slate

@@ -11,9 +11,9 @@ url: "/2007/06/05/tu-vuo-fa-llamericano/"
 wordpress_id: 2491
 
 ---
-Questa è una rassegna stampa in differita. Dunque, l'altro ieri sui giornali c'erano due cose proprio interessanti da leggere per fare il punto. No, non la cosa della nuova P2 di D'Avanzo (se vi puzza, [leggete](http://newrassegna.camera.it/chiosco_new/pagweb/immagineFrame.asp?comeFrom=rassegna&currentArticle=ELKSX) il Ferrara partisan). Ma Francesco Giavazzi (sul Corriere) e Fareed Zakaria (tradotto da Repubblica).
+Questa è una rassegna stampa in differita. Dunque, l'altro ieri sui giornali c'erano due cose proprio interessanti da leggere per fare il punto. No, non la cosa della nuova P2 di D'Avanzo (se vi puzza, [leggete](https://newrassegna.camera.it/chiosco_new/pagweb/immagineFrame.asp?comeFrom=rassegna&currentArticle=ELKSX) il Ferrara partisan). Ma Francesco Giavazzi (sul Corriere) e Fareed Zakaria (tradotto da Repubblica).
 
-Il primo, in un fondo mal titolato, [spiegava l'Italia di oggi](http://www.corriere.it/Primo_Piano/Editoriali/2007/06_Giugno/04/giavazzi_editoriale_depressione_consumi.shtml):
+Il primo, in un fondo mal titolato, [spiegava l'Italia di oggi](https://www.corriere.it/Primo_Piano/Editoriali/2007/06_Giugno/04/giavazzi_editoriale_depressione_consumi.shtml):
 
 
 > **La produttività dipende dall'innovazione e quindi dalla qualità del capitale umano: se non si migliora la scuola non c'è speranza. **Finché eravamo un Paese di aziende manifatturiere l'istruzione era meno importante: molti mestieri — il saldatore di metalli, il falegname — si imparavano lavorando. Ma in un'economia di servizi senza una buona istruzione si è perduti perché si rimane schiacciati in mestieri sottopagati.
@@ -23,7 +23,7 @@ L'indagine dell'Ocse sui livelli di apprendimento dei ragazzi quindicenni (« Pr
 **E' vero che le pensioni sono basse: la pensione media è di circa mille euro al mese. Ma come si possono pagare pensioni più alte in un Paese in cui 16 milioni di pensionati sono sostenuti da solo 24 milioni di lavoratori, quasi 7 pensionati per ogni dieci lavoratori?**
 
 
-Il secondo, l'indo-americano, distruggeva l'amministrazione Bush, ma spiegava [perché l'America può ancora essere fiera di sé e guardare con ottimismo al futuro](http://www.msnbc.msn.com/id/19001200/site/newsweek/):
+Il secondo, l'indo-americano, distruggeva l'amministrazione Bush, ma spiegava [perché l'America può ancora essere fiera di sé e guardare con ottimismo al futuro](https://www.msnbc.msn.com/id/19001200/site/newsweek/):
 
 
 > For those who look at the future and see challenges, competition and threats, keep in mind that this new world has been forming over the last 20 years, and the United States has forged ahead amid all the turmoil. **In 1980, the U.S. share of global GDP was 20 percent. Today it is 29 percent.** We lead the world in technology and research. Our firms have found enormous success in new markets overseas. We continue to generate new products, new brands, new companies and new industries.

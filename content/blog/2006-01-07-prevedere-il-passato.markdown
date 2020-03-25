@@ -10,7 +10,7 @@ url: "/2006/01/07/prevedere-il-passato/"
 wordpress_id: 1974
 
 ---
-[Se abbiamo capito bene](http://www.macitynet.it/macity/aA23502/index.shtml) hanno [montato ](http://www.maclive.net/sid/135)la voce di Bill Gates che spiega le novità del prossimo sistema operativo Windows sulle immagini del sistema operativo attuale di Apple.
+[Se abbiamo capito bene](https://www.macitynet.it/macity/aA23502/index.shtml) hanno [montato ](https://www.maclive.net/sid/135)la voce di Bill Gates che spiega le novità del prossimo sistema operativo Windows sulle immagini del sistema operativo attuale di Apple.
 
 
 ### MacLive - Maccity

@@ -10,4 +10,4 @@ url: "/2004/12/10/assente-giustificato-si-torna-il-21-dicembre/"
 wordpress_id: 581
 
 ---
-![](http://blogs.it/0100915/images/viaggio.jpg)
+![](https://blogs.it/0100915/images/viaggio.jpg)

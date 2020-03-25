@@ -10,10 +10,10 @@ url: "/2005/07/13/modello-le-monde/"
 wordpress_id: 195
 
 ---
-Dopo [il vaticinio di Paolo](http://paolo.evectors.it/italian/2005/07/08.html) («
+Dopo [il vaticinio di Paolo](https://paolo.evectors.it/italian/2005/07/08.html) («
 E comunque presto, molto presto, ci saranno novita interessanti
 nell'ambito dell'offerta di piattaforme di elevata qualita e gratuite
-in Italia.») [le prime conferme](http://www.pandemia.info/archives/2005/06/typepad_arriva.html) su [Typepad](http://www.typepad.com/siteit/) in qualche modo a basso prezzo: grazie a Kataweb.  
+in Italia.») [le prime conferme](https://www.pandemia.info/archives/2005/06/typepad_arriva.html) su [Typepad](https://www.typepad.com/siteit/) in qualche modo a basso prezzo: grazie a Kataweb.  
 
 
 

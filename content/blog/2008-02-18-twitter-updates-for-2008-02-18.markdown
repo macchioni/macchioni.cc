@@ -10,6 +10,6 @@ url: "/2008/02/18/twitter-updates-for-2008-02-18/"
 wordpress_id: 2651
 
 ---
-* mette su flickr qualche foto di Udine [http://tinyurl.com/38776s](http://tinyurl.com/38776s) [#](http://twitter.com/leibniz/statuses/725245762)
+* mette su flickr qualche foto di Udine [https://tinyurl.com/38776s](https://tinyurl.com/38776s) [#](https://twitter.com/leibniz/statuses/725245762)
 
 

@@ -10,5 +10,5 @@ url: "/2004/07/06/regole-perche-io-ti-presti-un-libro/"
 wordpress_id: 3192
 
 ---
-Sono appena quattro, [le ha scritte Phoebe](http://phoebe.splinder.com/1088752480#2476757), sono simili a quelle buttate giù da [Yorker](http://yorker.clarence.com/archive/048485.html) tempo fa.
+Sono appena quattro, [le ha scritte Phoebe](https://phoebe.splinder.com/1088752480#2476757), sono simili a quelle buttate giù da [Yorker](https://yorker.clarence.com/archive/048485.html) tempo fa.
 Phoebe - Yorker

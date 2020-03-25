@@ -11,24 +11,24 @@ tags:
 title: Just a little easier
 
 ---
-![drawing](http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10467806_1423072234644328_592922709_n.jpg)
+![drawing](https://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10467806_1423072234644328_592922709_n.jpg)
 
 
-Di solito, dopo una giornata a [State of the Net](http://sotn.it) (la foto qui su è di [Emanuela Ciccone](http://instagram.com/emaposh)), la conference di Trieste dedicata ai cambiamenti del web e dal web, si torna a casa con tante idee e la voglia di metterle in fila. Stavolta rimando a un altro giorno.
+Di solito, dopo una giornata a [State of the Net](https://sotn.it) (la foto qui su è di [Emanuela Ciccone](https://instagram.com/emaposh)), la conference di Trieste dedicata ai cambiamenti del web e dal web, si torna a casa con tante idee e la voglia di metterle in fila. Stavolta rimando a un altro giorno.
 
-Il motivo è che una conferenza come questa non è solo i suoi contenuti. Né i suoi relatori, o i suoi ospiti. Non solo, almeno. Come tutti gli eventi culturali, è una produzione difficile e complessa, quest'anno forse più che in passato. E un grazie frettoloso alla tenacia di [Sergio](http://www.sergiomaistrello.it/), [Beniamino](http://sotn.it/founders/pagliaro/) e [Paolo](http://val.demar.in/) stavolta non basta.
+Il motivo è che una conferenza come questa non è solo i suoi contenuti. Né i suoi relatori, o i suoi ospiti. Non solo, almeno. Come tutti gli eventi culturali, è una produzione difficile e complessa, quest'anno forse più che in passato. E un grazie frettoloso alla tenacia di [Sergio](https://www.sergiomaistrello.it/), [Beniamino](https://sotn.it/founders/pagliaro/) e [Paolo](https://val.demar.in/) stavolta non basta.
 
-Dal [Festival del Giornalismo di Perugia](http://www.festivaldelgiornalismo.com/) al [Museo di Fotografia Contemporanea di Cinisello Balsamo](http://www.mufoco.org/), le produzioni/organizzazioni culturali continuano ad aver bisogno di trovare chi creda in loro. Soldi, insomma. Almeno un po' per andare in pari e lasciare il valore aggiunto delle idee in tasca ai loro fruitori e al territorio. 
+Dal [Festival del Giornalismo di Perugia](https://www.festivaldelgiornalismo.com/) al [Museo di Fotografia Contemporanea di Cinisello Balsamo](https://www.mufoco.org/), le produzioni/organizzazioni culturali continuano ad aver bisogno di trovare chi creda in loro. Soldi, insomma. Almeno un po' per andare in pari e lasciare il valore aggiunto delle idee in tasca ai loro fruitori e al territorio. 
 
-«Money is not enough to bring change», [ha detto](http://www.coseinfila.it/2014/06/13/state-of-the-net-speech-do-a-thing/) Beniamino aprendo Sotn14. E ha detto anche questo:
+«Money is not enough to bring change», [ha detto](https://www.coseinfila.it/2014/06/13/state-of-the-net-speech-do-a-thing/) Beniamino aprendo Sotn14. E ha detto anche questo:
 
 >we wanted to do something. State of the Net. We do it because we like it. And basically, we do it because we all want a (good and beautiful) thing to be done. Maybe you can remember something if I say “Just do it”. Let’s say “Do-a-thing”. It’s kind of a start.
 
 Ha ragione. Comunque bisogna darsi da fare. Trovare soluzioni. Conquistare chi ha voglia di investire nelle idee. Solo che in Italia è difficile. 
 
-![drawing](http://leibniz.me/images/vault/easier.png)
+![drawing](https://leibniz.me/images/vault/easier.png)
 
-Viene in mente la serie tv _West Wing_ e le due bellissime puntate intitolate ["20 hours in America"](http://goo.gl/cLUAMe). Sarebbe lunga, ma sintetizzo: lo staff del Presidente degli Stati Uniti si trova, per sbaglio, a viaggiare attraverso il "Paese reale" nel giorno in cui crolla la Borsa. Succedono tante cose, ma, insomma, a fine giornata - scazzatissimi - al bar dell'hotel incontrano Matt, un padre che ha portato la figlia a visitare il college che frequenterà. Mentre la tv parla del tonfo di Wall Street (il video è [qui](http://youtu.be/fJRcDHKrSqw)) c'è questo dialogo.
+Viene in mente la serie tv _West Wing_ e le due bellissime puntate intitolate ["20 hours in America"](https://goo.gl/cLUAMe). Sarebbe lunga, ma sintetizzo: lo staff del Presidente degli Stati Uniti si trova, per sbaglio, a viaggiare attraverso il "Paese reale" nel giorno in cui crolla la Borsa. Succedono tante cose, ma, insomma, a fine giornata - scazzatissimi - al bar dell'hotel incontrano Matt, un padre che ha portato la figlia a visitare il college che frequenterà. Mentre la tv parla del tonfo di Wall Street (il video è [qui](https://youtu.be/fJRcDHKrSqw)) c'è questo dialogo.
 
 >**MATT** Beautiful campus. I've never seen anything like it. She-she's not going to get to sleep tonight. You see what happened in the market today? 
 
@@ -40,4 +40,4 @@ Viene in mente la serie tv _West Wing_ e le due bellissime puntate intitolate ["
 
 Magari - Beniamino, Paolo e Sergio - quell'impalpabile _just a little easier_ potrebbe essere il tema del prossimo anno. Intanto, grazie davvero.
 
-![drawing](http://leibniz.me/images/vault/sotn14.png)
+![drawing](https://leibniz.me/images/vault/sotn14.png)

@@ -12,4 +12,4 @@ url: "/2008/10/23/bono-questo/"
 wordpress_id: 3105
 
 ---
-Bono degli U2 diventerà [editorialista del New York Times](http://radaronline.com/exclusives/2008/10/bono-new-york-times-columnist-andrew-rosenthal.php) (grosso modo). [Radar]
+Bono degli U2 diventerà [editorialista del New York Times](https://radaronline.com/exclusives/2008/10/bono-new-york-times-columnist-andrew-rosenthal.php) (grosso modo). [Radar]

@@ -58,4 +58,4 @@ Seconda parte, nella quale si comincia a citare Jacques Séguéla:
   2. Viene eletto colui che racconta al suo popolo quel pezzo di storia che ha voglia di ascoltare in quel preciso momento, a condizione di essere l'eroe di quella storia (_copyright Mitterand_)
 
 
-tag: [Berlusconi](http://www.technorati.com/tags/Berlusconi), [Prodi](http://www.technorati.com/tags/Prodi), [Elezioni2006](http://www.technorati.com/tags/Elezioni2006)
+tag: [Berlusconi](https://www.technorati.com/tags/Berlusconi), [Prodi](https://www.technorati.com/tags/Prodi), [Elezioni2006](https://www.technorati.com/tags/Elezioni2006)

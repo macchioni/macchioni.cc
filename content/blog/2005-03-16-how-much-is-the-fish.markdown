@@ -10,7 +10,7 @@ url: "/2005/03/16/how-much-is-the-fish/"
 wordpress_id: 408
 
 ---
-La cosa curiosa non e che esista un [acquario virtuale](http://biz.yahoo.com/prnews/050315/sftu007_2.html), ma che i singoli pesci siano messi in vendita.
+La cosa curiosa non e che esista un [acquario virtuale](https://biz.yahoo.com/prnews/050315/sftu007_2.html), ma che i singoli pesci siano messi in vendita.
 
 
 

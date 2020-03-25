@@ -10,7 +10,7 @@ url: "/2005/01/17/dopo-alien-vs-predator/"
 wordpress_id: 531
 
 ---
-...[Wittgenstein vs. Leibniz](http://giavasan.diludovico.it/archivio/2005/01/15//) (e meno male che ci sono le monadi).
+...[Wittgenstein vs. Leibniz](https://giavasan.diludovico.it/archivio/2005/01/15//) (e meno male che ci sono le monadi).
 
 
 

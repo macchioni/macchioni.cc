@@ -10,7 +10,7 @@ url: "/2005/01/09/jingle-bells/"
 wordpress_id: 551
 
 ---
-Copio e incollo da [Simona](http://eustonstation.blogspot.com/2005_01_01_eustonstation_archive.html#110529912048394004): 
+Copio e incollo da [Simona](https://eustonstation.blogspot.com/2005_01_01_eustonstation_archive.html#110529912048394004): 
 
 
 
@@ -25,7 +25,7 @@ e fondamentalmente innocuo '_me lo merito, merito io, Buondi Motta Buondi mio_' 
 
 
 
-L'articolo e [qui](http://www.boston.com/news/globe/living/articles/2005/01/09/the_irresistible_singable_stick_in_your_mindable_jingle_is_dead/).
+L'articolo e [qui](https://www.boston.com/news/globe/living/articles/2005/01/09/the_irresistible_singable_stick_in_your_mindable_jingle_is_dead/).
 
 
 

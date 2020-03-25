@@ -10,5 +10,5 @@ url: "/2005/12/24/natale/"
 wordpress_id: 1946
 
 ---
-Auguri a tutti.![](http://www.leibniz-blogs.it/wp-content/galleria/natale.png)  
-([fatto qui](http://wigflip.com/ds/))
+Auguri a tutti.![](https://www.leibniz-blogs.it/wp-content/galleria/natale.png)  
+([fatto qui](https://wigflip.com/ds/))

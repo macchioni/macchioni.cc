@@ -11,5 +11,5 @@ wordpress_id: 704
 
 ---
 **   C'e moda e moda   
-**"Perche odiare gli ebrei ora e diventata cosa  [ politicamente corretta](http://www.newyorkmetro.com/nymetro/news/religion/features/n_9622/)?". E se il trend parte da New York forse c'e da preoccuparsi. Oppure rileggersi  [ Barney](http://www.ita-bol.com/bol/main.jsp?action=bolscheda&ean=978884591570).   
+**"Perche odiare gli ebrei ora e diventata cosa  [ politicamente corretta](https://www.newyorkmetro.com/nymetro/news/religion/features/n_9622/)?". E se il trend parte da New York forse c'e da preoccuparsi. Oppure rileggersi  [ Barney](https://www.ita-bol.com/bol/main.jsp?action=bolscheda&ean=978884591570).   
   NY Magazine - Bol

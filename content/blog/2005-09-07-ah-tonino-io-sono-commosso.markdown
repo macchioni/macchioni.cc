@@ -10,7 +10,7 @@ url: "/2005/09/07/ah-tonino-io-sono-commosso/"
 wordpress_id: 92
 
 ---
-![](http://213.215.144.81/public_html/images/2/2_codice-fiorani_mini.jpg) Certo l'idea del «Codice Fiorani non e male» (in [pdf](http://213.215.144.81/public_html/intercettazioni.pdf)). Se avessimo un vero Tom Wolfe ci verrebbe fuori un falo delle vanita niente male.  
+![](https://213.215.144.81/public_html/images/2/2_codice-fiorani_mini.jpg) Certo l'idea del «Codice Fiorani non e male» (in [pdf](https://213.215.144.81/public_html/intercettazioni.pdf)). Se avessimo un vero Tom Wolfe ci verrebbe fuori un falo delle vanita niente male.  
 
 
 

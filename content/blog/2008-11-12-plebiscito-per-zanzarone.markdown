@@ -10,6 +10,6 @@ url: "/2008/11/12/plebiscito-per-zanzarone/"
 wordpress_id: 3613
 
 ---
-Come [Brugo](http://broogo.blogspot.com/2008/11/romanzo-criminale-1x01-1x02.html) qualche giorno fa, oggi anche Aldo Grasso e Sebastiano Messina concordano che Romanzo Criminale è una gran bella fiction.
+Come [Brugo](https://broogo.blogspot.com/2008/11/romanzo-criminale-1x01-1x02.html) qualche giorno fa, oggi anche Aldo Grasso e Sebastiano Messina concordano che Romanzo Criminale è una gran bella fiction.
 
-[Brugo - Corriere della Sera - Repubblica][ ](http://broogo.blogspot.com/2008/11/romanzo-criminale-1x01-1x02.html)
+[Brugo - Corriere della Sera - Repubblica][ ](https://broogo.blogspot.com/2008/11/romanzo-criminale-1x01-1x02.html)

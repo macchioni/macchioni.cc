@@ -10,6 +10,6 @@ url: "/2005/12/28/rivelazioni/"
 wordpress_id: 1953
 
 ---
-[Cosa pensa una donna che fa da modella di nudo](http://www.slate.com/id/2132130/nav/tap1/) in una classe di disegno.
+[Cosa pensa una donna che fa da modella di nudo](https://www.slate.com/id/2132130/nav/tap1/) in una classe di disegno.
 
 ### Slate

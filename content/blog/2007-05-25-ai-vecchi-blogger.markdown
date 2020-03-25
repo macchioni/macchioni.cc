@@ -10,7 +10,7 @@ url: "/2007/05/25/ai-vecchi-blogger/"
 wordpress_id: 2479
 
 ---
-Lasciate perdere [le caste](http://www.bol.it/libri/scheda/ea978881701714.html),  l'avete preso [il libro](http://www.bol.it/libri/scheda/ea978881701711.html) di [Klamm](http://klamm.splinder.com/)?
+Lasciate perdere [le caste](https://www.bol.it/libri/scheda/ea978881701714.html),  l'avete preso [il libro](https://www.bol.it/libri/scheda/ea978881701711.html) di [Klamm](https://klamm.splinder.com/)?
 
 
 ### Bol

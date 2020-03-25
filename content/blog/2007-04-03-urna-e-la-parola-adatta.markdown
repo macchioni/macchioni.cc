@@ -24,7 +24,7 @@ Premesso fermamente che:
   * nessuno di noi crede alla legge elettorale perfetta (né alle leggi truffa)
 
 
-...visto [l'ultimo sondaggio elettorale Ipr](http://www.repubblica.it/speciale/2007/sondaggi_ipr/intenzioni_di_voto.htm), identificate il vero partito di plastica:
+...visto [l'ultimo sondaggio elettorale Ipr](https://www.repubblica.it/speciale/2007/sondaggi_ipr/intenzioni_di_voto.htm), identificate il vero partito di plastica:
 
 
 

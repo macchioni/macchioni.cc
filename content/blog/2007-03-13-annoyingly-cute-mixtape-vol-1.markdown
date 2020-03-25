@@ -10,7 +10,7 @@ url: "/2007/03/13/annoyingly-cute-mixtape-vol-1/"
 wordpress_id: 2427
 
 ---
-Per gli amici della cassettina, [dodici canzoncine non impegnative](http://countingstarsontheceiling.blogspot.com/2007/03/mixtape-annoyingly-cute.html) per rasserenare la giornata:
+Per gli amici della cassettina, [dodici canzoncine non impegnative](https://countingstarsontheceiling.blogspot.com/2007/03/mixtape-annoyingly-cute.html) per rasserenare la giornata:
 
 _No Style - The Chalets
 If She Wants Me - Belle & Sebastian

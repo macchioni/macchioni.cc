@@ -10,6 +10,6 @@ url: "/2006/08/21/mela-a-cubetti/"
 wordpress_id: 2281
 
 ---
-[New York ricostruita con i Lego](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=102673).
+[New York ricostruita con i Lego](https://www.brickshelf.com/cgi-bin/gallery.cgi?f=102673).
 
 ### Brickshelf

@@ -10,11 +10,11 @@ url: "/2006/09/13/pane-aceto-e-fantasia/"
 wordpress_id: 2293
 
 ---
-![](http://www.corriere.it/Media/Foto/2006/03_Marzo/26/prodi3--180x140.jpg)L'egregio Gianni Riotta, quello che è così bravo che meriterebbe un giornale tutto suo (e anche bello grosso), [dirigerà il Tg1](http://www.corriere.it/Primo_Piano/Politica/2006/09_Settembre/13/rai.shtml). Ricordiamolo citando due brani delle sue due ultime autorevoli interviste, per nulla sbilanciate.
+![](https://www.corriere.it/Media/Foto/2006/03_Marzo/26/prodi3--180x140.jpg)L'egregio Gianni Riotta, quello che è così bravo che meriterebbe un giornale tutto suo (e anche bello grosso), [dirigerà il Tg1](https://www.corriere.it/Primo_Piano/Politica/2006/09_Settembre/13/rai.shtml). Ricordiamolo citando due brani delle sue due ultime autorevoli interviste, per nulla sbilanciate.
 
 
 
-> **Romano Prodi.** [L'antipasto del presidente è semplice, una fetta di pane fresco con poche gocce di aceto balsamico](http://www.corriere.it/Primo_Piano/Politica/2006/07_Luglio/21/prodi_riotta.shtml) di Scandiano. Guarda la Colonna Traiana che riempie la finestra, «Quelle erano guerre senza proporzione. Roma si metteva in marcia e poteva distruggere un popolo intero. Il mondo è cambiato, ma dolore, morale, restano questioni centrali». Il presidente del Consiglio Romano Prodi fa colazione con il suo staff ed esamina le questioni del giorno, la storia che è ancora cronaca, non fissata nella pietra come nella Colonna dell'imperatore Traiano e su cui ogni leader politico spera di intervenire.
+> **Romano Prodi.** [L'antipasto del presidente è semplice, una fetta di pane fresco con poche gocce di aceto balsamico](https://www.corriere.it/Primo_Piano/Politica/2006/07_Luglio/21/prodi_riotta.shtml) di Scandiano. Guarda la Colonna Traiana che riempie la finestra, «Quelle erano guerre senza proporzione. Roma si metteva in marcia e poteva distruggere un popolo intero. Il mondo è cambiato, ma dolore, morale, restano questioni centrali». Il presidente del Consiglio Romano Prodi fa colazione con il suo staff ed esamina le questioni del giorno, la storia che è ancora cronaca, non fissata nella pietra come nella Colonna dell'imperatore Traiano e su cui ogni leader politico spera di intervenire.
 
   
 

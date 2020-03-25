@@ -10,6 +10,6 @@ url: "/2006/08/17/se-non-e-revisionismo-questo/"
 wordpress_id: 2278
 
 ---
-![](http://www.sarmotiworld-fanclub.com/photos/italy_silvan.JPG)Al prossimo che nega il ritorno degli Anni '80 gli faccio ascoltare in loop Sim Sa La Bim ([anche qui](http://www.driveafastercar.com/2006/08/17/the-walkmen-all-the-saints-dads-garage/)) dei [Judies](http://www.myspace.com/thejudies).
+![](https://www.sarmotiworld-fanclub.com/photos/italy_silvan.JPG)Al prossimo che nega il ritorno degli Anni '80 gli faccio ascoltare in loop Sim Sa La Bim ([anche qui](https://www.driveafastercar.com/2006/08/17/the-walkmen-all-the-saints-dads-garage/)) dei [Judies](https://www.myspace.com/thejudies).
 
 ### Drive a fast carThe Judies

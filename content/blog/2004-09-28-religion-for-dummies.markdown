@@ -10,5 +10,5 @@ url: "/2004/09/28/religion-for-dummies/"
 wordpress_id: 3401
 
 ---
-Un sito di [FAQ su Dio](http://www.400monkeys.com/God/index.html).
+Un sito di [FAQ su Dio](https://www.400monkeys.com/God/index.html).
 400Monkeys

@@ -14,8 +14,8 @@ Jonathan Schwartz, capoccione della Sun, ragiona su uno degli aspetti
 piu importanti per un'azienda: sapere chi e e cosa vuole il proprio
 cliente. Senza spaccarsi la testa in grafici e piramidi Schwartz si
 dice soddisfatto di un indice - compreso tra 0 e 1 - costruito partendo
-da una semplice domanda: «[Consiglieresti la Sun?](http://blogs.sun.com/roller/page/jonathan?entry=defining_quality)».  
+da una semplice domanda: «[Consiglieresti la Sun?](https://blogs.sun.com/roller/page/jonathan?entry=defining_quality)».  
 
 
 
-### Schwartz | tag: [quality](http://www.technorati.com/tags/quality), [customer](http://www.technorati.com/tags/customer)
+### Schwartz | tag: [quality](https://www.technorati.com/tags/quality), [customer](https://www.technorati.com/tags/customer)

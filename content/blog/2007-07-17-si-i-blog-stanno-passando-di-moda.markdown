@@ -10,7 +10,7 @@ url: "/2007/07/17/si-i-blog-stanno-passando-di-moda/"
 wordpress_id: 2531
 
 ---
-[Kinder](http://kinder.st/) è stato molto bello. E, a quanto ho potuto constatare, non c'era nessun blogger con le Crocs.
+[Kinder](https://kinder.st/) è stato molto bello. E, a quanto ho potuto constatare, non c'era nessun blogger con le Crocs.
 
 
 ### Kinder

@@ -11,7 +11,7 @@ url: "/2006/04/18/loveitorleaveitville/"
 wordpress_id: 2146
 
 ---
-[Un nuovo nome per gli Stati Uniti?](http://www.weeklyworldnews.com/features/politics/61721) Ma và...
+[Un nuovo nome per gli Stati Uniti?](https://www.weeklyworldnews.com/features/politics/61721) Ma và...
 
 
 ### Weekly World News

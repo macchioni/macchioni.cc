@@ -10,7 +10,7 @@ url: "/2009/02/06/politica-gregaria/"
 wordpress_id: 3934
 
 ---
-Oggi, sul [decreto legge](http://www.corriere.it/cronache/09_febbraio_06/eluana_englaro_idratazione_polemica_180dfe72-f42c-11dd-952a-00144f02aabc.shtml) che per ora sta nel cassetto ed è bene che lì rimanga, [Ezio Mauro](http://www.repubblica.it/2009/02/sezioni/cronaca/eluana-englaro/editoriale-ezio-mauro/editoriale-ezio-mauro.html) scrive tutto quello che c'è da scrivere:
+Oggi, sul [decreto legge](https://www.corriere.it/cronache/09_febbraio_06/eluana_englaro_idratazione_polemica_180dfe72-f42c-11dd-952a-00144f02aabc.shtml) che per ora sta nel cassetto ed è bene che lì rimanga, [Ezio Mauro](https://www.repubblica.it/2009/02/sezioni/cronaca/eluana-englaro/editoriale-ezio-mauro/editoriale-ezio-mauro.html) scrive tutto quello che c'è da scrivere:
 
 
 > attraverso il decreto, saremmo davanti ad un aperto conflitto tra due opposte pronunce non solo sulla medesima materia, ma sullo stesso caso: una sentenza della magistratura e un provvedimento d'urgenza del governo con vigore immediato di legge. Solo che nel nostro ordinamento il legislatore può cambiare il diritto finché una sentenza non diventa irrevocabile, cioè non più impugnabile, vale a dire passata in giudicato. Non siamo dunque soltanto davanti ad un conflitto: ma al problema dell'ultima parola in democrazia, al principio dell'intangibilità del giudicato, alla regola stessa della separazione dei poteri. Senza quel principio e questa regola, una qualunque maggioranza parlamentare a cui non piace una sentenza "definitiva" la travolge con una nuova legge, modificando il giudicato, intervenendo come supremo grado di giudizio, improprio, dopo la Cassazione.

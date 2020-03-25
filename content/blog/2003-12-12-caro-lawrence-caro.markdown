@@ -11,5 +11,5 @@ wordpress_id: 689
 
 ---
 **   Caro Lawrence, Caro James   
-** [   Dialogo](http://www.tnr.com/doc.mhtml?i=debate&s=kaplanphillips120903)a distanza sull'Iraq tra Lawrence F. Kaplan e James Phillips. Un forum in progress.
+** [   Dialogo](https://www.tnr.com/doc.mhtml?i=debate&s=kaplanphillips120903)a distanza sull'Iraq tra Lawrence F. Kaplan e James Phillips. Un forum in progress.
 The New Republic

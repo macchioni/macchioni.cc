@@ -10,7 +10,7 @@ url: "/2004/07/22/cosi-per-sport/"
 wordpress_id: 3261
 
 ---
-Slate s'interroga: [la matematica è o non è uno sport](http://slate.msn.com/id/2103903)? Le olimpiadi della matematica, in fondo, già ci sono (il [logo](http://www.imo2004.gr/images_new/right_up2.jpg) è inquietante!). Poi passa all'analisi di cosa è o non è uno sport secondo una definizione di Bernard Suits:
+Slate s'interroga: [la matematica è o non è uno sport](https://slate.msn.com/id/2103903)? Le olimpiadi della matematica, in fondo, già ci sono (il [logo](https://www.imo2004.gr/images_new/right_up2.jpg) è inquietante!). Poi passa all'analisi di cosa è o non è uno sport secondo una definizione di Bernard Suits:
 
 
 

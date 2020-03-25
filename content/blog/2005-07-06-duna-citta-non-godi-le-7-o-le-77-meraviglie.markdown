@@ -11,7 +11,7 @@ wordpress_id: 210
 
 ---
 Gridskipper lancia il concorso per decidere quali siano [le citta piu
-sexy del mondo](http://www.gridskipper.com/travel/gridskipper/site-info/worlds-sexiest-cities-call-for-nominations-111149.php). Le categorie sono:
+sexy del mondo](https://www.gridskipper.com/travel/gridskipper/site-info/worlds-sexiest-cities-call-for-nominations-111149.php). Le categorie sono:
 
 > Most Feminine City (sexually speaking)  
 

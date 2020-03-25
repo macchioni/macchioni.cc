@@ -10,6 +10,6 @@ url: "/2007/11/30/tassonomico-e-non-nozionista/"
 wordpress_id: 2606
 
 ---
-Oibò, già è ora di sbirciare la [2007 list of lists](http://www.fimoculous.com/year-review-2007.cfm).
+Oibò, già è ora di sbirciare la [2007 list of lists](https://www.fimoculous.com/year-review-2007.cfm).
 
 ### Fimoculous

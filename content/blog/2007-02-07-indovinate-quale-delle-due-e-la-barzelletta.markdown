@@ -15,7 +15,7 @@ Il primo fa: "Attento alla macc... Sptrr!!"
 "Quale macc... Sptrr...".
 
 
-Ora sostituite il pomodoro con [la Mela](http://www.corriere.it/Primo_Piano/Cronache/2007/02_Febbraio/07/ipod_caretto.shtml).
+Ora sostituite il pomodoro con [la Mela](https://www.corriere.it/Primo_Piano/Cronache/2007/02_Febbraio/07/ipod_caretto.shtml).
 
 
 ### Corriere.it

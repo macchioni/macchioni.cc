@@ -6,4 +6,4 @@ title: Letture
 url: "/2010/10/11/lets-writeup/"
 
 ---
-[Quello che vuole la tecnologia](http://www.codiceedizioni.it/libri/quello-che-vuole-la-tecnologia/) di Kevin Kelly. Perché dovrebbe essere obbligatorio alle superiori.
+[Quello che vuole la tecnologia](https://www.codiceedizioni.it/libri/quello-che-vuole-la-tecnologia/) di Kevin Kelly. Perché dovrebbe essere obbligatorio alle superiori.

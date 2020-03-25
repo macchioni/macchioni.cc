@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Dave Winer on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/dave-winer/</link>
@@ -19,13 +19,13 @@
       <guid>https://macchioni.cc/blog/2015-05-17-facebook-articles/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/1-Article.jpg&#34; alt=&#34;instant-articles&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;L&amp;rsquo;altro giorno Dave Winer, il programmatore guru con il pallino dell&amp;rsquo;informazione, &lt;a href=&#34;http://scripting.com/2015/05/13/howToHaveAFuture.html&#34;&gt;ha scritto&lt;/a&gt; una cosa difficilmente contestabile:&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;altro giorno Dave Winer, il programmatore guru con il pallino dell&amp;rsquo;informazione, &lt;a href=&#34;https://scripting.com/2015/05/13/howToHaveAFuture.html&#34;&gt;ha scritto&lt;/a&gt; una cosa difficilmente contestabile:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Il mondo del giornalismo è in piena crisi depressiva perché ha appena capito qualcosa che sapeva già da anni: il suo sistema di distribuzione appartiene all&amp;rsquo;industria tecnologica.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Il motivo è l&amp;rsquo;annuncio finalmente ufficiale - abbastanza disruptive - di Facebook, che ha creato &lt;a href=&#34;http://instantarticles.fb.com/&#34;&gt;Instant Articles&lt;/a&gt;, una piattaforma per editori che vogliono pubblicare articoli con ricchi contenuti multimediali direttamente sul Social Network. Immaginate una via di mezzo tra un Medium, la storia &lt;a href=&#34;http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek&#34;&gt;Snow Fall&lt;/a&gt; del New York Times del 2012 e io vi ci metto anche &lt;a href=&#34;http://www.ultimouomo.com/venuto-dal-futuro-gareth-bale/&#34;&gt;Venuto dal futuro&lt;/a&gt; dell&amp;rsquo;&lt;em&gt;Ultimo uomo&lt;/em&gt; perché loro sono bravi.&lt;/p&gt;
+&lt;p&gt;Il motivo è l&amp;rsquo;annuncio finalmente ufficiale - abbastanza disruptive - di Facebook, che ha creato &lt;a href=&#34;https://instantarticles.fb.com/&#34;&gt;Instant Articles&lt;/a&gt;, una piattaforma per editori che vogliono pubblicare articoli con ricchi contenuti multimediali direttamente sul Social Network. Immaginate una via di mezzo tra un Medium, la storia &lt;a href=&#34;https://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek&#34;&gt;Snow Fall&lt;/a&gt; del New York Times del 2012 e io vi ci metto anche &lt;a href=&#34;https://www.ultimouomo.com/venuto-dal-futuro-gareth-bale/&#34;&gt;Venuto dal futuro&lt;/a&gt; dell&amp;rsquo;&lt;em&gt;Ultimo uomo&lt;/em&gt; perché loro sono bravi.&lt;/p&gt;
 
 &lt;p&gt;Come funziona Instant Articles è scritto un po&amp;rsquo; dappertutto, ma fondamentalmente va così:&lt;/p&gt;
 
@@ -45,13 +45,13 @@ Perché Winer parla di crisi depressiva quando a prima vista questa sembra un&am
 
 &lt;p&gt;####Siamo flussi d&amp;rsquo;informazioni, non giornali
 Se siamo nelle mani delle tech-companies è perché queste sono &lt;strong&gt;nate per gestire i flussi e aggregare le persone&lt;/strong&gt;. Questa aziende riescono a fare in forma estremamente efficiente e con scalabilità impensata prima quello che nel piccolo mondo vecchio era il pane delle imprese editoriali.
-&lt;strong&gt;Ora agli editori resta il contenuto, una base di lettori fedeli (ma è un capitale che si sta erodendo), qualche firma, un mucchio di brand, una presunta professionalità nel selezionare le notizie, vagliarle e confezionarle&lt;/strong&gt;. Però, ogni giorno c&amp;rsquo;è una grande testata che va dietro a notizie come &lt;a href=&#34;http://www.ilpost.it/2014/01/04/corea-zio-kim-jong-un-sbranato-branco-cani/&#34;&gt;lo zio di Kim Jong-un sbranato dai cani&lt;/a&gt;, non so quanto durerà. E comunque, come dice Rafat Ali, di Skift: &lt;a href=&#34;http://digiday.com/publishers/digiday-podcast-age-disposable-media/&#34;&gt;se sei nella media, preparati a morire&lt;/a&gt;:&lt;/p&gt;
+&lt;strong&gt;Ora agli editori resta il contenuto, una base di lettori fedeli (ma è un capitale che si sta erodendo), qualche firma, un mucchio di brand, una presunta professionalità nel selezionare le notizie, vagliarle e confezionarle&lt;/strong&gt;. Però, ogni giorno c&amp;rsquo;è una grande testata che va dietro a notizie come &lt;a href=&#34;https://www.ilpost.it/2014/01/04/corea-zio-kim-jong-un-sbranato-branco-cani/&#34;&gt;lo zio di Kim Jong-un sbranato dai cani&lt;/a&gt;, non so quanto durerà. E comunque, come dice Rafat Ali, di Skift: &lt;a href=&#34;https://digiday.com/publishers/digiday-podcast-age-disposable-media/&#34;&gt;se sei nella media, preparati a morire&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The middle market is dead. This is true in the newspaper industry. Back then, 20 million uniques used to be large; now that’s midsize. Agencies won’t look at you seriously. The middle, if you’re a generalist, is dead.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://digiday.com/publishers/future-digital-publishing-like-cable-tv/&#34;&gt;Jon Steinberg&lt;/a&gt;, l&amp;rsquo;amministratore delegato lato America del &lt;em&gt;Daily Mail&lt;/em&gt; (che non sarà il &lt;em&gt;Guardian&lt;/em&gt;, ma a livello di traffico e influenza su vecchi e nuovi media, chapeau), appartiene alla categoria degli &amp;ldquo;spregiudicati&amp;rdquo;. Lui dice: &lt;strong&gt;pubblicare attraverso le piattaforme, tutte, usando linguaggi differenti, non è il futuro del nostro business. È il presente&lt;/strong&gt;. Anzi, una cosa che possono fare gli editori è evitare che una piattaforma prevalga sull&amp;rsquo;altra.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://digiday.com/publishers/future-digital-publishing-like-cable-tv/&#34;&gt;Jon Steinberg&lt;/a&gt;, l&amp;rsquo;amministratore delegato lato America del &lt;em&gt;Daily Mail&lt;/em&gt; (che non sarà il &lt;em&gt;Guardian&lt;/em&gt;, ma a livello di traffico e influenza su vecchi e nuovi media, chapeau), appartiene alla categoria degli &amp;ldquo;spregiudicati&amp;rdquo;. Lui dice: &lt;strong&gt;pubblicare attraverso le piattaforme, tutte, usando linguaggi differenti, non è il futuro del nostro business. È il presente&lt;/strong&gt;. Anzi, una cosa che possono fare gli editori è evitare che una piattaforma prevalga sull&amp;rsquo;altra.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;All these knocks you see out there on these different platforms are missing what the opportunity is. The opportunity is you can create a lot of engagement, a lot of content that works, and you can monetize.&lt;/p&gt;

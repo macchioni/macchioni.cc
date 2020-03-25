@@ -10,8 +10,8 @@ url: "/2005/08/04/arnoldiani-fino-in-fondo/"
 wordpress_id: 150
 
 ---
-Il nostro Arnold, 38° governatore della California, sta facendo una finaccia. A scriverlo giornali ([uno ](http://www.nationalreview.com/goldberg/goldberg200507270748.asp)e [due](http://www.opinionjournal.com/diary/?id=110007040&mod=RSS_Opinion_Journal&ojrss=frontpage)) che non hanno certo osteggiato la sua carriera politica.  
+Il nostro Arnold, 38° governatore della California, sta facendo una finaccia. A scriverlo giornali ([uno ](https://www.nationalreview.com/goldberg/goldberg200507270748.asp)e [due](https://www.opinionjournal.com/diary/?id=110007040&mod=RSS_Opinion_Journal&ojrss=frontpage)) che non hanno certo osteggiato la sua carriera politica.  
 
 
 
-### National Review - Wall Street Journal | tag: [schwarzenegger](http://www.technorati.com/tags/schwarzenegger), [politics](http://www.technorati.com/tags/politics)
+### National Review - Wall Street Journal | tag: [schwarzenegger](https://www.technorati.com/tags/schwarzenegger), [politics](https://www.technorati.com/tags/politics)

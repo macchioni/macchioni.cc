@@ -10,8 +10,8 @@ url: "/2008/08/24/rischio-e-pericolo-o-del-cicloturista-olandese/"
 wordpress_id: 3024
 
 ---
-Mantellini, che di solito è uomo saggio, [non capisce](http://www.mantellini.it/2008_08_01_archive.html#6993145062795965099) le affermazioni di Alemanno in seguito alla [gravissima aggressione](http://www.repubblica.it/2008/08/sezioni/cronaca/olandese-aggredita/olandese-aggredita/olandese-aggredita.html) (ma è un eufemismo) di due cicloturisti olandesi a Roma. Gliele spiego io, anzi gliele spiegano queste due foto:
-[![](http://www.leibniz-blogs.it/gallery/galeria.png)](http://www.leibniz-blogs.it/gallery/galeria.png) [![](http://www.leibniz-blogs.it/gallery/galeria1.png)](http://www.leibniz-blogs.it/gallery/galeria1.png)
+Mantellini, che di solito è uomo saggio, [non capisce](https://www.mantellini.it/2008_08_01_archive.html#6993145062795965099) le affermazioni di Alemanno in seguito alla [gravissima aggressione](https://www.repubblica.it/2008/08/sezioni/cronaca/olandese-aggredita/olandese-aggredita/olandese-aggredita.html) (ma è un eufemismo) di due cicloturisti olandesi a Roma. Gliele spiego io, anzi gliele spiegano queste due foto:
+[![](https://www.leibniz-blogs.it/gallery/galeria.png)](https://www.leibniz-blogs.it/gallery/galeria.png) [![](https://www.leibniz-blogs.it/gallery/galeria1.png)](https://www.leibniz-blogs.it/gallery/galeria1.png)
 
 Io lì non mi ci accamperei mai.<!--more-->
 

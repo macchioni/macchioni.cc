@@ -12,7 +12,7 @@ wordpress_id: 268
 ---
 Se le taglie di vestiti e scarpe per ragazze vi sono sembrate sempre
 diverse, se entrate in camerino con tre diverse misure della medesima
-gonna,[ questa lettera apparasa su McSweeney's](http://www.mcsweeneys.net/links/openletters/#TotallyImpractical) fa per voi.  
+gonna,[ questa lettera apparasa su McSweeney's](https://www.mcsweeneys.net/links/openletters/#TotallyImpractical) fa per voi.  
 
 
 

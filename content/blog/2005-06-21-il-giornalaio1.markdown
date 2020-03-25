@@ -11,7 +11,7 @@ url: "/2005/06/21/il-giornalaio1/"
 wordpress_id: 244
 
 ---
-![](http://www.camdenconference.org/conference2004/speakers/SpeakerPhotos/Riotta4.jpg)Liberamente ispirato da [Michael Ward](http://www.mcsweeneys.net/2004/4/28ward.html),
+![](https://www.camdenconference.org/conference2004/speakers/SpeakerPhotos/Riotta4.jpg)Liberamente ispirato da [Michael Ward](https://www.mcsweeneys.net/2004/4/28ward.html),
 ecco un comodo tutorial (in realta da perfezionare): «Scrivi il tuo
 editoriale alla Gianni Riotta». Svolgimento:
 

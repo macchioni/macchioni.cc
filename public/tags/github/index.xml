@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Github on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/github/</link>
@@ -17,20 +17,20 @@
       <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/2014/03/18/passare-a-jekyll/</guid>
-      <description>&lt;p&gt;Avevo promesso di spiegare in maniera più esaustiva il passaggio da &lt;a href=&#34;https://wordpress.org&#34;&gt;Wordpress&lt;/a&gt; a &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;. Cioè dal cms più completo in circolazione a quello più essenziale. Naturalmente è una scelta che forse andrà bene per me e potrebbe essere sbagliatissima per voi, ma è la risposta lato software/design a una certa sofferenza della classica struttura dei blog. Una forma diversa che segue l&amp;rsquo;evoluzione dell&amp;rsquo;internet, la diffusione del mobile e la necessità di layout più liquidi. In termini meno noiosi (spero), lo racconto qui sotto.&lt;/p&gt;
+      <description>&lt;p&gt;Avevo promesso di spiegare in maniera più esaustiva il passaggio da &lt;a href=&#34;https://wordpress.org&#34;&gt;Wordpress&lt;/a&gt; a &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;. Cioè dal cms più completo in circolazione a quello più essenziale. Naturalmente è una scelta che forse andrà bene per me e potrebbe essere sbagliatissima per voi, ma è la risposta lato software/design a una certa sofferenza della classica struttura dei blog. Una forma diversa che segue l&amp;rsquo;evoluzione dell&amp;rsquo;internet, la diffusione del mobile e la necessità di layout più liquidi. In termini meno noiosi (spero), lo racconto qui sotto.&lt;/p&gt;
 
 &lt;p&gt;###Il designer miope ci vede benissimo&lt;br /&gt;
 Circa un anno e mezzo fa, non ricordo più come ma potrebbe essere colpa di &lt;a href=&#34;https://friendfeed.com/eio/0d27e21f/web-design-manifesto-2012-jeffrey-zeldman&#34;&gt;Eio&lt;/a&gt;, mi imbatto in
-&lt;a href=&#34;http://www.zeldman.com/2012/05/18/web-design-manifesto-2012/&#34;&gt;questo post di Jeffrey Zeldman&lt;/a&gt; scritto in un corpo enorme.&lt;/p&gt;
+&lt;a href=&#34;https://www.zeldman.com/2012/05/18/web-design-manifesto-2012/&#34;&gt;questo post di Jeffrey Zeldman&lt;/a&gt; scritto in un corpo enorme.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;I love seeing my words this big. It encourages me to write better and more often.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Scrivere in un carattere grande mi invoglia a farlo meglio e più spesso, dice. Ma vale anche per la lettura: &lt;a href=&#34;https://www.readability.com/&#34;&gt;Readability&lt;/a&gt;, &lt;a href=&#34;https://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt; e persino il &amp;ldquo;reader mode&amp;rdquo; di Safari su iOS7 hanno dimostrato che i testi sul web sono scritti troppo piccoli. Vanno reimpaginati per facilitarne la lettura. Su schermi di quattro pollici come sui tablet o sui desktop. La &lt;a href=&#34;http://www.nytimes.com/redesign/&#34;&gt;riforma grafica&lt;/a&gt; del New York Times nel 2014 va esattamente in questa direzione. I blog e i siti più attenti stanno già seguendo. I nuovi temi di Wordpress ormai seguono i dettami del &lt;a href=&#34;https://it.wikipedia.org/wiki/Responsive_Web_Design&#34;&gt;design responsivo&lt;/a&gt;. Ma per cambiare davvero, qui ho deciso di stare fermo. O meglio di essere statico.&lt;/p&gt;
+&lt;p&gt;Scrivere in un carattere grande mi invoglia a farlo meglio e più spesso, dice. Ma vale anche per la lettura: &lt;a href=&#34;https://www.readability.com/&#34;&gt;Readability&lt;/a&gt;, &lt;a href=&#34;https://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt; e persino il &amp;ldquo;reader mode&amp;rdquo; di Safari su iOS7 hanno dimostrato che i testi sul web sono scritti troppo piccoli. Vanno reimpaginati per facilitarne la lettura. Su schermi di quattro pollici come sui tablet o sui desktop. La &lt;a href=&#34;https://www.nytimes.com/redesign/&#34;&gt;riforma grafica&lt;/a&gt; del New York Times nel 2014 va esattamente in questa direzione. I blog e i siti più attenti stanno già seguendo. I nuovi temi di Wordpress ormai seguono i dettami del &lt;a href=&#34;https://it.wikipedia.org/wiki/Responsive_Web_Design&#34;&gt;design responsivo&lt;/a&gt;. Ma per cambiare davvero, qui ho deciso di stare fermo. O meglio di essere statico.&lt;/p&gt;
 
 &lt;p&gt;###Blog like a hacker&lt;br /&gt;
-Una volta deciso di riportare al centro il testo e limitare i bling-bling, prima o poi guardi Wordpress e finisci per chiederti: ma a me serve davvero questo &lt;a href=&#34;http://en.support.wordpress.com/dashboard/&#34;&gt;enorme pannello di controllo&lt;/a&gt;? Se vuoi linkare qualcosa prima degli altri, taggarlo bene, seguire le statistiche, collegare tutto ai social, scrivere in mobilità, fare backup, seguire le regole SEO, Worpress fa tutto più che bene. Vuoi una soluzione più agile? C&amp;rsquo;è Tumblr. Però non ho scelto nemmeno quello. Il cambio di paradigma vero è un salto nel passato: un blog statico. Ovvero:&lt;/p&gt;
+Una volta deciso di riportare al centro il testo e limitare i bling-bling, prima o poi guardi Wordpress e finisci per chiederti: ma a me serve davvero questo &lt;a href=&#34;https://en.support.wordpress.com/dashboard/&#34;&gt;enorme pannello di controllo&lt;/a&gt;? Se vuoi linkare qualcosa prima degli altri, taggarlo bene, seguire le statistiche, collegare tutto ai social, scrivere in mobilità, fare backup, seguire le regole SEO, Worpress fa tutto più che bene. Vuoi una soluzione più agile? C&amp;rsquo;è Tumblr. Però non ho scelto nemmeno quello. Il cambio di paradigma vero è un salto nel passato: un blog statico. Ovvero:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;un post = un file&lt;/li&gt;
@@ -38,27 +38,27 @@ Una volta deciso di riportare al centro il testo e limitare i bling-bling, prima
 &lt;li&gt;praticamente solo codice&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;È una scelta per post più lunghi, pensati. Non per il modello &amp;ldquo;rassegna stampa&amp;rdquo; che una volta poteva andare bene, ma che ora è superato in velocità dai social. Fate conto che sia l&amp;rsquo;equivalente di quella che è in fotografia la differenza tra un&amp;rsquo;ottica fissa e un teleobiettivo: un equipaggiamento che ti costringe a trovare il tuo punto di vista, invece di permetterti potenzialmente tutto e - così facendo - complicare le cose. Insomma, il &lt;a href=&#34;http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html&#34;&gt;blogging like a hacker&lt;/a&gt; pensiero.&lt;/p&gt;
+&lt;p&gt;È una scelta per post più lunghi, pensati. Non per il modello &amp;ldquo;rassegna stampa&amp;rdquo; che una volta poteva andare bene, ma che ora è superato in velocità dai social. Fate conto che sia l&amp;rsquo;equivalente di quella che è in fotografia la differenza tra un&amp;rsquo;ottica fissa e un teleobiettivo: un equipaggiamento che ti costringe a trovare il tuo punto di vista, invece di permetterti potenzialmente tutto e - così facendo - complicare le cose. Insomma, il &lt;a href=&#34;https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html&#34;&gt;blogging like a hacker&lt;/a&gt; pensiero.&lt;/p&gt;
 
-&lt;p&gt;La scelta è caduta su &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, un sistema che ho provato sporadicamente per alcuni mesi abbinandolo all&amp;rsquo;hosting di &lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt; e che aveva un&amp;rsquo;unica grande pecca: i temi. Almeno finché &lt;a href=&#34;https://twitter.com/mdo&#34;&gt;Mark Otto&lt;/a&gt; non ha messo a disposizione &lt;a href=&#34;https://github.com/poole/poole&#34;&gt;Poole&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La scelta è caduta su &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, un sistema che ho provato sporadicamente per alcuni mesi abbinandolo all&amp;rsquo;hosting di &lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt; e che aveva un&amp;rsquo;unica grande pecca: i temi. Almeno finché &lt;a href=&#34;https://twitter.com/mdo&#34;&gt;Mark Otto&lt;/a&gt; non ha messo a disposizione &lt;a href=&#34;https://github.com/poole/poole&#34;&gt;Poole&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jeykll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel&amp;rsquo;s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll&amp;rsquo;s loyal butler. &lt;a href=&#34;https://github.com/poole/poole&#34;&gt;Poole&lt;/a&gt; is the butler for &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, the static site generator.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jeykll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel&amp;rsquo;s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll&amp;rsquo;s loyal butler. &lt;a href=&#34;https://github.com/poole/poole&#34;&gt;Poole&lt;/a&gt; is the butler for &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, the static site generator.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Quello che vedete qui è la variante &lt;a href=&#34;http://hyde.getpoole.com/&#34;&gt;Hyde&lt;/a&gt;, che poi  è la traduzione in jekyllesco di vari temi di &lt;a href=&#34;https://medium.com/&#34;&gt;Medium&lt;/a&gt; e di &lt;a href=&#34;https://svbtle.com/magazine&#34;&gt;Svbtle&lt;/a&gt;. Niente di male perché piacciono moltissimo entrambi.&lt;/p&gt;
+&lt;p&gt;Quello che vedete qui è la variante &lt;a href=&#34;https://hyde.getpoole.com/&#34;&gt;Hyde&lt;/a&gt;, che poi  è la traduzione in jekyllesco di vari temi di &lt;a href=&#34;https://medium.com/&#34;&gt;Medium&lt;/a&gt; e di &lt;a href=&#34;https://svbtle.com/magazine&#34;&gt;Svbtle&lt;/a&gt;. Niente di male perché piacciono moltissimo entrambi.&lt;/p&gt;
 
 &lt;p&gt;###Scrivere è programmare&lt;br /&gt;
-Per usare &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; basta avere qualcosa da scrivere. Ma, al contrario dei vari editor &lt;a href=&#34;https://it.wikipedia.org/wiki/WYSIWYG&#34;&gt;WYSIWYG
-&lt;/a&gt;, ogni post è una pagina di &amp;ldquo;codice&amp;rdquo;, scritta in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;, ovvero il linguaggio di quel partigiano Apple oltre ogni limite che si chiama &lt;a href=&#34;http://daringfireball.net/&#34;&gt;John Gruber&lt;/a&gt;.&lt;/p&gt;
+Per usare &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; basta avere qualcosa da scrivere. Ma, al contrario dei vari editor &lt;a href=&#34;https://it.wikipedia.org/wiki/WYSIWYG&#34;&gt;WYSIWYG
+&lt;/a&gt;, ogni post è una pagina di &amp;ldquo;codice&amp;rdquo;, scritta in &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;, ovvero il linguaggio di quel partigiano Apple oltre ogni limite che si chiama &lt;a href=&#34;https://daringfireball.net/&#34;&gt;John Gruber&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Tradotto: Markdown, all&amp;rsquo;inizio non sembra, ma alla lunga è puro genio. Metà dei problemi delle redazioni del mondo sparirebbero in un istante se i giornalisti abbandonassero i vari word processor millefunzioni e scrivessero in Markdown, magari appoggiandosi a editor essenziali come &lt;a href=&#34;http://bywordapp.com/&#34;&gt;Byword&lt;/a&gt;, &lt;a href=&#34;http://brettterpstra.com/projects/nvalt/&#34;&gt;nvALT&lt;/a&gt; o software ancora più basic come &lt;a href=&#34;http://www.ommwriter.com/&#34;&gt;Ommwriter&lt;/a&gt;. Markdown è così semplice che permette di formattare usando pochi simboli davanti alle parole: asterischi, underscore, trattini, cancelletti, segno maggiore/minore e parentesi. Ed è talmente veloce che, quando Bloom ha creato l&amp;rsquo;app diario più popolare su iOS, cioè &lt;a href=&#34;http://dayoneapp.com/&#34;&gt;DayOne&lt;/a&gt;, l&amp;rsquo;ha resa compatibile con Markdown. Mica per caso.&lt;/p&gt;
+&lt;p&gt;Tradotto: Markdown, all&amp;rsquo;inizio non sembra, ma alla lunga è puro genio. Metà dei problemi delle redazioni del mondo sparirebbero in un istante se i giornalisti abbandonassero i vari word processor millefunzioni e scrivessero in Markdown, magari appoggiandosi a editor essenziali come &lt;a href=&#34;https://bywordapp.com/&#34;&gt;Byword&lt;/a&gt;, &lt;a href=&#34;https://brettterpstra.com/projects/nvalt/&#34;&gt;nvALT&lt;/a&gt; o software ancora più basic come &lt;a href=&#34;https://www.ommwriter.com/&#34;&gt;Ommwriter&lt;/a&gt;. Markdown è così semplice che permette di formattare usando pochi simboli davanti alle parole: asterischi, underscore, trattini, cancelletti, segno maggiore/minore e parentesi. Ed è talmente veloce che, quando Bloom ha creato l&amp;rsquo;app diario più popolare su iOS, cioè &lt;a href=&#34;https://dayoneapp.com/&#34;&gt;DayOne&lt;/a&gt;, l&amp;rsquo;ha resa compatibile con Markdown. Mica per caso.&lt;/p&gt;
 
-&lt;p&gt;Ecco, questo è grosso modo il motivo per cui questo blog è così. Ci sono cose da migliorare e funzioni da attivare (per lo più seguendo &lt;a href=&#34;http://joshualande.com/2014/02/03/jekyll-github-pages-poole/&#34;&gt;questo tutorial&lt;/a&gt; di Joshua Lande). Più i soliti refusi. E ora:&lt;/p&gt;
+&lt;p&gt;Ecco, questo è grosso modo il motivo per cui questo blog è così. Ci sono cose da migliorare e funzioni da attivare (per lo più seguendo &lt;a href=&#34;https://joshualande.com/2014/02/03/jekyll-github-pages-poole/&#34;&gt;questo tutorial&lt;/a&gt; di Joshua Lande). Più i soliti refusi. E ora:&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;git commit -a&lt;/code&gt;&lt;/p&gt;
 
@@ -72,9 +72,9 @@ Per usare &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; basta av
       <pubDate>Thu, 13 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://macchioni.cc/2014/03/13/ciao-ciao-wordpress/</guid>
-      <description>&lt;p&gt;Buongiorno, la versione breve è che dopo secoli ho abbandonato &lt;a href=&#34;https://wordpress.org&#34;&gt;Wordpress&lt;/a&gt;, nonostante negli anni questa piattaforma sia migliorata tantissimo. Avevo bisogno di qualcosa di più agile e la soluzione &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;+&lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt;, senza database, plugin e sovrastrutture varie mi è sembrata la più adatta. Ne parleremo meglio poi. Ora qui manca un sacco di roba, ma pian piano torna.&lt;/p&gt;
+      <description>&lt;p&gt;Buongiorno, la versione breve è che dopo secoli ho abbandonato &lt;a href=&#34;https://wordpress.org&#34;&gt;Wordpress&lt;/a&gt;, nonostante negli anni questa piattaforma sia migliorata tantissimo. Avevo bisogno di qualcosa di più agile e la soluzione &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;+&lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt;, senza database, plugin e sovrastrutture varie mi è sembrata la più adatta. Ne parleremo meglio poi. Ora qui manca un sacco di roba, ma pian piano torna.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://jekyllrb.com/img/octojekyll.png&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jekyllrb.com/img/octojekyll.png&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

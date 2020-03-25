@@ -10,10 +10,10 @@ url: "/2005/03/29/la-variante-di-leibniz/"
 wordpress_id: 380
 
 ---
-Oggi si va un po' di fretta quindi il pigro consiglio e di andare su [Leftwing](http://www.leftwing.it/) a leggere quello
+Oggi si va un po' di fretta quindi il pigro consiglio e di andare su [Leftwing](https://www.leftwing.it/) a leggere quello
 che c'e di nuovo. Ci sono [mille curiosita
-sull'America's Cup](http://www.leftwing.it/index.php?id=143), e anche [un bel
-pezzone](http://www.leftwing.it/index.php?id=149) di Massimo Adinolfi sugli scacchi dal titolo «Al
+sull'America's Cup](https://www.leftwing.it/index.php?id=143), e anche [un bel
+pezzone](https://www.leftwing.it/index.php?id=149) di Massimo Adinolfi sugli scacchi dal titolo «Al
 Sistani e Deep Blue». Qui un passaggio:  
 
 

@@ -11,6 +11,6 @@ url: "/2009/05/20/il-bello-della-webpolitica/"
 wordpress_id: 4036
 
 ---
-[Notapolitica](http://www.notapolitica.it/home.aspx), cioè il [fivethirtyeight ](http://www.fivethirtyeight.com)italiano, mi sembra promettere davvero bene: sondaggioni semi-riservati e  rassegna stampa intelligente.
+[Notapolitica](https://www.notapolitica.it/home.aspx), cioè il [fivethirtyeight ](https://www.fivethirtyeight.com)italiano, mi sembra promettere davvero bene: sondaggioni semi-riservati e  rassegna stampa intelligente.
 
 [Nota Politica - 538]

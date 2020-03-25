@@ -11,7 +11,7 @@ url: "/2006/07/18/mancava-giusto-qualcuno/"
 wordpress_id: 2259
 
 ---
-Ogni tanto, quando in Medioriente c'è casino, qui nella culla del pensiero illuminato occidentale salta fuori qualcuno che s'inventa che [Israele è un errore storico](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/17/AR2006071701154.html). Stavolta è uno che si chiama Cohen:
+Ogni tanto, quando in Medioriente c'è casino, qui nella culla del pensiero illuminato occidentale salta fuori qualcuno che s'inventa che [Israele è un errore storico](https://www.washingtonpost.com/wp-dyn/content/article/2006/07/17/AR2006071701154.html). Stavolta è uno che si chiama Cohen:
 
 
 

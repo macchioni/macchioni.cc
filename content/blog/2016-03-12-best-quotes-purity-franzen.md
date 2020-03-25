@@ -15,11 +15,11 @@ title: Purity non è un romanzo sull'internet
 ---
 ![jonathan-franzen.purity](/images/vault/purityIT.jpg)
 
-Non so ancora bene che cosa pensare di [Purity](http://www.amazon.it/dp/8806216600), l'ultimo romanzo di Jonathan Franzen, pubblicato finalmente in Italia da Einaudi e tradotto alla grande da [Silvia Pareschi](http://ninehoursofseparation.blogspot.it/) (lei ne scrive anche [qui](http://biancamano2.einaudi.it/purity/)). Non lo sapevo dopo aver chiuso l'ultima pagina e lo so ancor meno adesso che so che diventerà [una serie tv con Daniel Craig](http://variety.com/2016/tv/news/daniel-craig-purity-jonathan-franzen-showtime-drama-1201705677/). WTF.
+Non so ancora bene che cosa pensare di [Purity](https://www.amazon.it/dp/8806216600), l'ultimo romanzo di Jonathan Franzen, pubblicato finalmente in Italia da Einaudi e tradotto alla grande da [Silvia Pareschi](https://ninehoursofseparation.blogspot.it/) (lei ne scrive anche [qui](https://biancamano2.einaudi.it/purity/)). Non lo sapevo dopo aver chiuso l'ultima pagina e lo so ancor meno adesso che so che diventerà [una serie tv con Daniel Craig](https://variety.com/2016/tv/news/daniel-craig-purity-jonathan-franzen-showtime-drama-1201705677/). WTF.
 
 Era un libro da cui mi aspettavo molto sull'Internet (tutto parte da una specie di Julian Assange) e che invece mi ha portato molto a riflettere su altre cose: il matrimonio, il rapporto madre-figlia, la costruzione di una reputazione. Poi dentro c'è l'ego di Franzen, ci sono i suoi dannati uccelletti (lo scrittore è un bird-watcher), i capitoli diario (già visti in "Libertà"), i diversi punti di vista, l'autoreferenzialità, l'ossessione sessuale un po' da romanzo americano con la solita ragazza che la dà via "just because". 
 
-È un libro, però, che offre tante sottolineature. Così, quando ho visto sul Post [16 battute dal nuovo romanzo di Franzen](http://www.ilpost.it/2016/03/11/16-frasi-purity-jonathan-franzen/) un po' mi è dispiaciuto perché io sono mesi che meditavo di scrivere qualcosa, avendolo letto in vacanza l'ottobre scorso. Per fortuna, o perché io non ho capito niente, i nostri punti di vista non coincidono. Quindi, incollo qui quello che ho sottolineato. 
+È un libro, però, che offre tante sottolineature. Così, quando ho visto sul Post [16 battute dal nuovo romanzo di Franzen](https://www.ilpost.it/2016/03/11/16-frasi-purity-jonathan-franzen/) un po' mi è dispiaciuto perché io sono mesi che meditavo di scrivere qualcosa, avendolo letto in vacanza l'ottobre scorso. Per fortuna, o perché io non ho capito niente, i nostri punti di vista non coincidono. Quindi, incollo qui quello che ho sottolineato. 
 
 ![purity-uk](/images/vault/purityUK.jpg)
 

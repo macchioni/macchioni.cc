@@ -19,9 +19,9 @@ url: "/2012/07/04/newsnight-2-0/"
 wordpress_id: 4873
 
 ---
-![drawing](http://leibniz.me/images/uploads/2012/07/nreasel.jpg)
+![drawing](https://leibniz.me/images/uploads/2012/07/nreasel.jpg)
 
-In giro capita di leggere una marea di critiche e stroncature di [The Newsroom](http://en.wikipedia.org/wiki/The_Newsroom_(U.S._TV_series)) (vedi [On Bullshit](http://www.fimoculous.com/archive/post-7200.cfm), oppure [Aaron Sorkin’s Flawed New HBO Drama](http://www.thedailybeast.com/newsweek/2012/06/24/the-newsroom-aaron-sorkin-s-flawed-new-hbo-drama.html)), ma un paio di cose nel secondo episodio della serie sono abbastanza vere. Tipo, le tre, anzi quattro (la quarta soprattutto!) domande che uno dovrebbe sempre farsi:
+In giro capita di leggere una marea di critiche e stroncature di [The Newsroom](https://en.wikipedia.org/wiki/The_Newsroom_(U.S._TV_series)) (vedi [On Bullshit](https://www.fimoculous.com/archive/post-7200.cfm), oppure [Aaron Sorkin’s Flawed New HBO Drama](https://www.thedailybeast.com/newsweek/2012/06/24/the-newsroom-aaron-sorkin-s-flawed-new-hbo-drama.html)), ma un paio di cose nel secondo episodio della serie sono abbastanza vere. Tipo, le tre, anzi quattro (la quarta soprattutto!) domande che uno dovrebbe sempre farsi:
 
 
 > 1. Is this information we need in the voting booth?

@@ -13,7 +13,7 @@ title: Facebook is eating the world
 
 > Second, the inevitable outcome of this is the increase in power of social media companies.
 
-- Emily Bell, [Facebook is eating the world](http://www.cjr.org/analysis/facebook_and_media.php)
+- Emily Bell, [Facebook is eating the world](https://www.cjr.org/analysis/facebook_and_media.php)
 
 —
 <a rel="syndication" class="u-syndication" href="https://twitter.com/leibniz/status/707134772464762880">POSSEed on Twitter</a>

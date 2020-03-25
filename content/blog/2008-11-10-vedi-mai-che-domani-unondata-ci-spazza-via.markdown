@@ -10,4 +10,4 @@ url: "/2008/11/10/vedi-mai-che-domani-unondata-ci-spazza-via/"
 wordpress_id: 3603
 
 ---
-Il riscaldamento globale avanza, il livello delle acque sale e [i maldiviani comprano. ](http://www.guardian.co.uk/environment/2008/nov/10/maldives-climate-change)Terra. [Guardian]
+Il riscaldamento globale avanza, il livello delle acque sale e [i maldiviani comprano. ](https://www.guardian.co.uk/environment/2008/nov/10/maldives-climate-change)Terra. [Guardian]

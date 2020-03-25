@@ -10,7 +10,7 @@ url: "/2005/10/04/sempre-blu-li-fanno/"
 wordpress_id: 643
 
 ---
-Dopo il Guardian anche [Le Figaro](http://www.lefigaro.fr/), in crisi di vendite, [ha cambiato colore e grafica](http://www.lefigaro.fr/dossiers/0310/).  
+Dopo il Guardian anche [Le Figaro](https://www.lefigaro.fr/), in crisi di vendite, [ha cambiato colore e grafica](https://www.lefigaro.fr/dossiers/0310/).  
  
 
-### Figaro | tag: [journalism](http://www.technorati.com/tags/journalism)
+### Figaro | tag: [journalism](https://www.technorati.com/tags/journalism)

@@ -10,10 +10,10 @@ url: "/2005/05/04/oggi-do-i-numeri/"
 wordpress_id: 315
 
 ---
-Oggi Leibniz si sente un po' [Raymond Babbitt ](http://www.imdb.com/title/tt0095953/?fr=c2l0ZT1kZnxteD0yMHxsbT01MDB8dHQ9MXxmYj11fHBuPTB8c291cmNlaWQ9bW96aWxsYS1zZWFyY2h8cT1yYWlubWFufGh0bWw9MXxubT0x;fc=1;ft=21;fm=1)(il
+Oggi Leibniz si sente un po' [Raymond Babbitt ](https://www.imdb.com/title/tt0095953/?fr=c2l0ZT1kZnxteD0yMHxsbT01MDB8dHQ9MXxmYj11fHBuPTB8c291cmNlaWQ9bW96aWxsYS1zZWFyY2h8cT1yYWlubWFufGh0bWw9MXxubT0x;fc=1;ft=21;fm=1)(il
 Dustin Hoffman di «Rainman») e cosi il tema del giorno e: come sapere
 che giorno della settimana sara all'interno di una data qualsiasi di
-qui al 2099. Segue spiegazione, naturalmente [presa in prestito](http://www.quincunx.org/calendar/).  
+qui al 2099. Segue spiegazione, naturalmente [presa in prestito](https://www.quincunx.org/calendar/).  
 
   
 
@@ -23,7 +23,7 @@ qui al 2099. Segue spiegazione, naturalmente [presa in prestito](http://www.quin
   
 - Prendere le ultime due cifre dell'anno e aggiungere un quarto (04 +1 = 5)  
 
-- Trovare il [codice mese](http://www.quincunx.org/calendar/#Monthcodes), o impararlo a memoria (gennaio e 6, febbraio 2, luglio 5)  
+- Trovare il [codice mese](https://www.quincunx.org/calendar/#Monthcodes), o impararlo a memoria (gennaio e 6, febbraio 2, luglio 5)  
 
 - Aggiungere il numero del giorno (26)  
 
@@ -34,7 +34,7 @@ qui al 2099. Segue spiegazione, naturalmente [presa in prestito](http://www.quin
 - Nel nostro esempio 36-35=1, quindi LUNEDI.   
 Come effettivamente e stato.
 
-Naturalmente tutto questo e inutile se siete vicini a un computer e avete tra i bookmark un bel [calendario perpetuo](http://www.cronologia.it/calendar.htm). Anche perche questo sistema ha un sacco di [eccezioni](http://www.quincunx.org/calendar/#otherpoints).  
+Naturalmente tutto questo e inutile se siete vicini a un computer e avete tra i bookmark un bel [calendario perpetuo](https://www.cronologia.it/calendar.htm). Anche perche questo sistema ha un sacco di [eccezioni](https://www.quincunx.org/calendar/#otherpoints).  
 
 
 

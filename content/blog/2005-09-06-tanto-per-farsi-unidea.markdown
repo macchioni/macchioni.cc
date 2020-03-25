@@ -14,4 +14,4 @@ Una lunga lista di tecniche per migliorare la concentrazione mentre si cerca un'
 
 
 
-### Idea generation methods (via [Rebecca](http://www.rebeccablood.net/)) | tag: [ideas](http://www.technorati.com/tags/ideas), [lists](http://www.technorati.com/tags/lists), [memory](http://www.technorati.com/tags/memory), [howto](http://www.technorati.com/tags/howto)
+### Idea generation methods (via [Rebecca](https://www.rebeccablood.net/)) | tag: [ideas](https://www.technorati.com/tags/ideas), [lists](https://www.technorati.com/tags/lists), [memory](https://www.technorati.com/tags/memory), [howto](https://www.technorati.com/tags/howto)

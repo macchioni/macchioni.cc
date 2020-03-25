@@ -15,7 +15,7 @@ basket americano. L'altra notte ha fatto una tripla doppia (doppia
 cifra in punti, rimbalzi e assist) divenendo cosi il piu giovane
 giocatore a realizzarne una. Poi si e anche ripetuto. Il business
 cestistico spera sempre che diventi il nuovo Michael Jordan. Time
-intanto gli dedica [un ritrattone](http://www.time.com/time/magazine/article/0,9171,1019842,00.html).
+intanto gli dedica [un ritrattone](https://www.time.com/time/magazine/article/0,9171,1019842,00.html).
 
 
 

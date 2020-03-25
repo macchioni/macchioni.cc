@@ -10,7 +10,7 @@ url: "/2005/06/30/lidiota-estremo/"
 wordpress_id: 221
 
 ---
-![](http://keub55.free.fr/Eric_Cartman.gif)Fenomenale saggio di Francesco Bonami su ZerO, dedicato all'[Unabimbo](http://www.1zero1.it/zero2/bonami.php),
+![](https://keub55.free.fr/Eric_Cartman.gif)Fenomenale saggio di Francesco Bonami su ZerO, dedicato all'[Unabimbo](https://www.1zero1.it/zero2/bonami.php),
 «il massimalista infantile che si nasconde dentro il soggetto
 collettivo italiano»  
 

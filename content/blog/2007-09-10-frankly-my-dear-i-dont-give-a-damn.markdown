@@ -10,7 +10,7 @@ url: "/2007/09/10/frankly-my-dear-i-dont-give-a-damn/"
 wordpress_id: 2565
 
 ---
-Magistrale riassunto di Miic sui [dialoghi nei film d'amore](http://miic.livejournal.com/140591.html). Eccone un esempio:
+Magistrale riassunto di Miic sui [dialoghi nei film d'amore](https://miic.livejournal.com/140591.html). Eccone un esempio:
 
 
 > **Via col vento**

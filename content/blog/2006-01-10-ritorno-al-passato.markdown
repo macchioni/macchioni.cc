@@ -10,7 +10,7 @@ url: "/2006/01/10/ritorno-al-passato/"
 wordpress_id: 1978
 
 ---
-[Pac Man rifatto](http://www.mcsebi.com/pacx.php), shakerato e in versione Aqua per Mac.
+[Pac Man rifatto](https://www.mcsebi.com/pacx.php), shakerato e in versione Aqua per Mac.
 
 
-### McSebi | tag: [games](http://www.technorati.com/tags/games), [pacman](http://www.technorati.com/tags/pacman)
+### McSebi | tag: [games](https://www.technorati.com/tags/games), [pacman](https://www.technorati.com/tags/pacman)

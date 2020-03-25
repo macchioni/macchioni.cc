@@ -10,9 +10,9 @@ url: "/2005/08/02/mattoncini/"
 wordpress_id: 156
 
 ---
-Sicuramente deve essere passato per [Giavasan](http://giavasan.diludovico.it/) qualche
-tempo fa, ma in giro si dice che [Stackopolis](http://www.stackopolis.com/play/) sia il
+Sicuramente deve essere passato per [Giavasan](https://giavasan.diludovico.it/) qualche
+tempo fa, ma in giro si dice che [Stackopolis](https://www.stackopolis.com/play/) sia il
 nuovo Tetris. Mah,...
 
 
-### Giavasan - Stackopolis | tag: [games](http://www.technorati.com/tags/games)
+### Giavasan - Stackopolis | tag: [games](https://www.technorati.com/tags/games)

@@ -13,6 +13,6 @@ wordpress_id: 3000
 > The** decline in pubs** is to do with three things: **the smoking ban**, a fraying in the old **notion of community**, and as a result of **Happy Hours** and drinks promotions, which have transformed the average British pub from a haven of smoked glass, polished brass and mahogany into blaring dumps filled from one end to the other with quiz machines, karaoke stages, and drunken teenagers shouting at each other over lurid drinks.
 
 
-[Pubs are the last place I'd want to drink in](http://www.telegraph.co.uk/opinion/main.jhtml?xml=/opinion/2008/07/29/do2904.xml)
+[Pubs are the last place I'd want to drink in](https://www.telegraph.co.uk/opinion/main.jhtml?xml=/opinion/2008/07/29/do2904.xml)
 
 ### Telegraph

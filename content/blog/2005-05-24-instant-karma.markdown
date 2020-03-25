@@ -11,7 +11,7 @@ wordpress_id: 275
 
 ---
 In Gran Bretagna Radio2 ha chiesto ai propri ascoltatori quali fossero
-[le canzoni piu importanti dagli anni '50 a oggi](http://www.thisislondon.com/insiders/guides/articles/18818505?source=PA). Risultato: niente
+[le canzoni piu importanti dagli anni '50 a oggi](https://www.thisislondon.com/insiders/guides/articles/18818505?source=PA). Risultato: niente
 Beatles.  
 
 

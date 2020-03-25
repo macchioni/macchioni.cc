@@ -10,7 +10,7 @@ url: "/2009/05/24/necessaria-come-il-pane-molto-pericolosa/"
 wordpress_id: 4042
 
 ---
-Mi sa che ha ragione [Massimo Mantellini](http://www.mantellini.it/?p=6760). Sul Rapporto Caio e sul futuro di un network di nuova generazione (Ngn) in Italia.
+Mi sa che ha ragione [Massimo Mantellini](https://www.mantellini.it/?p=6760). Sul Rapporto Caio e sul futuro di un network di nuova generazione (Ngn) in Italia.
 
 
 > **Abbiamo bisogno di investire pesantemente sulla rete anche se non sappiamo bene il perché.** Come ci insegna chiaramente la storia di Internet negli ultimi 15 anni **le tecnologie abilitano e gli umani dopo fanno il resto.** E’ assai probabile che lo scenario disegnato dal rapporto Caio sulla evoluzione dei servizi di rete sia risibile e facilmente superato dagli eventi ma non sarà questa superficialità di analisi a togliere validità all’idea di una solo grande rete in fibra che raggiunga la casa del maggior numero possibile di cittadini. Gli utilizzi intelligenti, se avremo l’accortezza di gestire bene il processo, seguiranno.

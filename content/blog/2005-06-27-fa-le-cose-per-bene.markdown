@@ -11,7 +11,7 @@ wordpress_id: 226
 
 ---
 Non c'e nulla di piu inutilmente sfizioso della[ recensione del pecorino
-Locatelli](http://www.mcsweeneys.net/links/newfood/#ReviewsofNewFood) firmata da questa sconosciuta Stephanie Palumbo:
+Locatelli](https://www.mcsweeneys.net/links/newfood/#ReviewsofNewFood) firmata da questa sconosciuta Stephanie Palumbo:
 
 
 > This is the best kind of cheese

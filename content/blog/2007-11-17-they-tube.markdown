@@ -10,6 +10,6 @@ url: "/2007/11/17/they-tube/"
 wordpress_id: 2597
 
 ---
-Una volta non c'era intervista che non contemplasse la domanda: "Che cosa sta leggendo adesso?". Ora la domanda è: "[Che genere di video guarda su YouTube?](http://nymag.com/daily/entertainment/2007/11/what_the_celebrities_are_watching.html)". Ecco, il New York Magazine l'ha fatta a un po' di gente famosa (che ha risposto).
+Una volta non c'era intervista che non contemplasse la domanda: "Che cosa sta leggendo adesso?". Ora la domanda è: "[Che genere di video guarda su YouTube?](https://nymag.com/daily/entertainment/2007/11/what_the_celebrities_are_watching.html)". Ecco, il New York Magazine l'ha fatta a un po' di gente famosa (che ha risposto).
 
 ### NY Magazine 

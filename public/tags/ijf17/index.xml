@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Ijf17 on Piero Macchioni</title>
     <link>https://macchioni.cc/tags/ijf17/</link>
@@ -21,11 +21,11 @@
 
 &lt;p&gt;&lt;img src=&#34;https://macchioni.cc/images/vault/electric-river.jpg&#34; alt=&#34;electric-river&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;One week ago in Perugia, during the annual Journalism Festival, &lt;a href=&#34;http://scripting.com&#34;&gt;Dave Winer&lt;/a&gt; talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that &lt;a href=&#34;http://www.festivaldelgiornalismo.com/programme/2017/plan-b-making-a-home-for-news-on-the-open-web&#34;&gt;Plan B&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One week ago in Perugia, during the annual Journalism Festival, &lt;a href=&#34;https://scripting.com&#34;&gt;Dave Winer&lt;/a&gt; talked about journos taking back their online distribution system, now firmly in silos’ hands (blue silos, big F, you got it). He called that &lt;a href=&#34;https://www.festivaldelgiornalismo.com/programme/2017/plan-b-making-a-home-for-news-on-the-open-web&#34;&gt;Plan B&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;First step, he said, forget your readers for a moment and start your own News River. It is something he’s been working on for years, basically a feed aggregator with no fancy stuff. It is radical because, when you use it, you just see what your sources publish when they do it: no algorithms, no distracting images, no ads. It’s like newsrooms in the old times, with the AP feed on your monitor.&lt;/p&gt;
 
-&lt;p&gt;Now I’m simplifying but the old News River needed a server, a bit of programming and a few bucks to let everything run. Why bother if you have amazing free products like &lt;a href=&#34;https://feedly.com/&#34;&gt;Feedly&lt;/a&gt;? So now Dave shipped &lt;a href=&#34;http://rss2.io/electric/&#34;&gt;Electric River&lt;/a&gt;, a Mac app easily customizable - well, you can enjoy more if you know some coding - you can run on your desktop with no cost at all.&lt;/p&gt;
+&lt;p&gt;Now I’m simplifying but the old News River needed a server, a bit of programming and a few bucks to let everything run. Why bother if you have amazing free products like &lt;a href=&#34;https://feedly.com/&#34;&gt;Feedly&lt;/a&gt;? So now Dave shipped &lt;a href=&#34;https://rss2.io/electric/&#34;&gt;Electric River&lt;/a&gt;, a Mac app easily customizable - well, you can enjoy more if you know some coding - you can run on your desktop with no cost at all.&lt;/p&gt;
 
 &lt;p&gt;I did it.&lt;/p&gt;
 
@@ -52,7 +52,7 @@
 &lt;li&gt;search: I’d start with some &lt;code&gt;cmd + F&lt;/code&gt; for searching the page, but a search box would be amazing.&lt;/li&gt;
 &lt;li&gt;stars/readitlater: some kind of selecting items so you can work them later or just remember.&lt;/li&gt;
 &lt;li&gt;synch: Electric River is totally desktop, but our lives are mobile and multi-device. Some kind of feed memory would help.&lt;/li&gt;
-&lt;li&gt;sharing: Dave offers his awesome &lt;a href=&#34;http://radio3.io/&#34;&gt;Radio3&lt;/a&gt; for tweeting and posting on Facebook. I’d love some more customization for sharing directly in Instapaper, Pinboard, Slack etc…&lt;/li&gt;
+&lt;li&gt;sharing: Dave offers his awesome &lt;a href=&#34;https://radio3.io/&#34;&gt;Radio3&lt;/a&gt; for tweeting and posting on Facebook. I’d love some more customization for sharing directly in Instapaper, Pinboard, Slack etc…&lt;/li&gt;
 &lt;li&gt;All of the above functions are already available from Feedly, Feedbin, etc…
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;

@@ -10,7 +10,7 @@ url: "/2006/02/18/dopo-lindignazione/"
 wordpress_id: 2043
 
 ---
-Giusto per ricordare che in certi paesi nessuna indignazione nasce spontaneamente. [Magdi Allam](http://www.corriere.it/Primo_Piano/Esteri/2006/02_Febbraio/18/allam1802.shtml):
+Giusto per ricordare che in certi paesi nessuna indignazione nasce spontaneamente. [Magdi Allam](https://www.corriere.it/Primo_Piano/Esteri/2006/02_Febbraio/18/allam1802.shtml):
 
 
 > **E' stato un attacco preannunciato contro il nostro consolato a Bengasi.** Erano giorni che Gheddafi aizzava la piazza contro Calderoli colpevole di aver promosso una «nuova crociata contro l'Islam». Ma anche contro l'Italia perché «non vuole chiudere con il passato fascista». Il governo Berlusconi era al corrente dei seri rischi a cui andava incontro. Eppure il ministro leghista si è prestato ad innescare la miccia che ha dato fuoco alle polveri, rifiutandosi di recedere dall' ostentazione delle magliette con le vignette su Maometto ritenute blasfeme. Ed ora che si fa la conta dei morti e dei feriti, le responsabilità sono chiare.<!--more-->

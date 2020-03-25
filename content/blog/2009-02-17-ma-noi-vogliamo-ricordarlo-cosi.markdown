@@ -10,8 +10,8 @@ url: "/2009/02/17/ma-noi-vogliamo-ricordarlo-cosi/"
 wordpress_id: 3946
 
 ---
-![](http://www.partitodemocratico.it/imagesfe/Manifesto3_voltate175_img.JPG)
+![](https://www.partitodemocratico.it/imagesfe/Manifesto3_voltate175_img.JPG)
 
 
 
-By the way, [come dice Brodo](http://brodoprimordiale.net/archives/2009/02/17/ci-siamo-quasi/): africani, adesso sono cavoli vostri.
+By the way, [come dice Brodo](https://brodoprimordiale.net/archives/2009/02/17/ci-siamo-quasi/): africani, adesso sono cavoli vostri.

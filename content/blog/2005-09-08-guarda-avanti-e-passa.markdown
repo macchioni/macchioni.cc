@@ -10,7 +10,7 @@ url: "/2005/09/08/guarda-avanti-e-passa/"
 wordpress_id: 91
 
 ---
-Riprende la [navigazione a doppio senso sul Mississippi](http://www.ansa.it/main/notizie/awnplus/topnews/news/2005-09-08_1203583.html), se dovesse ripresentarsi Schwarzenegger [oggi sarebbe appoggiato solo da un californiano su tre](http://www.newsmax.com/archives/articles/2005/9/7/210044.shtml) (e i gay non c'entrano), qualcuno nel mondo potra assaggiare la [El Che Cola](http://www.repubblica.it/2005/i/sezioni/esteri/nuovacola/nuovacola/nuovacola.html) (e il consumismo c'entra) e quando uno ha mille cose da fare non e che riesce tanto bene a mettere cose interessanti sul blog.  
+Riprende la [navigazione a doppio senso sul Mississippi](https://www.ansa.it/main/notizie/awnplus/topnews/news/2005-09-08_1203583.html), se dovesse ripresentarsi Schwarzenegger [oggi sarebbe appoggiato solo da un californiano su tre](https://www.newsmax.com/archives/articles/2005/9/7/210044.shtml) (e i gay non c'entrano), qualcuno nel mondo potra assaggiare la [El Che Cola](https://www.repubblica.it/2005/i/sezioni/esteri/nuovacola/nuovacola/nuovacola.html) (e il consumismo c'entra) e quando uno ha mille cose da fare non e che riesce tanto bene a mettere cose interessanti sul blog.  
 
 
 

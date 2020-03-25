@@ -15,12 +15,12 @@ url: "/2008/05/15/i-nostri-eroi-van-dritti-al-cuor-della-marziana/"
 wordpress_id: 2789
 
 ---
-![](http://www.ilvolo.it/images/stories/pubblicit_ap_1.jpg) ![](http://www.ilvolo.it/images/stories/pubblicit_ap_2.jpg)
+![](https://www.ilvolo.it/images/stories/pubblicit_ap_1.jpg) ![](https://www.ilvolo.it/images/stories/pubblicit_ap_2.jpg)
 
 
 
 
-[La campagna](http://www.ilvolo.it/index.php/20080514530/Notizie-compagnie-aeree/Nuova-campagna-pubblicitaria-di-Air-One.html) di AirOne "noi sì che siamo una compagnia di bandiera, non quegli altri" fa un po' Anni 20, ma è efficace.
+[La campagna](https://www.ilvolo.it/index.php/20080514530/Notizie-compagnie-aeree/Nuova-campagna-pubblicitaria-di-Air-One.html) di AirOne "noi sì che siamo una compagnia di bandiera, non quegli altri" fa un po' Anni 20, ma è efficace.
 
 
 

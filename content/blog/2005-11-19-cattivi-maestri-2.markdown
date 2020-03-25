@@ -10,7 +10,7 @@ url: "/2005/11/19/cattivi-maestri-2/"
 wordpress_id: 1890
 
 ---
-Quando senti le segreterie dei rettorati chiamare i giornali per avvertirti che sì quell'ateneo è proprio occupato e che in fondo al rettore non dispiace così tanto capisci che [Ernesto Galli della Loggia ha proprio ragione](http://www.corriere.it/Primo_Piano/Editoriali/2005/11_Novembre/18/occupazioni.shtml):
+Quando senti le segreterie dei rettorati chiamare i giornali per avvertirti che sì quell'ateneo è proprio occupato e che in fondo al rettore non dispiace così tanto capisci che [Ernesto Galli della Loggia ha proprio ragione](https://www.corriere.it/Primo_Piano/Editoriali/2005/11_Novembre/18/occupazioni.shtml):
 
 
 

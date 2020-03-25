@@ -11,6 +11,6 @@ url: "/2005/12/26/dot-coma/"
 wordpress_id: 1951
 
 ---
-Dopo le previsioni tecnologiche di [Calcanis](http://www.calacanis.com/2005/12/23/my-predictions-for-2006/) e di [Winer](http://scripting.wordpress.com/2005/12/23/2006-predictions/), [create le vostre con questo utile generatore](http://www.mcalisterdesigns.com/blog/dotcom_predictions.php).
+Dopo le previsioni tecnologiche di [Calcanis](https://www.calacanis.com/2005/12/23/my-predictions-for-2006/) e di [Winer](https://scripting.wordpress.com/2005/12/23/2006-predictions/), [create le vostre con questo utile generatore](https://www.mcalisterdesigns.com/blog/dotcom_predictions.php).
 
-### McAlster | tag: [generators](http://www.technorati.com/tags/generators)
+### McAlster | tag: [generators](https://www.technorati.com/tags/generators)

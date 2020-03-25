@@ -10,8 +10,8 @@ url: "/2005/04/19/chi-entra-papa-esce-papa/"
 wordpress_id: 336
 
 ---
-[![](http://photos7.flickr.com/9949367_b6168f58ce_t.jpg)](http://www.flickr.com/photos/robinz3/9949367/)[Joseph
-Ratzinger](http://www.vatican.va/gpII/documents/homily-pro-eligendo-pontifice_20050418_it.html), Benedetto XVI.  
+[![](https://photos7.flickr.com/9949367_b6168f58ce_t.jpg)](https://www.flickr.com/photos/robinz3/9949367/)[Joseph
+Ratzinger](https://www.vatican.va/gpII/documents/homily-pro-eligendo-pontifice_20050418_it.html), Benedetto XVI.  
 
 
 > Avere

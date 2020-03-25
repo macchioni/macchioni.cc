@@ -10,7 +10,7 @@ url: "/2004/09/10/tutto-quello-che-sai-e-falso-dicono/"
 wordpress_id: 3341
 
 ---
-Per il complottista che giace in molti di noi: [le 25 notizie censurate dai grandi media](http://www.projectcensored.org/publications/2005/index.html). E le prime tre:
+Per il complottista che giace in molti di noi: [le 25 notizie censurate dai grandi media](https://www.projectcensored.org/publications/2005/index.html). E le prime tre:
 
 
 > 1. Wealth Inequality in 21st Century Threatens Economy and Democracy

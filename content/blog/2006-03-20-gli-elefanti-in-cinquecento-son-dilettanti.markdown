@@ -10,7 +10,7 @@ url: "/2006/03/20/gli-elefanti-in-cinquecento-son-dilettanti/"
 wordpress_id: 2099
 
 ---
-Straordinaria galleria di [mezzi di locomozione stracarichi](http://www.ezprezzo.com/crazypics/overloaded.html).
+Straordinaria galleria di [mezzi di locomozione stracarichi](https://www.ezprezzo.com/crazypics/overloaded.html).
 
 
-### Ezprezzo (via [Boing Boing](http://boingboing.net/))
+### Ezprezzo (via [Boing Boing](https://boingboing.net/))

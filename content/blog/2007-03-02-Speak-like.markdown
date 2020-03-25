@@ -12,5 +12,5 @@ Bravo Corrado Guzzanti. E' spettacolare [la nuova imitazione del ministro France
 
 ### YouTube (via [Camillo][2])
 
-[1]:	http://www.youtube.com/watch?v=Lp2uDyzxP6g
-[2]:	http://www.ilfoglio.it/camillo/
+[1]:	https://www.youtube.com/watch?v=Lp2uDyzxP6g
+[2]:	https://www.ilfoglio.it/camillo/

@@ -11,7 +11,7 @@ url: "/2006/06/10/fossile-di-chiocciola/"
 wordpress_id: 2221
 
 ---
-[Le origini della chiocciola](http://h30046.www3.hp.com/news_article.php?topiccode=20060515_329576_225_121_0_0&pagesite=SMB_OOV&regioncode=NA&jumpid=em_EL_TAW/US/Jun06_ALL/Take5/HistoryofATSymbol) (@) si perdono addirittura nel 14° secolo, pare. Oggi invece la usano tutti per mandare mail, curiosi i nomi utilizzati negli altri paesi (noi abbiamo seguito il modello francese).
+[Le origini della chiocciola](https://h30046.www3.hp.com/news_article.php?topiccode=20060515_329576_225_121_0_0&pagesite=SMB_OOV&regioncode=NA&jumpid=em_EL_TAW/US/Jun06_ALL/Take5/HistoryofATSymbol) (@) si perdono addirittura nel 14° secolo, pare. Oggi invece la usano tutti per mandare mail, curiosi i nomi utilizzati negli altri paesi (noi abbiamo seguito il modello francese).
 
 
 > * In South Africa, it means "monkey's tail"

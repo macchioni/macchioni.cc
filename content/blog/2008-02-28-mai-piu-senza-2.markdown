@@ -10,7 +10,7 @@ url: "/2008/02/28/mai-piu-senza-2/"
 wordpress_id: 2668
 
 ---
-La recensione degli "[asciuga mani](http://nymag.com/shopping/features/44461/)" (quelli elettronici, insomma, non gli asciugamani normali) piÃ¹ ipertecnologici nei locali di New York.
+La recensione degli "[asciuga mani](https://nymag.com/shopping/features/44461/)" (quelli elettronici, insomma, non gli asciugamani normali) piÃ¹ ipertecnologici nei locali di New York.
 
 
 ### NY Magazine

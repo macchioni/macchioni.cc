@@ -10,7 +10,7 @@ url: "/2004/08/03/stupid-white-man/"
 wordpress_id: 3309
 
 ---
-Bush ha accettato la nomination repubblicana con un [discorso](http://www.usatoday.com/news/politicselections/nation/president/2004-09-02-bush-text_x.htm) di rito. Il New York Times crede [ci voglia di più](http://www.nytimes.com/2004/09/03/opinion/03fri1.html?pagewanted=print&position=) per essere rieletto: 
+Bush ha accettato la nomination repubblicana con un [discorso](https://www.usatoday.com/news/politicselections/nation/president/2004-09-02-bush-text_x.htm) di rito. Il New York Times crede [ci voglia di più](https://www.nytimes.com/2004/09/03/opinion/03fri1.html?pagewanted=print&position=) per essere rieletto: 
 
 
 > «When President Bush accepted his party's nomination last night, he energetically presented himself as the man who could keep America safe in a time of international terrorism. His handlers believe that is the key to his re-election. But if Mr. Bush intends to have a second term, he needs to do something more - particularly if he hopes to win by more than 500 votes this time. The president needs to speak to the large number of moderate voters who feel that things have been going in the wrong direction over the last four years, and convince them that he has the capacity to learn from mistakes and do better. On that count, his acceptance speech fell short» 

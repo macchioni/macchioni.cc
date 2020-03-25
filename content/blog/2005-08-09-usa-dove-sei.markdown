@@ -14,7 +14,7 @@ Queste sono vere, o comunque sono state riprese dalle nostre agenzie di
 stampa:
 
 > [URAGANI, VIETATO INGRESSO A P3DOF1LI NEI RIFUGI CONDANNATI PER
-REATI SESSUALI. AL RIPARO INSALE D'ATTESA CARCERI](http://www.msnbc.msn.com/id/8862327/)  
+REATI SESSUALI. AL RIPARO INSALE D'ATTESA CARCERI](https://www.msnbc.msn.com/id/8862327/)  
 
 WASHINGTON, 8
 AGO - Vietato l'ingresso a stupratori, molestatori e p3dofil1 nei centri
@@ -28,7 +28,7 @@ Florida.
 
 [
 GUANTANAMO, HARRY POTTER A RUBA TRA I
-DETENUTI](http://washtimes.com/national/20050808-121804-4322r.htm)  
+DETENUTI](https://washtimes.com/national/20050808-121804-4322r.htm)  
 
 NEW YORK, 08 AGO - Da strumento ditortura a best
 seller. Le avventure di Harry Potter, il maghetto che incanta milioni
@@ -46,5 +46,5 @@ infedele.
 
 
 
-### Ansa - Msnbc - Washington Times |  tag: [quirkies](http://www.technorati.com/tags/quirkies)
+### Ansa - Msnbc - Washington Times |  tag: [quirkies](https://www.technorati.com/tags/quirkies)
 

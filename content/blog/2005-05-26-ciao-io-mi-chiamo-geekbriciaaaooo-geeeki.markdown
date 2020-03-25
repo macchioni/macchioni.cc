@@ -10,7 +10,7 @@ url: "/2005/05/26/ciao-io-mi-chiamo-geekbriciaaaooo-geeeki/"
 wordpress_id: 269
 
 ---
-Maniaci del web, voi che la prima cosa che fate al rientro a casa e controllare la posta elettronica, ecco i primi quattro dei [12 passi per guarire ](http://www.subzeroblue.com/archives/002405.html)da questa malattia:  
+Maniaci del web, voi che la prima cosa che fate al rientro a casa e controllare la posta elettronica, ecco i primi quattro dei [12 passi per guarire ](https://www.subzeroblue.com/archives/002405.html)da questa malattia:  
 
 
 

@@ -10,7 +10,7 @@ url: "/2005/07/30/jervolino-does-manhattan/"
 wordpress_id: 162
 
 ---
-Passata la moda nel nip/tuck e dei botox party ora fa piu figo[ farsi rifare la voce](http://www.nytimes.com/2005/07/21/fashion/thursdaystyles/21voice.html?ex=1279598400&en=8db17c665c6700a8&ei=5090&partner=rssuserland&emc=rss).  
+Passata la moda nel nip/tuck e dei botox party ora fa piu figo[ farsi rifare la voce](https://www.nytimes.com/2005/07/21/fashion/thursdaystyles/21voice.html?ex=1279598400&en=8db17c665c6700a8&ei=5090&partner=rssuserland&emc=rss).  
 
 
 

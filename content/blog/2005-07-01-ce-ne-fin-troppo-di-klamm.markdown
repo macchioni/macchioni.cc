@@ -10,7 +10,7 @@ url: "/2005/07/01/ce-ne-fin-troppo-di-klamm/"
 wordpress_id: 220
 
 ---
-E quest'estate - come fosse un Corrado Tedeschi qualsiasi - mezzo [Klamm](http://klamm.splinder.com/) sara a [Omnibus](http://www.la7.it/omnibus/), La7.  
+E quest'estate - come fosse un Corrado Tedeschi qualsiasi - mezzo [Klamm](https://klamm.splinder.com/) sara a [Omnibus](https://www.la7.it/omnibus/), La7.  
 
 
 

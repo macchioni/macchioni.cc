@@ -19,4 +19,4 @@ non com. Ardito
 s.m.
 Atto delittuoso che mira a danneggiare gravemente, fino alla soppressione fisica, qualcuno o qualcosa: commettere un a.; a. alla vita, all'onore di qualcuno; a. terroristico ‖ estens. Azione molesta, grave ‖ fig. Offesa, insidia | a. alla Costituzione: _Il Presidente della Repubblica non è responsabile degli atti compiuti nell'esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione*._
 
-*[Costituzione della Repubblica Italiana, art. 90, comma 1](http://www.governo.it/Governo/Costituzione/2_titolo2.html). Vedi anche: [nota del Quirinale](http://www.quirinale.it/elementi/Continua.aspx?tipo=Comunicato&key=10592) del 16.8.2010.
+*[Costituzione della Repubblica Italiana, art. 90, comma 1](https://www.governo.it/Governo/Costituzione/2_titolo2.html). Vedi anche: [nota del Quirinale](https://www.quirinale.it/elementi/Continua.aspx?tipo=Comunicato&key=10592) del 16.8.2010.

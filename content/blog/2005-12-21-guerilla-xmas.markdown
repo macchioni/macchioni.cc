@@ -10,6 +10,6 @@ url: "/2005/12/21/guerilla-xmas/"
 wordpress_id: 1940
 
 ---
-[Dieci cose assai alternative da fare a Natale](http://www.kerismith.com/blog/archives/000315.html) invece di perdersi nella solita bolgia del Christmas-spree.
+[Dieci cose assai alternative da fare a Natale](https://www.kerismith.com/blog/archives/000315.html) invece di perdersi nella solita bolgia del Christmas-spree.
 
 ### Wish jar journal

@@ -14,7 +14,7 @@ Neanche Leibniz e tanto convinto che per arginare il terrorismo
 bombarolo basti «esaminare con saggezza come possa essere
 circoscritta, ristretta ed
 eliminata la cortina d'odio crescente attorno al nostro sistema di vita
-e la sfida dell'intelligenza a cui tutti siamo chiamati» ([Gad Lerner](http://www.ilgiornale.it/a.pic1?ID=18151)). Il commento intelligente della settimana e quello di [Fareed Zakaria](http://www.msnbc.msn.com/id/8683395/site/newsweek/):  
+e la sfida dell'intelligenza a cui tutti siamo chiamati» ([Gad Lerner](https://www.ilgiornale.it/a.pic1?ID=18151)). Il commento intelligente della settimana e quello di [Fareed Zakaria](https://www.msnbc.msn.com/id/8683395/site/newsweek/):  
 
 
 > Suicide bombing cannot be explained by poverty and disadvantage. The

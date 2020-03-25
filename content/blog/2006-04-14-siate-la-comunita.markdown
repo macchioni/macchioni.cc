@@ -10,7 +10,7 @@ url: "/2006/04/14/siate-la-comunita/"
 wordpress_id: 2144
 
 ---
-Giorni fa aveva fatto il giro della blogosfera [un pezzo di Tim Porter](http://www.timporter.com/firstdraft/archives/000543.html) dedicato al futuro dei giornali locali e alle loro uniche - secondo lui - linee di sviluppo per non morire. A chi può interessare segue qui una versione non rivista e tradotta abbastanza "con l'accetta".<!--more-->
+Giorni fa aveva fatto il giro della blogosfera [un pezzo di Tim Porter](https://www.timporter.com/firstdraft/archives/000543.html) dedicato al futuro dei giornali locali e alle loro uniche - secondo lui - linee di sviluppo per non morire. A chi può interessare segue qui una versione non rivista e tradotta abbastanza "con l'accetta".<!--more-->
 
 
 
@@ -18,7 +18,7 @@ Giorni fa aveva fatto il giro della blogosfera [un pezzo di Tim Porter](http://w
 _If Newspapers Are to Rise Again Reinvent or die.
 It's that simple_. [Nieman Reports]**
 
-I giornali sono nei guai, i più seri da quando la televisione 60 anni fa cominciò a erodere fette consistenti di pubblico. (...) Pagano il pedaggio per il modello di giornalismo che abbiamo considerato una necessità in una società democratica.  C'è comunque bisogno di ripetere la spiacevole verità che giornalisti e amministratori editoriali non vogliono sentire: sono loro stessi i responsabili del declino del numero di lettori e della rilevanza dei giornali, almeno lo sono quanto gli spauracchi citati automaticamente come cause del problema - internet, i fastidiosi blogger, il disinteresse dei giovani, quel tale Craig di San Francisco [http://www.craigslist.org].
+I giornali sono nei guai, i più seri da quando la televisione 60 anni fa cominciò a erodere fette consistenti di pubblico. (...) Pagano il pedaggio per il modello di giornalismo che abbiamo considerato una necessità in una società democratica.  C'è comunque bisogno di ripetere la spiacevole verità che giornalisti e amministratori editoriali non vogliono sentire: sono loro stessi i responsabili del declino del numero di lettori e della rilevanza dei giornali, almeno lo sono quanto gli spauracchi citati automaticamente come cause del problema - internet, i fastidiosi blogger, il disinteresse dei giovani, quel tale Craig di San Francisco [https://www.craigslist.org].
 
 Perché tutto ciò? Perché l'avversione al rischio delle redazioni ha passato diversi decenni ignorando la società che cambiava attorno ad esse, rifiutando di abbracciare le nuove tecnologie e preferendo la difensiva: una rigida gerarchia all'interno e una ancor più rigida definizione di "news" che produce una forma di giornalismo "stenografico", rimasto immobile in omaggio alla tradizione mentre il mondo è andato avanti.
 

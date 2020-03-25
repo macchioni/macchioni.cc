@@ -10,7 +10,7 @@ url: "/2008/07/12/fu-nari/"
 wordpress_id: 2837
 
 ---
-![](http://www.leibniz-blogs.it/gallery/funari.jpg)
+![](https://www.leibniz-blogs.it/gallery/funari.jpg)
 
 
 > Per essere eccezionali bisogna mascherarsi da normali, abbassarsi al gradino più basso, corteggiare senza pudore le casalinghe.

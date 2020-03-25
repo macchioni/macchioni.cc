@@ -10,6 +10,6 @@ url: "/2009/06/19/omo-de-pansa-omo-de-sostanza/"
 wordpress_id: 4088
 
 ---
-[Giampaolo Pansa](http://altrimondi.gazzetta.it/2009/06/silvio-dimettiti.html) sul Riformista chiede a Berlusconi di dimettersi con argomenti di buon senso e una certa apprezzabile sintesi che molti a sinistra potrebbero prendere a modello.
+[Giampaolo Pansa](https://altrimondi.gazzetta.it/2009/06/silvio-dimettiti.html) sul Riformista chiede a Berlusconi di dimettersi con argomenti di buon senso e una certa apprezzabile sintesi che molti a sinistra potrebbero prendere a modello.
 
 [Il Riformista - via Altri Mondi]

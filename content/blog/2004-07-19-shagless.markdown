@@ -10,5 +10,5 @@ url: "/2004/07/19/shagless/"
 wordpress_id: 3242
 
 ---
-Pare che prossimamente si potrà [curare «il desiderio»](http://www.nytimes.com/2004/07/18/magazine/18WWLN.html). Come togliere la passione a Casanova.
+Pare che prossimamente si potrà [curare «il desiderio»](https://www.nytimes.com/2004/07/18/magazine/18WWLN.html). Come togliere la passione a Casanova.
 NY Times Magazine

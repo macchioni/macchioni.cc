@@ -10,7 +10,7 @@ url: "/2005/09/21/a-che-gioco-giochiamo/"
 wordpress_id: 79
 
 ---
-John Kerry, senatore democratico,  ha parlato a proposito dell'uragano Katrina, delle sue conseguenze e [del suo significato](http://kerry.senate.gov/v3/cfm/record.cfm?id=246124). E proprio lui, che vinse i dibattiti 3-0, ha ribadito:  
+John Kerry, senatore democratico,  ha parlato a proposito dell'uragano Katrina, delle sue conseguenze e [del suo significato](https://kerry.senate.gov/v3/cfm/record.cfm?id=246124). E proprio lui, che vinse i dibattiti 3-0, ha ribadito:  
 
 
 

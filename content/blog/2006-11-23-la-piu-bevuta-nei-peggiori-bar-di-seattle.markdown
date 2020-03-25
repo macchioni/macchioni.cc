@@ -10,6 +10,6 @@ url: "/2006/11/23/la-piu-bevuta-nei-peggiori-bar-di-seattle/"
 wordpress_id: 2333
 
 ---
-Salute a voi, brindiamo con una bottiglia di [vodka Hendrix](http://www.houseofhendrix.com/vodka.php), Jimi Hendrix.
+Salute a voi, brindiamo con una bottiglia di [vodka Hendrix](https://www.houseofhendrix.com/vodka.php), Jimi Hendrix.
 
 ### Hendrix Electric Vodka

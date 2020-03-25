@@ -10,7 +10,7 @@ url: "/2006/06/23/downhost/"
 wordpress_id: 2239
 
 ---
-I padroni di casa qui di [Tophost](http://www.tophost.it/) hanno avuto qualche problema, di qui il recente blackout del blog. Siccome non è il primo, tanto vale ricapitolare gli ultimi mesi di hosting:
+I padroni di casa qui di [Tophost](https://www.tophost.it/) hanno avuto qualche problema, di qui il recente blackout del blog. Siccome non è il primo, tanto vale ricapitolare gli ultimi mesi di hosting:
 
 > 21.6.06 Guasto tecnico  
 04.05.06 Disservizio sul nodo w03  

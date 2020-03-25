@@ -10,10 +10,10 @@ url: "/2008/05/29/guarda-qua-guarda-quanto-so-nazista/"
 wordpress_id: 2805
 
 ---
-![](http://www.leibniz-blogs.it/gallery/pigneto.png)
+![](https://www.leibniz-blogs.it/gallery/pigneto.png)
 
 
-Riemergo dal silenzio, per giunta in ritardo, per segnalare [il pezzo del giorno](http://www.repubblica.it/2008/05/sezioni/cronaca/pestaggio-nazi-roma/ricercato-pigneto/ricercato-pigneto.html): l'intervista scoop di Carlo Bonini al protagonista del raid fascista al Pigneto. Articolo che spiega che non c'era stato alcun raid fascista.
+Riemergo dal silenzio, per giunta in ritardo, per segnalare [il pezzo del giorno](https://www.repubblica.it/2008/05/sezioni/cronaca/pestaggio-nazi-roma/ricercato-pigneto/ricercato-pigneto.html): l'intervista scoop di Carlo Bonini al protagonista del raid fascista al Pigneto. Articolo che spiega che non c'era stato alcun raid fascista.
 
 
 

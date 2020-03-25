@@ -10,7 +10,7 @@ url: "/2004/12/08/immagina-che/"
 wordpress_id: 591
 
 ---
-Se Bush avesse perduto le elezioni forse [questa foto](http://www.washingtonmonthly.com/archives/individual/2004_12/005260.php) avrebbe fatto il giro del mondo. 
+Se Bush avesse perduto le elezioni forse [questa foto](https://www.washingtonmonthly.com/archives/individual/2004_12/005260.php) avrebbe fatto il giro del mondo. 
 
 
 

@@ -12,4 +12,4 @@ url: "/2008/12/21/domenica-di-natale/"
 wordpress_id: 3813
 
 ---
-Si ascolta, un po' in ritardo, [la notevolissima compilation di Mr. E.](http://polaroid.blogspot.com/2008/12/polaroid-for-christmas-2008-la-mattina.html)  [Polaroid]
+Si ascolta, un po' in ritardo, [la notevolissima compilation di Mr. E.](https://polaroid.blogspot.com/2008/12/polaroid-for-christmas-2008-la-mattina.html)  [Polaroid]

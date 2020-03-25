@@ -12,9 +12,9 @@ wordpress_id: 149
 ---
 - Come trovi il tempo per il blog?  
 
-- [Guardo meno televisione](http://www.danieldrezner.com/archives/002218.html).  
+- [Guardo meno televisione](https://www.danieldrezner.com/archives/002218.html).  
 
 
 
-### Daniel Drezner | tag: [blogging](http://www.technorati.com/tags/blogging), [television](http://www.technorati.com/tags/television)
+### Daniel Drezner | tag: [blogging](https://www.technorati.com/tags/blogging), [television](https://www.technorati.com/tags/television)
 

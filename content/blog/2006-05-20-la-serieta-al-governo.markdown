@@ -10,12 +10,12 @@ url: "/2006/05/20/la-serieta-al-governo/"
 wordpress_id: 2190
 
 ---
-> «Meglio di così non poteva andare. Sono molto contento, abbiamo una maggioranza al Senato che è maggiore di quella del 1996», [dice Prodi](http://www.repubblica.it/2006/05/sezioni/politica/nuovo-governo-tre/nuovo-governo-tre/nuovo-governo-tre.html).
+> «Meglio di così non poteva andare. Sono molto contento, abbiamo una maggioranza al Senato che è maggiore di quella del 1996», [dice Prodi](https://www.repubblica.it/2006/05/sezioni/politica/nuovo-governo-tre/nuovo-governo-tre/nuovo-governo-tre.html).
 
 
 
 
-[ Il '96](http://aconservativemind.blogspot.com/2006/05/prodi-il-voto-di-fiducia-andato-meglio.html), dicevamo:
+[ Il '96](https://aconservativemind.blogspot.com/2006/05/prodi-il-voto-di-fiducia-andato-meglio.html), dicevamo:
 
 
 

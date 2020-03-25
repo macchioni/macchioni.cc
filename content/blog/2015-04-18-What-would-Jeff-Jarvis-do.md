@@ -11,11 +11,11 @@ tags:
 title: What would Jeff Jarvis do?
 
 ---
-![jeff-jarvis](http://www.howtostory.be/wp-content/uploads/2014/12/jeffjarvis.jpg)
+![jeff-jarvis](https://www.howtostory.be/wp-content/uploads/2014/12/jeffjarvis.jpg)
 
-Meno male che c’era la diretta live del Festival del giornalismo di Perugia. Insieme a un’altra ventina di soggetti connessi a youtube - perché solo 20, se ci sono 110 mila giornalisti solo in Italia? - ho seguito “[To hell with mass media](http://www.journalismfestival.com/programme/2015/keynote-speech-by-jeff-jarvis)”, la lezione di[Jeff Jarvis](http://buzzmachine.com/), prendendo appunti come venivano. Li incollo qui sotto: bilingui, non corretti e disorganizzati. Poi magari, chissà quando, questa cosa diventa un post vero. 
+Meno male che c’era la diretta live del Festival del giornalismo di Perugia. Insieme a un’altra ventina di soggetti connessi a youtube - perché solo 20, se ci sono 110 mila giornalisti solo in Italia? - ho seguito “[To hell with mass media](https://www.journalismfestival.com/programme/2015/keynote-speech-by-jeff-jarvis)”, la lezione di[Jeff Jarvis](https://buzzmachine.com/), prendendo appunti come venivano. Li incollo qui sotto: bilingui, non corretti e disorganizzati. Poi magari, chissà quando, questa cosa diventa un post vero. 
 
-*PS: la foto qui su viene da [Riccardo Staglianò](http://stagliano.blogautore.repubblica.it/2015/04/17/jarvis-i-giornali-su-facebook-beh-forse/)*
+*PS: la foto qui su viene da [Riccardo Staglianò](https://stagliano.blogautore.repubblica.it/2015/04/17/jarvis-i-giornali-su-facebook-beh-forse/)*
 
 *****
 
@@ -40,7 +40,7 @@ Meno male che c’era la diretta live del Festival del giornalismo di Perugia. I
 - ...
 - we need to experiment
 - be mobile ready
-- [Zuckerberg](http://nyti.ms/1EVBUMq): 
+- [Zuckerberg](https://nyti.ms/1EVBUMq): 
 
 >"So what we’re doing with Creative Labs is basically unbundling the big blue app". 
 
@@ -51,7 +51,7 @@ Meno male che c’era la diretta live del Festival del giornalismo di Perugia. I
 - if your goal is more clicks, you need more cats
 - past from volume to value. 
 - Paywalls?
-- [What Could Google Do — for News?](http://bit.ly/1HDn6D5)
+- [What Could Google Do — for News?](https://bit.ly/1HDn6D5)
 
 ####Q&A
 - rethink metrics: attention vs clicks?

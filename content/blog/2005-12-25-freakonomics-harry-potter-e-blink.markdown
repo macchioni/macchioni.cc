@@ -10,6 +10,6 @@ url: "/2005/12/25/freakonomics-harry-potter-e-blink/"
 wordpress_id: 1950
 
 ---
-[I libri più bloggati](http://www.nytimes.com/ref/books/blogged-books.html) da 5 mila blog selezionati dal New York Times.
+[I libri più bloggati](https://www.nytimes.com/ref/books/blogged-books.html) da 5 mila blog selezionati dal New York Times.
 
-### NY Times | tag: [books](http://www.technorati.com/tags/books), [lists](http://www.technorati.com/tags/lists)
+### NY Times | tag: [books](https://www.technorati.com/tags/books), [lists](https://www.technorati.com/tags/lists)

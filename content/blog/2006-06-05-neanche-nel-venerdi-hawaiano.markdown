@@ -10,7 +10,7 @@ url: "/2006/06/05/neanche-nel-venerdi-hawaiano/"
 wordpress_id: 2211
 
 ---
-Ora lo dicono anche i premi Pulitzer: [niente infradito al lavoro](http://www.wonkette.com/politics/washington-post/post-flooding-the-inappropriate-footwear-zone-178074.php).
+Ora lo dicono anche i premi Pulitzer: [niente infradito al lavoro](https://www.wonkette.com/politics/washington-post/post-flooding-the-inappropriate-footwear-zone-178074.php).
 
 
 ### Wonkette

@@ -10,7 +10,7 @@ url: "/2006/11/22/tradito-dalla-microsoft/"
 wordpress_id: 2332
 
 ---
-Fimoculous, che aveva fatto delle previsioni pop-tecnologiche per il 2006, [fa i conti](http://www.fimoculous.com/archive/post-1774.cfm) su che cosa ha azzeccato. Tipo l'album solista di Fergie.
+Fimoculous, che aveva fatto delle previsioni pop-tecnologiche per il 2006, [fa i conti](https://www.fimoculous.com/archive/post-1774.cfm) su che cosa ha azzeccato. Tipo l'album solista di Fergie.
 
 
 ### Fimoculous

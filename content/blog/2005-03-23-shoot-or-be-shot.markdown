@@ -10,7 +10,7 @@ url: "/2005/03/23/shoot-or-be-shot/"
 wordpress_id: 394
 
 ---
-Chi ama la fotografia puo farsi un giro tra i candidati ai [Photobloggies](http://www.photobloggies.org/), gli oscar dei photoblog. Naturalmente c'e una categoria a parte per i giapponesi.
+Chi ama la fotografia puo farsi un giro tra i candidati ai [Photobloggies](https://www.photobloggies.org/), gli oscar dei photoblog. Naturalmente c'e una categoria a parte per i giapponesi.
 
 
 

@@ -10,7 +10,7 @@ url: "/2005/01/24/quando-un-blogger-conta/"
 wordpress_id: 513
 
 ---
-Come classificare un blog. Quando ti chiami Daniel Drezner puo accadere di trovarti all'interno di [un'equazione ](http://www.danieldrezner.com/archives/001840.html)in compagnia Andrew Sullivan e Carmen Electra. Un blog ha infatti cosÏ valutato il contributo di Drezner nella blogosfera:
+Come classificare un blog. Quando ti chiami Daniel Drezner puo accadere di trovarti all'interno di [un'equazione ](https://www.danieldrezner.com/archives/001840.html)in compagnia Andrew Sullivan e Carmen Electra. Un blog ha infatti cosÏ valutato il contributo di Drezner nella blogosfera:
 
 
 

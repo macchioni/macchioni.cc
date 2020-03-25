@@ -10,12 +10,12 @@ url: "/2008/04/20/su-teibniz-del-042008/"
 wordpress_id: 2756
 
 ---
-* [Rome at Night - New York Times](http://feeds.feedburner.com/~r/teibniz/~3/274100234/32323183)
+* [Rome at Night - New York Times](https://feeds.feedburner.com/~r/teibniz/~3/274100234/32323183)
 
 
-  * [FoodFeed - What are you eating?](http://feeds.feedburner.com/~r/teibniz/~3/273986583/32307188)
+  * [FoodFeed - What are you eating?](https://feeds.feedburner.com/~r/teibniz/~3/273986583/32307188)
 
 
-  * [Murdoch, Ink - Nigel Parry for Newsweek](http://feeds.feedburner.com/~r/teibniz/~3/273980741/32306344)
+  * [Murdoch, Ink - Nigel Parry for Newsweek](https://feeds.feedburner.com/~r/teibniz/~3/273980741/32306344)
 
 

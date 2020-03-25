@@ -10,7 +10,7 @@ url: "/2007/02/21/bye-bye-max/"
 wordpress_id: 2409
 
 ---
-[Colpo gobbo](http://www.repubblica.it/interstitial/interstitial776709.html) di Andreotti al Senato.
+[Colpo gobbo](https://www.repubblica.it/interstitial/interstitial776709.html) di Andreotti al Senato.
 
 
 ### Repubblica

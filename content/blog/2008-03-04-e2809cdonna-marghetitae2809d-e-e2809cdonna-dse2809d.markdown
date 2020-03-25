@@ -11,7 +11,7 @@ url: "/2008/03/04/e2809cdonna-marghetitae2809d-e-e2809cdonna-dse2809d/"
 wordpress_id: 2675
 
 ---
-[Akille e la lista delle candidature del Pd](http://www.akille.net/?p=1332). Mi sa che erano meglio le pecette.
+[Akille e la lista delle candidature del Pd](https://www.akille.net/?p=1332). Mi sa che erano meglio le pecette.
 
 
 

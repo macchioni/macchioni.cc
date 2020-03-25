@@ -10,7 +10,7 @@ url: "/2006/01/04/mica-tanto-bollito-misto/"
 wordpress_id: 1965
 
 ---
-I giornali stanno dando risalto alla campagna di Beppe Grillo contro parte dei Ds. Una chiave di lettura l'aveva data, forse qualche giorno prima, [Daniele Luttazzi](http://www.danieleluttazzi.it/?q=node/242):
+I giornali stanno dando risalto alla campagna di Beppe Grillo contro parte dei Ds. Una chiave di lettura l'aveva data, forse qualche giorno prima, [Daniele Luttazzi](https://www.danieleluttazzi.it/?q=node/242):
 
 
 > Su questo blog (nella chat, nelle lettere) alcuni di voi ultimemente invocano un mio aiuto su decisioni politiche (movimenti di controinfo, lotte ecc.) ed elettorali (chi votare?). Addirittura c’è anche chi ha pensato di coinvolgermi per usare la mia notorietà come “testimonial” durante azioni sul territorio.

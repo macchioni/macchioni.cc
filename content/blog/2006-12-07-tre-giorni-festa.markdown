@@ -13,9 +13,9 @@ Fatto [qui][1].
 
 ### Redkid (via [Giavasan][2])
 
-[1]:	http://www.redkid.net/generator/absolut/sign.php
-[2]:	http://giavasan.diludovico.it/
+[1]:	https://www.redkid.net/generator/absolut/sign.php
+[2]:	https://giavasan.diludovico.it/
 
-[image-1]:	http://www.leibniz-blogs.it/gallery/absolut.jpg
-[image-2]:	http://www.leibniz-blogs.it/gallery/absolut.jpg
-[image-3]:	http://www.leibniz-blogs.it/gallery/absolut.jpg
+[image-1]:	https://www.leibniz-blogs.it/gallery/absolut.jpg
+[image-2]:	https://www.leibniz-blogs.it/gallery/absolut.jpg
+[image-3]:	https://www.leibniz-blogs.it/gallery/absolut.jpg

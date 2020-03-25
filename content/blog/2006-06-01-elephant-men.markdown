@@ -11,7 +11,7 @@ url: "/2006/06/01/elephant-men/"
 wordpress_id: 2207
 
 ---
-Mentre in Gran Bretagna il leder conservatore David Cameron viene accusato di voler candidare [gente troppo fighetta e assai benestante](http://uk.news.yahoo.com/30052006/362/tory-right-wingers-attack-cameron-s-list.html) (gli "_chichi_") la Nationa Review, negli Usa, compila la classifica delle [50 canzoni indispensabili per un conservatore](http://article.nationalreview.com/?q=NzZkNDU5MmViNzVjNzkzMDE3NzNlN2MyZjRjYTk4YjE=). Ecco la top-ten:
+Mentre in Gran Bretagna il leder conservatore David Cameron viene accusato di voler candidare [gente troppo fighetta e assai benestante](https://uk.news.yahoo.com/30052006/362/tory-right-wingers-attack-cameron-s-list.html) (gli "_chichi_") la Nationa Review, negli Usa, compila la classifica delle [50 canzoni indispensabili per un conservatore](https://article.nationalreview.com/?q=NzZkNDU5MmViNzVjNzkzMDE3NzNlN2MyZjRjYTk4YjE=). Ecco la top-ten:
 
 
 > **1.** “Won’t Get Fooled Again,” by The Who

@@ -10,13 +10,13 @@ url: "/2005/08/04/povero-christian-goldbach/"
 wordpress_id: 147
 
 ---
-![](http://www.xnumber.com/xnumber/Madas/leibnitz.gif)[La
+![](https://www.xnumber.com/xnumber/Madas/leibnitz.gif)[La
 musica e l'esercizio aritmetico nascosto dell'anima, inconscia di
-stare calcolando](http://en.wikiquote.org/wiki/Gottfried_Leibniz). *  
+stare calcolando](https://en.wikiquote.org/wiki/Gottfried_Leibniz). *  
 
 
 
-### Wikiquote - Xnumber | tag: [music](http://www.technorati.com/tags/music), [leibniz](http://www.technorati.com/tags/leibniz), [quotes](http://www.technorati.com/tags/quotes)
+### Wikiquote - Xnumber | tag: [music](https://www.technorati.com/tags/music), [leibniz](https://www.technorati.com/tags/leibniz), [quotes](https://www.technorati.com/tags/quotes)
 
   
 

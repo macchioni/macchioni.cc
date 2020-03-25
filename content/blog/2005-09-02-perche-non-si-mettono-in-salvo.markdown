@@ -10,7 +10,7 @@ url: "/2005/09/02/perche-non-si-mettono-in-salvo/"
 wordpress_id: 104
 
 ---
-A proposito di Katrina, [Volker Weber](http://vowe.net/archives/006268.html) fa una riflessione che si sente spesso in questi giorni. Eccola:
+A proposito di Katrina, [Volker Weber](https://vowe.net/archives/006268.html) fa una riflessione che si sente spesso in questi giorni. Eccola:
 
 > When
 the WTC towers collapsed you could see people walking over the
@@ -28,5 +28,5 @@ there?
 
 
 
-### VoWe | tag: [katrina](http://www.technorati.com/tags/katrina), [hurricane](http://www.technorati.com/tags/hurricane)
+### VoWe | tag: [katrina](https://www.technorati.com/tags/katrina), [hurricane](https://www.technorati.com/tags/hurricane)
 

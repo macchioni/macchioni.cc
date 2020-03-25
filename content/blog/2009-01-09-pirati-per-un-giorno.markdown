@@ -10,5 +10,5 @@ url: "/2009/01/09/pirati-per-un-giorno/"
 wordpress_id: 3825
 
 ---
-![](http://images.nymag.com/images/2/arts/09/01/week1/movies/eyepatchchart090105_9_90.jpg)Traendo spunto dal Tom Cruise di Valkyrie, ecco una rassegna dei [personaggi bendati](http://nymag.com/movies/features/53145/) più celebri.
+![](https://images.nymag.com/images/2/arts/09/01/week1/movies/eyepatchchart090105_9_90.jpg)Traendo spunto dal Tom Cruise di Valkyrie, ecco una rassegna dei [personaggi bendati](https://nymag.com/movies/features/53145/) più celebri.
 [NY Magazine]

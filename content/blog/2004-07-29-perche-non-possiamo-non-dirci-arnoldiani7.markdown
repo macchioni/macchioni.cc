@@ -10,5 +10,5 @@ url: "/2004/07/29/perche-non-possiamo-non-dirci-arnoldiani7/"
 wordpress_id: 3174
 
 ---
-Perché Arnold Schwarzenegger, 38° governatore della California, da domani sarà il [soggetto di un francobollo](http://www.cnn.com/2004/WORLD/europe/07/17/austria.schwarzenegger.ap/) emesso dalle poste austriache.
+Perché Arnold Schwarzenegger, 38° governatore della California, da domani sarà il [soggetto di un francobollo](https://www.cnn.com/2004/WORLD/europe/07/17/austria.schwarzenegger.ap/) emesso dalle poste austriache.
 Cnn - Ansa

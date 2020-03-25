@@ -10,5 +10,5 @@ url: "/2009/06/03/chiedilo-al-pilota/"
 wordpress_id: 4062
 
 ---
-[Perché l'aereo dell'Air France è caduto](http://www.salon.com/tech/col/smith/2009/06/02/askthepilot322/), secondo Patrick Smith, e[ come si cerca un aereo disperso](http://www.slate.com/id/2219606/) in mare. [
-](http://www.salon.com/tech/col/smith/2009/06/02/askthepilot322/)[Salon - Slate]
+[Perché l'aereo dell'Air France è caduto](https://www.salon.com/tech/col/smith/2009/06/02/askthepilot322/), secondo Patrick Smith, e[ come si cerca un aereo disperso](https://www.slate.com/id/2219606/) in mare. [
+](https://www.salon.com/tech/col/smith/2009/06/02/askthepilot322/)[Salon - Slate]

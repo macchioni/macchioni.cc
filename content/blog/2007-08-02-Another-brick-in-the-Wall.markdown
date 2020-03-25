@@ -20,4 +20,4 @@ Murdoch compra il Wall Street Journal. [L'editoriale del Wall Street Journal][1]
 
 ### WSJ
 
-[1]:	http://www.opinionjournal.com/editorial/feature.html?id=110010408
+[1]:	https://www.opinionjournal.com/editorial/feature.html?id=110010408

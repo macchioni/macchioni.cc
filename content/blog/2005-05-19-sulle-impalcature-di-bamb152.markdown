@@ -13,7 +13,7 @@ wordpress_id: 286
 I prodotti cinesi invadono il mercato a prezzi iper-competitivi, le
 grandi multinazionali delocalizzano li perche il comandamento e
 marginalizzare. E Federico Rampini racconta [le condizioni di lavoro
-nelle fabbriche cinesi](http://www.repubblica.it/2005/e/sezioni/economia/nostrolusso/nostrolusso/nostrolusso.html):  
+nelle fabbriche cinesi](https://www.repubblica.it/2005/e/sezioni/economia/nostrolusso/nostrolusso/nostrolusso.html):  
 
 
 > Per confezionare un paio di Timberland, vendute in

@@ -10,7 +10,7 @@ url: "/2005/07/19/dont-tell-gianfranco/"
 wordpress_id: 189
 
 ---
-EmmeBi [giustamente segnala](http://emmebi.blogspot.com/2005/07/casual-conversation-ci-sono-dei-tizi.html) che esistono gia dei [blog ](http://www.overheardinnewyork.com/)dove vegono riportate le discussioni ascoltate nei bar di New York.  
+EmmeBi [giustamente segnala](https://emmebi.blogspot.com/2005/07/casual-conversation-ci-sono-dei-tizi.html) che esistono gia dei [blog ](https://www.overheardinnewyork.com/)dove vegono riportate le discussioni ascoltate nei bar di New York.  
 
 
 

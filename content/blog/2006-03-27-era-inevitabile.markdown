@@ -10,7 +10,7 @@ url: "/2006/03/27/era-inevitabile/"
 wordpress_id: 2116
 
 ---
-David Rieff alle prese con la [Globalizzazione 2.0](http://www.nytimes.com/2006/03/26/magazine/326wwln_lede.2.html?ex=1301029200&en=507b495e63c6e804&ei=5088&partner=rssnyt&emc=rss):
+David Rieff alle prese con la [Globalizzazione 2.0](https://www.nytimes.com/2006/03/26/magazine/326wwln_lede.2.html?ex=1301029200&en=507b495e63c6e804&ei=5088&partner=rssnyt&emc=rss):
 
 
 > Today's globalization — inseparable from political concerns, no longer able to overrule nationalist sentiments or national security objections, increasingly marked by the phenomenon of Asian companies buying European and North American assets — is most likely to be far more controversial and far less orderly.

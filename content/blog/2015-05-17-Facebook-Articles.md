@@ -16,11 +16,11 @@ title: Instant Articles, c’è un giornalista nella mia timeline
 ---
 ![instant-articles](/images/vault/1-Article.jpg)
 
-L'altro giorno Dave Winer, il programmatore guru con il pallino dell'informazione, [ha scritto](http://scripting.com/2015/05/13/howToHaveAFuture.html) una cosa difficilmente contestabile: 
+L'altro giorno Dave Winer, il programmatore guru con il pallino dell'informazione, [ha scritto](https://scripting.com/2015/05/13/howToHaveAFuture.html) una cosa difficilmente contestabile: 
 
 >Il mondo del giornalismo è in piena crisi depressiva perché ha appena capito qualcosa che sapeva già da anni: il suo sistema di distribuzione appartiene all'industria tecnologica.
 
-Il motivo è l'annuncio finalmente ufficiale - abbastanza disruptive - di Facebook, che ha creato [Instant Articles](http://instantarticles.fb.com/), una piattaforma per editori che vogliono pubblicare articoli con ricchi contenuti multimediali direttamente sul Social Network. Immaginate una via di mezzo tra un Medium, la storia [Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek) del New York Times del 2012 e io vi ci metto anche [Venuto dal futuro](http://www.ultimouomo.com/venuto-dal-futuro-gareth-bale/) dell'*Ultimo uomo* perché loro sono bravi.
+Il motivo è l'annuncio finalmente ufficiale - abbastanza disruptive - di Facebook, che ha creato [Instant Articles](https://instantarticles.fb.com/), una piattaforma per editori che vogliono pubblicare articoli con ricchi contenuti multimediali direttamente sul Social Network. Immaginate una via di mezzo tra un Medium, la storia [Snow Fall](https://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek) del New York Times del 2012 e io vi ci metto anche [Venuto dal futuro](https://www.ultimouomo.com/venuto-dal-futuro-gareth-bale/) dell'*Ultimo uomo* perché loro sono bravi.
 
 Come funziona Instant Articles è scritto un po' dappertutto, ma fondamentalmente va così:
 
@@ -38,11 +38,11 @@ In America, complice la diffusione planetaria dell'inglese, ci sono "testate" pe
 
 ####Siamo flussi d'informazioni, non giornali
 Se siamo nelle mani delle tech-companies è perché queste sono **nate per gestire i flussi e aggregare le persone**. Questa aziende riescono a fare in forma estremamente efficiente e con scalabilità impensata prima quello che nel piccolo mondo vecchio era il pane delle imprese editoriali. 
-**Ora agli editori resta il contenuto, una base di lettori fedeli (ma è un capitale che si sta erodendo), qualche firma, un mucchio di brand, una presunta professionalità nel selezionare le notizie, vagliarle e confezionarle**. Però, ogni giorno c'è una grande testata che va dietro a notizie come [lo zio di Kim Jong-un sbranato dai cani](http://www.ilpost.it/2014/01/04/corea-zio-kim-jong-un-sbranato-branco-cani/), non so quanto durerà. E comunque, come dice Rafat Ali, di Skift: [se sei nella media, preparati a morire](http://digiday.com/publishers/digiday-podcast-age-disposable-media/):
+**Ora agli editori resta il contenuto, una base di lettori fedeli (ma è un capitale che si sta erodendo), qualche firma, un mucchio di brand, una presunta professionalità nel selezionare le notizie, vagliarle e confezionarle**. Però, ogni giorno c'è una grande testata che va dietro a notizie come [lo zio di Kim Jong-un sbranato dai cani](https://www.ilpost.it/2014/01/04/corea-zio-kim-jong-un-sbranato-branco-cani/), non so quanto durerà. E comunque, come dice Rafat Ali, di Skift: [se sei nella media, preparati a morire](https://digiday.com/publishers/digiday-podcast-age-disposable-media/):
 
 >The middle market is dead. This is true in the newspaper industry. Back then, 20 million uniques used to be large; now that’s midsize. Agencies won’t look at you seriously. The middle, if you’re a generalist, is dead.
 
-[Jon Steinberg](http://digiday.com/publishers/future-digital-publishing-like-cable-tv/), l'amministratore delegato lato America del *Daily Mail* (che non sarà il *Guardian*, ma a livello di traffico e influenza su vecchi e nuovi media, chapeau), appartiene alla categoria degli "spregiudicati". Lui dice: **pubblicare attraverso le piattaforme, tutte, usando linguaggi differenti, non è il futuro del nostro business. È il presente**. Anzi, una cosa che possono fare gli editori è evitare che una piattaforma prevalga sull'altra.
+[Jon Steinberg](https://digiday.com/publishers/future-digital-publishing-like-cable-tv/), l'amministratore delegato lato America del *Daily Mail* (che non sarà il *Guardian*, ma a livello di traffico e influenza su vecchi e nuovi media, chapeau), appartiene alla categoria degli "spregiudicati". Lui dice: **pubblicare attraverso le piattaforme, tutte, usando linguaggi differenti, non è il futuro del nostro business. È il presente**. Anzi, una cosa che possono fare gli editori è evitare che una piattaforma prevalga sull'altra.
 
 >All these knocks you see out there on these different platforms are missing what the opportunity is. The opportunity is you can create a lot of engagement, a lot of content that works, and you can monetize. 
 

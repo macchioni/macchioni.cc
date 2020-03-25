@@ -20,4 +20,4 @@ se esiste un dio del televoto…….
 no, di tricarico non dico nulla
 
 
-Tra le cose migliori del Festival di Sanremo ci sono i blogger [Assante&Castaldo](http://sanremo-repubblica.blogautore.repubblica.it/) e la loro siderale distanza dal popolo dei televotanti. [Come dice oggi Piersilvio](http://www.corriere.it/economia/09_febbraio_20/daniele_manca_intervista_piersilvio_berlusconi_b23d7886-ff19-11dd-a1d5-00144f02aabc.shtml): «A volte le élite scambiano le proprie abitudini e i propri consumi come fossero quelli di tutti. Ma non è così». [Repubblica.it - Corriere.it]
+Tra le cose migliori del Festival di Sanremo ci sono i blogger [Assante&Castaldo](https://sanremo-repubblica.blogautore.repubblica.it/) e la loro siderale distanza dal popolo dei televotanti. [Come dice oggi Piersilvio](https://www.corriere.it/economia/09_febbraio_20/daniele_manca_intervista_piersilvio_berlusconi_b23d7886-ff19-11dd-a1d5-00144f02aabc.shtml): «A volte le élite scambiano le proprie abitudini e i propri consumi come fossero quelli di tutti. Ma non è così». [Repubblica.it - Corriere.it]

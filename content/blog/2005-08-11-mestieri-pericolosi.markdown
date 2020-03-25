@@ -10,7 +10,7 @@ url: "/2005/08/11/mestieri-pericolosi/"
 wordpress_id: 133
 
 ---
-In Francia fa discutere assai[ la campagna pubblicitaria](http://permanent.nouvelobs.com/medias/20050810.OBS6074.html)
+In Francia fa discutere assai[ la campagna pubblicitaria](https://permanent.nouvelobs.com/medias/20050810.OBS6074.html)
 lanciata da Reporters sans frontieres: negli spot si vedono diversi
 fiorai malmenati, rapiti, violentati, incappucciati, uccisi. Poi alla
 fine una voce dice una cosa
@@ -19,4 +19,4 @@ come: tranquilli, ai fiorai non succede quello che succede ai reporter
 
 
 
-### Nouvel Observateur | tag: [rsf](http://www.technorati.com/tags/rsf), [journalism](http://www.technorati.com/tags/journalism), [commercial](http://www.technorati.com/tags/commercial)
+### Nouvel Observateur | tag: [rsf](https://www.technorati.com/tags/rsf), [journalism](https://www.technorati.com/tags/journalism), [commercial](https://www.technorati.com/tags/commercial)

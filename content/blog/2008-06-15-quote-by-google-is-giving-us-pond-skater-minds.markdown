@@ -23,4 +23,4 @@ wordpress_id: 2824
 > Some have suggested a web sabbath a day or two in the week when we force ourselves not to read e-mails or post blogs or text messages; a break in order to think in the old way again: to look at human faces in the flesh rather than on a Facebook profile, to read a book rather than a blog, to pray rather than browse. I think I'll start with Nietzsche at some point. But right now I have a blog to fill.
 
 
-[Google is giving us pond-skater minds | Andrew Sullivan - Times Online](http://www.timesonline.co.uk/tol/comment/columnists/andrew_sullivan/article4136782.ece)
+[Google is giving us pond-skater minds | Andrew Sullivan - Times Online](https://www.timesonline.co.uk/tol/comment/columnists/andrew_sullivan/article4136782.ece)

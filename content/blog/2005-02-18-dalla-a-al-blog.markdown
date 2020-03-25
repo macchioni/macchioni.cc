@@ -10,7 +10,7 @@ url: "/2005/02/18/dalla-a-al-blog/"
 wordpress_id: 456
 
 ---
-Adesso pure [Peggy Noonan](http://www.opinionjournal.com/columnists/pnoonan/?id=110006302) si e messa a scrivere (entusiasticamente) di blog utilizzando comodi schemini:
+Adesso pure [Peggy Noonan](https://www.opinionjournal.com/columnists/pnoonan/?id=110006302) si e messa a scrivere (entusiasticamente) di blog utilizzando comodi schemini:
 
 
 
@@ -48,7 +48,7 @@ mainstream thinking.
 
 
 
-Se volete qualcosa di piu divertente, ecco invece [Know thy enemy: blogs](http://www.imao.us/archives/002701.html), che si trova su Imao. Ci sono cose spiritose come:
+Se volete qualcosa di piu divertente, ecco invece [Know thy enemy: blogs](https://www.imao.us/archives/002701.html), che si trova su Imao. Ci sono cose spiritose come:
 
 
 

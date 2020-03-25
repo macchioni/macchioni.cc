@@ -10,7 +10,7 @@ url: "/2006/07/11/dannato-lavoro/"
 wordpress_id: 2252
 
 ---
-[Dieci cose da tenere a mente](http://www.designobserver.com/archives/000121.html) quando si fa una professione creativa:
+[Dieci cose da tenere a mente](https://www.designobserver.com/archives/000121.html) quando si fa una professione creativa:
 
 > 1. Nell'equazione del successo il talento vale un terzo
 2. Il 95% di ogni professione creativa è fatto di dannato lavoro

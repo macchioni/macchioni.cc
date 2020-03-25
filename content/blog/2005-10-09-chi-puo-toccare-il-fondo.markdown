@@ -11,7 +11,7 @@ url: "/2005/10/09/chi-puo-toccare-il-fondo/"
 wordpress_id: 652
 
 ---
-Diciamo che i blogger non esistono, ma e ormai assodato che attraverso i weblog si forma ormai una piccola fetta dell'opinione pubblica. [Un articolo di A.B. Stoddard](http://www.cq.com/public/stoddard.html) analizza proprio il rapporto tra lettore di blog e lettore di "articolo di fondo": il web e spesso piu in sintonia con l'utente di quanto non lo sia il corsivista.  
+Diciamo che i blogger non esistono, ma e ormai assodato che attraverso i weblog si forma ormai una piccola fetta dell'opinione pubblica. [Un articolo di A.B. Stoddard](https://www.cq.com/public/stoddard.html) analizza proprio il rapporto tra lettore di blog e lettore di "articolo di fondo": il web e spesso piu in sintonia con l'utente di quanto non lo sia il corsivista.  
 
 
 
@@ -20,7 +20,7 @@ Diciamo che i blogger non esistono, ma e ormai assodato che attraverso i weblog 
 
    
 
-Piu o meno dello stesso argomento tratta [David Adesnik su OxBlog](http://oxblog.blogspot.com/2005_10_02_oxblog_archive.html#112880995997410605): i blog politici sono generalmente luoghi d'opinione, i post sono molto simili a editoriali (ma piu brevi), le idee sono espresse in maniera piu netta senza quella patina formale tipica dei giornali. Fare blog e agire su un medium, fare giornalismo e svolgere un'attivita.  
+Piu o meno dello stesso argomento tratta [David Adesnik su OxBlog](https://oxblog.blogspot.com/2005_10_02_oxblog_archive.html#112880995997410605): i blog politici sono generalmente luoghi d'opinione, i post sono molto simili a editoriali (ma piu brevi), le idee sono espresse in maniera piu netta senza quella patina formale tipica dei giornali. Fare blog e agire su un medium, fare giornalismo e svolgere un'attivita.  
 
 
 
@@ -29,4 +29,4 @@ Piu o meno dello stesso argomento tratta [David Adesnik su OxBlog](http://oxblog
 
   
 
-### Cq - OxBlog | tag: [journalism](http://www.technorati.com/tags/journalism), [blogging](http://www.technorati.com/tags/blogging)
+### Cq - OxBlog | tag: [journalism](https://www.technorati.com/tags/journalism), [blogging](https://www.technorati.com/tags/blogging)

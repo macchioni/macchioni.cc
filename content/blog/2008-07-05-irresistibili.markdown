@@ -11,6 +11,6 @@ url: "/2008/07/05/irresistibili/"
 wordpress_id: 2834
 
 ---
-Il miglior promo di questa torrida estate: [ Guzzanti che canta "Tu sei la mia vita", in do minore](http://it.youtube.com/watch?v=DXGtWpoSqZE)
+Il miglior promo di questa torrida estate: [ Guzzanti che canta "Tu sei la mia vita", in do minore](https://it.youtube.com/watch?v=DXGtWpoSqZE)
 
 ### YouTube - Boris 2

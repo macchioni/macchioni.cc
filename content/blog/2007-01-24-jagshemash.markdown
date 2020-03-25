@@ -11,6 +11,6 @@ Kevin Drum [ha ragione][1]. Perché [Borat][2] è stato nominato agli Oscar (sol
 
 ### Political Animal - Academy Awards
 
-[1]:	http://www.washingtonmonthly.com/archives/individual/2007_01/010611.php
-[2]:	http://microsites2.foxinternational.com/it/borat/
-[3]:	http://oscar.com/nominees/?pn=film&film=BoratCulturalLearningsOfAmericaForMakeBenefitGloriousNationOfKazakhstanFilm
+[1]:	https://www.washingtonmonthly.com/archives/individual/2007_01/010611.php
+[2]:	https://microsites2.foxinternational.com/it/borat/
+[3]:	https://oscar.com/nominees/?pn=film&film=BoratCulturalLearningsOfAmericaForMakeBenefitGloriousNationOfKazakhstanFilm

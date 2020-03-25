@@ -10,12 +10,12 @@ url: "/2005/09/07/ombre-e-polvere/"
 wordpress_id: 93
 
 ---
-[La New York di oggi ha gli stessi vizi della Roma imperiale](http://www.villagevoice.com/nyclife/0535,essay,67265,15.html). Dicono citando Giovenale:
+[La New York di oggi ha gli stessi vizi della Roma imperiale](https://www.villagevoice.com/nyclife/0535,essay,67265,15.html). Dicono citando Giovenale:
 
 > Siamo schiavi delle mode, per le quali spendiamo oltre le nostre possibilita e spesso a credito.
 
 
 
 
-### Village Voice | tag: [rome](http://www.technorati.com/tags/rome), [newyork](http://www.technorati.com/tags/newyork), [history](http://www.technorati.com/tags/history)
+### Village Voice | tag: [rome](https://www.technorati.com/tags/rome), [newyork](https://www.technorati.com/tags/newyork), [history](https://www.technorati.com/tags/history)
 

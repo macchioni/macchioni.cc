@@ -26,7 +26,7 @@ Il titolo originale era 100 volte meglio: _Pazzi coi coltelli_. Trattasi dell'ap
 
 ![Serotonina](https://macchioni.cc/images/vault/serotonine.jpg)
 
-[Sérotonine](http://www.lanavediteseo.eu/item/serotonina/)  <br>di **Michel Houellebecq** (Flammarion | La Nave di Teseo)   <br>
+[Sérotonine](https://www.lanavediteseo.eu/item/serotonina/)  <br>di **Michel Houellebecq** (Flammarion | La Nave di Teseo)   <br>
 Ma che vi devo dire su Houellebecq, uno che o lo ami o lo odi e io lo amo? Quando ne avevamo parlato su _Grazia_, in gennaio, la scrittrice Marina Valensise aveva raccontato il protagonista così:
 
 > Non solo l’amore, ma l’amicizia illumina l’esistenza fallimentare di questo solitario, che tenta di promuovere l’export dei formaggi normanni, scopre la perversione di un ornitologo pedofilo che si eccita filmando una bambina di dieci anni, e si ritrova nel pieno dramma degli allevatori vessati dal dogma del libero mercato che getta allo sbaraglio l’amico di una vita Aymeric d'Harcourt, ultimo discendente di un compagno d’armi di Guglielmo il Conquistatore, ormai sul lastrico per le quote latte, e disperato per l’abbandono dalla moglie, fuggita a Londra con le due figlie, al seguito di un grande pianista.

@@ -11,4 +11,4 @@ url: "/2008/07/19/forget-about-your-house-of-cards/"
 wordpress_id: 2862
 
 ---
-[YouTube - Radiohead - House of Cards](http://www.youtube.com/watch?v=8nTFjVm9sTQ&eurl=http://it.blogbabel.com/content/video/35371/)
+[YouTube - Radiohead - House of Cards](https://www.youtube.com/watch?v=8nTFjVm9sTQ&eurl=https://it.blogbabel.com/content/video/35371/)

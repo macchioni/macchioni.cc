@@ -10,7 +10,7 @@ url: "/2005/09/21/elogio-delluomo-vanitoso/"
 wordpress_id: 80
 
 ---
-Il deputato conservatore e biondastro Boris Johnson ha scritto che gli uomini sono molto piu vanitosi delle donne. Pero [in fondo va bene perche aiuta a compiere grandi imprese](http://www.boris-johnson.com/archives/2005/09/in_defence_of_t.html).  
+Il deputato conservatore e biondastro Boris Johnson ha scritto che gli uomini sono molto piu vanitosi delle donne. Pero [in fondo va bene perche aiuta a compiere grandi imprese](https://www.boris-johnson.com/archives/2005/09/in_defence_of_t.html).  
 
 
 

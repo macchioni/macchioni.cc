@@ -10,5 +10,5 @@ url: "/2004/09/01/faccia-da-blogger/"
 wordpress_id: 3292
 
 ---
-Giuseppe Granieri crede così tanto nel suo Blog Aggregator, ribattezzato «The Filter», che [ci ha messo la faccia](http://www.bookcafe.net/blog/filter/noone.cfm): quella di tutti gli utenti registrati. Fare un salto e premere il tasto «aggiorna».
+Giuseppe Granieri crede così tanto nel suo Blog Aggregator, ribattezzato «The Filter», che [ci ha messo la faccia](https://www.bookcafe.net/blog/filter/noone.cfm): quella di tutti gli utenti registrati. Fare un salto e premere il tasto «aggiorna».
 The Filter

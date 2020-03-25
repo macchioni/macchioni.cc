@@ -15,7 +15,7 @@ url: "/2008/02/21/uno-a-zero-per-noi/"
 wordpress_id: 2657
 
 ---
-[Fotografato il punto G. Non tutte le donne lo hanno](http://www.ansa.it/opencms/export/site/visualizza_fdg.html_15119686.html). Che altro aggiungere?
+[Fotografato il punto G. Non tutte le donne lo hanno](https://www.ansa.it/opencms/export/site/visualizza_fdg.html_15119686.html). Che altro aggiungere?
 
 
 ### Ansa

@@ -11,7 +11,7 @@ wordpress_id: 292
 
 ---
 Leibniz e stato fuori per un po' quindi non ricorda dove aveva pescato
-questo link, comunque dall'American Press Institute ecco i [bookmark essenziali per un giornalista](http://www.americanpressinstitute.org/toolbox/).  
+questo link, comunque dall'American Press Institute ecco i [bookmark essenziali per un giornalista](https://www.americanpressinstitute.org/toolbox/).  
 
 
 

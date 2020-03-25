@@ -10,9 +10,9 @@ url: "/2005/08/30/nobel-gesto/"
 wordpress_id: 113
 
 ---
-Ed ecco David Samuels: [come Arafat ha distrutto la Palestina](http://www.theatlantic.com/doc/prem/200509/samuels).  
+Ed ecco David Samuels: [come Arafat ha distrutto la Palestina](https://www.theatlantic.com/doc/prem/200509/samuels).  
 
 
 
-### The Atlantic | tag: [politics](http://www.technorati.com/tags/politics), [palestine](http://www.technorati.com/tags/palestine)
+### The Atlantic | tag: [politics](https://www.technorati.com/tags/politics), [palestine](https://www.technorati.com/tags/palestine)
 

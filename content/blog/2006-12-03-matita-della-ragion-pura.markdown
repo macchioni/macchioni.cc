@@ -10,7 +10,7 @@ url: "/2006/12/03/matita-della-ragion-pura/"
 wordpress_id: 2339
 
 ---
-![](http://www.filosofico.net/leibnizcaricat.jpg)  
-[Le caricature dei filosofi](http://www.filosofico.net/caricature.htm). Leibniz.
+![](https://www.filosofico.net/leibnizcaricat.jpg)  
+[Le caricature dei filosofi](https://www.filosofico.net/caricature.htm). Leibniz.
 
 ### Filosofico

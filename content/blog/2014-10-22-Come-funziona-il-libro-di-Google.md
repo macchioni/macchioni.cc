@@ -13,7 +13,7 @@ title: Come funziona il libro di Google
 ---
 ![internship-movie](/images/vault/internship.jpg)
 
-Ho letto [il libro di Google](http://www.howgoogleworks.net/) scritto da Eric Schmidt e Jonathan Rosenberg. Ancora non ho capito se è incasinato di suo o se è stata la traduzione italiana a dare il colpo di grazia. Comunque, qualche dritta buona qua e là c'è. Vado in ordine sparso:
+Ho letto [il libro di Google](https://www.howgoogleworks.net/) scritto da Eric Schmidt e Jonathan Rosenberg. Ancora non ho capito se è incasinato di suo o se è stata la traduzione italiana a dare il colpo di grazia. Comunque, qualche dritta buona qua e là c'è. Vado in ordine sparso:
 
 * la definizione di **smart creative**, pur ridondante, è accattivante. Come l'idea che le aziende dovrebbero dare più libertà e velocità, invece che ordinare di minimizzare i rischi.
 
@@ -45,12 +45,12 @@ Ho letto [il libro di Google](http://www.howgoogleworks.net/) scritto da Eric Sc
 
 * il diagramma di Venn che sintetizza la missione di [Google X](https://en.wikipedia.org/wiki/Google_X): un'idea che affronti una grande sfida che influenzerà un gran numero di persone, un'idea che presenti una soluzione radicalmente diversa da quelle presenti sul mercato, un'idea raggiungibile in un futuro non troppo lontano. Insomma, Beningni e Troisi in *Non ci resta che piangere erano una specie di Google X.
 
-![](http://leibniz.me/images/vault/benigni.jpg)
+![](https://leibniz.me/images/vault/benigni.jpg)
 
 >Il progresso tecnologico segue un percorso verso l'alto inesorabile. Seguitelo fino a un punto logico nel futuro e ponetevi la domanda: che cosa significa questo per noi?
 
 **Bonus**: ma l'avete visto *The Internship*? Vabbè, almeno guardatevi [la scena cult](https://www.youtube.com/watch?v=ewek-6TudOM). What?!
 
-![](http://leibniz.me/images/vault/hgw.jpg)
+![](https://leibniz.me/images/vault/hgw.jpg)
 
 

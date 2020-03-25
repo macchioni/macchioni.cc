@@ -10,7 +10,7 @@ url: "/2005/01/26/cose-nuove-che-gia-si-sanno/"
 wordpress_id: 509
 
 ---
-C'e Google che ormai [ti trascrive la tv ](http://video.google.com/)in tempo reale e ci sono i [weblog awards ](http://2005.bloggies.com/)(sempre che non troviate la schermata: Bandwidth Limit Exceeded).
+C'e Google che ormai [ti trascrive la tv ](https://video.google.com/)in tempo reale e ci sono i [weblog awards ](https://2005.bloggies.com/)(sempre che non troviate la schermata: Bandwidth Limit Exceeded).
 
 
 

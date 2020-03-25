@@ -11,4 +11,4 @@ wordpress_id: 2987
 
 ---
 Grazie a Polaroid, [il nuovo singolo degli I'm from Barcelona.
-](http://polaroid.blogspot.com/2008/07/and-well-bring-you-love-once-again.html)
+](https://polaroid.blogspot.com/2008/07/and-well-bring-you-love-once-again.html)

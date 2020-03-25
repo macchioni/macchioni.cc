@@ -10,7 +10,7 @@ url: "/2005/05/18/ne-ha-facolta/"
 wordpress_id: 291
 
 ---
-La settimana scorsa Sabelli [ha intervistato](http://www.sabellifioretti.com/interviste/archives/2005/05/giulia_bongiorn.html)
+La settimana scorsa Sabelli [ha intervistato](https://www.sabellifioretti.com/interviste/archives/2005/05/giulia_bongiorn.html)
 Giulia Bongiorno. La ragazza coi capelli corti che a 24 anni difese
 Andreotti (non da sola) e una donna dura, tutta lavoro, chiesa e
 salotto Angiolillo. Ecco cosa dice ai suoi clienti incappati in un
