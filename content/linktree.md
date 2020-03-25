@@ -5,7 +5,7 @@ title = "linktree"
 description = "linktree - Piero Macchioni"
 +++
 
-__Ahoy! This is Piero Macchioni, journalist, currently managing editor at Grazia Magazine Italy. Follow the link you like.__
+Ahoy! This is __Piero Macchioni__, journalist, currently deputy editor-in-chief at Grazia Magazine Italy. Follow the link you like below or [drop me an email](https://macchioni.cc/contatti/). 
 
 
 ---
