@@ -4,7 +4,6 @@ page = "static/linktree.html"
 title = "linktree"
 description = "linktree - Piero Macchioni"
 menu = "main"
-date = "2020-03-05T21:48:51-07:00"
 +++
 
 __Ahoy! This is Piero Macchioni, journalist, currently managing editor at Grazia Magazine Italy. Follow the link you like.__
