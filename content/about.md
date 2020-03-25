@@ -7,24 +7,5 @@ menu = "main"
 weight = "4"
 +++
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-	<div hidden aria-hidden="true">
-    <label>
-      Don’t fill this out if you're human: 
-      <input name="bot-field" />
-    </label>
-  </div>
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
- 
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+
+This is Piero Macchioni, journalist, currently managing editor at Grazia Magazine Italy. Blogging as leibniz since 2003, interested in open web, news distribution, privacy and the magic that lies between the analog and the digital self. You can contact me [here](https://macchioni.cc/contatti/)
