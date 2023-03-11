@@ -17,6 +17,7 @@ Ahoy! This is __Piero Macchioni__, journalist, currently deputy editor-in-chief 
 ---
 
 
+
 ![Alberto Arbasino](https://macchioni.cc/images/vault/arbasino.jpg)
 
 ## [Quando Alberto Arbasino mi disse che ero come suo padre - e avevo solo 17 anni](https://macchioni.cc/blog/2020-03-23-arbasino-mekong-stroncatura/)
